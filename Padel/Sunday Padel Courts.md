@@ -1,72 +1,106 @@
-Using the below template, arrange padel games based on the poll preferences shown in the attached CSV. Provide output in markdown format. With all the below constraints please go through them systematically to make sure one constraint does not impede on one another. Before finalizing, list all constraints and verify each one individually
+Using the template below, arrange padel games based on the attached CSV file. Follow these rules when creating the games:
 
-General requests/constraints;
-Randomize players within each level/time slot (don't organize by poll submission time)
-Create additional courts if more than 4 players are available for the same level/time slot.
-When someone is selected as the "booker" they must not be used as the "booker" for any other court.
-Fill empty slots with "Spare Place" and where possible recommend to me where I should move a player to fill these slots.
-When outputting players their second names should be truncated to just the first letter for example "Firstname A".
-After generating the initial arrangement, systematically verify that EVERY player from the poll images appears in their chosen time slots - cross-reference each image against the final arrangement to ensure no one is missed.
+**Player Assignment Rules:**
+1. Randomize players within each level/time slot
+2. Create additional courts when more than 4 players are available for the same level/time slot
+3. Fill empty slots with "Spare Place"
+4. Format all player names as "Firstname L" (first name + last initial only)
 
-Please provide the output as markdown.
+**Booking Rules:**
+5. Designate one player from each match (normally the first listed) as the "booker"
+6. Each player can only be assigned as booker once - do not reuse the same person to book multiple courts
 
------
+**Verification Process:**
+After generating the initial arrangement, systematically verify:
+- Every player from the CSV appears in their correct time slot(s)
+- Every player has all the games they signed up for
+- No player is double-booked at the same time
+- Booking assignments follow the rules above
 
-🎾 Hi all please find below this weekend's games. {DATE} 🎾
-
-## ⚠ WARNING: PLEASE CHECK THE VENUE, CAN YOUR GET TO IT ONTIME? ⚠ ##
-
-Primary: Padel Delfos - https://playtomic.io/tenant/714b6963-d11f-47b0-a495-83e753b413e9?utm_source=app_ios&utm_campaign=share 
-Secondary: Up Pádel & Tennis Cornellà - https://playtomic.io/tenant/9ce272f4-5039-4b6a-8f07-0c206712d06a?utm_source=app_ios&utm_campaign=share 
-Food & Drink: From 19:00 onwards players will meet at the following bar for post padel food and drinks; - Caña + Tapa https://maps.app.goo.gl/YZpaVXbmj1B1jhg68
-
-📱 Instructions for Bookers:
-- Book your court via the Playtomic app as usual.
-- Please book AS SOON AS POSSIBLE so players can join.
-- Share the booking link in the group using "Share Externally."
-- Tag your three court partners in the post (if you know them).
-
-📱 Instructions for Players:
-- Remind your bookers to reserve their courts.
-- Monitor your court for any missing players and follow up with them.
-- Notify Dan if you need to dropout and help find replacement (before you leave).
+**Output Format:**
+Please provide the output as markdown, clearly showing:
+- Court assignments for each time slot and level
+- Booker designation for each court
+- Date should be replaced with next Sunday's date
 
 -----
 
-Preliminary Padel Court Arrangements
+# 🎾 Weekend Padel Games - {DATE} 🎾
 
-Improvers Court 1: 16:00-17:30
-Player 1 [NUMBER] (Booker)
-Player 2 [NUMBER]
-Player 3 [NUMBER]
-Player 4 [NUMBER]
+## ⚠️ CHECK YOUR VENUE & ARRIVAL TIME ⚠️
 
-Intermediate Court 1: 16:00-17:30
-Player 1 [NUMBER] (Booker)
-Player 2 [NUMBER]
-Player 3 [NUMBER] 
-Player 4 [NUMBER]
+**Venues:**
+- **Primary:** Padel Delfos  
+  https://playtomic.io/tenant/714b6963-d11f-47b0-a495-83e753b413e9
+  
+- **Secondary:** Up Pádel & Tennis Cornellà  
+  https://playtomic.io/tenant/9ce272f4-5039-4b6a-8f07-0c206712d06a
 
-Beginner Court 1: 17:30-19:00
-Player 1 [NUMBER] (Booker)
-Player 2 [NUMBER] (Booker)
-Player 3 [NUMBER] (Booker)
-Player 4 [NUMBER] (Booker)
+**Post-Game Social (19:00 onwards):**
+- 🍻 Caña + Tapa  
+  https://maps.app.goo.gl/YZpaVXbmj1B1jhg68
 
-Improvers Court 1: 17:30-19:00
-Player 1 [NUMBER] (Booker)
-Player 2 [NUMBER]
-Player 3 [NUMBER]
-Player 4 [NUMBER]
+---
 
-Intermediate Court 1: 17:30-19:00
-Player 1 [NUMBER] (Booker)
-Player 2 [NUMBER]
-Player 3 [NUMBER]
-Player 4 [NUMBER]
+## 📱 Instructions
 
-Advanced Court 1: 17:30-19:00
-Player 1 [NUMBER] (Booker)
-Player 2 [NUMBER]
-Player 3 [NUMBER]
-Player 4 [NUMBER]
+If you have never booked befor eplease use Harriets guide https://docs.google.com/document/d/e/2PACX-1vRRg8ZaFAnIYTSethY2dcqsAxWhoRELfiOV0zssZpTulaco1421WVuXs57FCwVNxUs6pkLLqElVPDFp/pub
+
+Any issues/questions please ask in the padel group chat.
+
+### For Bookers:
+1. Book your court via Playtomic **AS SOON AS POSSIBLE**
+2. Share the booking link to your players using "Share Externally"
+3. Share the booking link to Dan using "Share Externally"
+
+### For Joiners:
+1. Remind your booker to reserve the court if not done yet
+2. Monitor your court for missing players and follow up
+3. If you need to drop out help find a replacement
+
+### For Everyone:
+1. Assist new players in booking or joining matches
+2. Remain possitive and friendly and try to fill empty spaces
+3. Refrain from spamming any of the whatsapp groups
+
+---
+
+## 🎾 Court Arrangements
+
+**Improvers Court 1 16:00 - 17:30**
+- Player 1 [NUMBER] 📋 *Booker*
+- Player 2 [NUMBER]
+- Player 3 [NUMBER]
+- Player 4 [NUMBER]
+
+**Intermediate Court 1 16:00 - 17:30**
+- Player 1 [NUMBER] 📋 *Booker*
+- Player 2 [NUMBER]
+- Player 3 [NUMBER]
+- Player 4 [NUMBER]
+
+---
+
+**Beginner Court 1 17:30 - 19:00**
+- Player 1 [NUMBER] 📋 *Booker*
+- Player 2 [NUMBER]
+- Player 3 [NUMBER]
+- Player 4 [NUMBER]
+
+**Improvers Court 1 17:30 - 19:00**
+- Player 1 [NUMBER] 📋 *Booker*
+- Player 2 [NUMBER]
+- Player 3 [NUMBER]
+- Player 4 [NUMBER]
+
+**Intermediate Court 1 17:30 - 19:00**
+- Player 1 [NUMBER] 📋 *Booker*
+- Player 2 [NUMBER]
+- Player 3 [NUMBER]
+- Player 4 [NUMBER]
+
+**Advanced Court 1 17:30 - 19:00**
+- Player 1 [NUMBER] 📋 *Booker*
+- Player 2 [NUMBER]
+- Player 3 [NUMBER]
+- Player 4 [NUMBER]
