@@ -2,29 +2,35 @@
 
 ## 🎾 Experience Levels - Where Do You Fit?
 
-**Absolute Beginner (0-10 Games)**
-- You're completely new to padel AND new to racket sports in general
-- Never held a padel racket before
+We use **Playtomic scores** to determine skill levels. Check your Playtomic profile to see your score.
+
+**Beginner**
+- First time playing padel OR no racket experience
+- Never held a padel racket before or only played once or twice
 - Don't know the basic rules or scoring
 - Perfect for: Learning the fundamentals from scratch
+- **Note**: We run special beginner sessions monthly - check announcements!
 
-**Beginner (1-10 Games)** 
-- New to padel but have some experience with tennis, squash, or other racket sports
-- Understand basic racket grip and movement
-- May know some rules but haven't played much padel
-- Perfect for: Building on existing racket sport skills
-
-**Improver (10-50 Games)**
-- You've played padel a few times and know the basic rules
-- Can rally consistently and understand court positioning
+**Improver**
+- **Playtomic Score: 0-1**
+- You've played several times and know the basic rules
+- Can rally and understand basic court positioning
 - Starting to develop strategy and shot selection
-- Perfect for: Refining technique and tactical understanding
+- Perfect for: Building on your foundation and improving technique
 
-**Intermediate (50+ Games)**
+**Intermediate**
+- **Playtomic Score: 1-2**
 - Experienced padel player with solid fundamentals
 - Good court awareness and can execute various shots
-- Understands advanced tactics and team play
-- Perfect for: Competitive games and advanced techniques
+- Understands tactics and team play
+- Perfect for: Competitive games with consistent players
+
+**Advanced**
+- **Playtomic Score: 2+**
+- Highly skilled player with excellent technique
+- Strong tactical understanding and court awareness
+- Can execute advanced shots consistently
+- Perfect for: High-level competitive matches
 
 ## 📱 How to Book Courts
 
@@ -126,7 +132,41 @@ See Sunday Padel Venues.md
 
 
 ### Can I switch with another player/person?
+Yes! If you need to swap your spot or change courts:
+1. **Find someone to switch with** - post in the WhatsApp group
+2. **Notify your court booker** - let them know about the change
+3. **Update the organizers** - message Dan or Nadir
+4. **Be considerate** - don't make frequent last-minute changes
+
 ### What happens if it is scheduled to rain?
-### What is a Beginner/Improver/Intermediate/Advanced?
-### Is padel similar to tennis as I have played that?
-### What racket should i buy as a beginner?
+We have a detailed rain policy:
+- **Games are ON unless officially cancelled** - don't assume cancellation
+- **Venue cancels** = full refund through Playtomic
+- **All 4 players agree to cancel** = contact Dan/Nadir to cancel officially
+- **You choose not to play** = counts as normal dropout (see Event Rules)
+- **See**: [Sunday Padel Rain.md](Sunday%20Padel%20Rain.md) for complete policy
+- **Remember**: This is a social group - if courts close, grab drinks at the bar!
+
+### Is padel similar to tennis if I have played that?
+Yes, but with key differences:
+- **Similarities**: Same scoring, rallying concept, court game
+- **Differences**:
+  - Smaller court with walls you can play off
+  - Solid racket (not strings) with holes
+  - Underarm serving only
+  - More about angles and tactics due to walls
+- **Good news**: Tennis skills transfer well - you'll likely start as Improver level!
+
+### What racket should I buy as a beginner?
+**For absolute beginners:**
+- **Try rental first** (€4 per session) to see if you enjoy padel
+- **After 5-10 games**, consider buying if you're hooked
+
+**Budget-friendly options:**
+- **Decathlon**: €40-80 range for beginner rackets
+  - Good quality for starting out
+  - Easy to replace if you progress quickly
+- **Look for**: Round-shaped rackets (more control, easier for beginners)
+- **Avoid**: Expensive pro rackets - unnecessary until you're advanced
+
+**Ask the community**: Many members can recommend specific models in the WhatsApp group!
