@@ -22,6 +22,7 @@ Please provide the output as markdown, clearly showing:
 - Court assignments for each time slot and level
 - Booker designation for each court
 - Date should be replaced with next Sunday's date
+- Any numbers that done have a country code can you assume they are +34
 
 -----
 
