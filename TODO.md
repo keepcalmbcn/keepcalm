@@ -120,12 +120,6 @@
 - Sports Organizer
 - Absolute beginner sessions
 
-## Resources & Links
-
-[Spreadsheet Link](https://docs.google.com/spreadsheets/d/1z1ymHfL36BaUx0uh0MOAJrEX9p8LCC6T2z5F7yj8mys/edit?resourcekey=&gid=16663170#gid=16663170)
-
-[ChatGPT Conversation](https://chatgpt.com/c/6931ecf9-acf0-832e-a8d6-48fb7202d452)
-
 ## Notes & Ideas
 
 - Keep calm report should be feedback too
