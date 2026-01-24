@@ -4,7 +4,7 @@
 - **Venue**: Aurial Pàdel Cornellà by Marta Marrero
 - **Frequency**: Aim to run one beginner session per month (ideally first week of month)
 - **Timing**: Leave a 30-60 minute break between beginner session and regular padel session
-- **Equipment**: 2-4 balls per court (Dan will aim to bring these or players can bring their own)
+- **Equipment**: 2 balls per player per court (Dan will aim to bring these or players can bring their own)
 
 ## Pre-Event Setup
 
@@ -23,9 +23,12 @@ Ask participants:
 
 ### Volunteer Coordination
 - Send messages to the group to gather volunteers for organization
+- Send messages to the intermediate and advanced players to come help.
 - Find one volunteer leader per court to teach/help
-- Give each leader a teaching plan of things to cover
+- Other volunteers can just meet/greet, talk about our padel, talk about our community or tell people where toilets are etc.
+- Give each leader a teaching plan of things to cover (hitting/serving etc)
 - Instruct leaders to get players into the WhatsApp group
+- Other volunteer jobs (Take pictures/Help with rackets/Meet greet and point towards)
 
 ### Pre-Event Communications
 - Send welcome email with WhatsApp link to all attendees
@@ -79,6 +82,7 @@ Ask participants:
 5. **Playing off the glass/metal** - How the walls work in padel
 6. **Point system** - How scoring works in padel
 7. **When to move/switch sides** - Court positioning and rotation
+8. **About Keep Calm Padel** - What is our community, how to join and play
 
 ---
 
@@ -88,7 +92,7 @@ Ask participants:
 
 Hey everyone! (Sorry for the late message) 👋
 
-We're so excited to welcome you to our **Keep Calm Absolute Beginners Padel Session** on **Sunday, 7th December**!
+We're so excited to welcome you to our **Keep Calm Absolute Beginners Padel Session** on **Sunday, 1st Febuary**!
 
 Here's "Almost" everything you need to know:
 
@@ -98,13 +102,14 @@ Aurial Pàdel Cornellà by Marta Marrero https://maps.app.goo.gl/p41A851rS9hVDm2
 Transport: Metro L5 to Gavarra or Trains from plasa espanya to Almeda.
 
 **⏰ SCHEDULE**
-• 13:30 to 14:00 - Arrival & check-in at reception, then meet at outside bar area
-• 14:00 to 15:00 - Your leader leads!
-• 15:00 to 15:10 - Return to outside bar area for group photo
+• 13:00 to 13:30 - Leaders and helpers should arrive for briefing.
+• 13:30 to 14:00 - Arrival & check-in at reception, then meet at outside bar area.
+• 14:00 to 15:00 - Your leader leads, the session begins!
+• 15:00 to 15:10 - Return to outside bar area for group photo!
 • 15:10 to 15:30+ - Drinks & socializing at the terrace (stay and meet the community!)
 
 **💶 COST**
-€6 per person (pay at reception on arrival)
+€4-6 per person (pay at reception on arrival)
 
 **🎾 WHAT TO BRING**
 • Your own racket if possible (limited rentals available at €2 - first come, first served!)
@@ -114,11 +119,11 @@ Transport: Metro L5 to Gavarra or Trains from plasa espanya to Almeda.
 • Some ID (may be needed for racket rental)
 
 **📋 ON ARRIVAL**
-1. Meet at **reception** at 13:30
-2. Pay your €6 and rent a racket if needed
-3. **IMPORTANT: Note your court number and leader name**
-4. Go to the **outside bar area** to meet your court leader and fellow players
-5. Your leader will take you to your assigned court when ready
+1. Meet at **reception** at 13:30 you will be introduced to your leader!
+2. Pay your €4-6 and rent a racket if needed.
+3. **IMPORTANT: Note your court number and leader name**.
+4. Go to the **outside bar area** to meet your court leader and fellow players.
+5. Your leader will take you to your assigned court when ready.
 
 **🎯 WHAT TO EXPECT**
 Don't worry if you've never played before - that's exactly what this session is for! You'll have an experienced leader on each court who will guide you through the basics. The focus is on having fun and learning together, not on competition.
@@ -149,6 +154,8 @@ As a side not if any of you would like to book a secondary game to play amongst 
 If you have any questions or issues on the day, speak to your court leader - they're there to help!
 Looking forward to seeing you all there! 🎾
 
+Most importantly if you cant make it please do let us know ASAP not on the day!
+
 ---
 
 ### Day-Of Morning Message
@@ -160,7 +167,7 @@ Make sure you know where you are going Aurial Pàdel Cornellà by Marta Marrero 
 Quick checklist:
 ✅ Bring your racket if you have one 
 ✅ Bring some form of ID if you are renting a racket (Limited supply first come first serve)
-✅ €6 cash/card for court costs + €2 if renting a racket
+✅ €4-6 cash/card for court costs + €2 if renting a racket
 ✅ Sports clothes & shoes & water
 
 **Reminder**: Meet at **reception at 13:30**, check in, **note your court number & leader name**, then go to the **outside bar area** to meet your leader!

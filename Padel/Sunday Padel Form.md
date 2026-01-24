@@ -5,7 +5,7 @@ Happy weekend everyone! Please vote for the time slots you can play next weekend
 ⚠️ Important:
 If you select multiple slots, you are committing to playing multiple games.
 
-✅ VOTE HERE: 👉 https://forms.gle/aQ7zudqg3v2feNVZ7 👈
+✅ VOTE HERE: 👉 https://forms.gle/vNmf5fkaeSNnsGRc9 👈
 
 ⏰ SCHEDULE & TIMING
 • Match duration: 1h 30min

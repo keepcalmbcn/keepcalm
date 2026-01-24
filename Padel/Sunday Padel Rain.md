@@ -85,13 +85,11 @@ If outdoor courts are unavailable due to weather, we may look to move to one of 
 
 Due to the size of the group, please try to organise amongst yourselves and avoid overwhelming Dan or the organisers with individual questions. Check this document, discuss with your court group, and only escalate to the organiser if absolutely necessary.
 
-| Venue | Address | Courts | Contact |
-|-------|---------|--------|---------|
-| **Go Go Padel Indoor** | Travessia Industrial, 49, 08907 L'Hospitalet de Llobregat | 5 courts | [Playtomic](https://playtomic.com/clubs/go-go-padel-indoor) |
-| **Plus Padel Indoor** | Av. del Carrilet, 219, 08907 L'Hospitalet de Llobregat | 9 courts (8 double + 1 individual) | 679 82 68 90 |
-| **Padel Top** | Carretera del Mig, 39, 08907 L'Hospitalet de Llobregat | 5 courts | 932 63 58 58 |
-
-All three venues are located in L'Hospitalet de Llobregat, close to Barcelona.
+- Go Go Pádel Indoor - [https://playtomic.io/tenant/fba9124a-8694-4e1e-8bf5-c27431f5c393]
+- Plus Padel Indoor - [https://playtomic.io/tenant/718804ed-3454-42f8-8832-cdd752342529]
+- Padel Top Club - [https://playtomic.io/tenant/da787bf3-43b3-11e8-8674-52540049669c]
+- Pádel Indoor Hospitalet 1/2/3 - [https://www.padelindoorhospitalet.com/Booking/Grid.aspx]
+- BELA PADEL CENTER BARCELONA [https://playtomic.io/tenant/ddfd46bb-bc51-4ea8-b339-76486f7efa31]
 
 ---
 
