@@ -10,21 +10,21 @@ This is a documentation and planning repository for "Keep Calm and Carry On", a 
 
 The repository is organized by sport/activity type, with each having its own directory:
 
-- **Padel/**: Primary focus activity with comprehensive documentation including venue information, organization processes, player guidelines, and scratch notes for planning
-- **Keep Calm/**: Community overview, rules, and general organizational information
-- **Ping Pong/**, **Tennis/**, **Volleyball/**, **Badminton/**, **Hiking/**, **Social/**: Individual sport directories with their own documentation and TODO lists
+- **padel/**: Primary focus activity with comprehensive documentation including venue information, organization processes, player guidelines, and scratch notes for planning
+- **keep-calm/**: Community overview, rules, and general organizational information
+- **ping-pong/**, **tennis/**, **volleyball/**, **badminton/**, **hiking/**, **social/**: Individual sport directories with their own documentation and TODO lists
 
 ## Key Files and Their Purpose
 
 ### Organization Documents
-- `Padel/Sunday Padel Organisation.md`: Step-by-step process for organizing weekly Sunday padel sessions
-- `Keep Calm/README.md`: Community mission, values, and how the organization operates
-- `Padel/README.md`: Specific information about the Sunday padel community and poll system
+- `padel/sunday-padel-organisation.md`: Step-by-step process for organizing weekly Sunday padel sessions
+- `keep-calm/readme.md`: Community mission, values, and how the organization operates
+- `padel/readme.md`: Specific information about the Sunday padel community and poll system
 
 ### Operational Files
-- `*/TODO.md`: Task lists for each sport/activity area
-- `Padel/Sunday Padel *.md`: Various operational documents covering courts, polls, problems, rain policies, etc.
-- `Padel/scratch/`: Planning notes and meeting records
+- `*/todo.md`: Task lists for each sport/activity area
+- `padel/sunday-padel-*.md`: Various operational documents covering courts, polls, problems, rain policies, etc.
+- `padel/scratch/`: Planning notes and meeting records
 
 ## Development Context
 
@@ -39,8 +39,8 @@ This is a documentation-only repository with no code compilation, testing, or li
 
 When making changes:
 - Maintain the existing directory structure organized by sport/activity
-- Keep README.md files as entry points for each section
-- Use TODO.md files to track tasks specific to each sport
+- Keep readme.md files as entry points for each section
+- Use todo.md files to track tasks specific to each sport
 - Place planning notes and scratch work in appropriate `scratch/` subdirectories
 - Follow the existing tone and style which is community-focused and inclusive
 

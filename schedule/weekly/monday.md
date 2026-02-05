@@ -1,0 +1,1 @@
+Plan friday social event

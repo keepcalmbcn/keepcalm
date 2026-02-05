@@ -43,7 +43,7 @@ We organize games by Playtomic score:
 - **Intermediate**: Playtomic 1-2
 - **Advanced**: Playtomic 2+
 
-See [Sunday Padel FAQ.md](Sunday%20Padel%20FAQ.md) for detailed level descriptions.
+See [Sunday Padel FAQ.md](sunday-padel-faq.md) for detailed level descriptions.
 
 ## Key Information
 
@@ -51,11 +51,11 @@ See [Sunday Padel FAQ.md](Sunday%20Padel%20FAQ.md) for detailed level descriptio
 - **Venues**: Padel Delfos, Up Pádel & Tennis Cornellà, Aurial Pàdel Cornellà
 - **Racket rental**: €4 if you need one
 - **Organizers**: Dan, Nadir
-- **Weather policy**: Games on unless extremely bad - see [Sunday Padel Rain.md](Sunday%20Padel%20Rain.md)
+- **Weather policy**: Games on unless extremely bad - see [Sunday Padel Rain.md](padel-rain.md)
 
 ## New to Padel?
 
-- Check out our [FAQ](Sunday%20Padel%20FAQ.md) for everything you need to know
+- Check out our [FAQ](sunday-padel-faq.md) for everything you need to know
 - We run monthly beginner sessions - watch for announcements!
 - Don't be shy - everyone is welcoming and we're here to help
 

@@ -43,7 +43,7 @@ Welcome to Keep Calm and Carry On! To keep our WhatsApp groups friendly and func
 
 ### Changes and Cancellations
 - **Give as much notice as possible** if you can't make it
-- See [Event Rules](Event-Rules.md) for cancellation policies
+- See [Event Rules](event-rules.md) for cancellation policies
 - Help find replacements if you need to drop out
 - Don't repeatedly ask "Are we playing?" - check pinned messages and trust organizers
 
@@ -84,15 +84,10 @@ Welcome to Keep Calm and Carry On! To keep our WhatsApp groups friendly and func
 
 ## Consequences
 
-We operate on a **3-strike system**:
-- **Strike 1**: Warning
-- **Strike 2**: Temporary restriction
-- **Strike 3**: Removal from the community
+We use a [3-strike system](event-rules.md) for repeated violations. In WhatsApp groups, strikes can be given for:
 
-Strikes can be given for:
-- Repeated rule violations
-- Spam or harassment
-- No-shows without notice (see Event Rules)
+- Repeated rule violations or spam
+- Harassment or inappropriate content
 - Negative behavior affecting group morale
 
 ## Questions?
@@ -107,4 +102,4 @@ If you're unsure about anything:
 
 **Remember**: These groups exist to bring people together through sports and fun. Let's keep them positive, organized, and welcoming for everyone!
 
-**See also**: [Event Rules](Event-Rules.md) for participation policies.
+**See also**: [Event Rules](event-rules.md) for participation policies.
