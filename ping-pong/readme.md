@@ -1,6 +1,8 @@
-# Keep Calm Ping Pong <Ó
+# Keep Calm Ping Pong <ï¿½
 
 Welcome to Thursday Ping Pong! Our weekly table tennis sessions at the outdoor tables in Sants are a fun, free way to stay active and meet people.
+
+Part of the larger **Keep Calm and Carry On** not-for-profit community for English speakers in Barcelona, we're built on values of inclusivity, reliability, and collaboration. Everyone is welcome, and the community belongs to all of us.
 
 ## Weekly Schedule
 
@@ -65,7 +67,7 @@ From complete beginners to experienced players - we mix up games to accommodate 
 
 ## Organizer
 
-**Jia** coordinates the Thursday sessions and keeps things running smoothly.
+The organiser coordinates the Thursday sessions and keeps things running smoothly. Check the WhatsApp group for who to contact.
 
 ## Getting Started
 
@@ -109,9 +111,9 @@ Ping pong is super social:
 ## Questions?
 
 - Post in the Ping Pong WhatsApp group
-- Contact Jia
+- Contact the organiser via the WhatsApp group
 - Check weekly poll announcements
 
 ---
 
-See you Thursday at the tables! <Ó
+See you Thursday at the tables! <ï¿½

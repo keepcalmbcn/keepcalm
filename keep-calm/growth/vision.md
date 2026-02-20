@@ -32,7 +32,7 @@ For Keep Calm to outlast any individual and grow beyond its founders, three thin
 
 ### 1. Distributed Leadership
 
-Move from *named individuals* to *defined roles*. Instead of "Dan does Padel," it becomes:
+Move from *named individuals* to *defined roles*. Instead of one person owning a sport, it becomes:
 
 | Role | Responsibility |
 |------|----------------|

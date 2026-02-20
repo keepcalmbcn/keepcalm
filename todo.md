@@ -65,7 +65,7 @@
 - Advertise on the Individual sports.
 - Automate Padel Form?
 	- Padel timing poll?
-- Start getting player data into Nadir's database.
+- Start getting player data into the database.
 
 ## Activities & Events
 

@@ -110,7 +110,7 @@ After the poll closes, organisers will post who's playing when. Look for:
 
 ## The Rules (Quick Version)
 
-Full rules are in [Rules.md](rules.md), but here's the short version:
+Full rules are in [Rules.md](../rules/rules.md), but here's the short version:
 
 ### Show Up If You Commit
 - If you vote in a poll, you're saying you'll be there
@@ -181,7 +181,7 @@ After a few sessions, if you enjoy the community:
 - Help run sessions
 - Eventually: become an organiser
 
-See [Role-Descriptions.md](role-descriptions.md) for all the ways you can contribute.
+See [Role-Descriptions.md](../governance/role-descriptions.md) for all the ways you can contribute.
 
 ---
 
@@ -200,7 +200,7 @@ Post in the group ASAP, help find a replacement if you can, and let the organise
 Go for it! Join the WhatsApp group for that sport and vote in the next poll.
 
 ### What if I have a problem with someone?
-Talk to an organiser privately. We take community health seriously. See [Community-Conduct.md](community-conduct.md).
+Talk to an organiser privately. We take community health seriously. See [Community-Conduct.md](../rules/community-conduct.md).
 
 ### What if I want to bring a friend?
 Great! Have them join the WhatsApp group and vote in the poll. Don't just show up with extras without checking first.
@@ -211,8 +211,8 @@ Great! Have them join the WhatsApp group and vote in the poll. Don't just show u
 
 - **Website**: [keepcalm.fit](https://keepcalm.fit)
 - **Weekly Schedule**: [SCHEDULE.md](schedule.md)
-- **Rules**: [Rules.md](rules.md)
-- **Current Organisers**: [Organisers.md](organisers.md)
+- **Rules**: [Rules.md](../rules/rules.md)
+- **Current Organisers**: [Organisers.md](../governance/organisers.md)
 
 ---
 
@@ -254,7 +254,7 @@ See you on the court! 🎾🏐🏓
 
 ## Related Documents
 
-- [Rules.md](rules.md) - Community rules
-- [Event-Rules.md](event-rules.md) - Event participation policies
-- [Community-Conduct.md](community-conduct.md) - How we treat each other
+- [Rules.md](../rules/rules.md) - Community rules
+- [Event-Rules.md](../rules/event-rules.md) - Event participation policies
+- [Community-Conduct.md](../rules/community-conduct.md) - How we treat each other
 - [SCHEDULE.md](schedule.md) - Weekly activity schedule

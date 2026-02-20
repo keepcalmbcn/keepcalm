@@ -96,7 +96,7 @@ See Sunday Padel Venues.md
 
 ### Do I need my own balls?
 - Best to bring your own but other players might have some
-- Worst case scenario find Dan and he might have some
+- Worst case scenario check with the organiser
 
 ### Is padel suitable for all ages and fitness levels?
 - **Yes!** Padel is less physically demanding than tennis
@@ -135,14 +135,14 @@ See Sunday Padel Venues.md
 Yes! If you need to swap your spot or change courts:
 1. **Find someone to switch with** - post in the WhatsApp group
 2. **Notify your court booker** - let them know about the change
-3. **Update the organizers** - message Dan or Nadir
+3. **Update the organizers** - message the organisers
 4. **Be considerate** - don't make frequent last-minute changes
 
 ### What happens if it is scheduled to rain?
 We have a detailed rain policy:
 - **Games are ON unless officially cancelled** - don't assume cancellation
 - **Venue cancels** = full refund through Playtomic
-- **All 4 players agree to cancel** = contact Dan/Nadir to cancel officially
+- **All 4 players agree to cancel** = contact the organisers to cancel officially
 - **You choose not to play** = counts as normal dropout (see Event Rules)
 - **See**: [Sunday Padel Rain.md](padel-rain.md) for complete policy
 - **Remember**: This is a social group - if courts close, grab drinks at the bar!

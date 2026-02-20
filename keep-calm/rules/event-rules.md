@@ -179,7 +179,7 @@ We operate on a **3-strike system**:
 ## Questions or Issues?
 
 ### If You Have a Problem
-- Contact the sport organizer (see [SCHEDULE.md](schedule.md))
+- Contact the sport organizer (see [SCHEDULE.md](../operations/schedule.md))
 - Explain the situation honestly
 - Work together to find a solution
 - Don't air grievances in the main WhatsApp groups

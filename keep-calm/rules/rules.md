@@ -59,7 +59,7 @@ How we handle relationships and expectations:
 
 ## Governance
 
-### 🏛️ [Decision Making](decision-making.md)
+### 🏛️ [Decision Making](../governance/decision-making.md)
 How decisions are made in Keep Calm:
 - Decision levels (individual → sport → community → foundational)
 - Who has authority over what
@@ -67,7 +67,7 @@ How decisions are made in Keep Calm:
 - Handling disagreements and appeals
 - Core team responsibilities
 
-### 📋 [Role Descriptions](role-descriptions.md)
+### 📋 [Role Descriptions](../governance/role-descriptions.md)
 Community roles and what they involve:
 - Core Team Member
 - Sport Lead
@@ -81,7 +81,7 @@ Community roles and what they involve:
 
 ## Getting Started & Operations
 
-### 👋 [New Member Welcome](new-member-welcome.md)
+### 👋 [New Member Welcome](../operations/new-member-welcome.md)
 Everything new members need to know:
 - How to join your first session
 - What each sport offers
@@ -89,7 +89,7 @@ Everything new members need to know:
 - Making friends in the community
 - Getting involved
 
-### 📖 [Organiser Guide](organiser-guide.md)
+### 📖 [Organiser Guide](../governance/organiser-guide.md)
 For current and prospective organisers:
 - What being an organiser means
 - The weekly cycle
@@ -98,7 +98,7 @@ For current and prospective organisers:
 - Handling problems
 - Handover process
 
-### 👥 [Organisers](organisers.md)
+### 👥 [Organisers](../governance/organisers.md)
 Current volunteer organisers by sport and their responsibilities.
 
 ---
@@ -144,15 +144,15 @@ These rules exist to:
 
 If you have questions about the rules or need clarification:
 1. Read the detailed documents linked above
-2. Check with your sport organiser (see [Organisers.md](organisers.md))
+2. Check with your sport organiser (see [Organisers.md](../governance/organisers.md))
 3. Ask in your WhatsApp group if appropriate
-4. For governance questions, see [Decision-Making.md](decision-making.md)
+4. For governance questions, see [Decision-Making.md](../governance/decision-making.md)
 
 ---
 
 ## Community Vision
 
-For the bigger picture of where Keep Calm is heading, see [VISION.md](vision.md).
+For the bigger picture of where Keep Calm is heading, see [VISION.md](../growth/vision.md).
 
 ---
 

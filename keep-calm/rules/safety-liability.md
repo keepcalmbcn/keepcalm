@@ -366,4 +366,4 @@ If someone's behaviour is creating safety risks:
 
 - [Event-Rules.md](event-rules.md) - Weather policies and participation rules
 - [Community-Conduct.md](community-conduct.md) - Behaviour standards
-- [Organiser-Guide.md](organiser-guide.md) - How organisers handle issues
+- [Organiser-Guide.md](../governance/organiser-guide.md) - How organisers handle issues

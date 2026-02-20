@@ -11,7 +11,11 @@ This is a documentation and planning repository for "Keep Calm and Carry On", a 
 The repository is organized by sport/activity type, with each having its own directory:
 
 - **padel/**: Primary focus activity with comprehensive documentation including venue information, organization processes, player guidelines, and scratch notes for planning
-- **keep-calm/**: Community overview, rules, and general organizational information
+- **keep-calm/**: Community overview and organizational information, organized into subfolders:
+  - `rules/`: Community policies (event rules, WhatsApp rules, conduct, safety, privacy, partnerships)
+  - `governance/`: Decision-making, role descriptions, organiser guide, current organisers
+  - `operations/`: Day-to-day logistics (schedule, onboarding, WhatsApp groups, funding)
+  - `growth/`: Vision, marketing, surveys, outreach, communities
 - **ping-pong/**, **tennis/**, **volleyball/**, **badminton/**, **hiking/**, **social/**: Individual sport directories with their own documentation and TODO lists
 
 ## Key Files and Their Purpose

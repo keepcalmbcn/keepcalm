@@ -4,7 +4,7 @@
 - **Venue**: Aurial Pàdel Cornellà by Marta Marrero
 - **Frequency**: Aim to run one beginner session per month (ideally first week of month)
 - **Timing**: Leave a 30-60 minute break between beginner session and regular padel session
-- **Equipment**: 2 balls per player per court (Dan will aim to bring these or players can bring their own)
+- **Equipment**: 2 balls per player per court (the organiser will aim to bring these or players can bring their own)
 
 ## Pre-Event Setup
 
@@ -115,7 +115,7 @@ Transport: Metro L5 to Gavarra or Trains from plasa espanya to Almeda.
 
 **🎾 WHAT TO BRING**
 • Your own racket if possible (limited rentals available at €2 - first come, first served!)
-• Padel balls if you have them (Dan will bring 2-4 used balls per court, but extra balls are always helpful! You can also buy them at the venue)
+• Padel balls if you have them (the organiser will bring 2-4 used balls per court, but extra balls are always helpful! You can also buy them at the venue)
 • Water bottle (or buy for €2 at venue)
 • Sportswear & trainers
 • Some ID (may be needed for racket rental)
@@ -127,7 +127,7 @@ Transport: Metro L5 to Gavarra or Trains from plasa espanya to Almeda.
 4. Go to the **outside bar area** to meet your court leader and fellow players.
 5. Your leader will take you to your assigned court when ready.
 6. Keep your belongings near the court but off the playing area.
-7. **Let your leader or Dan know** about any issues or important information (e.g. medical conditions, injuries) so we can support you.
+7. **Let your leader or the organiser know** about any issues or important information (e.g. medical conditions, injuries) so we can support you.
 
 **🎯 WHAT TO EXPECT**
 Don't worry if you've never played before - that's exactly what this session is for! You'll have an experienced leader on each court who will guide you through the basics. The focus is on having fun and learning together, not on competition.

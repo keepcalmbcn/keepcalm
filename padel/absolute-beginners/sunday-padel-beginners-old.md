@@ -7,7 +7,7 @@
 - We run the session at Aurial Pàdel Cornellà by Marta Marrero
 - Players must go to reception and pay for thier place and they may also rent a racket for 2 euros. (bring some ID they may ask for it)
 - Agree location to meet at start
-- On the day Dan will have 2 balls per court (players can bring thier own)
+- On the day the organiser will have 2 balls per court (players can bring thier own)
 - Agree location to meet after 
 - Gather for photo after.
 - Thank everyone for coming and thank volunteers for volunteering there time

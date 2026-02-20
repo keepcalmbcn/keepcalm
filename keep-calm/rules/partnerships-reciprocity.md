@@ -183,6 +183,6 @@ Since we don't offer commercial promotion, we should be generous with what we do
 
 ## Related Documents
 
-- [Communities.md](communities.md) - Our approach to other Barcelona communities
+- [Communities.md](../growth/communities.md) - Our approach to other Barcelona communities
 - [Rules.md](rules.md) - Community rules overview
-- [Organisers.md](organisers.md) - Current volunteer organisers
+- [Organisers.md](../governance/organisers.md) - Current volunteer organisers

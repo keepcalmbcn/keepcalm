@@ -4,15 +4,23 @@ Hi there, and welcome!
 
 We’re excited to have you join **Keep Calm and Carry On**, a community for English speakers in Barcelona who want to stay active, meet new people, and have fun through sports.  
 
-## What We’re About
-- We are a **not-for-profit community** built around sports and social connection.  
+## What We're About
+- We are a **not-for-profit community** built around sports and social connection.
 - Our goal is to bring people together through activities such as padel, volleyball, pingpong, hiking, and more!
-- We host **weekly events** across different sports, open to all levels.  
+- We host **weekly events** across different sports, open to all levels.
+
+## Our Vision
+
+> "Barcelona's welcoming home for English speakers to stay active, make friends, and belong—powered by volunteers who care more about community than competition."
+
+**The sport is the mechanism. Belonging is the outcome.**
 
 ## Our Values
-- **Inclusive**: Everyone is welcome, no matter your background or skill level.  
-- **Collaborative**: We often work with other groups and communities in Barcelona.  
-- **Non-commercial**: This is about people, not profit.  
+- **Inclusive** - Everyone is welcome, no matter your background or skill level
+- **Reliable** - Show up if you commit, give notice if you can't
+- **Non-commercial** - This is about people and community, not profit
+- **Collaborative** - We work with other groups and communities in Barcelona
+- **Ownership** - The community belongs to everyone who participates, not the founders  
 
 ## How It Works
 - Events are posted in our WhatsApp community channels.  

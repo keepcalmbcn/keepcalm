@@ -5,9 +5,9 @@ Welcome to **Keep Calm and Carry On** - Barcelona's friendly, not-for-profit spo
 ## Quick Links
 
 - **Website**: https://keepcalm.fit/
-- **Weekly Schedule**: See [schedule.md](keep-calm/schedule.md)
+- **Weekly Schedule**: See [schedule.md](keep-calm/operations/schedule.md)
 - **Community Info**: [keep-calm/readme.md](keep-calm/readme.md)
-- **Rules**: [WhatsApp Rules](keep-calm/whatsapp-rules.md) | [Event Rules](keep-calm/event-rules.md)
+- **Rules**: [WhatsApp Rules](keep-calm/rules/whatsapp-rules.md) | [Event Rules](keep-calm/rules/event-rules.md)
 
 ## Our Sports & Activities
 
@@ -36,7 +36,7 @@ Regular Tuesday evening tennis games at local courts.
 - **Cost**: €8 per person approx
 
 ### 🥾 [Hiking](hiking/)
-Monthly hiking trips around Catalonia led by Jan.
+Monthly hiking trips around Catalonia.
 - **When**: Monthly (usually Sundays)
 - **Cost**: Train fare (€3-7 typically)
 - **Capacity**: 25-30 people per hike
@@ -50,7 +50,7 @@ Coming soon!
 ## How to Join
 
 1. Visit https://keepcalm.fit/ to find WhatsApp group links
-2. Read our [rules](keep-calm/whatsapp-rules.md)
+2. Read our [rules](keep-calm/rules/whatsapp-rules.md)
 3. Join the sports you're interested in
 4. Show up and have fun!
 
@@ -59,9 +59,11 @@ Coming soon!
 We're a **not-for-profit community** bringing English speakers together through sports and social activities. Everyone is welcome regardless of skill level or background.
 
 **Our Values:**
-- Inclusive and welcoming
-- Collaborative with other Barcelona communities
-- Non-commercial - it's about people, not profit
+- **Inclusive** - Everyone welcome, regardless of skill level or background
+- **Reliable** - Show up if you commit, give notice if you can't
+- **Non-commercial** - About people and community, not profit
+- **Collaborative** - Work with other Barcelona communities, not against them
+- **Ownership** - The community belongs to everyone who participates, not the founders
 
 ## Questions?
 

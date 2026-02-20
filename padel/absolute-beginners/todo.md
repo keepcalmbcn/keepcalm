@@ -8,4 +8,5 @@ TODO
 - Find out why people who didn’t come didn’t come! 
 - Check with venue how things went
 - Identify issues.
+- Picture location + court numbers + leader faces?
 

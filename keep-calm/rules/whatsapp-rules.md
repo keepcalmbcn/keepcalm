@@ -39,7 +39,7 @@ Welcome to Keep Calm and Carry On! To keep our WhatsApp groups friendly and func
   - Share clearly with all necessary details
   - Tag relevant players
   - Use "Share Externally" feature as instructed
-- Share booking links with organizers (e.g., Dan for Padel)
+- Share booking links with your sport organiser
 
 ### Changes and Cancellations
 - **Give as much notice as possible** if you can't make it

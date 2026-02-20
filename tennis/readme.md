@@ -2,6 +2,8 @@
 
 Welcome to Tuesday Tennis! Our weekly tennis sessions bring together players for organized games at local courts.
 
+Part of the larger **Keep Calm and Carry On** not-for-profit community for English speakers in Barcelona, we're built on values of inclusivity, reliability, and collaboration. Everyone is welcome, and the community belongs to all of us.
+
 ## Weekly Schedule
 
 **Every Tuesday**
@@ -74,11 +76,7 @@ Typically **doubles** (2 vs 2) format:
 
 ## Organizers
 
-- **Dan**
-- **Russ**
-- **Jeff**
-
-They coordinate polls, organize courts, and manage bookings.
+Check the WhatsApp group for current organisers. They coordinate polls, organize courts, and manage bookings.
 
 ## Player Management
 
@@ -142,7 +140,7 @@ Share your ideas in the WhatsApp group!
 ## Questions?
 
 - Post in the Tennis WhatsApp group
-- Contact Dan, Russ, or Jeff
+- Contact an organiser via the WhatsApp group
 - Check weekly poll announcements
 
 ---

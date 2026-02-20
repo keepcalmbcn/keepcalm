@@ -170,7 +170,7 @@ https://maps.app.goo.gl/YZpaVXbmj1B1jhg68
 
 ⚠️ PLEASE SHARE YOUR GAME WITH KEEP CALM ADMIN & YOUR PLAYERS (NOT GENERAL) ⚠️
 
-*New to booking?* Use Harriet's Guide:
+*New to booking?* Use our Booking Guide:
 https://docs.google.com/document/d/e/2PACX-1vRRg8ZaFAnIYTSethY2dcqsAxWhoRELfiOV0zssZpTulaco1421WVuXs57FCwVNxUs6pkLLqElVPDFp/pub
 
 *Questions?* Ask in the padel group chat
@@ -179,7 +179,7 @@ https://docs.google.com/document/d/e/2PACX-1vRRg8ZaFAnIYTSethY2dcqsAxWhoRELfiOV0
 1. Book your court via Playtomic *AS SOON AS POSSIBLE*
 2. Keep in mind the court number is NOT too important avoid (delfos court 12/13 where possible)
 3. Share the booking link to your players using "Share Externally"
-4. Share the booking link to Dan using "Share Externally"
+4. Share the booking link to the organiser using "Share Externally"
 
 🎯 *For Joiners*
 1. Remind your booker to reserve the court if not done yet

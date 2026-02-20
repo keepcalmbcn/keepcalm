@@ -1,5 +1,7 @@
 # Keep Calm Badminton 🏸
 
+**Keep Calm and Carry On** is a not-for-profit community for English speakers in Barcelona, built on values of inclusivity, reliability, and collaboration.
+
 ## Not Currently Offered
 
 At this time, Keep Calm does not organize badminton sessions.

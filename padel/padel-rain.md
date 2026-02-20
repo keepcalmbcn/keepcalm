@@ -83,7 +83,7 @@ If outdoor courts are unavailable due to weather, we may look to move to one of 
 
 **Important:** Indoor backup courts should be organised by the **4 players** (3 players + 1 booker) on each court — not by the main organiser. Coordinate with your group and book early if rain looks likely.
 
-Due to the size of the group, please try to organise amongst yourselves and avoid overwhelming Dan or the organisers with individual questions. Check this document, discuss with your court group, and only escalate to the organiser if absolutely necessary.
+Due to the size of the group, please try to organise amongst yourselves and avoid overwhelming the organisers with individual questions. Check this document, discuss with your court group, and only escalate to the organiser if absolutely necessary.
 
 - Go Go Pádel Indoor - [https://playtomic.io/tenant/fba9124a-8694-4e1e-8bf5-c27431f5c393]
 - Plus Padel Indoor - [https://playtomic.io/tenant/718804ed-3454-42f8-8832-cdd752342529]
@@ -97,6 +97,6 @@ Due to the size of the group, please try to organise amongst yourselves and avoi
 If matches continue in drizzle or after rain:  
 - **Take care of your racket.** Water isn’t good for it.  
 - **Watch your footing.** Courts may be slippery.  
-- **Use spare/rubbish balls.** Dan usually has a bag full for wet conditions.  
+- **Use spare/rubbish balls.** The organiser usually has a bag full for wet conditions.  
 
 ---

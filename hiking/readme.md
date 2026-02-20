@@ -2,9 +2,11 @@
 
 Welcome to Keep Calm Hiking! Join us for monthly hiking adventures around Catalonia.
 
+Part of the larger **Keep Calm and Carry On** not-for-profit community for English speakers in Barcelona, we're built on values of inclusivity, reliability, and collaboration. Everyone is welcome, and the community belongs to all of us.
+
 ## How It Works
 
-**Monthly hikes** organized by **Jan**:
+**Monthly hikes**:
 - **Frequency**: Approximately once per month
 - **Day**: Usually Sundays (scheduled to avoid conflicts with major Padel events)
 - **Duration**: Full day trips
@@ -77,7 +79,7 @@ Varies by hike - typically at a central Barcelona location:
 - **Light rain with improving forecast**: Hike continues
 - **Dangerous conditions**: Hike cancelled
 - Check WhatsApp group for updates
-- Jan makes final call on safety
+- The organiser makes the final call on safety
 
 ## Skill/Fitness Requirements
 
@@ -95,11 +97,7 @@ Varies by hike - typically at a central Barcelona location:
 
 ## Organizer
 
-**Jan** coordinates all hiking events:
-- Selects routes
-- Posts announcements
-- Manages logistics
-- Leads the group on hike day
+The hiking organiser coordinates all events: selecting routes, posting announcements, managing logistics, and leading the group on hike day.
 
 ## Getting Started
 
@@ -144,10 +142,10 @@ Check the **Hike 1.md, Hike 2.md, Hike 3.md** files for examples of past hikes a
 
 - **You hike at your own risk** - assess your abilities honestly
 - Stay with the group
-- Tell Jan if you're struggling
+- Tell the organiser if you're struggling
 - Bring basic first aid items
 - Have emergency contacts accessible
-- Follow Jan's guidance and instructions
+- Follow the organiser's guidance and instructions
 
 ## Social Aspect
 
@@ -169,7 +167,7 @@ Watch the WhatsApp group for:
 ## Questions?
 
 - Post in the Hiking WhatsApp group
-- Contact Jan directly
+- Contact the organiser directly
 - Check past hike documents for examples
 
 ---

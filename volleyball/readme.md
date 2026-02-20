@@ -1,6 +1,8 @@
 # Keep Calm Volleyball 🏐
 
-Welcome to our beach volleyball community! We're an active, flexible group that plays year-round at Barcelona's beaches.
+Welcome to our keep calm beach volleyball community! We're an active, flexible group that plays year-round at Barcelona's beaches.
+
+Part of the larger **Keep Calm and Carry On** not-for-profit community for English speakers in Barcelona, we're built on values of inclusivity, reliability, and collaboration. Everyone is welcome, and the community belongs to all of us.
 
 ## How It Works
 
@@ -12,19 +14,12 @@ Unlike our more structured padel system, **volleyball is organized on an ad-hoc 
 
 ## Regular Saturday Sessions
 
-**Mario** typically organizes Saturday beach volleyball:
-- **When**: Saturdays 16:00-19:00 (3 one-hour slots)
-- **Where**: Nova Icaria or Somorrostro beaches (depending on court availability)
-- **Format**: 5 vs 5 with rotation when serving
-- **Capacity**: 12 people per slot (can be flexible)
-- **What's provided**: Net and balls (Mario brings them)
-- **Announcement**: Usually posted Thursday/Friday
-
-### How to Join Saturday Sessions
-1. Watch for Mario's announcement in the WhatsApp group
-2. Vote in the poll for your preferred time slot(s)
-3. Max 2 slots per person initially (more if spots remain after 24h)
-4. Show up and play!
+Saturday beach volleyball is organised regularly:
+- **When**: Saturdays 14:00-18:00 (Estimate)
+- **Where**: https://maps.app.goo.gl/M9rJJnBEBtVyQ7eA7
+- **Format**: 2/3/4/5 vs 2/3/4/5 with rotation when serving
+- **Capacity**: 10 people per slot (can be flexible)
+- **What's provided**: Net and balls (organiser brings them)
 
 ## Common Beach Locations
 
@@ -71,9 +66,7 @@ Occasionally for indoor volleyball at clubs, there may be a small venue fee - th
 
 ## Organizers
 
-- **Chris**
-- **Mario**
-- **Nix**
+Check the WhatsApp group for current organisers.
 
 They coordinate sessions, bring equipment, and keep things organized.
 
@@ -118,7 +111,7 @@ Watch the WhatsApp group for announcements about indoor venues and sessions!
 ## Questions?
 
 - Post in the Volleyball WhatsApp group
-- Contact Chris, Mario, or Nix
+- Contact an organiser via the WhatsApp group
 - Check group announcements for upcoming games
 
 ---

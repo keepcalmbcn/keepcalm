@@ -2,6 +2,8 @@
 
 We're excited to have you join our growing padel community!
 
+Part of the larger **Keep Calm and Carry On** not-for-profit community for English speakers in Barcelona, we're built on values of inclusivity, reliability, and collaboration. Everyone is welcome, and the community belongs to all of us.
+
 ## How Our Poll System Works
 
 We organize **one week in advance** to ensure everyone gets to play:
@@ -50,7 +52,7 @@ See [Sunday Padel FAQ.md](sunday-padel-faq.md) for detailed level descriptions.
 - **Cost**: €5-8 per person (1-1.5 hours)
 - **Venues**: Padel Delfos, Up Pádel & Tennis Cornellà, Aurial Pàdel Cornellà
 - **Racket rental**: €4 if you need one
-- **Organizers**: Dan, Nadir
+- **Organizers**: See WhatsApp group
 - **Weather policy**: Games on unless extremely bad - see [Sunday Padel Rain.md](padel-rain.md)
 
 ## New to Padel?
