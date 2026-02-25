@@ -1,0 +1,4 @@
+- [] Find some where weekly to play indoor pingpong. 
+- [] Create a framework for other leaders.
+- [] Improve advertisement of the club.
+- [] Spread message about ping pong.

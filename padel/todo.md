@@ -1,0 +1,5 @@
+- [] Think about optimal way to split channels/community.
+- [] Find 2/3 poeople to aide in orgnising weekends.
+- [] Find a venue for a second session in Barclona possibly in Poblenou.
+- [] Migrate instructions player,booker,leader instructions to git.
+- [] Find a reason to kick Uriel.
