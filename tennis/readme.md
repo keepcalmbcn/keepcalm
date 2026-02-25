@@ -1,154 +1,109 @@
-# Keep Calm Tennis 🎾
+# Welcome to Keep Calm Tuesday Tennis! 🎾
 
-Welcome to Tuesday Tennis! Our weekly tennis sessions bring together players for organized games at local courts.
+We're excited to have you join our growing tennis community!
 
 Part of the larger **Keep Calm and Carry On** not-for-profit community for English speakers in Barcelona, we're built on values of inclusivity, reliability, and collaboration. Everyone is welcome, and the community belongs to all of us.
 
 ## Quick Links
 
-- [Group Description](description.md) - what this group is about
+- [Group Description](description.md) - what this community is about
 - [Group Rules](rules.md) - how we keep things running smoothly
+- [FAQ](tuesday-session/tuesday-tennis-faq.md) - everything you need to know
+- [Venues](tuesday-session/tuesday-tennis-venues.md) - where we play and how to get there
 - [General WhatsApp Rules](../keep-calm/rules/whatsapp-rules.md) - applies to all Keep Calm groups
 - [Event Rules](../keep-calm/rules/event-rules.md) - participation and cancellation policies
 
-## Weekly Schedule
+## How Our Event System Works
 
-**Every Tuesday**
-- **Time**: 18:00 - 21:00 (times vary based on court availability)
-- **Duration**: Typically 90 minutes per booking (can be 1.5-3 hours)
-- **Venue**: Up Pádel & Tennis Cornellà - [Google Maps](https://maps.app.goo.gl/Yri55DyC9qqTAuYw8)
-- **Cost**: €8 per person approximately
+We organise **two weeks in advance** to guarantee courts can be secured:
 
-## How It Works
+### Timeline
 
-Similar to our Padel system, tennis uses a poll-based organization:
+**Week 1 — Wednesday 18:00:**
+- Event posted for the Tuesday **two weeks away**
+- Tap **Going** to sign up, and include your level (Beginner / Improver / Intermediate / Advanced) in the comments
 
-### Before Tuesday
-- **Poll posted**: Usually Monday/Tuesday (weekend before the game)
-- **Vote in the poll**: Let us know if you're interested
-- **Games organized**: Based on poll results
+**Week 2 — Tuesday 18:00:**
+- Event closes
 
-### Booking Process
-- Games organized into courts (4 players per court for doubles)
-- One person per court designated as **booker**
-- **Book via Playtomic**: Same app as Padel
-- **Share link**: Booker shares link with other 3 players
+**Week 2 — Tuesday evening (after tennis):**
+- Organiser reviews the Going list and books courts on Playtomic for the following week
 
-### On Tuesday
-- **Arrive on time** for your booked slot
-- **Play tennis!**
-- **Pay your share** through Playtomic
+**Week 2 — Wednesday:**
+- Court assignments posted in the group — you'll be tagged
+- New event posted for the Tuesday two weeks after that
 
-## About the Venue
+**Week 3 — Tuesday:**
+- Games happen! 🎾
 
-**Up Pádel & Tennis Cornellà**
-- Quality tennis courts
-- Good facilities and lighting
-- Same venue as some of our Padel games
-- [Google Maps](https://maps.app.goo.gl/Yri55DyC9qqTAuYw8)
+This two-week cycle is what lets us guarantee evening slots at a popular venue. Groups that book in the same week regularly find nothing available.
 
-**Court availability**: Times may vary week to week based on what's available at the venue (typical range 18:00-21:00).
+## Key Information
 
-## Cost
-
-**€8 per person approximately**
-- Duration: 90 minutes typical
-- Payment through Playtomic app
-- Split equally among 4 players
-
-## Equipment
-
-- **Bring your own racket** - rental likely available at venue (ask)
-- **Tennis balls**: Usually provided or coordinated among players
-- **Appropriate shoes**: Tennis court shoes recommended
-- **Water and towel**
+- **Day**: Every Tuesday evening
+- **Time**: 19:30 or 20:30 (90 minutes)
+- **Meet-up**: We meet at **Plaça Espanya** ~45 minutes before court time and travel together
+- **Primary Venue**: [Barcelona Pro Tennis Academy (Up Cornellà)](tuesday-session/tuesday-tennis-venues.md)
+- **Cost**: ~€8–10 per person (90 minutes)
+- **Format**: Doubles (2v2) — social, inclusive, and makes the cost work
+- **Booking app**: [Playtomic](https://app.playtomic.com/)
 
 ## Skill Levels
 
-**All levels welcome!**
+All levels are welcome! We use four levels to organise courts when numbers allow:
 
-We try to match players by ability when organizing courts:
-- Beginners learning the game
-- Recreational players
-- More experienced players
+| Level | What to expect |
+|-------|---------------|
+| **Beginner** | Never or rarely played. Learning the basics, short rallies |
+| **Improver** | Played before but rusty or just getting back into it. Can rally, the occasional double fault |
+| **Intermediate** | Regular player with solid fundamentals. Good rallies, understands tactics |
+| **Advanced** | Competitive player with strong technique and court awareness |
 
-Be honest about your level when signing up to ensure good matches for everyone.
+When signing up, pick the level that honestly describes where you are right now — not where you used to be or hope to be! It helps us create balanced, enjoyable courts for everyone.
 
-## Format
+## What Happens After You Vote?
 
-Typically **doubles** (2 vs 2) format:
-- More social and inclusive
-- Everyone gets plenty of play time
-- Good for mixing skill levels
+1. **Consider your spot noted** — the organiser will be in touch
+2. **Court gets booked** — via Playtomic, the week after the event closes
+3. **You'll be tagged in the booking post** — check the group for the Playtomic link
+4. **Join the court** — accept via Playtomic and pay your share
+5. **Meet at Plaça Espanya** ~45 min before court time and travel together to Up Cornellà
+6. **Play!**
 
-## Organizers
+## Booking Courts via Playtomic
 
-Check the WhatsApp group for current organisers. They coordinate polls, organize courts, and manage bookings.
+Our primary venue (Up Cornellà) uses Playtomic. You'll need an account:
+1. Download the app: [app.playtomic.com](https://app.playtomic.com/)
+2. Create a free account
+3. When the booker posts a link, tap it and join the match
+4. Pay your share through the app
 
-## Player Management
+See the [FAQ](tuesday-session/tuesday-tennis-faq.md) for full booking instructions.
 
-We take a **strict approach to player management** for tennis:
+## Equipment
 
-- **Show up if you commit** - others are depending on you
-- **Late cancellations** = strikes (see Event Rules)
-- **No-shows** = potential removal from group
-- **Communicate early** if you have any issues
+- **Racket**: Bring your own — rental may be available at some venues but not guaranteed
+- **Tennis balls**: Coordinate in the group — **do not use padel balls!**
+- **Shoes**: Sports shoes are fine; court shoes are better on clay
+- **Water and a towel**
 
-This ensures fairness for everyone and maintains good venue relationships.
+## Venues
 
-## Getting Started
+We rotate venues depending on availability. Our main base is **Up Cornellà**, accessible by train from Plaça Espanya. See [Venues](tuesday-session/tuesday-tennis-venues.md) for full details including travel directions and costs.
 
-### If You're New
-1. Join the Tennis WhatsApp group (links at https://keepcalm.fit/)
-2. Watch for the weekly poll (usually posted Monday/Tuesday)
-3. Vote if you want to play that week
-4. Wait for court assignments
-5. Either book your court or join the booker's link
-6. Show up and play!
+## Want to Play at Other Times?
 
-### What to Expect
-- Organized doubles matches
-- Players matched by skill level when possible
-- Friendly competitive atmosphere
-- Social aspect - meet other tennis players
+The organised Tuesday session is the regular Keep Calm game, but members often self-organise casual games on weekends or weekday mornings. Post in the group if you're looking for a hitting partner!
 
-## Booking via Playtomic
+## New to the Group?
 
-If you're the designated booker:
-
-1. **Download Playtomic** - https://app.playtomic.com/
-2. **Search for the venue** - Up Pádel & Tennis Cornellà
-3. **Book your assigned time slot**
-4. **Pay your share** through the app
-5. **Share the link**:
-   - Click share icon (top right)
-   - "Share externally"
-   - Post in WhatsApp group and tag your players
-6. **Other players join** and pay their share
-
-## Tips
-
-- **Vote accurately** - only if you can genuinely make it
-- **Book promptly** if you're the booker
-- **Communicate** with your court mates
-- **Arrive on time** - courts are paid by the hour
-- **Be flexible** on exact timing - varies by court availability
-
-## Future Plans
-
-Looking to expand tennis offerings:
-- Possible additional days/times
-- Different venue options
-- Singles tournaments
-- Skill-specific sessions
-
-Share your ideas in the WhatsApp group!
-
-## Questions?
-
-- Post in the Tennis WhatsApp group
-- Contact an organiser via the WhatsApp group
-- Check weekly poll announcements
+1. Make sure you have a [Playtomic](https://app.playtomic.com/) account set up
+2. Watch for the **event posted on Wednesdays** — it covers the Tuesday two weeks away
+3. Tap **Going** and drop your level in the comments (Beginner / Improver / Intermediate / Advanced)
+4. Wait for the court booking post — you'll be tagged
+5. Accept the invite on Playtomic and pay your share
+6. Meet at **Plaça Espanya** ~45 minutes before court time
+7. Show up and enjoy!
 
 ---
 
