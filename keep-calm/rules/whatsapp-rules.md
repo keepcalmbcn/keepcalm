@@ -61,33 +61,46 @@ Welcome to Keep Calm and Carry On! To keep our WhatsApp groups friendly and func
 
 ## Unsolicited Direct Messages
 
-Being in the same Keep Calm group does not give you permission to DM other members out of the blue. This is something we take seriously.
+Being in the same Keep Calm group does not give you permission to DM other members out of the blue. **This is something we take seriously and will act on.**
 
 ### What's not OK
 
-- Sending group invites, event invites, or promotional messages to people who didn't ask for them
-- Adding people to other WhatsApp groups without their permission
+- Sending flirty, romantic, or sexual messages to other members
+- Inviting members to other WhatsApp groups, communities, or external platforms without their consent
+- Sending promotional messages, advertising your services, or sharing referral/affiliate links via DM
 - Messaging someone repeatedly after they haven't responded or have asked you to stop
-- Sending messages that are flirty, sexual, or otherwise make people uncomfortable
-- Using the member list to contact people for personal or commercial reasons
+- Using member contact details for any personal or commercial purpose they didn't agree to
 
-### Why this matters
-
-We've had cases where both men and women in the community have received messages that made them uncomfortable. Keep Calm should be a safe space, and that includes people's inboxes.
+We've had cases of members receiving unwanted messages — including romantic approaches and invitations to unrelated groups. This is not acceptable and undermines the trust that makes Keep Calm work.
 
 ### What to do if this happens to you
 
-- **Report it to an admin straight away.** Don't wait, don't brush it off. Screenshot the messages and send them to any admin or organiser.
-- You won't be judged for reporting. We'd rather hear about it and act on it.
-- The person will be spoken to, and serious or repeated cases will result in removal from the community.
+**Contact an admin immediately.** Don't wait, don't brush it off, don't feel like you're overreacting.
+
+- Screenshot the messages and send them to any admin or organiser as soon as possible
+- You will not be judged or questioned for reporting — we want to know about it
+- Action will be taken: the person will be spoken to, and serious or repeated cases will result in removal from the community
+
+The sooner you report it, the sooner we can act.
+
+### Consequences for unsolicited DMs
+
+Anyone found to have sent unsolicited DMs — whether romantic in nature, advertising-related, or inviting members to external groups — will face consequences. Depending on severity and pattern:
+
+- A formal warning
+- Removal from one or more Keep Calm groups
+- Permanent removal from the community
+
+There is no grey area here. **We do not tolerate this behaviour.**
 
 ### What to do if you want to message someone
 
-If you've met someone at an event and want to message them about something genuine (plans for the next session, sharing something relevant), that's generally fine. Use common sense. If they don't reply, leave it.
+If you've met someone at an event and want to message them about something sport-related or genuine, use common sense. If they don't reply, leave it. If you're unsure whether a message is appropriate, it probably isn't.
 
 ## What to Avoid
 
-❌ **Referral links** - No referral codes, affiliate links, or "sign up with my link" posts of any kind
+❌ **Referral links & promotions** - No referral codes, affiliate links, ClassPass-style invites, or "sign up with my link" posts of any kind — in groups or via DM
+❌ **Event promotion** - No posting guestlists, nightlife events, third-party fitness events, or invitations to other communities
 ❌ **Spam** - Promotional content, repeated messages, excessive media
 ❌ **Off-topic chat** - Save it for social groups or in person
 ❌ **Negativity** - Complaining without offering solutions
