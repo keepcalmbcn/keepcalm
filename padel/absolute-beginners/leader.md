@@ -1,12 +1,12 @@
 🎯 *LEADER ROLE GUIDE*
 
-Thanks for leading! You'll guide one court of 4-6 beginners through their first session. Your job: teach fundamentals while keeping it fun and sociable!
+Thanks for leading! You'll guide one court of 4 beginners through their first session. Your job: teach fundamentals while keeping it fun and sociable!
 
 ---
 
 📅 *BEFORE THE DAY*
 
-• Decide how many beginners you want to take (4-6 recommended)
+• Decide how many beginners you want to take (4 recommended)
 • Collect payment from your players to cover:
   - Court costs (split between your group)
   - Racket rentals (if needed)
@@ -33,7 +33,7 @@ Thanks for leading! You'll guide one court of 4-6 beginners through their first 
 • Do introductions on court
 • Teach the fundamentals (see below)
 • Keep everyone active - minimise standing around
-• Rotate players frequently (If you have 4+)
+• Rotate players frequently
 • Encouragement over correction!
 • Make it social - chat between points
 • Adapt to your group's level

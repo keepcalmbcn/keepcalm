@@ -5,6 +5,8 @@ Welcome to Keep Calm Padel! To keep things fair and fun for everyone, please fol
 > These rules apply on top of our general WhatsApp rules:
 > https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/whatsapp-rules.md
 
+For rules specific to the organised Sunday sessions (polls, booking, cancellations), see [Sunday Padel - Organised Sessions](#sunday-padel---organised-sessions).
+
 ## 1. Language
 
 English is our primary language in the chat. It's the most inclusive option when we have members from 30+ nationalities and easiest for us to moderate. Feel free to speak whatever you like on court!
@@ -90,6 +92,28 @@ If you're assigned as the booker for a court:
 - Keep things friendly on and off the court
 - No personal attacks, discrimination, or drama
 - One clear message beats ten one-word messages
+
+## Sunday Padel - Organised Sessions
+
+The Sunday padel sessions run on a poll-based system managed by organisers. The following rules apply specifically to that process:
+
+**Booking outside the system**
+- Do not book your own courts and use these groups to recruit players - games are organised centrally so the process is fair for everyone
+- If you want a private game with friends, arrange it privately - not through the community groups
+
+**Poaching players from other games or sports**
+- Do not recruit players who are already committed to another game in the same session - they've made a commitment, respect it
+- Do not recruit players from other Keep Calm sports (tennis, volleyball, etc.) to fill a padel court - go through the normal process
+
+**Chat conduct and responsiveness**
+- Keep the chat focused - excessive noise makes it hard to manage games and communicate with players
+- When an organiser or booker messages you privately about a match, respond promptly - silence causes delays for everyone
+
+**Cancellations - handling it properly**
+- Last-minute dropouts happen, but *how* you handle them matters
+- Don't just drop out and disappear - actively try to find a replacement and keep your court informed
+- A late dropout that's handled well (communication, effort to find cover) is very different from one that isn't
+- Repeated poor handling of cancellations will count against you when spots are allocated
 
 ## Admin Decisions
 
