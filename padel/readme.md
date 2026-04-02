@@ -16,16 +16,11 @@ Part of the larger **Keep Calm and Carry On** not-for-profit community for Engli
 We organize **one week in advance** to ensure everyone gets to play:
 
 ### Timeline
-**Week 1:**
-- **Saturday morning**: Poll opens for NEXT Sunday's games (a week away)
-- **Vote with your availability**: Tell us which time slots work for you
-- **Tuesday evening**: Poll closes
-- **During the week**: Games are organized and posted
+- **Thursday 18:00**: Form opens — vote for the time slots you can play that Sunday
+- **Sunday 22:00**: Form closes (or at 80 responses — first come, first served)
+- **During the week**: Games are organized and posted in the group
 
-**Week 2:**
-- **Sunday**: Games happen! 🎾
-
-This gives everyone plenty of notice and time to plan.
+This gives everyone the week to plan ahead.
 
 ## Fair Play Guarantee
 

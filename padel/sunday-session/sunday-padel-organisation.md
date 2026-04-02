@@ -13,7 +13,7 @@
 - Post `padel-reminder-saturday.md` template to the WhatsApp group.
 - Flag any weather or venue updates.
 
-## Sunday 20:00 — Close Poll & Build Games
+## Sunday 22:00 — Close Poll & Build Games
 - Close the poll (or it auto-closes at 80 responses).
 - Snapshot the poll results.
 - Make a list of players/times/abilities.

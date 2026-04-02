@@ -111,7 +111,7 @@ Transport: Metro L5 to Gavarra or Trains from plasa espanya to Almeda.
 • 15:10 to 15:30+ - Drinks & socializing at the terrace (stay and meet the community!)
 
 **💶 COST**
-€4-6 per person (pay at reception on arrival)
+Around €6 per person (+€2 if renting a racket) — pay at reception on arrival
 
 **🎾 WHAT TO BRING**
 • Your own racket if possible (limited rentals available at €2 - first come, first served!)
@@ -122,7 +122,7 @@ Transport: Metro L5 to Gavarra or Trains from plasa espanya to Almeda.
 
 **📋 ON ARRIVAL**
 1. Meet at **reception** at 13:30 you will be introduced to your leader!
-2. Pay your €4-6 and rent a racket if needed.
+2. Pay around €6 (+ €2 if renting a racket) at reception.
 3. **IMPORTANT: Note your court number and leader name**.
 4. Go to the **outside bar area** to meet your court leader and fellow players.
 5. Your leader will take you to your assigned court when ready.
@@ -208,7 +208,7 @@ Make sure you know where you are going Aurial Pàdel Cornellà by Marta Marrero 
 Quick checklist:
 ✅ Bring your racket if you have one 
 ✅ Bring some form of ID if you are renting a racket (Limited supply first come first serve)
-✅ €4-6 cash/card for court costs + €2 if renting a racket
+✅ Around €6 cash/card (+€2 if renting a racket)
 ✅ Sports clothes & shoes & water
 
 **Reminder**: Meet at **reception at 13:30**, check in, **note your court number & leader name**, then go to the **outside bar area** to meet your leader!

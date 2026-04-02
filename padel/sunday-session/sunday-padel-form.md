@@ -26,7 +26,7 @@ La Sardana - https://maps.app.goo.gl/T35Jr1GwbYLkwASM6 (Secondary)
 🗂 ORGANISATION & RULES
 
 Poll closes:
-Sunday around 20:00 or when there are 80 responses (first come first served).
+Sunday around 22:00 or when there are 80 responses (first come first served).
 An organiser will snapshot the poll and arrange the games.
 
 ⚠️ Cancellation policy:

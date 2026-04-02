@@ -1,177 +1,84 @@
-# Tuesday Tennis — Organiser Guide
+# Tuesday Tennis Organisation Timeline
 
-How to run a smooth Tuesday Tennis session.
+## Wednesday 18:00 — Post the Event
+- Create a WhatsApp event for the Tuesday **two weeks away** and pin it.
+- Include venue (Up Cornellà), approximate time (19:30 or 20:30 TBC), cost (~€8–10), and a prompt to drop level in comments (Beginner / Improver / Intermediate / Advanced).
+- Check venue availability so you can flag any issues early.
 
----
+## Tuesday Night (Following Week) — Event Closes
+- The event closes Tuesday night. Do a final check of the Going list and note any last-minute additions.
+- Players who joined the group after the event was posted won't see it — check for any messages in the chat from people wanting to join and add them manually.
 
-## Weekly Cycle
+## Wednesday (During the Day) — Build Courts & Post
+- Group players by level: **Beginner / Improver / Intermediate / Advanced**.
+- Assign 4 players per court and designate a **booker** for each court.
+- Check court availability on Playtomic for 19:30 or 20:30 — prefer clay (Batida), adjacent court numbers where possible (e.g., Batida 6, 8, 10, 12).
+- Book court 1 yourself. Message each other booker with their court number and time.
+- Post the match schedule using the [court post template](tuesday-tennis-courts.md) — **this must go out Wednesday so bookers have time to book before courts sell out.**
 
-The tennis schedule runs on a two-week rolling cycle. Here's exactly what happens each week:
+Use the [court post template](tuesday-tennis-courts.md) for the full WhatsApp message format.
 
----
+**Always tag all 4 players** in each court post so they receive the Playtomic link and know to book promptly.
 
-### Wednesday 18:00 — Post the Event
+## Between Wednesday and Tuesday — Manage Dropouts
+- If someone drops out: post in the group asking for a replacement.
+- If a court drops to 3 players close to the day: ask if they're happy to split the cost 3-ways, or cancel before 10:00 on the day (€0.50 fee).
+- No-shows: message privately first before escalating.
 
-Create a WhatsApp event for the Tuesday **two weeks away** and pin it.
-
-Include in the event description:
-```
-🎾 Tuesday Evening Tennis [DATE in 2 weeks] 🎾
-
-Venue: Barcelona Pro Tennis Academy (Up Cornellà)
-Meet: Plaça Espanya ~45 min before court time
-Time: 19:30 or 20:30 (90 min) — TBC based on availability
-Cost: ~€8–10 per person
-
-Tap Going to sign up! Drop your level in the comments:
-Beginner / Improver / Intermediate / Advanced
-```
-
-Pin the event so new members can find it easily.
-
----
-
-### Tuesday 18:00 (one week later) — Event Closes
-
-- Review the Going list and note each player's level from the comments
-- Plan court split: aim to group players by level where possible
-- If numbers are low (fewer than 4), reach out to fill spots before the evening
+## Tuesday — Day of Session
+- Remind players to **meet at Plaça Espanya ~45 minutes before** court time.
+- Bring spare rackets and make sure someone has tennis balls (not padel balls).
+- After the session: post a recap or group photo — useful for recruitment.
 
 ---
 
-### Tuesday Evening — Book the Courts (After Tennis)
+# Booking Notes
 
-After this week's tennis session, book the courts for next Tuesday on Playtomic.
+### Court preference
+- **Clay (Tierra Batida)**: ~€39 for 90 min → ~€10 per person. Group preference. Courts numbered Batida 1–12 at Up Cornellà.
+- **Quick court (hard)**: ~€31.20 for 90 min → ~€7.80 per person. Use when clay is unavailable or rain is forecast.
+- **Rain**: cancel clay courts before 10:00 on the day (€0.50 fee). Switch to quick court if available; otherwise cancel fully.
 
-**At Up Cornellà:**
-1. Open Playtomic
-2. Search for "Barcelona Pro Tennis Academy"
-3. Select next Tuesday and browse available courts
-4. Book **90-minute quick court(s)** at 19:30 or 20:30
-5. If multiple courts needed, coordinate with a second person to book simultaneously
-6. Note each court's players based on the poll levels
+### Timing
+- **19:30** is preferred but often sold out. **20:30** is more reliably available.
+- Both are fine — communicate the time clearly so players can plan travel.
 
-**At Vall d'Hebron (if chosen):**
-- Booking window opens 24–48 hours before
-- Set an alarm for when the window opens — slots go fast
-- Only 60-minute slots available; you'll need to book two consecutive slots for a full session
+### Booker model
+Each court has a designated booker who books via Playtomic and shares the link. The lead organiser coordinates court numbers and times so all courts start simultaneously and sit near each other.
 
-**Court booking post template:**
-```
-*MATCH IN BARCELONA PRO TENNIS ACADEMY (UP CORNELLÀ)*
-
-📅 Tuesday [DATE], [TIME] (90min)
-📍 Cornellá de Llobregat
-✅ [Your name]
-⚪ ??
-⚪ ??
-⚪ ??
-[Playtomic link]
-
-@Player1 @Player2 @Player3
-```
-
-For multiple courts, post each court separately and tag the respective players.
+### Joker role
+If the organiser (or another experienced player) doesn't have a fixed court, they can act as a **joker** — available to fill any last-minute gap, carry spare rackets, or help newcomers find their court.
 
 ---
 
-### Wednesday (next day) — Post Courts & Open New Event
+# Level Notes
 
-- Post each court's booking in the WhatsApp group (see template above) and tag the relevant players
-- Simultaneously post the next event for the Tuesday **two weeks away** — this keeps the cycle running
+### Four-tier system
+| Level | Description |
+|-------|-------------|
+| Beginner | Never or barely played. Still learning to rally, serve, and score. |
+| Improver | Played before but rusty. Can rally and serve, technique is a work in progress. |
+| Intermediate | Regular player with solid fundamentals. Consistent serve, good court awareness. |
+| Advanced | Competitive or ex-competitive. High consistency, tactical play, has played at club/tournament level. |
 
----
+### Playtomic ratings (0–7 scale)
+These can supplement the four-tier system as a rough reference:
+- ~0.5–1.5 → Beginner
+- ~1.5–2.5 → Improver
+- ~2.5–3.5 → Intermediate
+- ~3.5+ → Advanced
 
-### Between Wednesday and Tuesday — Manage Player Slots
-
-If someone drops out after being tagged:
-- Post in the group asking for a replacement
-- Try to fill the slot before the day of the game
-- If a court drops below 4 players with less than 24 hours to go, ask if 3 players are happy to split the cost between them, or cancel and claim the €0.50 refund
-
----
-
-### Tuesday — Day of Session
-
-- Remind everyone to **meet at Plaça Espanya ~45 minutes before** court time
-- Check in with players in the morning if anything looks uncertain
-- After the session: post a thumbs-up/summary and then **book next week's courts** (the cycle restarts)
+Keep a running note of each regular player's level so you're not asking every week.
 
 ---
 
-## Booking Tips
+# Venue Quick Reference
 
-### Why the two-week cycle matters
-Up Cornellà has a 7-day booking window. By posting the event two weeks ahead, we collect the Going list one week before the game — and then book the court that Tuesday evening after tennis. This means courts are secured 6–7 days out, which is when the best slots are still available. Waiting until the week of the game (or even Monday that week) often leaves only late slots or nothing at 19:30/20:30.
+| Venue | Booking Window | On Playtomic | Session |
+|-------|---------------|-------------|---------|
+| Up Cornellà (main) | 7 days | ✅ | 90 min clay |
+| CN Montjuïc | Few days | ✅ | 90 min |
+| Vall d'Hebron | 24–48 hours | ✅ | 60 min only |
+| CET10 Olimpia | 48 hours | via "find a match" | 60–90 min |
 
-### Quick court vs clay
-- **Quick court** (hard): €31.20 for 90 min → €7.80 each. Cheaper and usually more available. Shoes don't get dirty.
-- **Clay**: €39 for 90 min → €10 each. Better for technique, but shoes get orange dust on them. Some players prefer it.
-- When in doubt, book quick court — it's cheaper and the difference in play isn't significant at our level.
-
-### When courts are only available at 20:30
-This is common — accept it rather than cancelling. Players generally prefer a late game to no game. Just communicate the time clearly so everyone can plan their evening.
-
-### Two courts
-If you have 8+ confirmed players, try to book two courts at the same time. Having two people try to book simultaneously (one books court A, one books court B) works well. Courts go fast so don't wait for one to confirm before the other books.
-
-### Court split by level
-When organising two courts, try to balance:
-- Evenly matched players make for better games
-- Aim for one court per skill tier when possible
-- In practice: if you know players' levels, group them; otherwise just split evenly
-
----
-
-## Managing Dropouts
-
-### Before the game (5+ days)
-- Player tells the group, tries to find a replacement
-- If no replacement: 3-person court is still possible (one person sits out each game/rotates)
-
-### Last minute (under 24 hours)
-- Post urgently in the group looking for a replacement
-- If confirmed player drops out and can't find replacement, they may owe their share per group rules (see [rules.md](../rules.md))
-- Cancellation at Up Cornellà costs €0.50 if done before 10:00 on the day
-
-### No-show
-- Treat as a strike per group rules
-- Message privately first to understand circumstances before escalating
-
----
-
-## Venue-Specific Notes
-
-### Up Cornellà
-- Very straightforward booking on Playtomic
-- Good cancellation policy (€0.50 up until 10:00 day-of)
-- Closest train stop is Cornellà (L8/S3 from Espanya)
-- Bar/restaurant next to the courts for post-game drinks
-- Courts are numbered — players can check the booking in Playtomic to see their court number
-
-### Vall d'Hebron
-- The venue is large and confusing to navigate the first time
-- Courts are near the restaurant/reception area — not the first set of courts you see on arrival
-- Share a specific location pin, not just the venue address
-- Only 60-minute slots — consider booking two in a row (18:00–19:00 and 19:00–20:00)
-- The booking window is tight, so someone needs to be watching the clock
-
----
-
-## Growing the Group
-
-Tuesday Tennis is still a young group. A few things that help:
-
-- **Consistency**: A game every week (even a small one) builds habit and attracts regulars
-- **Posting outcomes**: A photo or quick recap after a session builds energy and encourages others to join
-- **Welcoming newcomers**: The first time someone joins is when they decide if they'll come back — make it easy
-- **Flexibility on venue**: Some members can't make Cornellà regularly. Rotating to Vall d'Hebron occasionally brings in people who wouldn't otherwise join
-
----
-
-## Helpful Contacts / Links
-
-- **Playtomic app**: [app.playtomic.com](https://app.playtomic.com/)
-- **Up Cornellà on Playtomic**: [Link](https://playtomic.io/tenant/9ce272f4-5039-4b6a-8f07-0c206712d06a)
-- **Eurofitness Vall d'Hebron on Playtomic**: Search in app
-- **Keep Calm website**: [keepcalm.fit](https://keepcalm.fit/)
+See [Venues](tuesday-tennis-venues.md) for full details.

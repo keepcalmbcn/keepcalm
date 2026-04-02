@@ -9,7 +9,12 @@ A weekly tennis session organised through the Keep Calm and Carry On community �
 Everyone! The group has a mix of people returning to tennis after years away, padel players trying tennis, and those who've never played properly. You don't need to be good — just willing to give it a go.
 
 ### What level is the group?
-We use four levels — **Beginner, Improver, Intermediate, and Advanced** — and try to split courts by level when numbers allow. Most of the regular Tuesday players currently sit at **Improver** level: people who've played before but are getting back into it after a gap. Expect decent rallies, the occasional double fault, and good banter.
+We use four levels — **Beginner, Improver, Intermediate, and Advanced** — and split courts by level when numbers allow. The group has grown significantly and now regularly fills 3–4 courts. On a typical evening you'll find:
+- **Beginner/Improver courts**: getting back into tennis, short rallies, double faults, good banter
+- **Intermediate courts**: consistent serve and groundstrokes, proper sets
+- **Advanced courts**: ex-competitive or club-level players
+
+The organiser assigns courts based on your stated level before the game.
 
 See [What level am I?](#what-level-am-i) below for full descriptions.
 
@@ -18,9 +23,11 @@ See [What level am I?](#what-level-am-i) below for full descriptions.
 ## The Weekly Session
 
 ### When do you play?
-**Every Tuesday evening** at **19:30 or 20:30** for 90 minutes at Barcelona Pro Tennis Academy (Up Cornellà).
+**Every Tuesday evening** for 90 minutes at Barcelona Pro Tennis Academy (Up Cornellà).
 
-We meet at **Plaça Espanya** approximately **45 minutes before** court time and travel to the venue together. It's a short L8/S3 train ride from there — a good chance to get to know people before you play.
+Court time is **19:30 or 20:30** depending on availability. The exact time is confirmed the week of the game — check the pinned court booking post, not the event itself.
+
+We meet at **Plaça Espanya** approximately **45 minutes before** court time and travel to the venue together. It's a short train ride from there — a good chance to get to know people before you play.
 
 ### How long is the session?
 **90 minutes** is our standard. That's enough time for 2 sets of doubles. 60-minute sessions feel a bit short, especially when you've travelled to get there.
@@ -40,15 +47,17 @@ Cost is split equally between 4 players per court and paid through Playtomic.
 ## Joining a Session
 
 ### How do I join the weekly session?
-1. Watch for the **event posted every Wednesday** — it covers the Tuesday **two weeks away**
+1. Watch for the **event posted on Wednesday** — it covers the Tuesday **two weeks away**
 2. Tap **Going** and drop your level in the comments (Beginner / Improver / Intermediate / Advanced)
-3. Courts are booked the following week via Playtomic
-4. You'll be tagged in the booking post — accept the Playtomic invite and pay your share
+3. The **following Wednesday**, the poll closes and the organiser builds the courts by level
+4. Court booking posts are shared in the group with you **tagged** — accept your Playtomic invite and pay your share
 5. Meet at **Plaça Espanya** ~45 minutes before court time
 6. Show up on Tuesday!
 
+**If you joined after the event was posted**, you won't see it in your chat. Just post in the group saying you want to play and your level — the organiser will add you to the pool.
+
 ### I just joined the group — how do I sign up for the next session?
-Watch for the event in the WhatsApp group. If no event is visible (check pinned messages), just post in the group saying you want to play and the organiser will add you.
+If you joined after the current event was posted, you won't see it. Just post in the group saying you want to play and your level — the organiser will add you to the matchup list for that week.
 
 ### Can I join if I haven't played in years?
 Absolutely. Most of the regular players are in exactly that position. Just be honest about your level so you get matched appropriately.
@@ -110,7 +119,7 @@ One person (the **booker**) books the court on Playtomic and shares the link in 
 4. Post the link in the WhatsApp group and tag your 3 players
 
 ### Why do you post events two weeks in advance?
-Evening slots are **very popular** and disappear fast. The event opens on **Wednesday at 18:00** and closes the following **Tuesday at 18:00**. That same Tuesday evening, after tennis, the organiser books the courts for the week after on Playtomic. Court assignments are then posted on **Wednesday**. This two-week cycle means we always book 6–7 days ahead — the sweet spot for securing 19:30 or 20:30 slots. Groups that wait until the week of the game regularly find nothing available.
+Evening slots are **very popular** and disappear fast. The event opens on **Wednesday** and collects RSVPs over the following week. The **following Wednesday**, the poll closes, the organiser builds the courts and posts the Playtomic links. This two-week cycle means courts are secured 6–7 days ahead — the sweet spot for securing slots at 19:30 or 20:30. Groups that wait until the week of the game regularly find nothing available.
 
 ### What is the cancellation policy?
 At Up Cornellà: you can cancel for a €0.50 fee up until 10:00 on the day of the match. If you cancel after that window, you may still owe your share — see the [group rules](../rules.md) for details.
@@ -120,16 +129,18 @@ At Up Cornellà: you can cancel for a €0.50 fee up until 10:00 on the day of t
 ## Venues & Getting There
 
 ### Where do you usually play?
-Our main venue is **Barcelona Pro Tennis Academy (Up Pádel & Tennis Cornellà)** in Cornellà de Llobregat.
+Our main venue is **Barcelona Pro Tennis Academy (Up Cornellà)** in Cornellà de Llobregat. We book the clay courts (Tierra Batida) here when available.
 
-We also use **Eurofitness Vall d'Hebron** when we want something closer to the city centre.
+We also use **CN Montjuïc** for sessions closer to the city centre — it's on Playtomic and has good evening availability.
+
+**Eurofitness Vall d'Hebron** is occasionally used but tricky to organise for larger groups (60-minute slots only, 24–48h booking window).
 
 See [Venues](tuesday-tennis-venues.md) for full details on all venues.
 
 ### Is Cornellà far?
 About 40 minutes from the city centre by public transport:
 - **L3** (green line) from Plaça Catalunya or Passeig de Gràcia → Espanya
-- Then **L8 or S3** from Espanya → Cornellà station (right next to the club)
+- Then **L8, S8, or R5** from Espanya → Cornellà-Riera station (right next to the club)
 
 It's a comfortable seated train — much nicer than a standing metro through the city. Most players find it worth it for the reliable 7-day booking window and 90-minute courts.
 
@@ -197,7 +208,8 @@ See [Group Rules](../rules.md) for the full cancellation policy.
 Yes! The Tuesday session is the official Keep Calm game, but you can post in the group anytime to find hitting partners, book a casual court at the weekend, or organise a session at a venue closer to your area. The group has members from across Barcelona with different availability — just put it out there.
 
 ### Do you play on weekends?
-Not as an organised group session currently. But members do self-organise weekend games — post in the group if you're looking for weekend partners.
+Not as an organised group session, but members self-organise weekend games regularly — post in the group if you're looking for partners. CEM Olimpia (CET10 Olimpia) and CN Montjuïc are popular choices for informal weekend sessions.
 
 ### Is there a beginners session?
-Not yet for tennis, but watch the group for announcements. Keep Calm runs beginner padel sessions, and something similar for tennis may be organised as the group grows.
+Not a dedicated beginners session currently, but beginner-level courts run as part of the Tuesday session as the group has grown. If you're a beginner, just say so when you sign up — you'll be put in a court with players at a similar level.
+
