@@ -17,19 +17,19 @@ Thanks for leading! You'll guide one court of 4 beginners through their first se
 
 🏟️ *ON THE DAY*
 
-⏰ *LEADER BRIEFING (13:00-13:30)*
+⏰ *LEADER BRIEFING (12:00-12:30)*
 • Arrive early for the briefing
 • Meet fellow leaders
 • Get your court assignment
 
-🚪 *PLAYER ARRIVAL (13:30-14:00)*
+🚪 *PLAYER ARRIVAL (12:30-13:00)*
 • Gather all your beginners at the outside bar area
 • Introduce yourself & learn names
 • Check everyone has a racket (collect rental rackets if needed)
 • Chat and build rapport
 • Lead your group to your court when ready
 
-🎾 *DURING SESSION (14:00-15:00)*
+🎾 *DURING SESSION (13:00-14:00)*
 • Do introductions on court
 • Teach the fundamentals (see below)
 • Keep everyone active - minimise standing around
@@ -48,8 +48,8 @@ Thanks for leading! You'll guide one court of 4 beginners through their first se
 7. Playing off the glass (keep it simple!)
 8. Point system (15, 30, 40, game)
 
-📸 *AFTER SESSION (15:00+)*
-• At 15:00 sharp - stop play, gather your players
+📸 *AFTER SESSION (14:00+)*
+• At 14:00 sharp - stop play, gather your players
 • Lead group to bar area for group photo
 • Thank your players
 • Tell them about Keep Calm & future sessions

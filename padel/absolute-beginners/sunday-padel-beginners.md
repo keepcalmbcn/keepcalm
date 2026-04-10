@@ -92,9 +92,9 @@ Ask participants:
 
 ### Initial Announcement Message (Send in Advance)
 
-Hey everyone! (Sorry for the late message) 👋
+Hey all! 👋
 
-We're so excited to welcome you to our **Keep Calm Absolute Beginners Padel Session** on **Sunday, 1st Febuary**!
+We're so excited to welcome you to our **Keep Calm Absolute Beginners Padel Session** on **Sunday, 19th April**!
 
 Here's "Almost" everything you need to know:
 
@@ -104,28 +104,30 @@ Aurial Pàdel Cornellà by Marta Marrero https://maps.app.goo.gl/p41A851rS9hVDm2
 Transport: Metro L5 to Gavarra or Trains from plasa espanya to Almeda.
 
 **⏰ SCHEDULE**
-• 13:00 to 13:30 - Leaders and helpers should arrive for briefing.
-• 13:30 to 14:00 - Arrival & check-in at reception, then meet at outside bar area.
-• 14:00 to 15:00 - Your leader leads, the session begins!
-• 15:00 to 15:10 - Return to outside bar area for group photo & speech!
-• 15:10 to 15:30+ - Drinks & socializing at the terrace (stay and meet the community!)
+• 12:30 to 13:00 - Arrival & check-in by reception.
+• 13:00 to 14:00 - Your leader leads, the session begins!
+• 14:00 to 14:10 - Return to outside bar area for group photo & dans speech 😬!
+• 14:10 to 15:00 - Drinks & socializing at the terrace (stay and meet the community!)
 
 **💶 COST**
-Around €6 per person (+€2 if renting a racket) — pay at reception on arrival
+Around €6 per person - your leader will provide a playtomic link
+Also +€2 if you are renting a racket! (you will need ID at reception)
+
 
 **🎾 WHAT TO BRING**
 • Your own racket if possible (limited rentals available at €2 - first come, first served!)
-• Padel balls if you have them (the organiser will bring 2-4 used balls per court, but extra balls are always helpful! You can also buy them at the venue)
+• Padel balls if you have them (the organiser will also bring 2-4 used balls per court, but extra balls are always helpful! You can also buy them at the venue)
 • Water bottle (or buy for €2 at venue)
 • Sportswear & trainers
-• Some ID (may be needed for racket rental)
+• Sunscreen (it will be hot!)
+• Some ID (Will be needed for racket rental)
 
 **📋 ON ARRIVAL**
-1. Meet at **reception** at 13:30 you will be introduced to your leader!
-2. Pay around €6 (+ €2 if renting a racket) at reception.
-3. **IMPORTANT: Note your court number and leader name**.
-4. Go to the **outside bar area** to meet your court leader and fellow players.
-5. Your leader will take you to your assigned court when ready.
+1. Meet at **reception** at 12:30 you will be introduced to your leader!
+2. Pay €2 at reception if renting a racket.
+3. **IMPORTANT: Remeber your court number and leader name**.
+4. Go to the **outside bar area** to meet your court leader and/or fellow players.
+5. Your leader will take you to your assigned court when ready. (around 13:00)
 6. Keep your belongings near the court but off the playing area.
 7. **Let your leader or the organiser know** about any issues or important information (e.g. medical conditions, injuries) so we can support you.
 
@@ -139,7 +141,6 @@ Check out this beginner's guide video to get familiar with the basics before Sat
 https://youtu.be/V_Gqgbk7Yxw
 
 **📱 DOWNLOAD THE PLAYTOMIC APP**
-While we won't be using it for this session (we've booked out the whole venue!), for future games please download the Playtomic app:
 • We use Playtomic to organize our regular Keep Calm sessions and manage court assignments
 • You can also join courts outside of our community
 • Access tournaments and training sessions
@@ -151,7 +152,6 @@ Google Play : https://play.google.com/store/apps/details?id=com.playtomic&hl=en
 Apple Store: https://apps.apple.com/us/app/playtomic-padel-pickleball/id1242321076
 
 As a side not if any of you would like to book a secondary game to play amongst yourselfs (as i know some of you are traveling far) you could do this via the app or reception on the day!
-
 
 **🫡 AND FINALLY**
 
@@ -211,12 +211,12 @@ Quick checklist:
 ✅ Around €6 cash/card (+€2 if renting a racket)
 ✅ Sports clothes & shoes & water
 
-**Reminder**: Meet at **reception at 13:30**, check in, **note your court number & leader name**, then go to the **outside bar area** to meet your leader!
+**Reminder**: Meet at **reception at 12:30**, check in, **note your court number & leader name**, then go to the **outside bar area** to meet your leader!
 
 The weather is looking awesome so we're all set for a great session!
 
 Remember: This is a absolute beginners session, so no pressure - just come ready to have fun and learn something new!
 
-**Don't forget**: At 15:00 we'll gather at the outside bar area for a group photo, then stick around for drinks to meet other players! 🍻
+**Don't forget**: At 14:00 we'll gather at the outside bar area for a group photo, then stick around for drinks to meet other players! 🍻
 
 Any questions and/or concerns  please do get in touch in a few hours! 🎾

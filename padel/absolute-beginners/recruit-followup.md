@@ -4,7 +4,7 @@ We're a few people short so if you've been thinking about it please do get invol
 
 This session is what keeps the community growing. Every new face you see on a Sunday started somewhere 🙂
 
-14:00 to 15:00 at *Aurial Pàdel Cornellà*, usual Sunday session straight after.
+13:00 to 14:00 at *Aurial Pàdel Cornellà*, usual Sunday session straight after.
 
 For full details on both roles: https://github.com/keepcalmbcn/keepcalm/tree/main/padel/absolute-beginners
 

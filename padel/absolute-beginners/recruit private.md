@@ -6,7 +6,7 @@ You've been part of Keep Calm for a while now and that's exactly why I'm coming 
 
 The role is simple: you'd lead a group of 4 complete beginners through their first hour on court, teaching the basics, keeping it fun, and making them feel welcome. You don't need to be a padel expert, you just need to be you. And honestly it's a really fun day out. You get to spend it alongside other long-term Keep Calm members, meet a fresh bunch of people, and there's something pretty special about being the reason someone falls in love with padel.
 
-It's 14:00 to 15:00 at Aurial Pàdel Cornellà, with the usual Sunday session straight after so you can get your games in too.
+It's 13:00 to 14:00 at Aurial Pàdel Cornellà, with the usual Sunday session straight after so you can get your games in too.
 
 More details on what's involved: https://github.com/keepcalmbcn/keepcalm/tree/main/padel/absolute-beginners
 

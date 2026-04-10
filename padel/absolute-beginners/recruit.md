@@ -6,7 +6,7 @@ These sessions are how we grow our community from the ground up — giving compl
 
 Both roles are voluntary — your time and energy is what makes this possible. If you're an intermediate or advanced player, we'd especially love for you to get involved if you have the capacity! In return, it's a brilliant chance to meet new people, strengthen your connection to the community, and be part of something that genuinely matters. No advanced padel skills needed, just enthusiasm!
 
-📍 *Aurial Pàdel Cornellà* — 14:00 to 15:00, with the usual Sunday session to follow straight after!
+📍 *Aurial Pàdel Cornellà* — 13:00 to 14:00, with the usual Sunday session to follow straight after!
 
 For full details on both roles, check: https://github.com/keepcalmbcn/keepcalm/tree/main/padel/absolute-beginners
 
