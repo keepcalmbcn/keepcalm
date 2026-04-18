@@ -15,7 +15,7 @@ Part of the larger **Keep Calm and Carry On** not-for-profit community for Engli
 **Every Thursday**
 - **Time**: 18:00 - 21:00 (approximately 2-3 hours)
 - **Location**: Sants outdoor tables - [Google Maps](https://maps.app.goo.gl/Y7rTeKDC61sYLTvh9)
-- **Capacity**: 20 players (5 tables, 4 players per table)
+- **Capacity**: ~16 players (3 main tables + nearby overflow)
 - **Weather dependent**: Cancelled if raining
 
 ## How It Works
