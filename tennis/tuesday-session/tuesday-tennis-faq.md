@@ -69,26 +69,25 @@ Yes! The more the merrier. If you want to bring someone, just mention it in the 
 
 Pick the level that honestly describes where you are **right now** — not where you used to be or hope to be.
 
-**Beginner**
-- Never or barely played tennis
-- Still learning how to rally, serve, and score
-- Perfect for: starting from scratch, building confidence
+#### *Beginner*
+- **Shotmaking:** Learning the basic forehand and backhand, a simple serve, and a basic return, with emphasis on clean contact, simple swing shapes, and early coordination.
+- **Rallying & movement:** Learning to sustain cooperative rallies, move to the ball, and recover after each shot, with emphasis on balance, spacing, and keeping the ball in play.
+- **Game understanding:** Learning scoring, court positioning, and the basic logic of point play, with emphasis on awareness of space and making simple intentional choices.
 
-**Improver**
-- Played before but rusty, or just getting back into it after a long break
-- Can get the ball over the net and hold a rally, but technique and consistency are works in progress
-- Expect: short rallies, double faults, improving match by match
-- This is where most of our regular Tuesday players currently sit
+#### *Improver*
+- **Shotmaking:** Building more reliable groundstrokes, serve, and return, with emphasis on repeatable mechanics, better timing, directional control, and the early use of net play and spin variation.
+- **Rallying & movement:** Developing more stable rallies, with emphasis on consistent movement, better court coverage, and improved control of direction and depth.
+- **Game understanding:** Building awareness of point construction and recovery position, with emphasis on basic tactical patterns and connecting practice tennis with match play.
 
-**Intermediate**
-- Regular player with solid fundamentals
-- Consistent serve and groundstrokes, good court awareness, understands tactics
-- Can play competitive sets and hold their own in a doubles match
+#### *Intermediate*
+- **Shotmaking:** Refining a solid all-round game, with emphasis on dependable serve and return, controlled topspin and slice, functional volleys and overheads, and maintaining quality under greater pace and pressure.
+- **Rallying & movement:** Developing consistent rally tolerance, with emphasis on balance, recovery, and controlling rallies through pace, depth, and direction.
+- **Game understanding:** Strengthening tactical awareness, with emphasis on purposeful shot selection, pattern recognition, and useful match adjustments.
 
-**Advanced**
-- Competitive or ex-competitive player with strong technique
-- High level of consistency, tactical play, and shot variety
-- Has played at club or tournament level
+#### *Advanced*
+- **Shotmaking:** Sharpening a complete and adaptable game, with emphasis on varied spins, confident net play, transitional shots, serve and return quality, and deliberate use of pace, shape, and direction.
+- **Rallying & movement:** Developing high-level rally control, with emphasis on movement efficiency, sustained ball quality, and intelligent court positioning.
+- **Game understanding:** Deepening tactical mastery, with emphasis on reading opponents, imposing patterns, and executing under pressure.
 
 Not sure? Default to **Improver** — it's easier to move up than to feel out of your depth in the wrong court.
 
