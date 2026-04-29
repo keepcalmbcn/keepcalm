@@ -17,3 +17,6 @@ What were the bad points
 How would you improve the event?
 
 Anything else.
+
+Racket rental pay before going.
+

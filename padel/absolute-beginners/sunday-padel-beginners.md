@@ -4,6 +4,7 @@
 - **Venue**: Aurial Pàdel Cornellà by Marta Marrero
 - **Frequency**: Aim to run one beginner session per month (ideally first week of month)
 - **Timing**: Leave a 30-60 minute break between beginner session and regular padel session
+- **Court Size**: 4 players per court is ideal. In extreme circumstances 5-6 is possible, but this has been tried and found to cause more stress for everyone and isn't worth it — stick to 4.
 - **Equipment**: 2 balls per player per court (the organiser will aim to bring these or players can bring their own)
 
 ## Pre-Event Setup
@@ -75,6 +76,7 @@ Ask participants:
 - **At the end of the hour, bring players back to the outside bar area for the group photo**
 - **Tell players about the main Keep Calm padel community and how we organize regular games through the Google Form system**
 - **Encourage players to make friends and swap contact details with other beginners** - recommend they follow each other on Playtomic so they can arrange games together in future
+- **Create a WhatsApp group for your court's beginners** - this group should be used to share updates, answer questions, and build an ongoing relationship with the players. Add all players from your court and stay active in it after the event.
 
 ### Topics to Cover with Beginners
 1. **How to hold the racket** - Proper grip technique
@@ -89,6 +91,15 @@ Ask participants:
 ---
 
 ## WhatsApp Message Templates
+
+See the [templates/](templates/) folder for all message templates:
+
+- [event-initial-announcement.md](templates/event-initial-announcement.md) — sent in advance to the main event group
+- [event-day-before.md](templates/event-day-before.md) — sent the day before to the main event group
+- [event-day-of-morning.md](templates/event-day-of-morning.md) — sent on the morning of the event
+- [leader-court-group-intro.md](templates/leader-court-group-intro.md) — sent by leaders when setting up their court's WhatsApp group
+
+---
 
 ### Initial Announcement Message (Send in Advance)
 
@@ -164,33 +175,26 @@ Most importantly if you cant make it please do let us know ASAP not on the day!
 
 ### Day-Before Message
 
-Hey everyone! 👋
+Hey All! 👋
 
 Just a quick update before the big day!
 
-We're thrilled to confirm that we have *over 80 people* signed up for this session - what an incredible turnout! Everything is looking great, including the weather, so we're all set for an amazing day! ☀️
+We're thrilled to confirm that we have *around 60 people* signed up for this session - what an incredible turnout! Everything is looking great, including the weather, so we're all set for an amazing day! ☀️
 
 📍 *GETTING THERE*
-Make sure you know how to get to the venue:
-Aurial Pàdel Cornellà by Marta Marrero
-https://maps.app.goo.gl/p41A851rS9hVDm2RA
+Make sure you know how to get to the venue: Aurial Pàdel Cornellà by Marta Marrero (https://maps.app.goo.gl/p41A851rS9hVDm2RA)
 
 🎯 *MOST IMPORTANTLY*
-This event is all about meeting new people, building community, and enjoying the sport together! It's *not* meant to be competitive in any way - we have other padel sessions for that. So please bring positive vibes and a big smile! 😊
+This event is all about meeting new people, building community, and enjoying the sport together! It's *not* meant to be competitive in any way - we have other sunday padel sessions for that. So please bring positive vibes and a big smile! 😊
 
 🤝 *GET TO KNOW YOUR GROUP*
 This is a social event as much as a sports one! If you have time before Sunday, try to learn a little bit about the others in your group - it makes the day even more enjoyable when you already have some connections!
 
-📺 *BRUSH UP ON THE RULES*
-If you have some spare time, please watch this video about the basic rules of padel - it'll help ease the burden of remembering everything while you're trying to enjoy the sport!
-https://youtu.be/V_Gqgbk7Yxw
+🫂 *KEEP CALM COMMUNITY*
+If you haven't already, visit https://keepcalm.fit to find the padel group chat — and feel free to join any other groups that interest you!
 
-👥 *BRING A FRIEND?*
-We've had a few dropouts, so if you have friends who'd like to join, please pass on my information and we'll see if we can fit them into any gaps on the courts!
-
-📱 *DOWNLOAD PLAYTOMIC*
-If you plan on playing padel with us in the future, please make sure you download the Playtomic app and create yourself an account:
-https://playtomic.com/
+⚠️ *NOT YET CONFIRMED?*
+If you haven't been added to a Playtomic court or heard from your court leader, you are *not yet confirmed* for the session. Please get in touch with me as soon as possible so we can get you sorted!
 
 ❓ *QUESTIONS OR CONCERNS?*
 If you have any questions or issues on the day, speak to your court leader - they're there to help!

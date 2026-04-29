@@ -7,11 +7,11 @@ Thanks for leading! You'll guide one court of 4 beginners through their first se
 📅 *BEFORE THE DAY*
 
 • Decide how many beginners you want to take (4 recommended)
-• Collect payment from your players to cover:
-  - Court costs (split between your group)
-  - Racket rentals (if needed)
+• **A player is only confirmed when they have paid on Playtomic — a "yes" in WhatsApp does not count**
+• Your task before the event is to get all 4 players to pay on Playtomic, not just to say they're coming
+• Chase any unpaid players and let the organiser know if someone hasn't paid — don't assume they'll sort it on the day
 • Review teaching topics (see below)
-• Confirm your players are coming
+• **Create a WhatsApp group for your court's beginners** and add all your players — use this to introduce yourself, share updates, answer questions, and keep the relationship going after the event. Use the template in [templates/leader-court-group-intro.md](templates/leader-court-group-intro.md)
 
 ---
 

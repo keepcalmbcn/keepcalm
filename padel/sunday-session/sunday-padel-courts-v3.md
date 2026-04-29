@@ -100,12 +100,13 @@ Process:
 
 **Step 3.2 - Booker assignment process**
 1. Start with 16:00 courts, assign bookers (first eligible player per court)
-2. Add each booker to your "Already Booking" list
-3. Move to 17:30 courts
-4. For each court, check if first listed player is already booking
-5. If yes, move to next player on that court who isn't already booking
-6. Once a booker is identified, REORDER the court so the booker is listed first
-7. Continue until all courts have a unique booker listed first
+2. For beginner games everyone should be a booker (anyone can book)
+3. Add each booker to your "Already Booking" list
+4. Move to 17:30 courts
+5. For each court, check if first listed player is already booking
+6. If yes, move to next player on that court who isn't already booking
+7. Once a booker is identified, REORDER the court so the booker is listed first
+8. Continue until all courts have a unique booker listed first
 
 **Step 3.3 - Final booker verification**
 Create a numbered list of ALL bookers and their assigned courts. Verify:
@@ -133,7 +134,7 @@ Before generating final output, verify each item:
 - [ ] Spare places marked with _Spare Place_
 
 **Booker verification:**
-- [ ] Every court has exactly one booker
+- [ ] Every court has exactly one booker (apart from beginners where every player is a booker)
 - [ ] No player is booker more than once
 - [ ] Bookers are marked with 📋 _Booker_
 - [ ] Every booker is the FIRST player listed on their court
