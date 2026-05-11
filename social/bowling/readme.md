@@ -24,7 +24,7 @@ For dates, prices, and format see [event.md](event.md).
 ## Past Events
 
 - **7th May 2026** — 13 tickets, great turnout
-- **14th May 2026** — 28 tickets, 2 games each
+- **14th May 2026** — 14 spots (28 tickets, 2 games each)
 
 ## Organiser
 

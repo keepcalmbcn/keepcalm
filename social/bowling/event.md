@@ -8,8 +8,8 @@
 | 📍 Venue | Bowling Ilusiona, Gran Vía 2 (2nd floor) |
 | 🕗 Time | 8:00pm |
 | 💶 Cost | €1 to bowl / €4 with a beer + snacks |
-| 🎟️ Spots | 28 tickets — first come, first served |
-| 🎳 Format | ~14 people, 2 games each, max 6 per lane |
+| 🎟️ Spots | 14 spots — first come, first served |
+| 🎳 Format | 28 tickets, 2 games each, max 6 per lane |
 | 🕹️ Before | Arcade and socialising |
 | 🍻 After | Beers and hanging out nearby |
 

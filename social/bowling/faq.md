@@ -21,7 +21,7 @@ These are the discounted voucher prices David A has secured. Standard walk-in pr
 No DMs needed — just RSVP in the WhatsApp event and arrive early.
 
 ## How many spots are there?
-**28 tickets** for this round, which works out to around **14 people playing 2 games each**.
+**14 spots** for this round (28 tickets total, 2 games each).
 
 ## How many people per lane?
 Up to **6 per lane**, so we'll be split into a few groups.
