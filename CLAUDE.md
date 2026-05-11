@@ -48,6 +48,17 @@ When making changes:
 - Place planning notes and scratch work in appropriate `scratch/` subdirectories
 - Follow the existing tone and style which is community-focused and inclusive
 
+## Writing Style Rules
+
+**NEVER use em dashes (—) anywhere in this repository.** This applies to all files: readme.md, event docs, FAQs, WhatsApp posts, scratch notes, commit messages, PR descriptions, and any other content you write or edit.
+
+- Use a regular hyphen (`-`) with surrounding spaces instead: `word - word`, not `word — word`
+- Use commas, parentheses, or a new sentence where appropriate instead of an em dash
+- This also applies to en dashes (`–`) used as separators in prose
+- Em dashes read as AI-generated and the community has explicitly asked to avoid them
+
+If you find existing em dashes in the repo while working on something else, replace them as you go.
+
 ## Common Operations
 
 Since this is a documentation repository, common operations involve:

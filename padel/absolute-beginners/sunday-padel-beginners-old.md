@@ -71,12 +71,12 @@ Looking to try padel for the first time or still getting familiar with the game?
 📅 Date:  02/11/25 (Sunday)
 🕒 Time: 15:00 – 16:00
 💲 Price: €5 Each (+€3 if renting racket)
-📍 Venue: Padel Delfos — https://maps.app.goo.gl/uYnstxaRr2CAhoxS8
-👻 Dress Code: Costumes optional — but there will be a small prize for the best costume! 
+📍 Venue: Padel Delfos - https://maps.app.goo.gl/uYnstxaRr2CAhoxS8
+👻 Dress Code: Costumes optional - but there will be a small prize for the best costume! 
 
 Keep Calm Community is hosting a special Halloween-themed padel session next Sunday!
 
-We’ll cover the fundamentals — how to grip the racket, court positioning, and basic rallying techniques. No pressure, no scoring, just good vibes and getting comfortable with the sport.
+We’ll cover the fundamentals - how to grip the racket, court positioning, and basic rallying techniques. No pressure, no scoring, just good vibes and getting comfortable with the sport.
 
 No experience required.
 No need to bring a partner.

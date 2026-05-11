@@ -6,7 +6,7 @@ You have probably been sent this page as we wanted to take a moment to explain t
 
 ## What We Do
 - **Keep Calm and Carry On** is a **not-for-profit community** for English speakers in Barcelona.  
-- We connect people through a wide variety of sports and activities — from padel to volleyball and more.  
+- We connect people through a wide variety of sports and activities - from padel to volleyball and more.  
 - Our aim is to **host weekly events** across different sports, making it easy for people to stay active and meet others.  
 
 ## How We Relate to Other Communities
@@ -20,7 +20,7 @@ You have probably been sent this page as we wanted to take a moment to explain t
 ## Our Approach
 - **Non-commercial**: We avoid commercial elements wherever possible.  
 - **Inclusive**: Open to all levels and backgrounds.  
-- **Collaborative**: We believe that by bringing people together, **everyone benefits** — both players and other communities.  
+- **Collaborative**: We believe that by bringing people together, **everyone benefits** - both players and other communities.  
 
 ## FAQ
 

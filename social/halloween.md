@@ -3,7 +3,7 @@
 Julie D & Malak R have been busy behind the scenes organising something spooky! 🕸
 
 ⏰ Time: Starting at 21:00, this Friday, 31st October
-🍹 Starting Venue: 17 Lounge Bar – https://maps.app.goo.gl/ZsCnoHcamcDSSQzR6 (Recommended by Indra — hopefully not too busy!)
+🍹 Starting Venue: 17 Lounge Bar – https://maps.app.goo.gl/ZsCnoHcamcDSSQzR6 (Recommended by Indra - hopefully not too busy!)
 💃 From here we will continue to a spooky surprise!
 
 ⏱ Backup Venues if full:
@@ -24,9 +24,9 @@ Please confirm buy adding an 🎟 emoji to the pos
 
 Hey everyone! 🎃
 
-Just wanted to say a huge thanks to all of you who came out last night — we had over 20 people turn up, which was amazing! The costumes were absolutely brilliant (some of you went all out 👻🧙‍♂) and the drinks kept flowing all night.
+Just wanted to say a huge thanks to all of you who came out last night - we had over 20 people turn up, which was amazing! The costumes were absolutely brilliant (some of you went all out 👻🧙‍♂) and the drinks kept flowing all night.
 
-It was such a great vibe — lots of laughs, good chats, and spooky fun all around. Really appreciate everyone for making it such a memorable Halloween! 🕸
+It was such a great vibe - lots of laughs, good chats, and spooky fun all around. Really appreciate everyone for making it such a memorable Halloween! 🕸
 
 ---
 

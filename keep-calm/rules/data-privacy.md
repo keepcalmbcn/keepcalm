@@ -258,7 +258,7 @@ You can object to certain uses of your data.
 ### How to Exercise Rights
 
 Contact any organiser or core team member. We're volunteers, so:
-- Be patient—we'll respond as quickly as we can
+- Be patient-we'll respond as quickly as we can
 - Be specific about what you're requesting
 - Understand we may have technical limitations
 

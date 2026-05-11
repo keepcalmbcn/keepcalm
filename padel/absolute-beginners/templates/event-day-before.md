@@ -21,7 +21,7 @@ This event is all about meeting new people, building community, and enjoying the
 This is a social event as much as a sports one! If you have time before Sunday, try to learn a little bit about the others in your group - it makes the day even more enjoyable when you already have some connections!
 
 🫂 *KEEP CALM COMMUNITY*
-If you haven't already, visit https://keepcalm.fit to find the padel group chat — and feel free to join any other groups that interest you!
+If you haven't already, visit https://keepcalm.fit to find the padel group chat - and feel free to join any other groups that interest you!
 
 ⚠️ *NOT YET CONFIRMED?*
 If you haven't been added to a Playtomic court or heard from your court leader, you are *not yet confirmed* for the session. Please get in touch with me as soon as possible so we can get you sorted!

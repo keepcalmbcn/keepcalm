@@ -42,7 +42,7 @@ Two tables, mentioned as a convenient central option.
 - **Tables**: 2
 
 ### Barceloneta Beach Square
-Tables near the beach — good for a casual session with a post-game walk.
+Tables near the beach - good for a casual session with a post-game walk.
 
 ### Estació del Nord area
 Tables in the park next to the station, reported to often be free.
@@ -55,7 +55,7 @@ Tables in the park next to the station, reported to often be free.
 ### Estació del Nord (Estacio Nord)
 Indoor tables inside the building.
 - **Tables**: ~8
-- **Notes**: Unclear booking process — may need to enquire at the office inside.
+- **Notes**: Unclear booking process - may need to enquire at the office inside.
 
 ### CNAB Club
 Sports club with indoor ping pong tables.
@@ -71,8 +71,8 @@ Dedicated ping pong venue, reported as nice and affordable. Booking via WhatsApp
 Several civic centres across the city rent out tables by the hour.
 - **Cost**: ~€3.50/hour
 - **Known locations**: Glòries (in the train station), Sants, Poblenou
-- **Notes**: Most people don't know about this option — worth exploring further.
+- **Notes**: Most people don't know about this option - worth exploring further.
 
 ### Bar near Plaza España
-A bar close to Plaza España with a ping pong table — good backup for windy or rainy evenings.
+A bar close to Plaza España with a ping pong table - good backup for windy or rainy evenings.
 - **Notes**: Useful when outdoor play isn't possible.

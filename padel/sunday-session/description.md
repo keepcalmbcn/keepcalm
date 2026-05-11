@@ -8,7 +8,7 @@ Keep Calm Sunday Padel - part of the Keep Calm and Carry On community for Englis
 
 🗓️ Weekly padel every Sunday for all levels. Everyone who votes in our poll gets a guaranteed spot to play.
 
-Form opens Thursday at 18:00 and closes Sunday at 22:00 (or at 80 responses) — vote for the time slots you can play that Sunday, and we'll organise your game during the week.
+Form opens Thursday at 18:00 and closes Sunday at 22:00 (or at 80 responses) - vote for the time slots you can play that Sunday, and we'll organise your game during the week.
 
 Levels are based on Playtomic scores:
 - Beginner: First time playing

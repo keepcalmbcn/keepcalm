@@ -1,6 +1,6 @@
 # Decision Making
 
-How decisions get made in Keep Calm. We keep it simple — the people doing the work have the authority to make decisions about their area.
+How decisions get made in Keep Calm. We keep it simple - the people doing the work have the authority to make decisions about their area.
 
 ---
 
@@ -59,7 +59,7 @@ If you've been given a strike or removed from a group and want to appeal:
 
 ## Emergency Decisions
 
-Sometimes things can't wait — dangerous weather, someone being aggressive at a session, a last-minute venue change. Any organiser can make an emergency call. Document it and tell the other organisers afterwards.
+Sometimes things can't wait - dangerous weather, someone being aggressive at a session, a last-minute venue change. Any organiser can make an emergency call. Document it and tell the other organisers afterwards.
 
 ---
 

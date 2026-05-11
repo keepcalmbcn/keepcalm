@@ -35,7 +35,7 @@ Failure to communicate issues early may result in removal from the group.
 
 🎾 MATCHMAKING
 We do our best to balance player levels and expectations.
-Some days will be better than others — thanks for staying positive 🙏
+Some days will be better than others - thanks for staying positive 🙏
 
 🔗 CONNECT WITH US
 🌐 Website: https://keepcalm.fit/

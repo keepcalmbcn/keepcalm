@@ -2,10 +2,10 @@
 
 Welcome to Keep Calm Padel! To keep things fair and fun for everyone, please follow these sport-specific guidelines.
 
-> **These rules add to — but don't replace — our community-wide policies. Please read these first if you haven't already:**
-> - [WhatsApp Rules](https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/whatsapp-rules.md) — group communication, unsolicited DMs, referral links, spam
-> - [Community Conduct](https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/community-conduct.md) — respect, harassment, advertising, conflict resolution
-> - [Event Rules](https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/event-rules.md) — commitment, cancellations, the strike system
+> **These rules add to - but don't replace - our community-wide policies. Please read these first if you haven't already:**
+> - [WhatsApp Rules](https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/whatsapp-rules.md) - group communication, unsolicited DMs, referral links, spam
+> - [Community Conduct](https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/community-conduct.md) - respect, harassment, advertising, conflict resolution
+> - [Event Rules](https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/event-rules.md) - commitment, cancellations, the strike system
 
 For rules specific to the organised Sunday sessions (polls, booking, cancellations), see [Sunday Padel - Organised Sessions](#sunday-padel---organised-sessions).
 

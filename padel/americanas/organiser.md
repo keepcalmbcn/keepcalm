@@ -1,7 +1,7 @@
 # Americana Organiser Guide
 
 ## Overview
-- **Format**: Americana (round-robin mini tournament) — 15-min matches, rotating partners and courts
+- **Format**: Americana (round-robin mini tournament) - 15-min matches, rotating partners and courts
 - **Players**: 32 (8 courts of 4)
 - **Duration**: 2 hours
 - **Sign-ups**: Playtomic tournament link, first come first served
@@ -33,7 +33,7 @@
 
 ### 5. Plan Starting Court Assignments
 - Review sign-up levels and assign players to starting courts (8 courts, 4 players each)
-- Try to balance levels so the first round is fair — courts self-regulate from there
+- Try to balance levels so the first round is fair - courts self-regulate from there
 - Prepare a simple list or diagram to share with players the day before
 
 ---
@@ -55,14 +55,14 @@
 
 ### Player Arrival
 - Welcome players as they arrive and direct them to their starting court
-- Encourage people to arrive 15 mins early — start on time regardless
+- Encourage people to arrive 15 mins early - start on time regardless
 - Give a brief explanation of the format (see FAQ or use the speech below)
 
 ### Running the Session
 - Call time at the end of every 15-minute match
 - Winners move up one court, losers move down one court
 - Partners rotate each round (players split after each match)
-- Keep it fun and social — this is a community event, not a serious tournament
+- Keep it fun and social - this is a community event, not a serious tournament
 - Be visible and available to resolve any disputes or confusion
 
 ### End of Session
@@ -86,7 +86,7 @@
 
 Hey everyone! 👋
 
-Just a reminder that our *Keep Calm Americana* is tomorrow at *[VENUE]*, 18:00–20:00 — can't wait to see you all there!
+Just a reminder that our *Keep Calm Americana* is tomorrow at *[VENUE]*, 18:00–20:00 - can't wait to see you all there!
 
 📋 *Your starting court*
 [Include court list or link to assignment sheet]
@@ -110,9 +110,9 @@ Quick reminder:
 ✅ Water bottle
 ✅ ~€10 for court costs
 
-Format reminder: 15-min matches, then winners move up, losers move down, and partners rotate — levels self-regulate after a few rounds!
+Format reminder: 15-min matches, then winners move up, losers move down, and partners rotate - levels self-regulate after a few rounds!
 
-After the session we'll be heading for *drinks* — please do join us! 🍻
+After the session we'll be heading for *drinks* - please do join us! 🍻
 
 Any questions, message in the group. See you there!
 
@@ -120,4 +120,4 @@ Any questions, message in the group. See you there!
 
 ### Format Explanation (Verbal, for Day Of)
 
-*"Welcome everyone! Quick overview for those who haven't played an americana before: we play 15-minute matches. At the end of each match, the winning pair splits up — one goes up a court, one stays. The losing pair does the same — one goes down, one stays. You'll always be with a new partner and playing against different people. After a few rounds the courts self-regulate by level, so don't worry if the first round feels uneven. Any questions before we start?"*
+*"Welcome everyone! Quick overview for those who haven't played an americana before: we play 15-minute matches. At the end of each match, the winning pair splits up - one goes up a court, one stays. The losing pair does the same - one goes down, one stays. You'll always be with a new partner and playing against different people. After a few rounds the courts self-regulate by level, so don't worry if the first round feels uneven. Any questions before we start?"*

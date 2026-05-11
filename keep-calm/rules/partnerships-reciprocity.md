@@ -30,13 +30,13 @@ Leaders and organisers give their time, expertise, and energy to make Keep Calm 
 
 ### What We Don't Offer
 
-Commercial promotion of any kind — see [community-conduct.md](community-conduct.md) for the full advertising policy.
+Commercial promotion of any kind - see [community-conduct.md](community-conduct.md) for the full advertising policy.
 
 ### Setting Expectations Upfront
 
 When someone expresses interest in organising, be clear about the exchange:
 
-> "We value volunteer contributions enormously. The trade here is community, not commercial access. If you're looking for a marketing channel, this isn't the right fit—but if you want to be part of something meaningful and meet great people, we'd love your help."
+> "We value volunteer contributions enormously. The trade here is community, not commercial access. If you're looking for a marketing channel, this isn't the right fit-but if you want to be part of something meaningful and meet great people, we'd love your help."
 
 ### Handling Requests from Organisers
 
@@ -54,13 +54,13 @@ If an organiser asks to promote their commercial activity:
 
 ## External: Relationships with Other Communities
 
-Barcelona has many sports and social communities. We want to collaborate, not compete—but we also need clear boundaries.
+Barcelona has many sports and social communities. We want to collaborate, not compete-but we also need clear boundaries.
 
 ### Partnership Tiers
 
 | Tier | They Are | We Do | We Don't Do |
 |------|----------|-------|-------------|
-| **Aligned** | Non-commercial, similar values | Cross-promote freely, collaborate on events | — |
+| **Aligned** | Non-commercial, similar values | Cross-promote freely, collaborate on events | - |
 | **Friendly** | Commercial but respectful | Mention occasionally, informal referrals | Regular or formal promotion |
 | **Transactional** | Expect quid pro quo for commercial events | Politely decline the arrangement | Promote their paid events |
 
@@ -94,7 +94,7 @@ Barcelona has many sports and social communities. We want to collaborate, not co
 (No obligation to reciprocate, but can do so informally if appropriate)
 
 **When a transactional community expects reciprocal promotion:**
-> "We appreciate you sharing our events. We're a non-commercial community so we don't promote paid events or commercial services in our groups—but we're happy to informally refer people who ask about [their activity]."
+> "We appreciate you sharing our events. We're a non-commercial community so we don't promote paid events or commercial services in our groups-but we're happy to informally refer people who ask about [their activity]."
 
 ### What We Will Promote
 

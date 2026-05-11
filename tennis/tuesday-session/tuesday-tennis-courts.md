@@ -6,7 +6,7 @@ Using the template below, arrange Tuesday Tennis courts based on the RSVP list. 
 
 ## PHASE 1: PLAYER LIST
 
-**Step 1.1 — Compile the full player list**
+**Step 1.1 - Compile the full player list**
 Gather all players from:
 - The WhatsApp event Going list (with levels from comments)
 - Any players who posted directly in the group chat after the event was created
@@ -16,7 +16,7 @@ For each player note:
 - Level: Beginner / Improver / Intermediate / Advanced
 - Playtomic rating if known (0–7 scale, for reference)
 
-**Step 1.2 — Count players per level**
+**Step 1.2 - Count players per level**
 ```
 🟢 Beginner:    X players
 🟡 Improver:    X players
@@ -30,16 +30,16 @@ Total: X players → X courts needed
 
 ## PHASE 2: COURT ASSIGNMENT
 
-**Step 2.1 — Calculate courts needed**
+**Step 2.1 - Calculate courts needed**
 - Each court = 4 players
 - If a level has 1–3 players, fold them into the nearest level
 - Mark spare places if a court has fewer than 4
 
-**Step 2.2 — Assign players to courts by level**
+**Step 2.2 - Assign players to courts by level**
 - Keep players grouped by level where possible
 - Try to balance mixed gender within courts
 
-**Step 2.3 — Court numbers (Up Cornellà)**
+**Step 2.3 - Court numbers (Up Cornellà)**
 - Clay courts are called Tierra Batida (Batida 1–12)
 - Book adjacent courts where possible so groups are near each other
 - e.g. Beginners on Batida 6, Improvers on Batida 8, Intermediate on Batida 10, Advanced on Batida 12
@@ -76,7 +76,7 @@ Total: X players → X courts needed
 - Italic: _text_ (underscores)
 - Bullet points: • (not - or *)
 - Separators: --- on its own line
-- No markdown headers — use bold text instead
+- No markdown headers - use bold text instead
 - No tables
 
 ---
@@ -103,7 +103,7 @@ https://maps.app.goo.gl/nHkQHChjyc8RkyAH8
 
 📱 *Instructions*
 
-⚠️ BOOKERS: PLEASE BOOK YOUR COURT AS SOON AS POSSIBLE — CLAY SLOTS SELL OUT FAST ⚠️
+⚠️ BOOKERS: PLEASE BOOK YOUR COURT AS SOON AS POSSIBLE - CLAY SLOTS SELL OUT FAST ⚠️
 
 📋 *For Bookers*
 1. Open Playtomic and search *Barcelona Pro Tennis Academy*
@@ -118,7 +118,7 @@ https://maps.app.goo.gl/nHkQHChjyc8RkyAH8
 
 🤝 *On the day*
 1. Meet at Plaça Espanya ~45 min before court time
-2. There is a map/layout near the entrance at the venue — check your court number in the Playtomic app
+2. There is a map/layout near the entrance at the venue - check your court number in the Playtomic app
 3. Bring tennis balls (not padel balls!) and a racket if you have one
 
 ---
@@ -179,7 +179,7 @@ _See you on the courts! 🎾_
 
 ## NOTES FOR ORGANISERS
 
-- Post this message on **Wednesday** — the sooner it goes out, the less risk of losing clay court slots
+- Post this message on **Wednesday** - the sooner it goes out, the less risk of losing clay court slots
 - If a level only has 1–3 players, fold them into the nearest level group and note it
 - When fewer than 4 courts are needed, skip the level sections with no players (don't include empty sections)
 - If rain is forecast mid-week, flag it early and consider switching bookers to quick courts (cheaper, ~€7.80 pp vs €10 pp on clay)

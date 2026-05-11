@@ -4,7 +4,7 @@
 - **Venue**: Aurial Pàdel Cornellà by Marta Marrero
 - **Frequency**: Aim to run one beginner session per month (ideally first week of month)
 - **Timing**: Leave a 30-60 minute break between beginner session and regular padel session
-- **Court Size**: 4 players per court is ideal. In extreme circumstances 5-6 is possible, but this has been tried and found to cause more stress for everyone and isn't worth it — stick to 4.
+- **Court Size**: 4 players per court is ideal. In extreme circumstances 5-6 is possible, but this has been tried and found to cause more stress for everyone and isn't worth it - stick to 4.
 - **Equipment**: 2 balls per player per court (the organiser will aim to bring these or players can bring their own)
 
 ## Pre-Event Setup
@@ -94,10 +94,10 @@ Ask participants:
 
 See the [templates/](templates/) folder for all message templates:
 
-- [event-initial-announcement.md](templates/event-initial-announcement.md) — sent in advance to the main event group
-- [event-day-before.md](templates/event-day-before.md) — sent the day before to the main event group
-- [event-day-of-morning.md](templates/event-day-of-morning.md) — sent on the morning of the event
-- [leader-court-group-intro.md](templates/leader-court-group-intro.md) — sent by leaders when setting up their court's WhatsApp group
+- [event-initial-announcement.md](templates/event-initial-announcement.md) - sent in advance to the main event group
+- [event-day-before.md](templates/event-day-before.md) - sent the day before to the main event group
+- [event-day-of-morning.md](templates/event-day-of-morning.md) - sent on the morning of the event
+- [leader-court-group-intro.md](templates/leader-court-group-intro.md) - sent by leaders when setting up their court's WhatsApp group
 
 ---
 
@@ -191,7 +191,7 @@ This event is all about meeting new people, building community, and enjoying the
 This is a social event as much as a sports one! If you have time before Sunday, try to learn a little bit about the others in your group - it makes the day even more enjoyable when you already have some connections!
 
 🫂 *KEEP CALM COMMUNITY*
-If you haven't already, visit https://keepcalm.fit to find the padel group chat — and feel free to join any other groups that interest you!
+If you haven't already, visit https://keepcalm.fit to find the padel group chat - and feel free to join any other groups that interest you!
 
 ⚠️ *NOT YET CONFIRMED?*
 If you haven't been added to a Playtomic court or heard from your court leader, you are *not yet confirmed* for the session. Please get in touch with me as soon as possible so we can get you sorted!

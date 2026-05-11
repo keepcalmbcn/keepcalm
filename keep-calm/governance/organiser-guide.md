@@ -25,13 +25,13 @@ Every sport follows a similar rhythm:
 | **2** | Monitor responses, answer questions |
 | **3** | Close poll, organise games/groups/teams |
 | **4** | Post final details, confirm with bookers |
-| **5** | Event day — be available, handle issues |
+| **5** | Event day - be available, handle issues |
 | **6** | Follow up on no-shows, thank helpers, note improvements |
 
 **Tips:**
 - Post at consistent times each week
 - Pin important messages
-- Tag @everyone sparingly — reserve for key announcements
+- Tag @everyone sparingly - reserve for key announcements
 
 ---
 
@@ -70,7 +70,7 @@ Tell bookers to:
 
 **Weather:**
 1. Check venue cancellation policy
-2. Communicate clearly — games are on unless officially cancelled
+2. Communicate clearly - games are on unless officially cancelled
 3. See sport-specific rain policies
 
 **Conflicts:**

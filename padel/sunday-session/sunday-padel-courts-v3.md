@@ -87,7 +87,7 @@ Process:
 - If data from the previous 3 weeks' sessions is provided (e.g., past court arrangements), use it to avoid repeating the same court pairings.
 - For each player, note who they shared a court with across those sessions.
 - When arranging courts, prefer groupings where players have not played together recently.
-- This is a soft constraint only — apply it after all other constraints (level, special requests, gender mix, within-session partner mixing) are already satisfied. Never compromise a higher-priority rule to achieve cross-session variety.
+- This is a soft constraint only - apply it after all other constraints (level, special requests, gender mix, within-session partner mixing) are already satisfied. Never compromise a higher-priority rule to achieve cross-session variety.
 - If no previous session data is provided, skip this step entirely.
 
 **Priority order when conflicts arise:**
@@ -96,7 +96,7 @@ Process:
 3. Mixed court priority (2M+2F before single-gender)
 4. Partner mixing (avoid same partners across slots)
 5. Even court sizes (minimise spare places)
-6. Cross-session variety (avoid repeating pairings from past 3 weeks — soft constraint only)
+6. Cross-session variety (avoid repeating pairings from past 3 weeks - soft constraint only)
 
 ---
 
@@ -239,7 +239,7 @@ https://docs.google.com/document/d/e/2PACX-1vRRg8ZaFAnIYTSethY2dcqsAxWhoRELfiOV0
 3. Refrain from spamming any of the WhatsApp groups
 
 🎒 *Need a racket?*
-Racket rentals are available at the venue for €4 — pay at reception (bring ID).
+Racket rentals are available at the venue for €4 - pay at reception (bring ID).
 
 🆕 *First time at the venue?*
 Please arrive *30 minutes early* to find your way around, meet your court, and say hi to the group.

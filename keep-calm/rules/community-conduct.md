@@ -43,13 +43,13 @@ Keep Calm exists to bring English speakers together through sport. That only wor
 
 **Harassment:**
 - Unwanted attention or repeated contact after being asked to stop
-- Unsolicited DMs of any kind — including flirty or romantic messages, advertising or self-promotion, and invitations to external WhatsApp groups or communities
+- Unsolicited DMs of any kind - including flirty or romantic messages, advertising or self-promotion, and invitations to external WhatsApp groups or communities
 - Messages that are flirty, sexual, or otherwise make someone uncomfortable
 - Sexual harassment in any form
 - Intimidating or threatening behavior
 - Following or stalking (online or offline)
 
-**If you receive an unsolicited DM from a Keep Calm member, contact an admin immediately.** Screenshot the messages and send them to any organiser as soon as possible. Action will be taken — up to and including permanent removal from the community. We have had real cases of this happening, and we will not ignore it.
+**If you receive an unsolicited DM from a Keep Calm member, contact an admin immediately.** Screenshot the messages and send them to any organiser as soon as possible. Action will be taken - up to and including permanent removal from the community. We have had real cases of this happening, and we will not ignore it.
 
 **Discrimination:**
 - Comments or behavior targeting someone's race, ethnicity, nationality, gender, sexuality, religion, disability, or appearance
@@ -87,7 +87,7 @@ Keep Calm is a non-commercial community. This shapes what can and can't be share
 **In WhatsApp groups:**
 - Promoting your business, coaching, or services
 - Sharing your own paid events or workshops
-- Referral codes, affiliate links, or "sign up with my link" invites — including fitness apps like ClassPass
+- Referral codes, affiliate links, or "sign up with my link" invites - including fitness apps like ClassPass
 - Posting guestlists, nightlife events, or invitations to other communities or social groups
 - Job postings or recruitment
 - Requests to share/like your social media or business pages
@@ -136,7 +136,7 @@ Keep Calm is a non-commercial community. This shapes what can and can't be share
 ## Photography & Privacy
 
 - Ask before taking photos that feature specific people prominently
-- Group shots are generally fine — give people a moment to step aside if they prefer
+- Group shots are generally fine - give people a moment to step aside if they prefer
 - Don't share unflattering photos of others or tag people who prefer not to be tagged
 - Contact details, home addresses, and anything shared in confidence stays private
 

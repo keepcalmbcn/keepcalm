@@ -19,21 +19,21 @@ We organise **two weeks in advance** to guarantee courts can be secured:
 
 ### Timeline
 
-**Week 1 — Wednesday 18:00:**
+**Week 1 - Wednesday 18:00:**
 - Event posted for the Tuesday **two weeks away**
 - Tap **Going** to sign up, and include your level (Beginner / Improver / Intermediate / Advanced) in the comments
 
-**Week 2 — Tuesday 18:00:**
+**Week 2 - Tuesday 18:00:**
 - Event closes
 
-**Week 2 — Tuesday evening (after tennis):**
+**Week 2 - Tuesday evening (after tennis):**
 - Organiser reviews the Going list and books courts on Playtomic for the following week
 
-**Week 2 — Wednesday:**
-- Court assignments posted in the group — you'll be tagged
+**Week 2 - Wednesday:**
+- Court assignments posted in the group - you'll be tagged
 - New event posted for the Tuesday two weeks after that
 
-**Week 3 — Tuesday:**
+**Week 3 - Tuesday:**
 - Games happen! 🎾
 
 This two-week cycle is what lets us guarantee evening slots at a popular venue. Groups that book in the same week regularly find nothing available.
@@ -45,7 +45,7 @@ This two-week cycle is what lets us guarantee evening slots at a popular venue. 
 - **Meet-up**: We meet at **Plaça Espanya** ~45 minutes before court time and travel together
 - **Primary Venue**: [Barcelona Pro Tennis Academy (Up Cornellà)](tuesday-session/tuesday-tennis-venues.md)
 - **Cost**: ~€8–10 per person (90 minutes)
-- **Format**: Doubles (2v2) — social, inclusive, and makes the cost work
+- **Format**: Doubles (2v2) - social, inclusive, and makes the cost work
 - **Booking app**: [Playtomic](https://app.playtomic.com/)
 
 ## Skill Levels
@@ -59,14 +59,14 @@ All levels are welcome! We use four levels to organise courts when numbers allow
 | **Intermediate** | Regular player with solid fundamentals. Good rallies, understands tactics |
 | **Advanced** | Competitive player with strong technique and court awareness |
 
-When signing up, pick the level that honestly describes where you are right now — not where you used to be or hope to be! It helps us create balanced, enjoyable courts for everyone.
+When signing up, pick the level that honestly describes where you are right now - not where you used to be or hope to be! It helps us create balanced, enjoyable courts for everyone.
 
 ## What Happens After You Vote?
 
-1. **Consider your spot noted** — the organiser will be in touch
-2. **Court gets booked** — via Playtomic, the week after the event closes
-3. **You'll be tagged in the booking post** — check the group for the Playtomic link
-4. **Join the court** — accept via Playtomic and pay your share
+1. **Consider your spot noted** - the organiser will be in touch
+2. **Court gets booked** - via Playtomic, the week after the event closes
+3. **You'll be tagged in the booking post** - check the group for the Playtomic link
+4. **Join the court** - accept via Playtomic and pay your share
 5. **Meet at Plaça Espanya** ~45 min before court time and travel together to Up Cornellà
 6. **Play!**
 
@@ -82,8 +82,8 @@ See the [FAQ](tuesday-session/tuesday-tennis-faq.md) for full booking instructio
 
 ## Equipment
 
-- **Racket**: Bring your own — rental may be available at some venues but not guaranteed
-- **Tennis balls**: Coordinate in the group — **do not use padel balls!**
+- **Racket**: Bring your own - rental may be available at some venues but not guaranteed
+- **Tennis balls**: Coordinate in the group - **do not use padel balls!**
 - **Shoes**: Sports shoes are fine; court shoes are better on clay
 - **Water and a towel**
 
@@ -98,9 +98,9 @@ The organised Tuesday session is the regular Keep Calm game, but members often s
 ## New to the Group?
 
 1. Make sure you have a [Playtomic](https://app.playtomic.com/) account set up
-2. Watch for the **event posted on Wednesdays** — it covers the Tuesday two weeks away
+2. Watch for the **event posted on Wednesdays** - it covers the Tuesday two weeks away
 3. Tap **Going** and drop your level in the comments (Beginner / Improver / Intermediate / Advanced)
-4. Wait for the court booking post — you'll be tagged
+4. Wait for the court booking post - you'll be tagged
 5. Accept the invite on Playtomic and pay your share
 6. Meet at **Plaça Espanya** ~45 minutes before court time
 7. Show up and enjoy!

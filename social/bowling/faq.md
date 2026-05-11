@@ -1,4 +1,4 @@
-# 🎳 Bowling — FAQ
+# 🎳 Bowling - FAQ
 
 ## Where is it?
 **Bowling Ilusiona**, inside the **Gran Vía 2** shopping centre in L'Hospitalet. Head up to the **2nd floor** once you're inside.
@@ -15,10 +15,10 @@
 These are the discounted voucher prices David A has secured. Standard walk-in prices apply if you don't have a voucher.
 
 ## How do I get a voucher?
-1. **Mark yourself as going in the WhatsApp event** — this is required so we have a headcount.
-2. **Turn up at the venue** — vouchers are handed out on arrival, **first come, first served**.
+1. **Mark yourself as going in the WhatsApp event** - this is required so we have a headcount.
+2. **Turn up at the venue** - vouchers are handed out on arrival, **first come, first served**.
 
-No DMs needed — just RSVP in the WhatsApp event and arrive early.
+No DMs needed - just RSVP in the WhatsApp event and arrive early.
 
 ## How many spots are there?
 **14 spots** for this round (28 tickets total, 2 games each).
@@ -30,16 +30,16 @@ Up to **6 per lane**, so we'll be split into a few groups.
 You're still welcome to come along! Pay the standard walk-in price at the venue and join us for drinks and hanging out after.
 
 ## Do I need to bring anything?
-No — bowling shoes are provided at the venue. Just bring yourself and some cash/card for any extras, make sure you know your shoe size!
+No - bowling shoes are provided at the venue. Just bring yourself and some cash/card for any extras, make sure you know your shoe size!
 
 ## What happens before/after bowling?
 **Beers and hanging out** somewhere nearby. The exact venue is usually decided on the night.
 
 ## Can I bring a +1?
-Each voucher is for one person, but bring whoever you like — they'll just need to grab their own voucher on arrival (or pay the standard walk-in price if vouchers are gone).
+Each voucher is for one person, but bring whoever you like - they'll just need to grab their own voucher on arrival (or pay the standard walk-in price if vouchers are gone).
 
 ## What if I can't make it after all?
-No problem — there's nothing to cancel since tickets aren't pre-booked. Just don't worry about it.
+No problem - there's nothing to cancel since tickets aren't pre-booked. Just don't worry about it.
 
 ## Who organises this?
 **David A** sources the tickets and runs things at the venue. **Dan** helps with the announcement

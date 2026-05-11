@@ -16,13 +16,13 @@ Copy-paste descriptions for each Keep Calm WhatsApp group. Each includes a link 
 > Football rules: https://github.com/keepcalmbcn/keepcalm/blob/main/football/rules.md
 
 ### Keep Calm Hiking
-> Monthly hikes around Catalonia for English speakers. Usually Sundays, moderate fitness level. Watch for event announcements and sign up early — spots are limited (25-30 per hike).
+> Monthly hikes around Catalonia for English speakers. Usually Sundays, moderate fitness level. Watch for event announcements and sign up early - spots are limited (25-30 per hike).
 >
 > WhatsApp rules: https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/whatsapp-rules.md
 > Hiking rules: https://github.com/keepcalmbcn/keepcalm/blob/main/hiking/rules.md
 
 ### Keep Calm Ping Pong (Table Tennis)
-> Free weekly ping pong at outdoor tables in Sants. Thursdays 18:00-21:00. All levels welcome — just vote in the poll for your arrival time and show up!
+> Free weekly ping pong at outdoor tables in Sants. Thursdays 18:00-21:00. All levels welcome - just vote in the poll for your arrival time and show up!
 >
 > WhatsApp rules: https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/whatsapp-rules.md
 > Ping pong rules: https://github.com/keepcalmbcn/keepcalm/blob/main/ping-pong/rules.md
@@ -52,7 +52,7 @@ Copy-paste descriptions for each Keep Calm WhatsApp group. Each includes a link 
 > Volleyball rules: https://github.com/keepcalmbcn/keepcalm/blob/main/volleyball/rules.md
 
 ### Keep Calm Yoga & Pilates
-> Yoga and pilates sessions for English speakers in Barcelona. All levels welcome — no experience needed. Watch for session announcements, sign up, and arrive on time. Bring your own mat if you have one.
+> Yoga and pilates sessions for English speakers in Barcelona. All levels welcome - no experience needed. Watch for session announcements, sign up, and arrive on time. Bring your own mat if you have one.
 >
 > WhatsApp rules: https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/whatsapp-rules.md
 > Yoga & pilates rules: https://github.com/keepcalmbcn/keepcalm/blob/main/yoga-pilates/rules.md
@@ -75,7 +75,7 @@ Copy-paste descriptions for each Keep Calm WhatsApp group. Each includes a link 
 > Padel info: https://github.com/keepcalmbcn/keepcalm/blob/main/padel/readme.md
 
 ### 🟢 Keep Calm Beginners Padel (0.5) 🟢
-> Padel for complete beginners and new players (Playtomic ~0.5). A safe space to learn — no experience needed! We run regular beginner sessions with patient, friendly players.
+> Padel for complete beginners and new players (Playtomic ~0.5). A safe space to learn - no experience needed! We run regular beginner sessions with patient, friendly players.
 >
 > WhatsApp rules: https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/whatsapp-rules.md
 > Padel rules: https://github.com/keepcalmbcn/keepcalm/blob/main/padel/rules.md
@@ -102,7 +102,7 @@ Copy-paste descriptions for each Keep Calm WhatsApp group. Each includes a link 
 > Padel rules: https://github.com/keepcalmbcn/keepcalm/blob/main/padel/rules.md
 
 ### 📅 Keep Calm Saturday Padel 📅
-> Saturday padel session scheduling. Watch for polls, vote for your availability, and check game assignments. If you commit, show up — or give notice and help find a replacement.
+> Saturday padel session scheduling. Watch for polls, vote for your availability, and check game assignments. If you commit, show up - or give notice and help find a replacement.
 >
 > WhatsApp rules: https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/whatsapp-rules.md
 > Padel rules: https://github.com/keepcalmbcn/keepcalm/blob/main/padel/rules.md

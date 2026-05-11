@@ -71,21 +71,21 @@ Being in the same Keep Calm group does not give you permission to DM other membe
 - Messaging someone repeatedly after they haven't responded or have asked you to stop
 - Using member contact details for any personal or commercial purpose they didn't agree to
 
-We've had cases of members receiving unwanted messages — including romantic approaches and invitations to unrelated groups. This is not acceptable and undermines the trust that makes Keep Calm work.
+We've had cases of members receiving unwanted messages - including romantic approaches and invitations to unrelated groups. This is not acceptable and undermines the trust that makes Keep Calm work.
 
 ### What to do if this happens to you
 
 **Contact an admin immediately.** Don't wait, don't brush it off, don't feel like you're overreacting.
 
 - Screenshot the messages and send them to any admin or organiser as soon as possible
-- You will not be judged or questioned for reporting — we want to know about it
+- You will not be judged or questioned for reporting - we want to know about it
 - Action will be taken: the person will be spoken to, and serious or repeated cases will result in removal from the community
 
 The sooner you report it, the sooner we can act.
 
 ### Consequences for unsolicited DMs
 
-Anyone found to have sent unsolicited DMs — whether romantic in nature, advertising-related, or inviting members to external groups — will face consequences. Depending on severity and pattern:
+Anyone found to have sent unsolicited DMs - whether romantic in nature, advertising-related, or inviting members to external groups - will face consequences. Depending on severity and pattern:
 
 - A formal warning
 - Removal from one or more Keep Calm groups
@@ -99,7 +99,7 @@ If you've met someone at an event and want to message them about something sport
 
 ## What to Avoid
 
-❌ **Referral links & promotions** - No referral codes, affiliate links, ClassPass-style invites, or "sign up with my link" posts of any kind — in groups or via DM
+❌ **Referral links & promotions** - No referral codes, affiliate links, ClassPass-style invites, or "sign up with my link" posts of any kind - in groups or via DM
 ❌ **Event promotion** - No posting guestlists, nightlife events, third-party fitness events, or invitations to other communities
 ❌ **Spam** - Promotional content, repeated messages, excessive media
 ❌ **Off-topic chat** - Save it for social groups or in person

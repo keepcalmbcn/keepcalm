@@ -1,19 +1,19 @@
 # Sunday Padel Organisation Timeline
 
-## Thursday 18:00 — Post the Poll
+## Thursday 18:00 - Post the Poll
 - Post `padel.md` template to the WhatsApp group. (Pin message).
 - Check venue availability for the coming Sunday.
 - Check weather conditions/warnings.
 
-## Friday 18:00 — First Reminder
+## Friday 18:00 - First Reminder
 - Post `padel-reminder-friday.md` template to the WhatsApp group.
 - Check current response count and note if spaces are filling up.
 
-## Saturday 18:00 — Final Reminder
+## Saturday 18:00 - Final Reminder
 - Post `padel-reminder-saturday.md` template to the WhatsApp group.
 - Flag any weather or venue updates.
 
-## Sunday 22:00 — Close Poll & Build Games
+## Sunday 22:00 - Close Poll & Build Games
 - Close the poll (or it auto-closes at 80 responses).
 - Snapshot the poll results.
 - Make a list of players/times/abilities.

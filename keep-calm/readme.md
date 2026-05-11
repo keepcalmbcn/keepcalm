@@ -11,7 +11,7 @@ We’re excited to have you join **Keep Calm and Carry On**, a community for Eng
 
 ## Our Vision
 
-> "Barcelona's welcoming home for English speakers to stay active, make friends, and belong—powered by volunteers who care more about community than competition."
+> "Barcelona's welcoming home for English speakers to stay active, make friends, and belong-powered by volunteers who care more about community than competition."
 
 **The sport is the mechanism. Belonging is the outcome.**
 
@@ -24,19 +24,19 @@ We’re excited to have you join **Keep Calm and Carry On**, a community for Eng
 
 ## How It Works
 - Events are posted in our WhatsApp community channels.  
-- You can join any event you’re interested in — just RSVP and show up!  
-- If you’re new to a sport, don’t worry — many of us are here to learn and improve together.  
+- You can join any event you’re interested in - just RSVP and show up!  
+- If you’re new to a sport, don’t worry - many of us are here to learn and improve together.  
 
 ## A Few Guidelines
 - Be respectful and supportive of others.  
 - Show up if you commit to an event (or let us know ASAP if plans change).  
-- Keep things friendly — this is about having fun and meeting people.  
+- Keep things friendly - this is about having fun and meeting people.  
 
 ## Why We Exist
 Barcelona has many great groups and communities, but we wanted a space that brings different sports and activities **together under one roof**. By doing so, we make it easier to find players/sports/activites and create an interface between all the vibrant communities in barcelona where everyone benefits.  
 
 ---
 
-Thanks for joining us — we’re glad you’re here! 🎉  
+Thanks for joining us - we’re glad you’re here! 🎉  
 
 Now, pick a sport, join an event, and let’s play jaja!  

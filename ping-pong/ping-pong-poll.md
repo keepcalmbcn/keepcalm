@@ -6,7 +6,7 @@ The games will take place across the three main tables at the attached location,
 
 👉 When filling in the poll below, please vote for the time you’ll actually be able to arrive. This way, no one ends up waiting around for too long before they can play. Thanks for helping us keep things smooth! 🙏
 
-This event is open to all levels and abilities—we’ll mix up the games accordingly. We also have spare rackets and balls in case you don’t have your own or forget to bring them. Just remember to bring some water and, of course, good vibes! ✨
+This event is open to all levels and abilities-we’ll mix up the games accordingly. We also have spare rackets and balls in case you don’t have your own or forget to bring them. Just remember to bring some water and, of course, good vibes! ✨
 
 If you have any questions, please don’t hesitate to reach out.
 

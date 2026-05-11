@@ -6,7 +6,7 @@ You've just joined Barcelona's community for English speakers who want to stay a
 
 ## What is Keep Calm?
 
-We're a not-for-profit community that organises weekly sports and social activities. Think of us as your gateway to an active social life in Barcelona—without the awkwardness of showing up alone.
+We're a not-for-profit community that organises weekly sports and social activities. Think of us as your gateway to an active social life in Barcelona-without the awkwardness of showing up alone.
 
 **What we offer:**
 - Weekly sessions across multiple sports
@@ -44,7 +44,7 @@ After the poll closes, organisers will post who's playing when. Look for:
 ### Step 4: Show Up and Play!
 
 - Arrive on time (or a few minutes early)
-- Introduce yourself—everyone knows what it's like to be new
+- Introduce yourself-everyone knows what it's like to be new
 - Have fun!
 
 ---
@@ -70,7 +70,7 @@ After the poll closes, organisers will post who's playing when. Look for:
 - **Cost**: €8 per person
 - **Level**: All levels
 - **Venue**: Up Pádel & Tennis Cornellà
-- **How it works**: Similar to Padel—poll → assignment → play
+- **How it works**: Similar to Padel-poll → assignment → play
 
 ### 🏓 Ping Pong (Thursdays)
 - **When**: Thursday 18:00-21:00
@@ -98,13 +98,13 @@ After the poll closes, organisers will post who's playing when. Look for:
 
 **For Padel beginners:**
 - We run monthly absolute beginner sessions
-- Vote as "Beginner" in the poll—you'll be matched with others at your level
+- Vote as "Beginner" in the poll-you'll be matched with others at your level
 - Consider renting a racket (€4) until you know you love it
 
 **For all sports:**
-- Tell the organiser you're new—they'll pair you with friendly regulars
+- Tell the organiser you're new-they'll pair you with friendly regulars
 - Don't worry about being perfect
-- Ask questions—people love to help
+- Ask questions-people love to help
 
 ---
 
@@ -125,7 +125,7 @@ Full rules are in [Rules.md](../rules/rules.md), but here's the short version:
 ### The Strike System
 - Repeated no-shows or bad behaviour → strikes
 - 3 strikes → removal from the community
-- Don't worry—just be reliable and you'll be fine
+- Don't worry-just be reliable and you'll be fine
 
 ---
 
@@ -139,14 +139,14 @@ Full rules are in [Rules.md](../rules/rules.md), but here's the short version:
 
 ### During
 - Introduce yourself: "Hi, I'm [name], this is my first time"
-- Don't be shy—everyone's been new
+- Don't be shy-everyone's been new
 - If you don't understand something, ask
 - Focus on having fun, not being perfect
 
 ### After
 - Stick around for post-game drinks if you can (great way to meet people)
 - Say thanks to the organiser
-- Let us know how it went—we love feedback!
+- Let us know how it went-we love feedback!
 
 ---
 
@@ -157,9 +157,9 @@ Sports are the excuse. Friendships are the point.
 **Ways to connect:**
 - Stay for drinks after sessions
 - Chat during breaks and between games
-- Try a different sport—you'll meet different people
+- Try a different sport-you'll meet different people
 - Come to social events
-- Be a regular—familiarity builds friendship
+- Be a regular-familiarity builds friendship
 
 **It takes time.** Your first session might feel awkward. By session 5, you'll recognise faces. By session 10, you'll have favourites. Keep showing up.
 
@@ -188,13 +188,13 @@ See [Role-Descriptions.md](../governance/role-descriptions.md) for all the ways 
 ## Common Questions
 
 ### What if I don't know anyone?
-That's exactly why we exist. Everyone's been there. Just show up—you'll meet people.
+That's exactly why we exist. Everyone's been there. Just show up-you'll meet people.
 
 ### What if I'm terrible at the sport?
 We have all levels. Vote honestly about your skill level and you'll be matched appropriately. No one expects perfection.
 
 ### What if I can't make it after signing up?
-Post in the group ASAP, help find a replacement if you can, and let the organiser know. Life happens—just communicate.
+Post in the group ASAP, help find a replacement if you can, and let the organiser know. Life happens-just communicate.
 
 ### What if I want to try a different sport?
 Go for it! Join the WhatsApp group for that sport and vote in the next poll.
@@ -232,7 +232,7 @@ Here's how to get started:
 
 A few things:
 • Your level: Let us know your experience so we can match you well
-• First time? No worries—everyone's friendly and we were all new once
+• First time? No worries-everyone's friendly and we were all new once
 • Questions? Just ask me or post in the group
 
 Looking forward to seeing you soon! 🎾

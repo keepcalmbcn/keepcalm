@@ -1,6 +1,6 @@
 # Role Descriptions
 
-The roles that keep Keep Calm running. We're a small team of volunteers — these descriptions help set expectations and make handovers easier.
+The roles that keep Keep Calm running. We're a small team of volunteers - these descriptions help set expectations and make handovers easier.
 
 ---
 
@@ -66,7 +66,7 @@ Books and manages one court within a larger padel/tennis session.
 
 ## Event Organiser
 
-Plans and runs special events — seasonal parties, trips, cross-sport socials.
+Plans and runs special events - seasonal parties, trips, cross-sport socials.
 
 **What you do:**
 - Propose and plan the event
@@ -97,7 +97,7 @@ If you want to help in any of these ways, just let your sport organiser know.
 
 ## Getting Involved
 
-There's no formal progression — if you attend regularly, help out, and show interest, you'll naturally get more involved. The main thing we need is reliability: people who do what they say they'll do.
+There's no formal progression - if you attend regularly, help out, and show interest, you'll naturally get more involved. The main thing we need is reliability: people who do what they say they'll do.
 
 ---
 

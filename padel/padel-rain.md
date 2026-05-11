@@ -1,6 +1,6 @@
 # 🌧️ Rainy Day Padel Process
 
-Playing padel in the rain can be tricky — but it’s also an opportunity to keep the group spirit alive.  
+Playing padel in the rain can be tricky - but it’s also an opportunity to keep the group spirit alive.  
 
 This process explains how we handle matches when the weather isn’t on our side.
 
@@ -13,12 +13,12 @@ This process explains how we handle matches when the weather isn’t on our side
 - **Don't jump the gun!** Weather in Barcelona can change very quickly.
   - We've had days where rain was forecast but it turned out sunny with perfect playing conditions.
   - Wait until closer to match time before making any decisions.
-  - If it does rain, courts will almost certainly become unplayable and the venue will give a **full refund** to all players — so there's no risk in waiting.
+  - If it does rain, courts will almost certainly become unplayable and the venue will give a **full refund** to all players - so there's no risk in waiting.
 - We work closely with venues to build a good relationship.
   - Cancelling all matches just because there *might* be rain is unfair to the venue.
   - This could harm our ability to block-book in the future.
 - **Cancellation window:** Courts can be cancelled up to **24 hours before** the event with no penalty, so there's no harm waiting until the day before to make a decision.
-  - However, as we get closer to the weekend, **indoor courts often fill up** — so switching venues last minute may not always be possible.
+  - However, as we get closer to the weekend, **indoor courts often fill up** - so switching venues last minute may not always be possible.
 
 ---
 
@@ -49,7 +49,7 @@ A rough guide for when to think about rain decisions:
 ## 🌈 Keeping Perspective
 - Missing one or two weeks of padel a year due to weather is **not a big deal**.
 - What matters most is staying **positive and consistent** to keep the club alive and thriving.
-- Bad weather weeks are temporary — our community spirit is what lasts.
+- Bad weather weeks are temporary - our community spirit is what lasts.
 
 ---
 
@@ -62,7 +62,7 @@ A rough guide for when to think about rain decisions:
   - Refrain from ringing the venue, or cancelling through the app.  
 - **Dropouts** (even for rain) are treated as **normal dropouts**.  
   - They will receive a strike and be added to the **Wall of Shame**.  
-- Do **not** repeatedly ask, “Are we playing?” — if it rains, assume the match is on unless cancelled officially via playtomic.
+- Do **not** repeatedly ask, “Are we playing?” - if it rains, assume the match is on unless cancelled officially via playtomic.
 
 ---
 
@@ -82,7 +82,7 @@ Remember: this is a **social group, not just padel**.
 ## 🏠 Preferred Indoor Venues
 If outdoor courts are unavailable due to weather, we may look to move to one of these indoor venues.
 
-**Important:** Indoor backup courts should be organised by the **4 players** (3 players + 1 booker) on each court — not by the main organiser. Coordinate with your group and book early if rain looks likely.
+**Important:** Indoor backup courts should be organised by the **4 players** (3 players + 1 booker) on each court - not by the main organiser. Coordinate with your group and book early if rain looks likely.
 
 Due to the size of the group, please try to organise amongst yourselves and avoid overwhelming the organisers with individual questions. Check this document, discuss with your court group, and only escalate to the organiser if absolutely necessary.
 

@@ -1,6 +1,6 @@
 🌟 LA MERCÈ FESTIVAL SOCIAL 🌟
 
-Good day all — today is a special one in Barcelona! Let’s enjoy the celebrations together 🎉
+Good day all - today is a special one in Barcelona! Let’s enjoy the celebrations together 🎉
 
 🗓 Wednesday, 24 September 2025
 ⏰ 18:00 – late

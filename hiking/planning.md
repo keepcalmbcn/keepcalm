@@ -19,7 +19,7 @@ Don't plan a hike alone. Get a small group of 3–5 people involved early to sha
 - Hikes are usually **monthly**, on a **Saturday or Sunday**
 - Avoid clashing with major Keep Calm padel events or Barcelona public holidays
 - Give at least **3–4 weeks notice** so people can plan ahead
-- Check school holiday periods — attendance can be lower or much higher
+- Check school holiday periods - attendance can be lower or much higher
 
 ---
 
@@ -43,7 +43,7 @@ Before committing to a route and date, confirm train logistics are viable.
 - Identify the **Rodalies line** needed (e.g. R2 Sud for the Garraf coast)
 - Check timetables at rodalies.gencat.cat or the Rodalies app
 - Confirm there are usable departure times (outbound ~8:30–9:00am, return ~15:00–17:30)
-- For disruption checks closer to the date, see [travel.md](hike-3/travel.md) — **X (Twitter) is the best source**
+- For disruption checks closer to the date, see [travel.md](hike-3/travel.md) - **X (Twitter) is the best source**
 
 ---
 
@@ -52,8 +52,8 @@ Before committing to a route and date, confirm train logistics are viable.
 Begin monitoring the forecast around 5–7 days before the hike. See [weather.md](hike-3/weather.md) for a full guide on which sources to use and what to look for.
 
 Key points:
-- Use **AEMET hourly** as the primary source — check timing of rain and wind against the hike schedule
-- For **coastal routes**, wind matters as much as rain — gusts above 30–40 km/h on exposed clifftops are a serious concern
+- Use **AEMET hourly** as the primary source - check timing of rain and wind against the hike schedule
+- For **coastal routes**, wind matters as much as rain - gusts above 30–40 km/h on exposed clifftops are a serious concern
 - Make the go/no-go call **the evening before** and communicate clearly to the group
 - If postponing, announce with a **poll for the new date** at the same time
 
@@ -77,12 +77,12 @@ Once date, route, and logistics are confirmed:
 
 ## 7. Announce the Hike
 
-**WhatsApp post** — share in the main Keep Calm hiking group and any relevant other groups:
+**WhatsApp post** - share in the main Keep Calm hiking group and any relevant other groups:
 - Date, route name, difficulty, rough distance
 - Link to the Google Form to sign up
 - Deadline to sign up
 
-**Social media** — post on Instagram and/or Facebook if capacity allows:
+**Social media** - post on Instagram and/or Facebook if capacity allows:
 - Eye-catching photo from a previous hike or the route
 - Key details and a link to sign up
 
@@ -116,18 +116,18 @@ See [hike-3/event-email.md](hike-3/event-email.md) for a template.
 
 ## 10. Final Checks (Day Before)
 
-- **Weather:** Do a full check across AEMET, Meteoblue, El Tiempo, and Meteo.cat — see [weather.md](hike-3/weather.md)
+- **Weather:** Do a full check across AEMET, Meteoblue, El Tiempo, and Meteo.cat - see [weather.md](hike-3/weather.md)
 - **Trains:** Check the R2/Rodalies X account for any disruption notices
 - **Headcount:** Confirm how many people are coming
 - **Organisers:** Confirm all co-organisers are still available
-- **Communication:** Send a WhatsApp update to the attendees group — even if everything is on, a "we're good to go" message is reassuring
+- **Communication:** Send a WhatsApp update to the attendees group - even if everything is on, a "we're good to go" message is reassuring
 
 ---
 
 ## 11. Morning Of
 
 - Final weather and train check
-- Arrive at the meeting point **early** — be visible and welcoming
+- Arrive at the meeting point **early** - be visible and welcoming
 - Do a headcount before boarding the train
 - Share the route on WhatsApp or Komoot so people have it on their phones
 

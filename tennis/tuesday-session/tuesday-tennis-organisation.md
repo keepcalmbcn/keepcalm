@@ -1,34 +1,34 @@
 # Tuesday Tennis Organisation Timeline
 
-## Wednesday 18:00 — Post the Event
+## Wednesday 18:00 - Post the Event
 - Create a WhatsApp event for the Tuesday **two weeks away** and pin it.
 - Include venue (Up Cornellà), approximate time (19:30 or 20:30 TBC), cost (~€8–10), and a prompt to drop level in comments (Beginner / Improver / Intermediate / Advanced).
 - Check venue availability so you can flag any issues early.
 
-## Tuesday Night (Following Week) — Event Closes
+## Tuesday Night (Following Week) - Event Closes
 - The event closes Tuesday night. Do a final check of the Going list and note any last-minute additions.
-- Players who joined the group after the event was posted won't see it — check for any messages in the chat from people wanting to join and add them manually.
+- Players who joined the group after the event was posted won't see it - check for any messages in the chat from people wanting to join and add them manually.
 
-## Wednesday (During the Day) — Build Courts & Post
+## Wednesday (During the Day) - Build Courts & Post
 - Group players by level: **Beginner / Improver / Intermediate / Advanced**.
 - Assign 4 players per court and designate a **booker** for each court.
-- Check court availability on Playtomic for 19:30 or 20:30 — prefer clay (Batida), adjacent court numbers where possible (e.g., Batida 6, 8, 10, 12).
+- Check court availability on Playtomic for 19:30 or 20:30 - prefer clay (Batida), adjacent court numbers where possible (e.g., Batida 6, 8, 10, 12).
 - Book court 1 yourself. Message each other booker with their court number and time.
-- Post the match schedule using the [court post template](tuesday-tennis-courts.md) — **this must go out Wednesday so bookers have time to book before courts sell out.**
+- Post the match schedule using the [court post template](tuesday-tennis-courts.md) - **this must go out Wednesday so bookers have time to book before courts sell out.**
 
 Use the [court post template](tuesday-tennis-courts.md) for the full WhatsApp message format.
 
 **Always tag all 4 players** in each court post so they receive the Playtomic link and know to book promptly.
 
-## Between Wednesday and Tuesday — Manage Dropouts
+## Between Wednesday and Tuesday - Manage Dropouts
 - If someone drops out: post in the group asking for a replacement.
 - If a court drops to 3 players close to the day: ask if they're happy to split the cost 3-ways, or cancel before 10:00 on the day (€0.50 fee).
 - No-shows: message privately first before escalating.
 
-## Tuesday — Day of Session
+## Tuesday - Day of Session
 - Remind players to **meet at Plaça Espanya ~45 minutes before** court time.
 - Bring spare rackets and make sure someone has tennis balls (not padel balls).
-- After the session: post a recap or group photo — useful for recruitment.
+- After the session: post a recap or group photo - useful for recruitment.
 
 ---
 
@@ -41,13 +41,13 @@ Use the [court post template](tuesday-tennis-courts.md) for the full WhatsApp me
 
 ### Timing
 - **19:30** is preferred but often sold out. **20:30** is more reliably available.
-- Both are fine — communicate the time clearly so players can plan travel.
+- Both are fine - communicate the time clearly so players can plan travel.
 
 ### Booker model
 Each court has a designated booker who books via Playtomic and shares the link. The lead organiser coordinates court numbers and times so all courts start simultaneously and sit near each other.
 
 ### Joker role
-If the organiser (or another experienced player) doesn't have a fixed court, they can act as a **joker** — available to fill any last-minute gap, carry spare rackets, or help newcomers find their court.
+If the organiser (or another experienced player) doesn't have a fixed court, they can act as a **joker** - available to fill any last-minute gap, carry spare rackets, or help newcomers find their court.
 
 ---
 

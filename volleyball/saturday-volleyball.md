@@ -16,7 +16,7 @@ Limit: 12 people per slot →
 
 For now, max 2 slots per person. If after 24h there are open spots, you can grab more.
 
-If slots are full, use this chat to swap or negotiate with someone — keep it friendly and transparent 😊
+If slots are full, use this chat to swap or negotiate with someone - keep it friendly and transparent 😊
 
 If you can’t make it, please drop out of the event and post it here so someone else can join 🙌
 

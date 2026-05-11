@@ -2,7 +2,7 @@
 
 ## The One Sentence Vision
 
-> Keep Calm is Barcelona's welcoming home for English speakers to stay active, make friends, and belong—powered by volunteers who care more about community than competition.
+> Keep Calm is Barcelona's welcoming home for English speakers to stay active, make friends, and belong-powered by volunteers who care more about community than competition.
 
 ---
 
@@ -12,7 +12,7 @@ Keep Calm is a **community platform** for English speakers in Barcelona to find 
 
 The sport is the mechanism. Belonging is the outcome.
 
-Our competitive advantage isn't any single activity—it's the unified, welcoming front door to Barcelona's active expat life.
+Our competitive advantage isn't any single activity-it's the unified, welcoming front door to Barcelona's active expat life.
 
 ---
 
@@ -127,7 +127,7 @@ We think beyond weekly sessions to build a complete community experience:
 | **Seasonal Events** | Quarterly | Halloween, Summer party, Christmas, Season kickoff |
 | **Special Trips** | 2-3x per year | Ski trip, large hike, weekend away |
 
-The **cross-sport social** is critical—it's where a volleyball player meets a padel player and tries something new. It's where community identity forms beyond any single sport.
+The **cross-sport social** is critical-it's where a volleyball player meets a padel player and tries something new. It's where community identity forms beyond any single sport.
 
 ---
 

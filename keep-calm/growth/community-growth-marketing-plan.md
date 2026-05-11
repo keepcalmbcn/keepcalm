@@ -17,7 +17,7 @@ This plan leverages **user-generated content (UGC)** and **community participati
 
 ### The "Members Create Content" Approach
 
-**Key Insight**: You don't need to create content—your members already are. You just need to collect and share it.
+**Key Insight**: You don't need to create content-your members already are. You just need to collect and share it.
 
 #### 1. Instagram Stories Takeovers (Zero Creation, High Impact)
 - **What**: Designate 1-2 members each week to post Stories during their game/event
@@ -229,13 +229,13 @@ Every post should include:
 ## FAQs: Addressing Common Concerns
 
 ### "I don't want to be an influencer/create tons of content"
-**Solution**: You're not creating content—you're curating it. 80% of content comes from members, you just organize and reshare.
+**Solution**: You're not creating content-you're curating it. 80% of content comes from members, you just organize and reshare.
 
 ### "What if people don't submit photos?"
 **Solution**: Make it the entry requirement ("To join, tag us in 1 Story or send 1 photo to the WhatsApp group"). Gamify it with monthly "best photo" recognition.
 
 ### "I'm not good at social media"
-**Solution**: Use templates for everything. Canva has free templates. Captions can follow formulas. Reels can be auto-edited. No creativity required—just consistency.
+**Solution**: Use templates for everything. Canva has free templates. Captions can follow formulas. Reels can be auto-edited. No creativity required-just consistency.
 
 ### "How do I not annoy my current members with Instagram focus?"
 **Solution**: Frame it as "help us grow so we can book more courts and have more events." Make participation optional but incentivized (free game entry, recognition, etc.).

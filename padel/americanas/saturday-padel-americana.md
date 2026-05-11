@@ -1,4 +1,4 @@
-# Archive: First Keep Calm Americana — October 2024
+# Archive: First Keep Calm Americana - October 2024
 
 This was the original announcement post for Keep Calm's first ever Americana, held at Aurial in October 2024. Kept here for reference.
 

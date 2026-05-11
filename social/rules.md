@@ -2,10 +2,10 @@
 
 Welcome to Keep Calm! We're Barcelona's home for English speakers to stay active, make friends, and feel like they belong. To keep things running smoothly, please follow these guidelines.
 
-> **These rules add to — but don't replace — our community-wide policies. Please read these first if you haven't already:**
-> - [WhatsApp Rules](https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/whatsapp-rules.md) — group communication, unsolicited DMs, referral links, spam
-> - [Community Conduct](https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/community-conduct.md) — respect, harassment, advertising, conflict resolution
-> - [Event Rules](https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/event-rules.md) — commitment, cancellations, the strike system
+> **These rules add to - but don't replace - our community-wide policies. Please read these first if you haven't already:**
+> - [WhatsApp Rules](https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/whatsapp-rules.md) - group communication, unsolicited DMs, referral links, spam
+> - [Community Conduct](https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/community-conduct.md) - respect, harassment, advertising, conflict resolution
+> - [Event Rules](https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/event-rules.md) - commitment, cancellations, the strike system
 
 ## 1. Event Posting
 
