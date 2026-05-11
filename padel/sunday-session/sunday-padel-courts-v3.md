@@ -1,6 +1,10 @@
 # Padel Game Arrangement Prompt
 
-Using the template below, arrange padel games based on the attached CSV file. Follow these rules when creating the games:
+Using the template below, arrange padel games based on the CSV sign-up data. The CSV file is located at:
+
+`padel/scratch/Sunday Evening Padel (Responses) - Form responses 1.csv`
+
+Read that file and follow these rules when creating the games:
 
 ---
 
@@ -79,12 +83,20 @@ Process:
 2. When arranging 17:30 courts, for every player who also played at 16:00, actively avoid placing them with the same partners. Treat this as a hard constraint, relaxed only when mathematically impossible (e.g., not enough players of the required gender/level to avoid all overlaps).
 3. If a small number of repeated pairings are unavoidable, document which pairs overlap and briefly explain why (e.g., "only 1 male available at this level").
 
+**Step 2.6 - Cross-session partner variety (LOW PRIORITY / SOFT CONSTRAINT)**
+- If data from the previous 3 weeks' sessions is provided (e.g., past court arrangements), use it to avoid repeating the same court pairings.
+- For each player, note who they shared a court with across those sessions.
+- When arranging courts, prefer groupings where players have not played together recently.
+- This is a soft constraint only — apply it after all other constraints (level, special requests, gender mix, within-session partner mixing) are already satisfied. Never compromise a higher-priority rule to achieve cross-session variety.
+- If no previous session data is provided, skip this step entirely.
+
 **Priority order when conflicts arise:**
 1. Correct level assignment (never compromise)
 2. Special requests (honour where possible)
 3. Mixed court priority (2M+2F before single-gender)
 4. Partner mixing (avoid same partners across slots)
 5. Even court sizes (minimise spare places)
+6. Cross-session variety (avoid repeating pairings from past 3 weeks — soft constraint only)
 
 ---
 
@@ -225,6 +237,12 @@ https://docs.google.com/document/d/e/2PACX-1vRRg8ZaFAnIYTSethY2dcqsAxWhoRELfiOV0
 1. Assist new players in booking or joining matches
 2. Remain positive and friendly and try to fill empty spaces
 3. Refrain from spamming any of the WhatsApp groups
+
+🎒 *Need a racket?*
+Racket rentals are available at the venue for €4 — pay at reception (bring ID).
+
+🆕 *First time at the venue?*
+Please arrive *30 minutes early* to find your way around, meet your court, and say hi to the group.
 
 ---
 

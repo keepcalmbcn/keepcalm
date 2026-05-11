@@ -30,6 +30,7 @@ Check the forecast using these reliable sources for Barcelona:
 | **El Tiempo** | [eltiempo.es](https://www.eltiempo.es/barcelona.html) | Good local forecasts |
 | **AEMET** | [aemet.es](https://www.aemet.es/es/eltiempo/prediccion/municipios/barcelona-id08019) | Official Spanish meteorological agency |
 | **Meteoblue** | [meteoblue.com](https://www.meteoblue.com/en/weather/week/barcelona_spain_3128760) | Detailed hourly breakdowns |
+| **Meteo.cat** | [meteo.cat](http://meteo.cat/) | Catalan Meteorological Service |
 
 ---
 

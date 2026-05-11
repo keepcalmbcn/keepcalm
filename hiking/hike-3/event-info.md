@@ -1,5 +1,5 @@
 # 🥾 Keep Calm Coastal Hike & Beach
-## Vilanova → Sitges via GR-92 Camí de Ronda | Saturday 9th May 2026
+## Vilanova → Sitges via GR-92 Camí de Ronda | Saturday 16th May 2026
 
 ---
 
@@ -68,7 +68,7 @@
 ## ℹ️ Good to Know
 
 **Logistics**
-- RSVP by **Friday 8th May evening** so we have a headcount
+- RSVP by **Friday 15th May evening** so we have a headcount
 - A WhatsApp group will be set up for attendees ahead of the day
 - If it rains we'll postpone - keep an eye on the WhatsApp group
 

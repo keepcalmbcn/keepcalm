@@ -1,5 +1,5 @@
 🥾 KEEP CALM | COASTAL HIKE & BEACH - Vilanova to Sitges 🏖️
-Saturday 9th May 2026
+Saturday 16th May 2026
 
 A beginner-friendly coastal walk from Vilanova i la Geltrú to Sitges along the GR-92 Camí de Ronda, with a swim break halfway and drinks in Sitges at the end.
 
@@ -42,7 +42,7 @@ Confirm via the Rodalies app closer to the date.
 • Snacks to share (encouraged!)
 
 ℹ️ GOOD TO KNOW
-• RSVP by Friday 8th May evening so we have a headcount
+• RSVP by Friday 15th May evening so we have a headcount
 • A WhatsApp group will be set up for attendees ahead of the day
 • If it rains we'll postpone - keep an eye on the WhatsApp group
 • Dogs welcome - keep them close near the train tracks

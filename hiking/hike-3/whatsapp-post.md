@@ -1,4 +1,4 @@
-🥾 KEEP CALM | COASTAL HIKE & BEACH - Vilanova to Sitges | Saturday 9th May 🏖️
+🥾 KEEP CALM | COASTAL HIKE & BEACH - Vilanova to Sitges | Saturday 16th May 🏖️
 
 Hi @all we're hitting the coast! Join us for an 8.5km walk along one of the most beautiful stretches of the Catalan coastline, from Vilanova i la Geltrú to Sitges via the GR-92 Camí de Ronda.
 
