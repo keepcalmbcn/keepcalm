@@ -84,6 +84,14 @@ If you're assigned as the booker for a court:
 - Look after the facilities
 - Good relationships with venues help us keep getting courts
 
+## 11. Safety
+
+- Padel is a physical sport - make sure you're fit enough to play and warm up before games
+- Stop and let the other players know if you feel unwell or pick up an injury
+- Clear loose balls between points so no one slips or trips
+- Bring water and pace yourself in the heat
+- This is a free, voluntary, social activity. Everyone participates independently and is responsible for their own safety, decisions, fitness, and insurance. Organisers arrange games but are not responsible for injuries.
+
 ## Sunday Padel - Organised Sessions
 
 The Sunday padel sessions run on a poll-based system managed by organisers. The following rules apply specifically to that process:

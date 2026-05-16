@@ -1,5 +1,5 @@
 # 🎳 Keep Calm Bowling Night
-## Bowling Ilusiona, Gran Vía 2 | Thursday 14th May 2026 8:00pm
+## Bowling Ilusiona, Gran Vía 2 | Thursday 21st May 2026 8:00pm
 
 ---
 
@@ -8,8 +8,8 @@
 | 📍 Venue | Bowling Ilusiona, Gran Vía 2 (2nd floor) |
 | 🕗 Time | 8:00pm |
 | 💶 Cost | €1 to bowl / €4 with a beer + snacks |
-| 🎟️ Spots | 14 spots - first come, first served |
-| 🎳 Format | 28 tickets, 2 games each, max 6 per lane |
+| 🎟️ Spots | 20 spots - first come, first served |
+| 🎳 Format | 20 tickets, 1 game each (leftover tickets = play back to back), max 6 per lane |
 | 🕹️ Before | Arcade and socialising |
 | 🍻 After | Beers and hanging out nearby |
 
@@ -47,6 +47,7 @@
 ## ℹ️ Good to Know
 
 - **Capacity:** up to 6 per lane, so we'll be split into a few groups
+- **Leftover tickets:** there are 20 tickets for 20 spots (one game each). If any spots go unclaimed, the spare tickets can be used to play a second game back to back
 - **Bring:** just yourself - bowling shoes are provided at the venue
 - **Late arrivals:** if you're running behind, let someone in the Social group know so we can save you a spot in the queue
 - **Standard price:** if you miss out on a voucher, you can still pay the normal walk-in rate at the venue and join us

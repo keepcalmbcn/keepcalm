@@ -6,7 +6,7 @@
 [Google Maps](https://maps.google.com/?q=41.358040,2.129227)
 
 ## When is the next one?
-**Thursday 14th May 2026.** Aim to arrive around **7:30pm** so play can start at **8:00pm**.
+**Thursday 21st May 2026.** Aim to arrive around **7:30pm** so play can start at **8:00pm**.
 
 ## How much does it cost?
 - **€1** to bowl
@@ -21,7 +21,7 @@ These are the discounted voucher prices David A has secured. Standard walk-in pr
 No DMs needed - just RSVP in the WhatsApp event and arrive early.
 
 ## How many spots are there?
-**14 spots** for this round (28 tickets total, 2 games each).
+**20 spots** for this round (20 tickets total, one game each). If any spots go unclaimed, the leftover tickets can be used to play a second game back to back.
 
 ## How many people per lane?
 Up to **6 per lane**, so we'll be split into a few groups.

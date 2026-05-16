@@ -21,6 +21,7 @@ Welcome to Keep Calm Running! To keep things safe and enjoyable for everyone, pl
 - Bring your phone and keep emergency contacts accessible
 - Stay hydrated, especially in summer
 - You run at your own risk - know your limits
+- This is a free, voluntary activity. Everyone participates independently and is responsible for their own safety, decisions, fitness, and insurance. Runs are not coached or guided, and organisers are not responsible for injuries.
 
 ## 3. Respect All Paces
 
