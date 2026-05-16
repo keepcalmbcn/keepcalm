@@ -10,6 +10,10 @@ Part of the larger **Keep Calm and Carry On** not-for-profit community for Engli
 - [Group Rules](rules.md) - how we keep things running smoothly
 - [General WhatsApp Rules](../keep-calm/rules/whatsapp-rules.md) - applies to all Keep Calm groups
 
+## Runs
+
+- **Run 1: La Carretera de les Aigües** - Saturday 23rd May 2026, 8:00am, meeting at Penitents metro. [Details](Run%201%20-%20La%20carretera%20de%20las%20Aig%C3%BCes/README.md)
+
 ## Getting Started
 
 1. Join the Running WhatsApp group (links at https://keepcalm.fit/)
