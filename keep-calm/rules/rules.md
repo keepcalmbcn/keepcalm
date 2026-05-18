@@ -42,6 +42,7 @@ Policies for event participation:
 ### ⚠️ [Safety & Liability](safety-liability.md)
 Understanding risk and responsibility:
 - Participate at your own risk
+- Age requirement: 18+ (adults only)
 - Your responsibilities before and during activities
 - Injury and emergency procedures
 - Sport-specific safety considerations
@@ -121,6 +122,7 @@ Current volunteer organisers by sport and their responsibilities.
 6. **No advertising** - This is a non-commercial community, not a marketing channel
 7. **Respect privacy** - Ask before photographing, don't share personal info
 8. **Play safe** - You participate at your own risk
+9. **Be 18+** - Keep Calm is an adults-only community
 
 ### Zero Tolerance
 - Harassment, discrimination, or bullying

@@ -18,6 +18,8 @@ Cost: Around 5-8 euros per person per session.
 
 Venues: Padel Delfos, Up Padel & Tennis Cornella, Aurial Padel Cornella.
 
+Open to adults only (18+).
+
 Rules: https://github.com/keepcalmbcn/keepcalm/blob/main/padel/rules.md
 Website: https://keepcalm.fit/
 Instagram: https://www.instagram.com/keepcalmbarcelona/

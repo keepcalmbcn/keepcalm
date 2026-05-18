@@ -98,10 +98,10 @@ See Sunday Padel Venues.md
 - Best to bring your own but other players might have some
 - Worst case scenario check with the organiser
 
-### Is padel suitable for all ages and fitness levels?
+### Is padel suitable for all fitness levels?
 - **Yes!** Padel is less physically demanding than tennis
-- Great for ages 8-80+
 - Lower impact on joints due to shorter court and underarm serving
+- A wide range of fitness levels can enjoy it (note: Keep Calm sessions are for adults 18+)
 
 ### What's the difference between padel and tennis?
 - **Court:** Smaller, enclosed with walls you can play off

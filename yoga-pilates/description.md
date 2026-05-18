@@ -12,6 +12,8 @@ Watch this group for session announcements including times, locations, and costs
 
 All experience levels welcome. The focus is on wellbeing and community.
 
+Open to adults only (18+).
+
 Rules: https://github.com/keepcalmbcn/keepcalm/blob/main/yoga-pilates/rules.md
 Website: https://keepcalm.fit/
 Instagram: https://www.instagram.com/keepcalmbarcelona/

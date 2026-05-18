@@ -10,9 +10,11 @@ Keep Calm Tennis - part of the Keep Calm and Carry On community for English spea
 
 All levels welcome - currently beginner to intermediate range. Typically doubles (2v2) format.
 
-Cost: Around €8–10 per person. Bring your own racket. Tennis balls coordinated among players.
+Cost: Around €8-10 per person. Bring your own racket. Tennis balls coordinated among players.
 
 💡 Outside of this, feel free to pitch in a date and time to your own liking and organise a match with other members of the Keep Calm community! Up Cornellà has courts available almost daily - [find them on the map here](https://maps.app.goo.gl/LBWsMovJzHRmbtfSA?g_st=ic).
+
+Open to adults only (18+).
 
 New? Read our FAQ: https://github.com/keepcalmbcn/keepcalm/blob/main/tennis/tuesday-session/tuesday-tennis-faq.md
 Rules: https://github.com/keepcalmbcn/keepcalm/blob/main/tennis/rules.md

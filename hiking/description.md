@@ -16,6 +16,8 @@ Cost: Free! Just the train fare (usually 3-7 euros each way).
 
 Bring: Water, food to share, solid hiking shoes, layers, rain jacket, sunscreen.
 
+Open to adults only (18+).
+
 Rules: https://github.com/keepcalmbcn/keepcalm/blob/main/hiking/rules.md
 Website: https://keepcalm.fit/
 Instagram: https://www.instagram.com/keepcalmbarcelona/

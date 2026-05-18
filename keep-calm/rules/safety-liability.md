@@ -288,6 +288,7 @@ Future registration as a formal association may include insurance options. This 
 ### Implied Agreement
 
 By participating in Keep Calm activities, you implicitly agree that:
+- You are 18 or over
 - You understand and accept the risks
 - You're physically capable of participating
 - You take responsibility for your own safety
@@ -303,15 +304,13 @@ For certain activities (e.g., organised trips, special events), we may require s
 
 ---
 
-## Children and Minors
+## Age Requirement
 
-Keep Calm activities are generally for adults (18+).
+Keep Calm is an adults-only community. **You must be 18 or over to take part in any Keep Calm activity**, including sports sessions and social events.
 
-If minors participate:
-- A parent/guardian must accompany them
-- Parent/guardian assumes all responsibility
-- Parent/guardian must ensure appropriate behaviour
-- Check with organisers before bringing minors
+We are a volunteer-run community with no insurance and no formal supervision, coordinated through WhatsApp, and many of our socials take place at venues that serve alcohol. We are not set up to safely include minors, so we make no exceptions, including for accompanied minors.
+
+Organisers will ask anyone they reasonably believe to be under 18 to confirm their age, and will turn away anyone who cannot. If you have a question about this policy, contact an organiser.
 
 ---
 

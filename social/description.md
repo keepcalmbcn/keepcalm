@@ -12,6 +12,8 @@ Want to do something? Post it! "I'm going to X, who wants to join?" is always we
 
 No external event links or flyers without admin approval. Casual invites to do stuff together are what this group is about.
 
+Open to adults only (18+).
+
 Rules: https://github.com/keepcalmbcn/keepcalm/blob/main/social/rules.md
 Website: https://keepcalm.fit/
 Instagram: https://www.instagram.com/keepcalmbarcelona/

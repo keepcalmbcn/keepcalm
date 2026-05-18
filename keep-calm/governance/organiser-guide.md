@@ -79,6 +79,12 @@ Tell bookers to:
 3. Escalate to other organisers if serious
 4. See [Community Conduct](../rules/community-conduct.md)
 
+**Under-18s:**
+1. Keep Calm is an adults-only community - everyone taking part must be 18 or over
+2. If you reasonably believe someone is under 18, ask them to confirm their age
+3. Turn away anyone who cannot - make no exceptions, even for accompanied minors
+4. See [Safety & Liability](../rules/safety-liability.md)
+
 ---
 
 ## Onboarding New Members

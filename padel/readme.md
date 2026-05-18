@@ -65,7 +65,7 @@ See [Sunday Padel FAQ.md](sunday-padel-faq.md) for detailed level descriptions.
 
 ## Post-Game Social
 
-Most Sundays we meet at **Caña + Tapa** (19:00 onwards) for drinks and food. Great way to meet people and unwind after playing!
+Most Sundays we meet at **Caña + Tapa** (20:00 onwards) for drinks and food. Great way to meet people and unwind after playing!
 
 **Location**: https://maps.app.goo.gl/YZpaVXbmj1B1jhg68
 

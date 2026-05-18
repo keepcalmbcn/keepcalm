@@ -112,6 +112,10 @@ After the poll closes, organisers will post who's playing when. Look for:
 
 Full rules are in [Rules.md](../rules/rules.md), but here's the short version:
 
+### Adults Only
+- Keep Calm is for adults - you must be 18 or over to take part
+- This applies to every sport and social event
+
 ### Show Up If You Commit
 - If you vote in a poll, you're saying you'll be there
 - If plans change, give as much notice as possible
@@ -203,7 +207,7 @@ Go for it! Join the WhatsApp group for that sport and vote in the next poll.
 Talk to an organiser privately. We take community health seriously. See [Community-Conduct.md](../rules/community-conduct.md).
 
 ### What if I want to bring a friend?
-Great! Have them join the WhatsApp group and vote in the poll. Don't just show up with extras without checking first.
+Great! Have them join the WhatsApp group and vote in the poll. Don't just show up with extras without checking first. Anyone taking part must be 18 or over.
 
 ---
 

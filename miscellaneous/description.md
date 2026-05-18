@@ -12,6 +12,8 @@ Also the home for activities that don't yet have their own dedicated group - thi
 
 Friendly discussions, quick questions, casual chats, and anything that doesn't quite fit into the more specific topic groups - it all belongs here.
 
+Open to adults only (18+).
+
 Website: https://keepcalm.fit/
 Instagram: https://www.instagram.com/keepcalmbarcelona/
 Facebook: https://www.facebook.com/keepcalmbarcelona

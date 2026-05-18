@@ -16,8 +16,8 @@ Before doing anything else, create a complete master list of ALL players from th
 - **DUPLICATE NAME CHECK:** If two or more players would have the same "Firstname L" format, use enough of their surname to distinguish them (e.g., "Julie La" and "Julie Ba" or "Julie Lat" and "Julie Bar")
 - Phone number (corrected format - see below)
 - Gender (M/F/?)
-- 16:00 level (if signed up)
-- 17:30 level (if signed up)
+- 17:00 level (if signed up)
+- 18:30 level (if signed up)
 - Special requests (if any)
 
 **Step 1.2 - Phone number formatting rules**
@@ -32,13 +32,13 @@ Before doing anything else, create a complete master list of ALL players from th
 **Step 1.3 - Count players per time slot and level**
 Create a summary count:
 ```
-16:00 - 17:30:
+17:00 - 18:30:
 - 🟢 Beginner: X players (XF, XM)
 - 🟡 Improvers: X players (XF, XM)
 - 🟠 Intermediate: X players (XF, XM)
 - 🔴 Advanced: X players (XF, XM)
 
-17:30 - 19:00:
+18:30 - 20:00:
 - 🟢 Beginner: X players (XF, XM)
 - 🟡 Improvers: X players (XF, XM)
 - 🟠 Intermediate: X players (XF, XM)
@@ -72,15 +72,15 @@ Create a summary count:
 - If gender mix doesn't fit any category (e.g., 1M + 3F, or 3M + 1F), leave gender label blank
 
 **Step 2.4 - Handle lone players at a level**
-- If only 1 player at a level/time (e.g., 1 Advanced at 16:00), move them to nearest level
+- If only 1 player at a level/time (e.g., 1 Advanced at 17:00), move them to nearest level
 - Note this in your working but NOT in final output
 
 **Step 2.5 - Partner mixing for dual-slot players (CRITICAL)**
 Players who play BOTH time slots should be placed with DIFFERENT partners in each slot. This is critical for a good social experience.
 
 Process:
-1. After arranging ALL 16:00 courts, record each player's courtmates for that slot.
-2. When arranging 17:30 courts, for every player who also played at 16:00, actively avoid placing them with the same partners. Treat this as a hard constraint, relaxed only when mathematically impossible (e.g., not enough players of the required gender/level to avoid all overlaps).
+1. After arranging ALL 17:00 courts, record each player's courtmates for that slot.
+2. When arranging 18:30 courts, for every player who also played at 17:00, actively avoid placing them with the same partners. Treat this as a hard constraint, relaxed only when mathematically impossible (e.g., not enough players of the required gender/level to avoid all overlaps).
 3. If a small number of repeated pairings are unavoidable, document which pairs overlap and briefly explain why (e.g., "only 1 male available at this level").
 
 **Step 2.6 - Cross-session partner variety (LOW PRIORITY / SOFT CONSTRAINT)**
@@ -111,10 +111,10 @@ Process:
 - If a player requested NOT to be booker, skip them during booker assignment
 
 **Step 3.2 - Booker assignment process**
-1. Start with 16:00 courts, assign bookers (first eligible player per court)
+1. Start with 17:00 courts, assign bookers (first eligible player per court)
 2. For beginner games everyone should be a booker (anyone can book)
 3. Add each booker to your "Already Booking" list
-4. Move to 17:30 courts
+4. Move to 18:30 courts
 5. For each court, check if first listed player is already booking
 6. If yes, move to next player on that court who isn't already booking
 7. Once a booker is identified, REORDER the court so the booker is listed first
@@ -152,7 +152,7 @@ Before generating final output, verify each item:
 - [ ] Every booker is the FIRST player listed on their court
 
 **Partner mixing verification:**
-- [ ] For each dual-slot player, list their 16:00 courtmates and 17:30 courtmates
+- [ ] For each dual-slot player, list their 17:00 courtmates and 18:30 courtmates
 - [ ] Confirm the majority of pairings are different across slots
 - [ ] Document any unavoidable repeated pairings with reason
 
@@ -207,7 +207,7 @@ https://playtomic.io/tenant/714b6963-d11f-47b0-a495-83e753b413e9
 📍 *Secondary:* Up Pádel & Tennis Cornellà
 https://playtomic.io/tenant/9ce272f4-5039-4b6a-8f07-0c206712d06a
 
-🍻 *Post-Game Social (19:00 onwards):*
+🍻 *Post-Game Social (20:00 onwards):*
 Caña + Tapa
 https://maps.app.goo.gl/YZpaVXbmj1B1jhg68
 
@@ -250,7 +250,7 @@ Please arrive *30 minutes early* to find your way around, meet your court, and s
 
 ---
 
-⏰ *16:00 - 17:30*
+⏰ *17:00 - 18:30*
 
 ---
 
@@ -258,7 +258,7 @@ Please arrive *30 minutes early* to find your way around, meet your court, and s
 
 [Only include if there are beginner players at this time]
 
-*Court 1 - [Gender Label if applicable] - 🟢 Beginner 16:00-17:30*
+*Court 1 - [Gender Label if applicable] - 🟢 Beginner 17:00-18:30*
 • [Name] [Phone] 📋 _Booker_
 • [Name] [Phone]
 • [Name] [Phone]
@@ -268,7 +268,7 @@ Please arrive *30 minutes early* to find your way around, meet your court, and s
 
 🟡 *IMPROVERS*
 
-*Court 1 - [Gender Label] - 🟡 Improvers 16:00-17:30*
+*Court 1 - [Gender Label] - 🟡 Improvers 17:00-18:30*
 • [Name] [Phone] 📋 _Booker_
 • [Name] [Phone]
 • [Name] [Phone]
@@ -290,7 +290,7 @@ Please arrive *30 minutes early* to find your way around, meet your court, and s
 
 ---
 
-⏰ *17:30 - 19:00*
+⏰ *18:30 - 20:00*
 
 [Repeat structure for second time slot]
 

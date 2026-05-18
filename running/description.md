@@ -12,6 +12,8 @@ Keep an eye on the group for run announcements - times, routes, and meeting poin
 
 All paces welcome. We look out for each other.
 
+Open to adults only (18+).
+
 Rules: https://github.com/keepcalmbcn/keepcalm/blob/main/running/rules.md
 Website: https://keepcalm.fit/
 Instagram: https://www.instagram.com/keepcalmbarcelona/

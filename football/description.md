@@ -12,6 +12,8 @@ Watch this group for session announcements including times, locations, and costs
 
 All levels welcome. The main thing is showing up and having a good time.
 
+Open to adults only (18+).
+
 Rules: https://github.com/keepcalmbcn/keepcalm/blob/main/football/rules.md
 Website: https://keepcalm.fit/
 Instagram: https://www.instagram.com/keepcalmbarcelona/

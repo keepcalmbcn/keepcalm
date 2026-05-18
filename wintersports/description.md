@@ -12,6 +12,8 @@ All levels welcome, from first-timers to experienced riders.
 
 Trips are self-organised - sort your own transport, accommodation, and lift passes, but we coordinate as a group and meet up at the resort.
 
+Open to adults only (18+).
+
 Rules: https://github.com/keepcalmbcn/keepcalm/blob/main/wintersports/rules.md
 Website: https://keepcalm.fit/
 Instagram: https://www.instagram.com/keepcalmbarcelona/

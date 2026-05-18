@@ -20,7 +20,7 @@ Quick reference for all our regular activities. All events are posted in their r
 - **Games posted**: During the week for upcoming Sunday
 
 ### Sunday - Padel Games 🎾
-- **Time**: Usually 16:00-17:30 and 17:30-19:00 slots
+- **Time**: Usually 17:00-18:30 and 18:30-20:00 slots
 - **Venues**:
   - Padel Delfos - [Google Maps](https://maps.app.goo.gl/uYnstxaRr2CAhoxS8)
   - Up Pádel & Tennis Cornellà - [Google Maps](https://maps.app.goo.gl/Yri55DyC9qqTAuYw8)
@@ -66,7 +66,7 @@ Quick reference for all our regular activities. All events are posted in their r
 ### Social Events 🍻
 - **Frequency**: Varies (weekly post-game meetups, monthly special events)
 - **Common**:
-  - Sunday post-Padel drinks at Caña + Tapa (19:00 onwards)
+  - Sunday post-Padel drinks at Caña + Tapa (20:00 onwards)
   - Seasonal events (Halloween, festivals, etc.)
 - **Check WhatsApp group for announcements**
 

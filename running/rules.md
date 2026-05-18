@@ -6,6 +6,9 @@ Welcome to Keep Calm Running! To keep things safe and enjoyable for everyone, pl
 > - [WhatsApp Rules](https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/whatsapp-rules.md) - group communication, unsolicited DMs, referral links, spam
 > - [Community Conduct](https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/community-conduct.md) - respect, harassment, advertising, conflict resolution
 > - [Event Rules](https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/event-rules.md) - commitment, cancellations, the strike system
+> - [Safety & Liability](https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/safety-liability.md) - participation at your own risk, the 18+ age requirement
+>
+> **You must be 18 or over to take part. Keep Calm is an adults-only community.**
 
 ## 1. Attendance
 

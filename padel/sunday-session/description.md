@@ -20,7 +20,9 @@ Cost: Around €5–8 per person. Racket rental available (€4).
 
 Venues: Padel Delfos, Up Pádel & Tennis Cornellà, Aurial Pàdel Cornellà.
 
-Post-game socials most Sundays at Caña + Tapa from 19:00 🍻
+Post-game socials most Sundays at Caña + Tapa from 20:00 🍻
+
+Open to adults only (18+).
 
 FAQ: https://github.com/keepcalmbcn/keepcalm/blob/main/padel/sunday-session/sunday-padel-faq.md
 Rules: https://github.com/keepcalmbcn/keepcalm/blob/main/padel/rules.md

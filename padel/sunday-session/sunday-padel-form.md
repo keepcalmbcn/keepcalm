@@ -9,7 +9,7 @@ Happy weekend everyone! Please vote for the time slots you can play next weekend
 
 ⏰ SCHEDULE & TIMING
 • Match duration: 1h 30min
-• Playing hours: 16:00 – 17:30 & 17:30 - 19:00
+• Playing hours: 17:00 - 18:30 & 18:30 - 20:00
 • After-play: Drinks & food on the terrace 🍻
 • Please check your availability & travel time before voting
 

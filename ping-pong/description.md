@@ -14,6 +14,8 @@ Cost: Free! Public outdoor tables.
 
 Cancelled if raining - check this group for updates.
 
+Open to adults only (18+).
+
 Rules: https://github.com/keepcalmbcn/keepcalm/blob/main/ping-pong/rules.md
 Website: https://keepcalm.fit/
 Instagram: https://www.instagram.com/keepcalmbarcelona/

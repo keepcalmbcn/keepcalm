@@ -14,6 +14,8 @@ All levels welcome. We rotate teams so everyone gets to play.
 
 Cost: Free! We use public beach nets.
 
+Open to adults only (18+).
+
 Rules: https://github.com/keepcalmbcn/keepcalm/blob/main/volleyball/rules.md
 Website: https://keepcalm.fit/
 Instagram: https://www.instagram.com/keepcalmbarcelona/

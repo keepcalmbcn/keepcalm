@@ -12,6 +12,8 @@ Open to Improver through to Advanced players. Beginners welcome. Sign up via the
 
 Cost: ~€10 per person (includes a ball to take home!), paid via Playtomic.
 
+Open to adults only (18+).
+
 Rules: https://github.com/keepcalmbcn/keepcalm/blob/main/padel/rules.md
 Website: https://keepcalm.fit/
 Instagram: https://www.instagram.com/keepcalmbarcelona/
