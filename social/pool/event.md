@@ -27,10 +27,8 @@
 
 ## 🗓️ On the Night
 
-- **17:00** - venue is open, first arrivals can grab a table
-- **17:00 - 20:00** - drop in whenever suits you and play as tables free up
-- **~19:00** - Dan heads off, others are welcome to stay on
-- **20:00** - if you fancy a second event, [Keep Calm Board Games](../boardgames/README.md) starts elsewhere around now
+- **17:00 - 20:00** - venue is open, first arrivals can grab a table drop in whenever suits you and play as tables free up
+- **19:00 onwards ** - if you fancy a second event, [Keep Calm Board Games](../boardgames/README.md) or head out for drinks?
 
 ---
 
