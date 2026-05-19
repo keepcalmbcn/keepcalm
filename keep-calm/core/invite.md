@@ -1,0 +1,56 @@
+# Keep Calm Core - Invitation
+
+This is the message we send to members who qualify for **Keep Calm Core**. Personalise the name, copy the message below, and send it as a direct message. Once they accept, add them to the Keep Calm Core WhatsApp group.
+
+## Who to invite
+
+Send this to members who are clearly an established part of the community. As a guide, that means someone who:
+
+- Has been active in Keep Calm for **6+ months** (the main criterion)
+- Regularly attends events across one or more activities
+- And/or has hosted, organised, or helped run events
+
+Core membership is a judgement call, so treat these as a guide rather than a rigid checklist. When in doubt, the question is simple: is this person a familiar, committed part of the community?
+
+## How to send it
+
+1. Replace `[first name]` with the member's name.
+2. Copy the message text from the code block below (it uses WhatsApp `*bold*` formatting).
+3. Send it as a direct message, not in a group.
+4. When they say yes, add them to the Keep Calm Core group.
+
+## Invitation message
+
+```
+Hi [first name]! 👋
+
+I'd love to invite you to join *Keep Calm Core* 🌟
+
+*Why you?*
+You've been an active part of Keep Calm for over 6 months now - showing up, joining in, and helping make this community what it is. That's exactly who Core is for, and we'd really like you to be part of it.
+
+*What is Keep Calm Core?*
+Core is an invite-only group for the people at the heart of our community. It isn't tied to any one sport - it brings together the members who keep showing up across all our activities. Think of it as the steady, familiar faces of Keep Calm gathered in one place.
+
+*Why does it exist?*
+Keep Calm has grown a lot. We have hundreds of members, dozens of events, and new faces every week, which is wonderful. But in big, busy groups it can be hard to get past a quick hello and actually build real friendships.
+
+Core exists to change that. It's a calmer, smaller space for the people who are genuinely invested in the community to:
+
+🤝 Build meaningful, long-term connections with each other
+💬 Stay in touch beyond individual events
+🌱 Be part of the community itself, not just attendees of it
+💡 Share ideas and help shape where Keep Calm goes next
+
+*A few things it's not:*
+This isn't about status or being "better" than anyone. It's simply recognition of the people who've stuck around and given their time and energy to Keep Calm. You don't need to organise events or take on any responsibility - being a committed member is enough. (We have separate groups for organising and moderating if that ever interests you.)
+
+*No pressure at all* - joining is completely optional. But we'd genuinely love to have you with us.
+
+Want in? Just say the word and I'll add you. 🤗
+```
+
+## Notes
+
+- Keep the message personal. A short line about something you've actually done together makes a big difference.
+- If someone declines or doesn't reply, that's fine. Leave the door open and check back another time.
