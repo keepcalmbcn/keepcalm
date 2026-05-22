@@ -6,7 +6,7 @@
 
 Save the Date - Keep Calm turns 1! 🎂
 
-Saturday 30 May, Barceloneta Beach
+Saturday 30 May, Somorrostro Beach (in front of Shoko/Opium)
 
 One year ago Keep Calm and Carry On was born with a simple idea - bring English speakers in Barcelona together through sport, friendship, and good times. This community has grown into something really special, and we want to celebrate that with every single one of you.
 

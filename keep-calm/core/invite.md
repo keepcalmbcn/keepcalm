@@ -4,13 +4,16 @@ This is the message we send to members who qualify for **Keep Calm Core**. Perso
 
 ## Who to invite
 
-Send this to members who are clearly an established part of the community. As a guide, that means someone who:
+Send this to members who are clearly an established part of the community. The full definition is in [Keep Calm Core](README.md). As a quick guide, a Core member is someone who fits all four pillars:
 
-- Has been active in Keep Calm for **6+ months** (the main criterion)
-- Regularly attends events across one or more activities
-- And/or has hosted, organised, or helped run events
+- **Time:** has been active in Keep Calm for **6+ months** (the main criterion, and not just here for a season)
+- **Participation:** regularly turns up to events, ideally across more than one activity
+- **Contribution:** gives back in some way, whether organising events or helping out informally (welcoming newcomers, setup, kit, venue comms, photos)
+- **Conduct:** is respected and trusted, treats people well, and has no unresolved conduct issues or active strikes
 
-Core membership is a judgement call, so treat these as a guide rather than a rigid checklist. When in doubt, the question is simple: is this person a familiar, committed part of the community?
+Core membership is a judgement call, so treat these as a guide rather than a rigid checklist. When in doubt, the question is simple: is this person a familiar, committed, well-liked part of the community?
+
+Conduct is the one to be firm on. Core members represent Keep Calm and are held to a higher bar, so only invite people you would happily hold up as an example.
 
 ## How to send it
 
@@ -43,7 +46,7 @@ Core exists to change that. It's a calmer, smaller space for the people who are 
 💡 Share ideas and help shape where Keep Calm goes next
 
 *A few things it's not:*
-This isn't about status or being "better" than anyone. It's simply recognition of the people who've stuck around and given their time and energy to Keep Calm. You don't need to organise events or take on any responsibility - being a committed member is enough. (We have separate groups for organising and moderating if that ever interests you.)
+This isn't about status or being "better" than anyone. It's simply recognition of the people who've stuck around and given their time and energy to Keep Calm. You don't need a title or a formal role - being a committed member who gives back in small ways is enough. (We have separate groups for organising and moderating if that ever interests you.)
 
 *No pressure at all* - joining is completely optional. But we'd genuinely love to have you with us.
 

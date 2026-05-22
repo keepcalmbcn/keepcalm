@@ -4,7 +4,7 @@ One poll with multiple selection enabled. Post the message below, then create th
 
 ---
 
-Keep Calm turns 1 on 30 May and we're planning a big community celebration on Barceloneta beach. Select everything that applies to you!
+Keep Calm turns 1 on 30 May and we're planning a big community celebration on Somorrostro beach (in front of Shoko/Opium). Select everything that applies to you!
 
 **Poll - Keep Calm's 1st Birthday (30 May) - what are you up for? (select all that apply)**
 - I'll be there for the beach picnic

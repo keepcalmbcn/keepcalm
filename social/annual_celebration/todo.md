@@ -2,12 +2,12 @@
 
 ## Logistics
 
-- [ ] **Volleyball nets** - volleyball team to confirm how many nets will be available and who is bringing them
-- [ ] **Speaker** - Jeff to source a large beach speaker for music
-- [ ] **Picnic blankets** - Jess to organise picnic blankets for people to sit on
-- [ ] **Cake** - find a source for a large cake (or multiple cakes) suitable for sharing on the beach; assign someone to order and collect on the day
-- [ ] **Group photo** - assign someone to organise the group photo moment at 6pm
-- [ ] **Bar options** - find a nearby Barceloneta bar for the group to head to after the beach
+- [ ] **Volleyball nets** - Nix looking into how many nets and who is bringing them
+- [ ] **Speaker** - Jeff sourcing a large beach speaker for music
+- [ ] **Picnic blankets** - Jess organising picnic blankets for people to sit on
+- [ ] **Cake** - Mitali sourcing a special Keep Calm cake to present at 5pm; confirm who collects on the day
+- [ ] **Group photo** - Dan to organise the group photo at 5pm (17:00)
+- [x] **Champions League final bar** - Jeff: L'Ovella Negra (Marina), leaving the beach ~5:30pm after the photo (kick-off 18:00)
 
 ## Organising Team
 
@@ -16,22 +16,27 @@
 
 ## Communications
 
-- [ ] Send save the date post to all WhatsApp groups
+- [x] Send save the date post to all WhatsApp groups
+- [ ] Send full event announcement to all WhatsApp groups (today, 24 May)
+- [ ] Create the event in the social group (WhatsApp event feature)
 - [ ] Post event to external event sites (Meetup etc.)
-- [ ] Post full event details to all WhatsApp groups once plan is finalised
 - [ ] Send reminder post the day before (29 May)
 
 ## On the Day Reminders (include in event post)
 
-- Bring your own food and drinks
-- Bring sunscreen
-- Sports gear welcome - volleyball, football, frisbee, beach padel
+- Bring plenty of water and sunscreen - it's going to be hot!
+- Bring all the food and drinks you want (no catering)
+- Swimwear and a towel for the beach
+- Bring your own fun - board games, frisbees, footballs, beach bats, cards, anything that makes a beach day great
+- Take all litter and belongings home - leave the beach as we found it
+- Be respectful of other beach-goers, especially with noise
+- Open event - bring your friends!
 
 ## Done
 
 - [x] Decide on date - Saturday 30 May 2026
 - [x] Decide on format - social-first beach picnic, sports optional
-- [x] Decide on location - Barceloneta beach, Keep Calm volleyball net
+- [x] Decide on location - Somorrostro beach, in front of Shoko/Opium
 - [x] Confirm funding model - free, everyone brings their own
 - [x] Confirm music - volleyball group speaker
 - [x] Delete admin chat notes once value extracted
