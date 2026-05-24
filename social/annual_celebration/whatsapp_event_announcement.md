@@ -1,9 +1,3 @@
-# WhatsApp Post - Event Announcement
-
-**Status:** Ready to send (24 May).
-
----
-
 🎂 *KEEP CALM TURNS ONE!* 🎂
 
 One year ago, Keep Calm and Carry On was born with a simple idea - bring English speakers in Barcelona together through sport, friendship, and good times.
@@ -26,11 +20,11 @@ https://maps.app.goo.gl/Cc5S8QDSvvtnkKGx5
 
 *The plan*
 
-🕐 *1:00pm* - Meet on the beach in front of Shoko/Opium
-🏖️ *1:00 - 5:00pm* - Beach hangout - food, drinks, and sports throughout (come and go as you please!) The volleyball crew will be running games for all of Keep Calm to join in - all levels welcome!
-🎂 *5:00pm* - Birthday cake and group photo - Mitali will be presenting the special Keep Calm cake!
-⚽ *5:30pm (optional)* - Jeff is leading a group to L'Ovella Negra (Marina) for the Champions League final (PSG vs Arsenal, kick-off 18:00), plus more drinks and chats. This is where the day rolls into a big celebratory night out, so come make a night of it - who knows where we'll end up! 🍻
-https://maps.app.goo.gl/GZyunnK2KRsC8L8t5
+🕐 *14:00* - Meet on the beach in front of Shoko/Opium
+🏖️ *14:00 - 17:00* - Beach hangout - food, drinks, and sports throughout (come and go as you please!) The volleyball crew will be running games for all of Keep Calm to join in - all levels welcome!
+🎂 *17:00* - Birthday cake and group photo - Mitali will be presenting the special Keep Calm cake!
+⚽ *17:30 (optional)* - Jeff is leading a group to L'Ovella Negra (Marina) for the Champions League final (PSG vs Arsenal, kick-off 18:00)  
+🍻 *20:00 onwards more drinks and chats. This is where the day rolls into a big celebratory night out, so come make a night of it - who knows where we'll end up! 
 
 ---
 

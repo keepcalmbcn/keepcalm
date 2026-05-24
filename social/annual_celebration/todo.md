@@ -5,9 +5,9 @@
 - [ ] **Volleyball nets** - Nix looking into how many nets and who is bringing them
 - [ ] **Speaker** - Jeff sourcing a large beach speaker for music
 - [ ] **Picnic blankets** - Jess organising picnic blankets for people to sit on
-- [ ] **Cake** - Mitali sourcing a special Keep Calm cake to present at 5pm; confirm who collects on the day
-- [ ] **Group photo** - Dan to organise the group photo at 5pm (17:00)
-- [x] **Champions League final bar** - Jeff: L'Ovella Negra (Marina), leaving the beach ~5:30pm after the photo (kick-off 18:00)
+- [ ] **Cake** - Mitali sourcing a special Keep Calm cake to present at 17:00; confirm who collects on the day
+- [ ] **Group photo** - Dan to organise the group photo at 17:00
+- [x] **Champions League final bar** - Jeff: L'Ovella Negra (Marina), leaving the beach ~17:30 after the photo (kick-off 18:00)
 
 ## Organising Team
 
