@@ -30,13 +30,15 @@ Hi [first name]! 👋
 I'd love to invite you to join *Keep Calm Core* 🌟
 
 *Why you?*
-You've been an active part of Keep Calm for over 6 months now - showing up, joining in, and helping make this community what it is. That's exactly who Core is for, and we'd really like you to be part of it.
+You've been an active part of Keep Calm for over 6 months now - showing up, joining in, chatting away in the WhatsApp groups, and helping make this community what it is. That's exactly who Core is for, and we'd really like you to be part of it.
 
 *What is Keep Calm Core?*
-Core is an invite-only group for the people at the heart of our community. It isn't tied to any one sport - it brings together the members who keep showing up across all our activities. Think of it as the steady, familiar faces of Keep Calm gathered in one place.
+Core is a restricted, one-of-a-kind, invite-only group for the people at the heart of our community. It isn't tied to any one sport - it brings together the members who keep showing up across all our activities. Think of it as the steady, familiar faces of Keep Calm gathered in one place.
 
 *Why does it exist?*
-Keep Calm has grown a lot. We have hundreds of members, dozens of events, and new faces every week, which is wonderful. But in big, busy groups it can be hard to get past a quick hello and actually build real friendships.
+Barcelona is a city of transient faces. People show up, take what they need, and then disappear, often within a season. Keep Calm Core exists to push back against that: to build a group of regular, familiar people who are worth investing your time and energy in, because they won't just vanish.
+
+Keep Calm has also grown a lot. We have hundreds of members, dozens of events, and new faces every week, which is wonderful. But in big, busy groups it can be hard to get past a quick hello and actually build real friendships.
 
 Core exists to change that. It's a calmer, smaller space for the people who are genuinely invested in the community to:
 
@@ -48,9 +50,9 @@ Core exists to change that. It's a calmer, smaller space for the people who are 
 *A few things it's not:*
 This isn't about status or being "better" than anyone. It's simply recognition of the people who've stuck around and given their time and energy to Keep Calm. You don't need a title or a formal role - being a committed member who gives back in small ways is enough. (We have separate groups for organising and moderating if that ever interests you.)
 
-*No pressure at all* - joining is completely optional. But we'd genuinely love to have you with us.
+*No pressure at all* - joining is completely optional. And yes, we know, it's yet another WhatsApp group 😅 - but this is the calm one that won't buzz your phone 200 times before breakfast. We'd genuinely love to have you with us.
 
-Want in? Just say the word and I'll add you. 🤗
+Any questions or concerns please do just let me know! 🤗
 ```
 
 ## Notes
