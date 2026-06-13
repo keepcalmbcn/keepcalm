@@ -52,7 +52,9 @@ This isn't about status or being "better" than anyone. It's simply recognition o
 
 *No pressure at all* - joining is completely optional. And yes, we know, it's yet another WhatsApp group 😅 - but this is the calm one that won't buzz your phone 200 times before breakfast. We'd genuinely love to have you with us.
 
-Any questions or concerns please do just let me know! 🤗
+Any questions or concerns or if you would like to join please do just let me know! 🤗
+
+
 ```
 
 ## Notes
