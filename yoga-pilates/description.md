@@ -8,7 +8,7 @@ Keep Calm Yoga & Pilates - part of the Keep Calm and Carry On community for Engl
 
 Yoga and pilates sessions for all levels. Whether you're a complete beginner or experienced, you're welcome.
 
-Watch this group for session announcements including times, locations, and costs. We're looking at both outdoor sessions (beaches, parks) and indoor studios.
+Watch this group for session announcements including times, locations, and costs. We run both outdoor sessions (beaches, parks) and indoor studio sessions depending on the season.
 
 All experience levels welcome. The focus is on wellbeing and community.
 

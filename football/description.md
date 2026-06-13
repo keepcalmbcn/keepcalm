@@ -6,11 +6,13 @@ The following is used as the WhatsApp group description.
 
 Keep Calm Football - part of the Keep Calm and Carry On community for English speakers in Barcelona.
 
-Casual football (soccer) for all skill levels. Mix of kickabouts and organised matches at local pitches around Barcelona.
+⚽ Casual football (soccer) for all skill levels. A mix of fútbol sala, 5-a-side, and 7-a-side kickabouts and friendly matches at pitches around Barcelona. Teams are mixed on the day so everyone gets a proper game.
 
-Watch this group for session announcements including times, locations, and costs.
+This is social football, not a league. The result matters far less than turning up and having a good time.
 
-All levels welcome. The main thing is showing up and having a good time.
+Watch this group for session announcements with the time, pitch, and cost. Spots are limited by pitch size, so confirm early. Cost is just a few euros each to split the pitch hire.
+
+All levels welcome. Bring the right footwear for the surface, water, and shin pads if you like them.
 
 Open to adults only (18+).
 
