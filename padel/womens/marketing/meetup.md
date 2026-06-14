@@ -26,7 +26,7 @@ Comfortable sportswear, clean trainers (court shoes ideal), and water. Bring a r
 
 **How to join**
 
-Sign-ups are usually via a poll or a Playtomic link pinned in the group. Spaces are limited by court size, so sign up early. Join our women's padel WhatsApp group at keepcalm.fit to get notified when the next session is announced.
+Sign-ups are usually via a poll or a Playtomic link pinned in the group. Spaces are limited by court size, so sign up early. Join our women's padel WhatsApp group at keepcalm.fit/meetup to get notified when the next session is announced.
 
 **About Keep Calm**
 

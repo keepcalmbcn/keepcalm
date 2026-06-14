@@ -26,4 +26,4 @@ Bring your own mat if you have one. Water and a small towel are recommended. We'
 
 **How to join**
 
-RSVP on Meetup, or join the Keep Calm Yoga & Pilates WhatsApp group at keepcalm.fit for session updates and community chat.
+RSVP on Meetup, or join the Keep Calm Yoga & Pilates WhatsApp group at keepcalm.fit/meetup for session updates and community chat.

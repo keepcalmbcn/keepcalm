@@ -19,4 +19,4 @@ All levels welcome. Complete beginners and experienced riders have joined the sa
 Lift pass: 50-80 euros per day. Equipment rental: 30-40 euros per day. Transport and accommodation vary depending on what you arrange.
 
 **How to join**
-Join the Keep Calm Ski/Snowboard WhatsApp group via keepcalm.fit - that's where trips are proposed and coordinated. Open to adults 18+ only.
+Join the Keep Calm Ski/Snowboard WhatsApp group via keepcalm.fit/meetup - that's where trips are proposed and coordinated. Open to adults 18+ only.

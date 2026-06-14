@@ -22,6 +22,6 @@ Appropriate footwear for the surface (boots or astros), water, and shin pads if 
 
 **How to join**
 
-Join the Keep Calm Football WhatsApp group via keepcalm.fit - sessions are announced there with the time, location, and cost. Confirm your spot and show up ready to play.
+Join the Keep Calm Football WhatsApp group via keepcalm.fit/meetup - sessions are announced there with the time, location, and cost. Confirm your spot and show up ready to play.
 
 Adults only (18+).

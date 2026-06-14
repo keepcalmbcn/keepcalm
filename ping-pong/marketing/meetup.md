@@ -27,6 +27,6 @@ Free. Public outdoor tables.
 
 **How to join**
 
-Head to keepcalm.fit to find the WhatsApp group. A poll is posted midweek - vote for your arrival time so the organiser has a rough headcount.
+Head to keepcalm.fit/meetup to find the WhatsApp group. A poll is posted midweek - vote for your arrival time so the organiser has a rough headcount.
 
 Part of Keep Calm and Carry On, a not-for-profit English-speaking sports community in Barcelona.

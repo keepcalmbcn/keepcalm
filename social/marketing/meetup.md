@@ -12,6 +12,6 @@ Keep Calm and Carry On is a not-for-profit community for English speakers in Bar
 
 *Cost:* Free to join the community. Individual events may have their own costs (e.g. bowling, entry fees) which will be listed on the event.
 
-*How to join:* RSVP here and check the event details. For regular updates and more events, find our WhatsApp groups and full schedule at keepcalm.fit.
+*How to join:* RSVP here and check the event details. For regular updates and more events, find our WhatsApp groups and full schedule at keepcalm.fit/meetup.
 
 Everyone is welcome. See you there!

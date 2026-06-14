@@ -24,7 +24,7 @@ Comfortable, stretchy clothing you can move in, water, and climbing shoes if you
 
 **How to join**
 
-Sessions are posted in the climbing WhatsApp group with the gym, day, time, and entry cost. Respond to confirm so we know numbers, then turn up at the gym and look for the group. Join our climbing WhatsApp group at keepcalm.fit to get notified when the next session is announced.
+Sessions are posted in the climbing WhatsApp group with the gym, day, time, and entry cost. Respond to confirm so we know numbers, then turn up at the gym and look for the group. Join our climbing WhatsApp group at keepcalm.fit/meetup to get notified when the next session is announced.
 
 **About Keep Calm**
 

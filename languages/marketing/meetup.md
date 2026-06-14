@@ -24,7 +24,7 @@ Yourself and a willingness to make mistakes. A notebook or phone is handy if you
 
 **How to join**
 
-Meetups are posted in our Languages WhatsApp group with the venue, day, and time. Turn up at the venue and look for the group. Join the WhatsApp group at keepcalm.fit to get notified when the next meetup is announced.
+Meetups are posted in our Languages WhatsApp group with the venue, day, and time. Turn up at the venue and look for the group. Join the WhatsApp group at keepcalm.fit/meetup to get notified when the next meetup is announced.
 
 **A note on languages**
 

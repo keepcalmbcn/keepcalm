@@ -20,6 +20,6 @@ Free. Keep Calm is a not-for-profit community run entirely by volunteers.
 
 **How to join**
 
-Sign up on Meetup and join our WhatsApp group via keepcalm.fit - that's where run announcements, routes, and updates are shared. You'll need to be 18 or over to take part.
+Sign up on Meetup and join our WhatsApp group via keepcalm.fit/meetup - that's where run announcements, routes, and updates are shared. You'll need to be 18 or over to take part.
 
 Bring water, wear comfortable shoes, and we'll see you out there. 🏃

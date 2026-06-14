@@ -26,4 +26,4 @@ Most Sundays we meet up at a nearby bar for drinks and food from around 20:00. I
 
 **How to join**
 
-Visit keepcalm.fit or follow us on Instagram (@keepcalmbarcelona) for joining instructions. Adults only (18+).
+Visit keepcalm.fit/meetup or follow us on Instagram (@keepcalmbarcelona) for joining instructions. Adults only (18+).

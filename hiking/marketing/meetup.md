@@ -24,7 +24,7 @@ Water, hiking shoes (no trainers or sandals), layers, a rain jacket, sunscreen, 
 
 **How to join**
 
-Sign-ups are managed via Google Form, linked in the event announcement. Capacity is 25-30 people. Join our hiking WhatsApp group at keepcalm.fit to get notified when the next hike is announced.
+Sign-ups are managed via Google Form, linked in the event announcement. Capacity is 25-30 people. Join our hiking WhatsApp group at keepcalm.fit/meetup to get notified when the next hike is announced.
 
 **About Keep Calm**
 

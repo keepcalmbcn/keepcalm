@@ -21,4 +21,4 @@ We're part of Keep Calm and Carry On - a not-for-profit volunteer-run sports com
 
 **How to join**
 
-RSVP here and head to keepcalm.fit for the volleyball WhatsApp group link, where all games are coordinated and last-minute updates are posted.
+RSVP here and head to keepcalm.fit/meetup for the volleyball WhatsApp group link, where all games are coordinated and last-minute updates are posted.

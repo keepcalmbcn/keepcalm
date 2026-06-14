@@ -30,6 +30,6 @@ Most activities are free or just a few euros to cover court hire. There is no me
 
 **How to join**
 
-Browse our events, RSVP to anything that takes your interest, and just turn up. To stay in the loop, join the WhatsApp groups for your sports at https://keepcalm.fit/ and follow us on Instagram @keepcalmbarcelona.
+Browse our events, RSVP to anything that takes your interest, and just turn up. To stay in the loop, join the WhatsApp groups for your sports at https://keepcalm.fit/meetup and follow us on Instagram @keepcalmbarcelona.
 
 New to Barcelona? Come and find your people.
