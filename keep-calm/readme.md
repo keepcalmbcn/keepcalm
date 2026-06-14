@@ -6,8 +6,14 @@ We’re excited to have you join **Keep Calm and Carry On**, a community for Eng
 
 ## What We're About
 - We are a **not-for-profit community** built around sports and social connection.
+- We are created and run **by the community, for the community**. Members who stick around get onboarded into our **Core**, the people who stay, contribute back, and keep the whole thing going.
 - Our goal is to bring people together through activities such as padel, volleyball, pingpong, hiking, and more!
 - We host **weekly events** across different sports, open to all levels.
+
+## Our Core 💛
+Core is one of the biggest reasons Keep Calm works. Barcelona is full of people passing through for a season, and it is easy to meet someone once and never see them again. Core is different: it is the group of members who have stuck around, show up across our activities, and give back.
+
+That means the friendships you make here are **meaningful and long-term**, not just another face you will never see again. Core is invite-only and earned over time. Learn more in [Keep Calm Core](core/README.md).
 
 ## Our Vision
 
