@@ -6,16 +6,16 @@ The message we post in the **Keep Calm Core** group when new members join, to we
 
 1. When one or more people join Core, post this in the group.
 2. Replace `[name]` with their name, or tag them with `@`.
-3. The "drop your flag as a reaction" prompt works well and makes the intros feel light.
+3. The aim is a real introduction to the group, so keep the prompt light and friendly.
 
 ## Welcome message
 
 ```
 Welcome to Keep Calm Core, [name]! 🫶
 
-This is the calm one, the little corner of the Keep Calm family for the people who keep showing up and make this community what it is. No spam, no 200 notifications before breakfast, just good people.
+This is the calm one, the little corner of the Keep Calm family for the people who keep showing up and make this community what it is.
 
-To kick things off, drop your flag 🏴 as a reaction to this message and tell us a bit about you 👇
+To kick things off, introduce yourself to the group and tell us a bit about you 👇
 
 👤 Your name (and what we should call you)
 🌍 Where you're from, and how long you've been in Barcelona
@@ -23,7 +23,7 @@ To kick things off, drop your flag 🏴 as a reaction to this message and tell u
 🎾 Which Keep Calm activities you're into (padel, volleyball, running, social...)
 ✨ A fun fact, hobby or something random about you
 
-No need to write an essay, a couple of lines is perfect. We can't wait to put faces to names, and there's a little in-person meet (food and drinks) in the works so we can all finally meet properly.
+Yes, we know you've answered these 1000 times at every expat meet-up in Barcelona 😅 one more won't hurt. No need to write an essay, a couple of lines is perfect. We can't wait to put faces to names, and there's a little in-person meet (food and drinks) in the works so we can all finally meet properly.
 
 Welcome to the family! 💪
 ```
