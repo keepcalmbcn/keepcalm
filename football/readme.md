@@ -8,8 +8,23 @@ Part of the larger **Keep Calm and Carry On** not-for-profit community for Engli
 
 - [Group Description](description.md) - what this group is about
 - [Group Rules](rules.md) - how we keep things running smoothly
+- [Friday Football FAQ](friday-session/friday-football-faq.md) - everything about the weekly session
+- [Friday Football Venue](friday-session/friday-football-venues.md) - where we play and how to get there
 - [General WhatsApp Rules](../keep-calm/rules/whatsapp-rules.md) - applies to all Keep Calm groups
 - [Event Rules](../keep-calm/rules/event-rules.md) - participation and cancellation policies
+
+## Our Regular Session: Friday Football at Satalia
+
+Our weekly game runs **every Friday at 18:00** at **Satalia** (Sants-Montjuïc), in partnership with **Vaya Sports**:
+
+- **Mixed, 8v8, all levels** - ladies and gents welcome, inclusive and social, beginners genuinely welcome. This is social football, not a league
+- We've **teamed up with Vaya Sports**, who supply the bibs and balls, provide an on-site organiser, and collect the payment through their app
+- You **sign up and pay through Vaya** - the link is shared in the WhatsApp group each week
+- A stunning pitch up on Montjuïc with **views over the city**, perfect for a Friday evening
+- We head to a **nearby bar afterwards** for 30 minutes to an hour of drinks and a chat - come for the football, the social, or both
+- Bring a **black or dark shirt**, the right footwear, and arrive **10 minutes before kickoff**
+
+Full details, including the seasonal pitch schedule and travel directions, are in the [Friday Football FAQ](friday-session/friday-football-faq.md) and [Venue](friday-session/friday-football-venues.md) pages.
 
 ## How It Works
 
