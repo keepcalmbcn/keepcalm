@@ -6,6 +6,23 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is a documentation and planning repository for "Keep Calm and Carry On", a not-for-profit sports community in Barcelona for English speakers. The repository contains organizational documents, planning materials, and operational guidelines for various sports activities including padel, volleyball, ping pong, tennis, badminton, hiking, and social events.
 
+## CRITICAL: Privacy Scan Before Every Git Operation
+
+**This repository is PUBLIC. Before any `git add`, `git commit`, or `git push`, you MUST scan ALL staged/changed content for personal or private information. This is extremely important.**
+
+- Review every changed file and every diff line before staging or committing - do not stage blindly (avoid `git add -A` / `git add .` without first reviewing what is being added).
+- Scan for and REMOVE any private or personal data, including but not limited to:
+  - Real names, surnames, usernames, or handles of members (beyond what is already intentionally public)
+  - Phone numbers, WhatsApp numbers, email addresses
+  - Home addresses or precise personal locations
+  - Payment details (Bizum numbers, bank/IBAN details, card info)
+  - WhatsApp group invite links, private chat exports, screenshots containing personal data
+  - API keys, tokens, passwords, or any other credentials
+  - Any other information that could identify or compromise an individual
+- If you find private data in a change, STOP, do not commit, and flag it to the user.
+- If you are ever unsure whether something is private, treat it as private and ask the user before committing.
+- This applies to all content you write or edit too: never introduce private data into the repository.
+
 ## Repository Structure
 
 The repository is organized by sport/activity type, with each having its own directory:
