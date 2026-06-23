@@ -41,10 +41,24 @@ Monthly hiking trips around Catalonia.
 - **Cost**: Train fare (€3-7 typically)
 - **Capacity**: 25-30 people per hike
 
+### ⚽ [Football](football/)
+Mixed, social football in partnership with Vaya Sports, on a scenic pitch up on Montjuïc.
+- **When**: Every Friday 18:00
+- **Where**: Satalia (Sants-Montjuïc)
+- **Cost**: Split between players, paid via the Vaya app
+- **All levels welcome, beginners included**
+
+### 🏸 [Badminton](badminton/)
+Mixed, social doubles in partnership with BCN Badminton, indoors by the beach in Poblenou.
+- **When**: Every Friday 16:00-18:30
+- **Where**: La Mar Bella Municipal Sports Complex
+- **Cost**: €5 per person (covers courts and shuttlecocks)
+- **Lower-intermediate level, all welcome**
+
 ### 🍻 [Social Events](social/)
 Regular social gatherings, seasonal events, and post-game meetups organized by our community.
 
-### ⚽ [Football](football/) | 🧘 [Yoga](yoga/)
+### 🧘 [Yoga](yoga/)
 Coming soon!
 
 ## How to Join

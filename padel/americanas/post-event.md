@@ -14,6 +14,8 @@ A special shoutout to *Uriel* for organising everything and making it run so smo
 We'll be sharing photos from today on our Instagram - keep an eye out and feel free to tag yourself and your new padel friends!
 👉 https://www.instagram.com/keepcalmbarcelona/
 
+Took your own photos or videos? We'd love to feature them too! Share them, tag *@keepcalmbarcelona* and use *#keepcalmbarcelona* so we can repost and celebrate our community. No pressure - just a lovely way to show off what we do. 💙
+
 🎾 *WANT TO KEEP PLAYING?*
 If today has given you the padel bug, join us for our regular sessions:
 • 📅 *Keep Calm Sunday Padel* - weekly sessions, all levels

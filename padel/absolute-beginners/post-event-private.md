@@ -8,6 +8,8 @@ Each of you took on a court of 4 or 5 complete beginners and guided them through
 📸 *THANK YOU JEFF*
 A huge shout-out to Jeff for capturing the day on camera! Your photos help us share the experience and show what Keep Calm is all about. We really appreciate you being there!
 
+Having someone on photos each session makes a real difference - if you grabbed any shots or clips, please share them and tag *@keepcalmbarcelona* (#keepcalmbarcelona) so we can feature them. If you'd enjoy being our photo person at a future session, let us know!
+
 🌟 *THANK YOU JESS*
 A huge shout-out to Jess for being everywhere at once! From meet and greet, to rallying people for the group photo, collecting balls, and keeping everyone informed - you helped keep the whole event running smoothly and managed to squeeze in a glass of wine. We really appreciate you being there!
 

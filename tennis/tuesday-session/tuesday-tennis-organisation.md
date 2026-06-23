@@ -2,7 +2,7 @@
 
 ## Wednesday 18:00 - Post the Event
 - Create a WhatsApp event for the Tuesday **two weeks away** and pin it.
-- Include venue (Up Cornellà), approximate time (19:30 or 20:30 TBC), cost (~€8–10), and a prompt to drop level in comments (Beginner / Improver / Intermediate / Advanced).
+- Include venue (Up Cornellà), approximate time (19:30 or 20:30 TBC), cost (~€8-10), and a prompt to drop level in comments (Beginner / Improver / Intermediate / Advanced).
 - Check venue availability so you can flag any issues early.
 
 ## Tuesday Night (Following Week) - Event Closes
@@ -28,14 +28,14 @@ Use the [court post template](tuesday-tennis-courts.md) for the full WhatsApp me
 ## Tuesday - Day of Session
 - Remind players to **meet at Plaça Espanya ~45 minutes before** court time.
 - Bring spare rackets and make sure someone has tennis balls (not padel balls).
-- After the session: post a recap or group photo - useful for recruitment.
+- After the session: post a recap or group photo - useful for recruitment. Invite people to share their own photos/videos and tag @keepcalmbarcelona (#keepcalmbarcelona) on Instagram so we can repost.
 
 ---
 
 # Booking Notes
 
 ### Court preference
-- **Clay (Tierra Batida)**: ~€39 for 90 min → ~€10 per person. Group preference. Courts numbered Batida 1–12 at Up Cornellà.
+- **Clay (Tierra Batida)**: ~€39 for 90 min → ~€10 per person. Group preference. Courts numbered Batida 1-12 at Up Cornellà.
 - **Quick court (hard)**: ~€31.20 for 90 min → ~€7.80 per person. Use when clay is unavailable or rain is forecast.
 - **Rain**: cancel clay courts before 10:00 on the day (€0.50 fee). Switch to quick court if available; otherwise cancel fully.
 
@@ -61,11 +61,11 @@ If the organiser (or another experienced player) doesn't have a fixed court, the
 | Intermediate | Regular player with solid fundamentals. Consistent serve, good court awareness. |
 | Advanced | Competitive or ex-competitive. High consistency, tactical play, has played at club/tournament level. |
 
-### Playtomic ratings (0–7 scale)
+### Playtomic ratings (0-7 scale)
 These can supplement the four-tier system as a rough reference:
-- ~0.5–1.5 → Beginner
-- ~1.5–2.5 → Improver
-- ~2.5–3.5 → Intermediate
+- ~0.5-1.5 → Beginner
+- ~1.5-2.5 → Improver
+- ~2.5-3.5 → Intermediate
 - ~3.5+ → Advanced
 
 Keep a running note of each regular player's level so you're not asking every week.
@@ -78,7 +78,7 @@ Keep a running note of each regular player's level so you're not asking every we
 |-------|---------------|-------------|---------|
 | Up Cornellà (main) | 7 days | ✅ | 90 min clay |
 | CN Montjuïc | Few days | ✅ | 90 min |
-| Vall d'Hebron | 24–48 hours | ✅ | 60 min only |
-| CET10 Olimpia | 48 hours | via "find a match" | 60–90 min |
+| Vall d'Hebron | 24-48 hours | ✅ | 60 min only |
+| CET10 Olimpia | 48 hours | via "find a match" | 60-90 min |
 
 See [Venues](tuesday-tennis-venues.md) for full details.
