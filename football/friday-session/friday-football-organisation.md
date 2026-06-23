@@ -34,7 +34,7 @@ This is a different model from our other sports (e.g. tennis, where a Keep Calm 
 - Send a reminder in the group on the morning of the game.
 - Players arrive at Satalia at least **10 minutes before** the 18:00 kickoff.
 - The **Vaya on-site organiser** sorts teams, hands out bibs, and runs the game.
-- After the game: post a recap or group photo in the WhatsApp group - good for recruitment - and encourage people to sign up for the next week.
+- After the game: post a recap or group photo in the WhatsApp group - good for recruitment - and encourage people to sign up for the next week. Invite people to share their own photos/videos and tag @keepcalmbarcelona (#keepcalmbarcelona) on Instagram so we can repost.
 
 ---
 

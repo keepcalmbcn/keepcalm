@@ -23,6 +23,9 @@ Want to find other beginners to play with during the week? Look for:
 • 🟢 *Keep Calm Beginners Padel (0.5)* 🟢
 • 🔵 *Keep Calm Improvers Padel (0.5-1)* 🔵
 
+📸 *SHARE YOUR SHOTS*
+Took any photos or videos today? We'd love to feature them! Share them on Instagram, tag *@keepcalmbarcelona* and use *#keepcalmbarcelona* so we can repost and celebrate our community. No pressure at all - just a lovely way to help show off what we do. 💙
+
 🌟 *ABOUT KEEP CALM AND CARRY ON*
 Keep Calm is a *not-for-profit community* for English speakers in Barcelona who want to stay active, meet new people, and have fun through sports.
 

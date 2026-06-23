@@ -6,6 +6,8 @@ We’d really appreciate it if you could take a moment to share your comlains or
 
 👉 Feedback form: https://forms.gle/nUxywm19HuGjNJAb6 (Private)
 
+📸 Took any photos or videos today? We'd love to feature them! Share them on Instagram, tag @keepcalmbarcelona and use #keepcalmbarcelona so we can repost and celebrate our community. No pressure - just a lovely way to show off what we do. 💙
+
 Please don’t forget to sign up for next weekend’s game(s) as well - we’d love to see you there! 🙌
 
 👉 Sign-up form: https://forms.gle/vNmf5fkaeSNnsGRc9 (Limited spaces left)

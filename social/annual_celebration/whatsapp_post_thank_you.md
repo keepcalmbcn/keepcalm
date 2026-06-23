@@ -14,6 +14,8 @@ Our 1st Birthday beach party was everything we hoped it would be and more - cake
 
 🖼️ 👉 PLEASE UPLOAD YOUR PICTURES: https://photos.app.goo.gl/e5A6mWpMiPTJjJTr6 👈 🖼️
 
+📸 And if you post any of your shots, tag *@keepcalmbarcelona* and use *#keepcalmbarcelona* on Instagram so we can repost and celebrate this community together. We'd love to feature them! 💙
+
 None of it happens on its own, so a few heartfelt thank yous are in order.
 
 🏐 *To the volleyball crew* - thank you for so generously making space for all of us and running games for the whole community to join in. You welcomed everyone, all levels, with open arms, and it was one of the highlights of the day. We are so grateful.

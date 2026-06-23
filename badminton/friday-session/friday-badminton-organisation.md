@@ -34,7 +34,7 @@ This is the same model we use for Friday Football with Vaya Sports. The partner 
 - Send a reminder in the group on the morning of the session.
 - Players arrive at La Mar Bella before the 16:00 start with racket, indoor shoes, and exact cash.
 - The **BCN Badminton host** (Mel) organises the courts and games and collects payment.
-- After the session: post a recap or group photo in the WhatsApp group, and suggest a drink nearby on the Poblenou seafront if people are up for it.
+- After the session: post a recap or group photo in the WhatsApp group, and suggest a drink nearby on the Poblenou seafront if people are up for it. Invite people to share their own photos/videos and tag @keepcalmbarcelona (#keepcalmbarcelona) on Instagram so we can repost.
 
 ---
 
