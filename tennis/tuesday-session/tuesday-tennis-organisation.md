@@ -1,32 +1,36 @@
 # Tuesday Tennis Organisation Timeline
 
-## Wednesday 18:00 - Post the Event
-- Create a WhatsApp event for the Tuesday **two weeks away** and pin it.
-- Include venue (Up Cornellà), approximate time (19:30 or 20:30 TBC), cost (~€8-10), and a prompt to drop level in comments (Beginner / Improver / Intermediate / Advanced).
-- Check venue availability so you can flag any issues early.
+We run Tuesday Tennis on a rolling **Google Form** cycle, the same way Sunday Padel works: open a form, let people sign up, then build and post the games for bookers to reserve. The cycle runs ~2 weeks ahead so courts can be secured in good time.
 
-## Tuesday Night (Following Week) - Event Closes
-- The event closes Tuesday night. Do a final check of the Going list and note any last-minute additions.
-- Players who joined the group after the event was posted won't see it - check for any messages in the chat from people wanting to join and add them manually.
+Each session has a lifecycle relative to its Tuesday (call it **T**). The Wednesday/Friday/Monday posts are sent automatically by a scheduled job (kept in our private ops repo).
 
-## Wednesday (During the Day) - Build Courts & Post
-- Group players by level: **Beginner / Improver / Intermediate / Advanced**.
-- Assign 4 players per court and designate a **booker** for each court.
-- Check court availability on Playtomic for 19:30 or 20:30 - prefer clay (Batida), adjacent court numbers where possible (e.g., Batida 6, 8, 10, 12).
-- Book court 1 yourself. Message each other booker with their court number and time.
-- Post the match schedule using the [court post template](tuesday-tennis-courts.md) - **this must go out Wednesday so bookers have time to book before courts sell out.**
+## Wednesday (T-13) 18:00 - Announce the Form
+- The announcement (`tuesday-tennis-form.md`) is posted for the session **two Tuesdays away** and pinned for ~4 days.
+- Check venue availability for that Tuesday.
+- Check the weather forecast and flag anything early.
 
-Use the [court post template](tuesday-tennis-courts.md) for the full WhatsApp message format.
+## Friday (T-11) 18:00 - Reminder
+- A reminder nudges the group to sign up.
+- Encourage people to react to the message so we can see who's in (form sign-ups don't register as activity).
 
-**Always tag all 4 players** in each court post so they receive the Playtomic link and know to book promptly.
+## Monday (T-8) 18:00 - Final Call / Form Closes 22:00
+- The final-call post goes out ("form closes tonight at 22:00").
+- The form closes Monday 22:00. Snapshot the responses.
+- Note: this is the Monday **a week and a day before** the session, NOT the night before. Matchups are built during the following week and the session is played the **following Tuesday (T)**.
 
-## Between Wednesday and Tuesday - Manage Dropouts
+## That Week (T-8 to T) - Build Matchups & Post
+- Export the form responses to CSV and drop it in `tennis/scratch/` (this folder is git-ignored - never commit response data).
+- Use the [court arrangement prompt](tuesday-tennis-courts.md) to build the games from the CSV: group by level, 4 players per court, assign a unique booker per court, confirm the slot(s).
+- Post the games in the group with court details, then message each booker so they can reserve before slots sell out.
+- Each booker reserves their assigned Batida court on Playtomic and shares the link with their players via "Share Externally". Lead organiser books court 1 and coordinates court numbers/times so groups start together and sit near each other.
+
+## Before the Session - Manage Dropouts
 - If someone drops out: post in the group asking for a replacement.
-- If a court drops to 3 players close to the day: ask if they're happy to split the cost 3-ways, or cancel before 10:00 on the day (€0.50 fee).
+- If a court drops to 3 players close to the day: ask if they are happy to split the cost 3-ways, or cancel before 10:00 on the day (€0.50 fee).
 - No-shows: message privately first before escalating.
 
-## Tuesday - Day of Session
-- Remind players to **meet at Plaça Espanya ~45 minutes before** court time.
+## Tuesday (T) - Day of Session
+- Remind players to **meet at Plaça Espanya ~45 minutes before** their court time.
 - Bring spare rackets and make sure someone has tennis balls (not padel balls).
 - After the session: post a recap or group photo - useful for recruitment. Invite people to share their own photos/videos and tag @keepcalmbarcelona (#keepcalmbarcelona) on Instagram so we can repost.
 
@@ -42,12 +46,13 @@ Use the [court post template](tuesday-tennis-courts.md) for the full WhatsApp me
 ### Timing
 - **19:30** is preferred but often sold out. **20:30** is more reliably available.
 - Both are fine - communicate the time clearly so players can plan travel.
+- Because the form closes a week and a day before the session, there's plenty of runway: bookers should reserve as soon as the matchups are posted. Up Cornellà allows booking 7 days ahead, so reserve once you're inside that window and don't leave it late - popular slots go fast.
 
 ### Booker model
-Each court has a designated booker who books via Playtomic and shares the link. The lead organiser coordinates court numbers and times so all courts start simultaneously and sit near each other.
+Each court has a designated booker (the first player listed) who books via Playtomic and shares the link. Each player books only once, even if they play both slots. The lead organiser coordinates court numbers and times so all courts start simultaneously and sit near each other.
 
 ### Joker role
-If the organiser (or another experienced player) doesn't have a fixed court, they can act as a **joker** - available to fill any last-minute gap, carry spare rackets, or help newcomers find their court.
+If the organiser (or another experienced player) does not have a fixed court, they can act as a **joker** - available to fill any last-minute gap, carry spare rackets, or help newcomers find their court.
 
 ---
 
@@ -68,7 +73,7 @@ These can supplement the four-tier system as a rough reference:
 - ~2.5-3.5 → Intermediate
 - ~3.5+ → Advanced
 
-Keep a running note of each regular player's level so you're not asking every week.
+Keep a running note of each regular player's level so you are not asking every week.
 
 ---
 

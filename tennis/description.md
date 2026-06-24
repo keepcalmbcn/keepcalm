@@ -6,9 +6,11 @@ The following is used as the WhatsApp group description.
 
 Keep Calm Tennis - part of the Keep Calm and Carry On community for English speakers in Barcelona.
 
-🗓️ Tennis Tuesday at Up Cornellà - 90 minute sessions between 17:30 and 22:00 (depending on availability). Use the pinned polls/events to let your availability known.
+🗓️ Tennis every Tuesday evening - 90 minute sessions sometime between 19:00 and 22:00 (exact slot confirmed at matchups). Everyone who signs up gets a spot to play.
 
-All levels welcome - currently beginner to intermediate range. Typically doubles (2v2) format.
+Sign up at https://keepcalm.fit/tuesday-tennis. The form opens Wednesday for the Tuesday two weeks away and closes the following Monday at 22:00 - we then organise your game and post the courts for bookers to reserve.
+
+All levels welcome - Beginner / Improver / Intermediate / Advanced. Typically doubles (2v2) format.
 
 Cost: Around €8-10 per person. Bring your own racket. Tennis balls coordinated among players.
 

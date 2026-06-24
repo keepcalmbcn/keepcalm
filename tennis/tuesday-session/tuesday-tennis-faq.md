@@ -9,7 +9,7 @@ A weekly tennis session organised through the Keep Calm and Carry On community -
 Everyone! The group has a mix of people returning to tennis after years away, padel players trying tennis, and those who've never played properly. You don't need to be good - just willing to give it a go.
 
 ### What level is the group?
-We use four levels - **Beginner, Improver, Intermediate, and Advanced** - and split courts by level when numbers allow. The group has grown significantly and now regularly fills 3–4 courts. On a typical evening you'll find:
+We use four levels - **Beginner, Improver, Intermediate, and Advanced** - and split courts by level when numbers allow. The group has grown significantly and now regularly fills 3-4 courts. On a typical evening you'll find:
 - **Beginner/Improver courts**: getting back into tennis, short rallies, double faults, good banter
 - **Intermediate courts**: consistent serve and groundstrokes, proper sets
 - **Advanced courts**: ex-competitive or club-level players
@@ -25,7 +25,7 @@ See [What level am I?](#what-level-am-i) below for full descriptions.
 ### When do you play?
 **Every Tuesday evening** for 90 minutes at Barcelona Pro Tennis Academy (Up Cornellà).
 
-Court time is **19:30 or 20:30** depending on availability. The exact time is confirmed the week of the game - check the pinned court booking post, not the event itself.
+Court time is **sometime between 19:00 and 22:00** depending on availability. The exact slot is confirmed when the matchups are posted (the week of the session) - check the court post, not the sign-up form.
 
 We meet at **Plaça Espanya** approximately **45 minutes before** court time and travel to the venue together. It's a short train ride from there - a good chance to get to know people before you play.
 
@@ -36,7 +36,7 @@ We meet at **Plaça Espanya** approximately **45 minutes before** court time and
 **Doubles (2v2)** for the regular Tuesday session. It's more social, better value for money, and easier to accommodate different skill levels. Singles can be organised separately through the group if there's interest.
 
 ### How much does it cost?
-**~€8–10 per person** for 90 minutes at our main venue (Up Cornellà):
+**~€8-10 per person** for 90 minutes at our main venue (Up Cornellà):
 - Quick court: ~€7.80 per person
 - Clay court: ~€10 per person
 
@@ -47,17 +47,18 @@ Cost is split equally between 4 players per court and paid through Playtomic.
 ## Joining a Session
 
 ### How do I join the weekly session?
-1. Watch for the **event posted on Wednesday** - it covers the Tuesday **two weeks away**
-2. Tap **Going** and drop your level in the comments (Beginner / Improver / Intermediate / Advanced)
-3. The **following Wednesday**, the poll closes and the organiser builds the courts by level
-4. Court booking posts are shared in the group with you **tagged** - accept your Playtomic invite and pay your share
-5. Meet at **Plaça Espanya** ~45 minutes before court time
-6. Show up on Tuesday!
+1. Watch for the **sign-up form posted on Wednesday 18:00** - it covers the Tuesday **two weeks away**
+2. Sign up at [keepcalm.fit/tuesday-tennis](https://keepcalm.fit/tuesday-tennis) and pick your level (Beginner / Improver / Intermediate / Advanced)
+3. React to the post so we can see you're in (form sign-ups don't show as activity)
+4. The form closes **Monday 22:00**; during the following week the organiser builds the courts by level
+5. Court posts are shared in the group with you **tagged** the week of the session - accept your Playtomic invite and pay your share
+6. Meet at **Plaça Espanya** ~45 minutes before court time
+7. Show up on Tuesday!
 
-**If you joined after the event was posted**, you won't see it in your chat. Just post in the group saying you want to play and your level - the organiser will add you to the pool.
+**Missed the form?** Just post in the group saying you want to play and your level - the organiser will add you to the pool if there's space.
 
 ### I just joined the group - how do I sign up for the next session?
-If you joined after the current event was posted, you won't see it. Just post in the group saying you want to play and your level - the organiser will add you to the matchup list for that week.
+If the form has already closed for that session, just post in the group saying you want to play and your level - the organiser will add you to the matchup list if space allows, or you'll catch the next form on Wednesday.
 
 ### Can I join if I haven't played in years?
 Absolutely. Most of the regular players are in exactly that position. Just be honest about your level so you get matched appropriately.
@@ -118,8 +119,8 @@ One person (the **booker**) books the court on Playtomic and shares the link in 
 3. Tap "Share externally"
 4. Post the link in the WhatsApp group and tag your 3 players
 
-### Why do you post events two weeks in advance?
-Evening slots are **very popular** and disappear fast. The event opens on **Wednesday** and collects RSVPs over the following week. The **following Wednesday**, the poll closes, the organiser builds the courts and posts the Playtomic links. This two-week cycle means courts are secured 6–7 days ahead - the sweet spot for securing slots at 19:30 or 20:30. Groups that wait until the week of the game regularly find nothing available.
+### How does the weekly sign-up cycle work?
+We use a Google Form, the same way Sunday Padel does, and run ~2 weeks ahead so courts can be secured in good time. The form opens **Wednesday 18:00** for the Tuesday **two weeks away** and is pinned for ~4 days, with a reminder on **Friday**. It closes the following **Monday 22:00** (a final call goes out that evening). During the next week the organiser builds the courts by level and posts the games, and bookers reserve on Playtomic. The session is played the **following Tuesday**. Evening slots are popular, so bookers grab their court as soon as the games go out. Everyone who signs up gets a spot to play.
 
 ### What is the cancellation policy?
 At Up Cornellà: you can cancel for a €0.50 fee up until 10:00 on the day of the match. If you cancel after that window, you may still owe your share - see the [group rules](../rules.md) for details.
@@ -133,7 +134,7 @@ Our main venue is **Barcelona Pro Tennis Academy (Up Cornellà)** in Cornellà d
 
 We also use **CN Montjuïc** for sessions closer to the city centre - it's on Playtomic and has good evening availability.
 
-**Eurofitness Vall d'Hebron** is occasionally used but tricky to organise for larger groups (60-minute slots only, 24–48h booking window).
+**Eurofitness Vall d'Hebron** is occasionally used but tricky to organise for larger groups (60-minute slots only, 24-48h booking window).
 
 See [Venues](tuesday-tennis-venues.md) for full details on all venues.
 
@@ -148,7 +149,7 @@ It's a comfortable seated train - much nicer than a standing metro through the c
 No! We meet as a group at **Plaça Espanya** approximately **45 minutes before** the court booking. From there everyone travels to Up Cornellà together on the L8/S3. It's a great chance to meet people before you play.
 
 ### What about Vall d'Hebron?
-Much closer - **L3** (green line) stops right nearby. But courts are 60 minutes only and the booking window is just 24–48 hours, so it's harder to organise in advance for a group. When numbers are good enough for 3 courts, it becomes impractical.
+Much closer - **L3** (green line) stops right nearby. But courts are 60 minutes only and the booking window is just 24-48 hours, so it's harder to organise in advance for a group. When numbers are good enough for 3 courts, it becomes impractical.
 
 ---
 
@@ -173,18 +174,18 @@ Any comfortable sports clothes. Clay courts can leave orange dust on shoes and c
 ### What racket should I buy as a beginner?
 Start cheap and work up from there:
 - **Try rental first** - a few sessions to make sure you enjoy it
-- **Decathlon**: Good beginner rackets for €40–80. The lightweight options are good for starting out
+- **Decathlon**: Good beginner rackets for €40-80. The lightweight options are good for starting out
 - **Second-hand**: Decathlon (look for the second-hand section at L'Illa Diagonal) and local tennis shops sometimes have good used rackets
 - **Tennis Point** ([map](https://maps.app.goo.gl/4XvQaLjNUiTvg1D56)) lets you borrow rackets to trial before buying - very useful
 
 **On racket weight:**
-- Beginners: 260–280g (unstrung) is a reasonable starting range
+- Beginners: 260-280g (unstrung) is a reasonable starting range
 - Strings add ~17g on average
-- A 280g unstrung racket becomes ~295–300g once strung
+- A 280g unstrung racket becomes ~295-300g once strung
 - Lighter = easier on arm and wrist; heavier = more power but tiring over long sessions
 - You can always add weight to a racket later, but you can't make it lighter - buy at the lighter end and adjust
 
-**Old rackets with broken strings**: Check in the group - members sometimes give away old frames. At Decathlon, restringing costs €10–15, so you can end up with a decent racket cheaply.
+**Old rackets with broken strings**: Check in the group - members sometimes give away old frames. At Decathlon, restringing costs €10-15, so you can end up with a decent racket cheaply.
 
 ---
 

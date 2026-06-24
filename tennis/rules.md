@@ -17,11 +17,11 @@ Welcome to Keep Calm Tennis! To keep things fair and fun for everyone, please fo
 - Keep Calm is not a platform for selling coaching services, even if you mean well
 - If you are a coach and want to offer something to the community, speak to an admin first
 
-## 2. Polls and Commitment
+## 2. Sign-Ups and Commitment
 
-- Only vote in the poll if you genuinely plan to play
-- Once you vote, consider yourself committed to that session
-- We organise courts based on poll numbers, so dropping out causes problems for everyone
+- Only sign up via the form if you genuinely plan to play
+- Once you sign up, consider yourself committed to that session
+- We organise courts based on sign-up numbers, so dropping out causes problems for everyone
 
 ## 3. Cancellations
 

@@ -13,38 +13,38 @@ Part of the larger **Keep Calm and Carry On** not-for-profit community for Engli
 - [General WhatsApp Rules](../keep-calm/rules/whatsapp-rules.md) - applies to all Keep Calm groups
 - [Event Rules](../keep-calm/rules/event-rules.md) - participation and cancellation policies
 
-## How Our Event System Works
+## How Our Sign-Up System Works
 
-We organise **two weeks in advance** to guarantee courts can be secured:
+We organise each Tuesday session through a **Google Form**, the same way Sunday Padel works. Everyone who signs up gets a spot to play. We run ~2 weeks ahead so courts can be secured in good time.
 
-### Timeline
+### Timeline (for a session on a given Tuesday)
 
-**Week 1 - Wednesday 18:00:**
-- Event posted for the Tuesday **two weeks away**
-- Tap **Going** to sign up, and include your level (Beginner / Improver / Intermediate / Advanced) in the comments
+**Wednesday, ~13 days before:**
+- The form opens (and is pinned) for the session two Tuesdays away - sign up at [keepcalm.fit/tuesday-tennis](https://keepcalm.fit/tuesday-tennis) and pick your level (Beginner / Improver / Intermediate / Advanced)
+- Reacted to the post? Great - reactions help us see who's in, since form sign-ups don't show as activity
 
-**Week 2 - Tuesday 18:00:**
-- Event closes
+**Friday, ~11 days before:**
+- A reminder goes out - last chance to sign up over the weekend
 
-**Week 2 - Tuesday evening (after tennis):**
-- Organiser reviews the Going list and books courts on Playtomic for the following week
+**Monday, 8 days before, 22:00:**
+- The form closes. During that week an organiser builds the games by level - 4 players per court, with a designated booker for each
 
-**Week 2 - Wednesday:**
+**The following week:**
 - Court assignments posted in the group - you'll be tagged
-- New event posted for the Tuesday two weeks after that
+- Bookers reserve their court on Playtomic and share the link so players can join and pay
 
-**Week 3 - Tuesday:**
-- Games happen! 🎾
+**Tuesday (the session):**
+- Meet at Plaça Espanya ~45 minutes before your court time, then play! 🎾
 
-This two-week cycle is what lets us guarantee evening slots at a popular venue. Groups that book in the same week regularly find nothing available.
+Tennis is played sometime between 19:00 and 22:00 - the exact slot is confirmed when the matchups go out, not when you sign up.
 
 ## Key Information
 
 - **Day**: Every Tuesday evening
-- **Time**: 19:30 or 20:30 (90 minutes)
+- **Time**: sometime between 19:00 and 22:00 (90 minutes), exact slot confirmed at matchups
 - **Meet-up**: We meet at **Plaça Espanya** ~45 minutes before court time and travel together
 - **Primary Venue**: [Barcelona Pro Tennis Academy (Up Cornellà)](tuesday-session/tuesday-tennis-venues.md)
-- **Cost**: ~€8–10 per person (90 minutes)
+- **Cost**: ~€8-10 per person (90 minutes)
 - **Format**: Doubles (2v2) - social, inclusive, and makes the cost work
 - **Booking app**: [Playtomic](https://app.playtomic.com/)
 
@@ -61,12 +61,12 @@ All levels are welcome! We use four levels to organise courts when numbers allow
 
 When signing up, pick the level that honestly describes where you are right now - not where you used to be or hope to be! It helps us create balanced, enjoyable courts for everyone.
 
-## What Happens After You Vote?
+## What Happens After You Sign Up?
 
-1. **Consider your spot noted** - the organiser will be in touch
-2. **Court gets booked** - via Playtomic, the week after the event closes
-3. **You'll be tagged in the booking post** - check the group for the Playtomic link
-4. **Join the court** - accept via Playtomic and pay your share
+1. **Your spot is noted** - everyone who votes gets a place to play
+2. **Games get built** - the organiser groups players by level after the form closes Monday night
+3. **You'll be tagged in the court post** - check the group for your court, time, and booker
+4. **Booker reserves the court** - via Playtomic; accept the invite and pay your share
 5. **Meet at Plaça Espanya** ~45 min before court time and travel together to Up Cornellà
 6. **Play!**
 
@@ -98,9 +98,9 @@ The organised Tuesday session is the regular Keep Calm game, but members often s
 ## New to the Group?
 
 1. Make sure you have a [Playtomic](https://app.playtomic.com/) account set up
-2. Watch for the **event posted on Wednesdays** - it covers the Tuesday two weeks away
-3. Tap **Going** and drop your level in the comments (Beginner / Improver / Intermediate / Advanced)
-4. Wait for the court booking post - you'll be tagged
+2. Watch for the **sign-up form posted on Wednesdays** - it covers the Tuesday two weeks away
+3. Sign up at [keepcalm.fit/tuesday-tennis](https://keepcalm.fit/tuesday-tennis), pick your level (Beginner / Improver / Intermediate / Advanced), and react to the post so we can see you're in
+4. Wait for the court post the following week - you'll be tagged with your court, slot, and booker
 5. Accept the invite on Playtomic and pay your share
 6. Meet at **Plaça Espanya** ~45 minutes before court time
 7. Show up and enjoy!
