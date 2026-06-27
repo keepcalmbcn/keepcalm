@@ -1,6 +1,6 @@
 🥾🏖️ THANK YOU, HIKERS!
 
-What an incredible day on the coast! The Vilanova → Sitges hike was one of our biggest turnouts ever — clifftops, hidden coves, and finishing with food and drinks in Sitges. What a day!
+What an incredible day on the coast! The Vilanova → Sitges hike was one of our biggest turnouts ever - clifftops, hidden coves, and finishing with food and drinks in Sitges. What a day!
 
 Thank you all for bringing such brilliant energy, sharing your snacks, and making it such a friendly and enjoyable experience out on the trail. 💚
 
@@ -31,7 +31,7 @@ Share your ideas in the form too!
 
 Keep Calm Feedback Form: (https://keepcalm.fit/feedback)
 
-It only takes about 2 minutes — and the more feedback we receive, the better the next adventure will be. 🙌
+It only takes about 2 minutes - and the more feedback we receive, the better the next adventure will be. 🙌
 
 📸 SHARING YOUR PHOTOS
 

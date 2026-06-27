@@ -1,4 +1,4 @@
-# End of Session Speech – Key Points
+# End of Session Speech - Key Points
 
 ## 0. Group Photo
 

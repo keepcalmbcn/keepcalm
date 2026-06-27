@@ -23,7 +23,7 @@ A beginner-friendly coastal walk from Vilanova i la Geltrú to Sitges along the 
 🗓️ ON THE DAY
 • Group photo at Far de Sant Cristòfol lighthouse (start of route)
 • ~1 hour beach stop mid-route for a swim and snacks
-• Arrive central Sitges ~14:30–15:00
+• Arrive central Sitges ~14:30-15:00
 • Drinks and food in Sitges - we'll find somewhere on the day
 
 🚆 RETURN TRAINS - Sitges to Sants (~40 min journey)

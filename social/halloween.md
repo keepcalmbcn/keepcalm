@@ -1,14 +1,14 @@
-🎃 Halloween Social – This Friday! 🎃
+🎃 Halloween Social - This Friday! 🎃
 
 Julie D & Malak R have been busy behind the scenes organising something spooky! 🕸
 
 ⏰ Time: Starting at 21:00, this Friday, 31st October
-🍹 Starting Venue: 17 Lounge Bar – https://maps.app.goo.gl/ZsCnoHcamcDSSQzR6 (Recommended by Indra - hopefully not too busy!)
+🍹 Starting Venue: 17 Lounge Bar - https://maps.app.goo.gl/ZsCnoHcamcDSSQzR6 (Recommended by Indra - hopefully not too busy!)
 💃 From here we will continue to a spooky surprise!
 
 ⏱ Backup Venues if full:
-- Afterlife e-Sport Bar – https://maps.app.goo.gl/BDDborZ1MYau4eSM8
-- Snooker & Cocktail Bar – https://maps.app.goo.gl/PcSqNsfPamXLeZXVA
+- Afterlife e-Sport Bar - https://maps.app.goo.gl/BDDborZ1MYau4eSM8
+- Snooker & Cocktail Bar - https://maps.app.goo.gl/PcSqNsfPamXLeZXVA
 
 👻 Come dressed to impress (or to scare 👀) and get ready for a fun night out
 

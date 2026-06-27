@@ -48,7 +48,7 @@
 
 ## Day Of
 
-### Before Players Arrive (arrive 15–20 mins early)
+### Before Players Arrive (arrive 15-20 mins early)
 - Check courts are set up and ready
 - Prepare timing (phone timer or watch for 15-min rounds)
 - Brief any helpers if present
@@ -86,7 +86,7 @@
 
 Hey everyone! 👋
 
-Just a reminder that our *Keep Calm Americana* is tomorrow at *[VENUE]*, 18:00–20:00 - can't wait to see you all there!
+Just a reminder that our *Keep Calm Americana* is tomorrow at *[VENUE]*, 18:00-20:00 - can't wait to see you all there!
 
 📋 *Your starting court*
 [Include court list or link to assignment sheet]

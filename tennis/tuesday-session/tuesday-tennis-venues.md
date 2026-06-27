@@ -11,7 +11,7 @@ This is our main home base for Tuesday Tennis.
 - **Address**: Cornellà de Llobregat - [Google Maps](https://maps.app.goo.gl/Yri55DyC9qqTAuYw8)
 - **Playtomic**: Search "Barcelona Pro Tennis Academy" or [book here](https://playtomic.io/tenant/9ce272f4-5039-4b6a-8f07-0c206712d06a)
 - **Booking window**: Up to **7 days in advance** - book Tuesday morning for the following Tuesday
-- **Court types**: Clay (Tierra Batida, courts 1–12) and Quick (hard) courts
+- **Court types**: Clay (Tierra Batida, courts 1-12) and Quick (hard) courts
 - **Session lengths**: 60 or 90 minutes - we book 90 min (enough for 2 sets)
 - **Cost (doubles, 4 players)**:
   - Quick court 90 min: ~€31.20 total → ~€7.80 per person
@@ -34,7 +34,7 @@ A closer option in the city but harder to book.
 
 - **Address**: Vall d'Hebron, Barcelona - [Google Maps](https://maps.google.com/?q=41.430347,2.146003)
 - **Playtomic**: Available on the app (search Eurofitness Vall d'Hebron)
-- **Booking window**: **24–48 hours in advance only** - members get priority 3 days before
+- **Booking window**: **24-48 hours in advance only** - members get priority 3 days before
 - **Court type**: Clay
 - **Session lengths**: 60 minutes only (can book consecutive slots)
 - **Cost**: ~€10 per person (for 4 players, 60 min)
@@ -52,7 +52,7 @@ Used in October 2025 - decent venue, accessible from the city.
 - **Address**: L'Hospitalet de Llobregat - [Google Maps](https://maps.app.goo.gl/cDAB7tg55sCxJheF9)
 - **Playtomic**: Available
 - **Session lengths**: 90 minutes
-- **Cost**: ~€8–10 per person
+- **Cost**: ~€8-10 per person
 - **Travel**: Approx. 30 minutes from Plaça Catalunya on the **L1 (red line)**
 - **Notes**: Next to a highway, a bit of a walk from the metro
 
@@ -66,7 +66,7 @@ Popular with members for informal sessions - not typically used for the organise
 - **Booking**: Has its own app (search "CET10 Olimpia" or "CEM Olimpia"). Also bookable via Playtomic using "Find a Match → Start a Match" (not searchable as a venue in the normal way)
 - **Booking window**: 48 hours in advance only (one reservation per person at a time - can't have two active bookings)
 - **Session lengths**: 60 or 90 minutes
-- **Cost**: ~€17 (green set / hard court) or ~€22 (clay) for a full court - split between players (~€5–9 per person for doubles)
+- **Cost**: ~€17 (green set / hard court) or ~€22 (clay) for a full court - split between players (~€5-9 per person for doubles)
 - **Notes**: Great central location, popular with members who live in Eixample/Poblenou. Awkward for group organisation (48h window, one-booking limit per person). Courts can fill very quickly at peak hours.
 - **Membership**: Members get free court time, but the waiting list is long and reportedly prioritises locals. Non-members pay per booking.
 
@@ -80,7 +80,7 @@ Used occasionally for Tuesday sessions when Up Cornellà is unavailable, and pop
 - **Playtomic**: Available (search "CN Montjuïc")
 - **Court types**: Clay and quick courts
 - **Session lengths**: 60 or 90 minutes
-- **Cost**: ~€10–12 per person (doubles, 90 min)
+- **Cost**: ~€10-12 per person (doubles, 90 min)
 - **Travel**: Reachable on foot from Poble Sec/Sant Antoni area; funicular from Espanya
 - **Notes**: Good evening availability, more central than Cornellà. Works well for smaller groups or when Cornellà is sold out.
 
@@ -101,8 +101,8 @@ Used occasionally for Tuesday sessions when Up Cornellà is unavailable, and pop
 |-------|---------------|-------------|---------------------|-------------------|
 | Up Cornellà | 7 days | ✅ | ~40 min by train | 90 min clay |
 | CN Montjuïc | Few days | ✅ | City (Montjuïc) | 90 min |
-| Vall d'Hebron | 24–48 hours | ✅ | ~20 min L3 | 60 min (only option) |
+| Vall d'Hebron | 24-48 hours | ✅ | ~20 min L3 | 60 min (only option) |
 | CEM L'Hospitalet | Few days | ✅ | ~30 min L1 | 90 min |
-| CET10 Olimpia | 48 hours | via "find a match" | City centre | 60–90 min |
+| CET10 Olimpia | 48 hours | via "find a match" | City centre | 60-90 min |
 
-**Our recommendation**: Book Up Cornellà via Playtomic on Tuesday morning for the following Tuesday. Clay courts Batida 1–12 are the first choice. It's the most reliable option with the longest booking window.
+**Our recommendation**: Book Up Cornellà via Playtomic on Tuesday morning for the following Tuesday. Clay courts Batida 1-12 are the first choice. It's the most reliable option with the longest booking window.

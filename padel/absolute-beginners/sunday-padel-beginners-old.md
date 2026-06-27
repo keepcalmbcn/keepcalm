@@ -69,7 +69,7 @@ When running a beginners session in the google form;
 Looking to try padel for the first time or still getting familiar with the game? This session is perfect for Beginners & Absolute Beginners who want to learn in a fun, relaxed, and welcoming environment.
 
 📅 Date:  02/11/25 (Sunday)
-🕒 Time: 15:00 – 16:00
+🕒 Time: 15:00 - 16:00
 💲 Price: €5 Each (+€3 if renting racket)
 📍 Venue: Padel Delfos - https://maps.app.goo.gl/uYnstxaRr2CAhoxS8
 👻 Dress Code: Costumes optional - but there will be a small prize for the best costume! 

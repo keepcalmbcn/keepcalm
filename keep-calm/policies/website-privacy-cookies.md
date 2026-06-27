@@ -18,7 +18,7 @@ keepcalm.fit is a small informational website. It tells people what Keep Calm is
 
 ## Cookies and analytics
 
-- We use **Google Analytics 4** to understand how the site is used — which pages people visit and where traffic comes from — so we can improve it. We do not sell this data, and we do not use it to track you across other websites.
+- We use **Google Analytics 4** to understand how the site is used - which pages people visit and where traffic comes from - so we can improve it. We do not sell this data, and we do not use it to track you across other websites.
 - Google Analytics sets a small number of analytics cookies in your browser (`_ga` and `_ga_<id>`) and processes the data under [Google's privacy policy](https://policies.google.com/privacy). These are analytics cookies, not cookies strictly needed to make the site work.
 - We do not currently show a cookie banner, so these analytics cookies are set when you visit the site. You can refuse or delete them through your browser settings, or use a browser or extension that blocks Google Analytics, without affecting how the site works.
 - We use no advertising cookies and no other third-party trackers on the site.

@@ -1,8 +1,8 @@
-# Travel – Hike 3 (Vilanova to Sitges)
+# Travel - Hike 3 (Vilanova to Sitges)
 
 ## Route: R2 Sud Line
 
-The Vilanova–Sitges hike uses the **R2 Sud** Rodalies line from Barcelona Sants.
+The Vilanova-Sitges hike uses the **R2 Sud** Rodalies line from Barcelona Sants.
 
 - **Outbound:** Barcelona Sants → Vilanova i la Geltrú (~1 hour, ~€8)
 - **Return:** Sitges → Barcelona Sants (~40 mins)
@@ -24,7 +24,7 @@ Train services can be disrupted by bad weather or engineering works. Always chec
 
 **Phone:** Calls go to an automated bot. Not worth trying for disruption info.
 
-## Hike 3 – Transport Notes (May 2026)
+## Hike 3 - Transport Notes (May 2026)
 
 Train disruptions were flagged as a concern given the weather. Steps taken:
 - Checked the Rodalies website - unclear and confusing

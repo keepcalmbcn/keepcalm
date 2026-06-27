@@ -5,7 +5,7 @@ Hi all!
 Uriel has generously organising a Keep Calm Americana and we'd all love to see you there!
 
 📅 Date: Saturday 2nd May
-🕕 Time: 18:00 – 20:00
+🕕 Time: 18:00 - 20:00
 📍 Venue: Delfos (https://share.google/oQEyRTFn9d8XmaUMp)
 💰 Price: ~€10 (includes a ball to take home!)
 🎯 Level: Improver to Advanced (beginners also welcome!)

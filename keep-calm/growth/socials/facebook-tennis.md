@@ -10,7 +10,7 @@ We're a **not-for-profit social community** - you only pay your share of the cou
 🗓️ Every Tuesday evening - 19:30 or 20:30
 ⏱️ 90-minute doubles sessions (2v2)
 🎯 All levels welcome: Beginner → Advanced
-💶 ~€8–10 per person (court cost only - no markup, no profit)
+💶 ~€8-10 per person (court cost only - no markup, no profit)
 🚉 Meet at Plaça Espanya and travel together
 
 No need to be great - most of our regulars are improvers just getting back into it. We split courts by level so everyone has a good time and plays with people at a similar stage. 💪

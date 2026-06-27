@@ -6,7 +6,7 @@ A step-by-step reference for organising a Keep Calm hike from scratch.
 
 ## 1. Assemble an Organiser Group
 
-Don't plan a hike alone. Get a small group of 3–5 people involved early to share the load.
+Don't plan a hike alone. Get a small group of 3-5 people involved early to share the load.
 
 - Identify co-organisers willing to help lead on the day
 - Assign roles: route lead, logistics, communications, first aider if possible
@@ -18,7 +18,7 @@ Don't plan a hike alone. Get a small group of 3–5 people involved early to sha
 
 - Hikes are usually **monthly**, on a **Saturday or Sunday**
 - Avoid clashing with major Keep Calm padel events or Barcelona public holidays
-- Give at least **3–4 weeks notice** so people can plan ahead
+- Give at least **3-4 weeks notice** so people can plan ahead
 - Check school holiday periods - attendance can be lower or much higher
 
 ---
@@ -27,12 +27,12 @@ Don't plan a hike alone. Get a small group of 3–5 people involved early to sha
 
 - Browse routes on **Komoot** or **Wikiloc**
 - Consider: distance, elevation gain, difficulty, scenery, and accessibility by train
-- Aim for routes reachable within **1–2 hours from Barcelona by Rodalies**
+- Aim for routes reachable within **1-2 hours from Barcelona by Rodalies**
 - Check the route is on **marked public trails** (for safety and liability reasons)
 - Note any hazards: exposed cliff sections, rocky terrain, river crossings
 - Confirm the start and end points have good train connections
 
-**Typical range:** 8–15 km, 3–5 hours walking time, beginner to intermediate
+**Typical range:** 8-15 km, 3-5 hours walking time, beginner to intermediate
 
 ---
 
@@ -42,18 +42,18 @@ Before committing to a route and date, confirm train logistics are viable.
 
 - Identify the **Rodalies line** needed (e.g. R2 Sud for the Garraf coast)
 - Check timetables at rodalies.gencat.cat or the Rodalies app
-- Confirm there are usable departure times (outbound ~8:30–9:00am, return ~15:00–17:30)
+- Confirm there are usable departure times (outbound ~8:30-9:00am, return ~15:00-17:30)
 - For disruption checks closer to the date, see [travel.md](hike-3/travel.md) - **X (Twitter) is the best source**
 
 ---
 
 ## 5. Check the Weather
 
-Begin monitoring the forecast around 5–7 days before the hike. See [weather.md](hike-3/weather.md) for a full guide on which sources to use and what to look for.
+Begin monitoring the forecast around 5-7 days before the hike. See [weather.md](hike-3/weather.md) for a full guide on which sources to use and what to look for.
 
 Key points:
 - Use **AEMET hourly** as the primary source - check timing of rain and wind against the hike schedule
-- For **coastal routes**, wind matters as much as rain - gusts above 30–40 km/h on exposed clifftops are a serious concern
+- For **coastal routes**, wind matters as much as rain - gusts above 30-40 km/h on exposed clifftops are a serious concern
 - Make the go/no-go call **the evening before** and communicate clearly to the group
 - If postponing, announce with a **poll for the new date** at the same time
 
@@ -66,7 +66,7 @@ Once date, route, and logistics are confirmed:
 **Google Form**
 - Set up a sign-up form to collect names and contact info
 - Ask for: name, WhatsApp number, fitness/experience level if relevant
-- Set a capacity limit (typically 25–30 people)
+- Set a capacity limit (typically 25-30 people)
 - Share the form link in the main hiking WhatsApp group and on social media
 
 **Event Info Doc**
@@ -137,10 +137,10 @@ See [hike-3/event-email.md](hike-3/event-email.md) for a template.
 
 | When | Task |
 |------|------|
-| 4–6 weeks before | Assemble organiser group, pick date and route |
-| 3–4 weeks before | Set up Google Form, announce the hike |
-| 1–2 weeks before | Close sign-ups, set up attendees WhatsApp group |
-| 3–5 days before | Send event email |
-| 5–7 days before | Start monitoring weather |
+| 4-6 weeks before | Assemble organiser group, pick date and route |
+| 3-4 weeks before | Set up Google Form, announce the hike |
+| 1-2 weeks before | Close sign-ups, set up attendees WhatsApp group |
+| 3-5 days before | Send event email |
+| 5-7 days before | Start monitoring weather |
 | Day before (evening) | Final weather and train check, send WhatsApp update, go/no-go decision |
 | Morning of hike | Last check, arrive early at meeting point |

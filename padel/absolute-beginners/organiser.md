@@ -1,10 +1,10 @@
-# Absolute Beginners Session – Organiser Guide
+# Absolute Beginners Session - Organiser Guide
 
 This guide covers everything needed to run an Absolute Beginners Padel session. Most of the work happens in the weeks before the event, not on the day itself.
 
 ---
 
-## 1. Pre-Event Setup (3–6 Weeks Before)
+## 1. Pre-Event Setup (3-6 Weeks Before)
 
 ### Venue
 - Book courts at the venue well in advance - aim for 14 courts for a full session
@@ -33,7 +33,7 @@ This guide covers everything needed to run an Absolute Beginners Padel session. 
 
 ---
 
-## 2. Signup Processing & Court Allocation (1–2 Weeks Before)
+## 2. Signup Processing & Court Allocation (1-2 Weeks Before)
 
 This is the biggest invisible job. From the signup form responses you need to:
 
@@ -91,6 +91,6 @@ Use the templates in [templates/](templates/):
 ## Key Lessons
 
 - **You will hold a lot of state - don't do it alone.** Use the shared doc and delegate tracking to it
-- **4 players per court is the rule.** 5–6 has been tried and is not worth the added stress
+- **4 players per court is the rule.** 5-6 has been tried and is not worth the added stress
 - **Leaders need chasing.** Assume nothing is confirmed until you have a yes
 - **The writing matters.** Clear, warm communication to players before the event dramatically reduces confusion on the day

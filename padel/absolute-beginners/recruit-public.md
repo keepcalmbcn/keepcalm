@@ -2,7 +2,7 @@
 
 🎾 Never played padel before? Come give it a try!
 
-Keep Calm Community is running an *absolute beginner padel session on 19th April at 13:00 – 14:00* in Aurial Pàdel Cornellà - perfect for complete newcomers. A friendly one-hour intro to the sport, led by friendly and experienced players!
+Keep Calm Community is running an *absolute beginner padel session on 19th April at 13:00 - 14:00* in Aurial Pàdel Cornellà - perfect for complete newcomers. A friendly one-hour intro to the sport, led by friendly and experienced players!
 
 We're part of *Keep Calm Barcelona* (https://keepcalm.fit) - a not-for-profit sports community run entirely by volunteers.
 

@@ -12,11 +12,11 @@ Form opens Thursday at 18:00 and closes Sunday at 22:00 (or at 80 responses) - v
 
 Levels are based on Playtomic scores:
 - Beginner: First time playing
-- Improver: 0–1
-- Intermediate: 1–2
+- Improver: 0-1
+- Intermediate: 1-2
 - Advanced: 2+
 
-Cost: Around €5–8 per person. Racket rental available (€4).
+Cost: Around €5-8 per person. Racket rental available (€4).
 
 Venues: Padel Delfos, Up Pádel & Tennis Cornellà, Aurial Pàdel Cornellà.
 

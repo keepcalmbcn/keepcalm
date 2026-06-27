@@ -2,9 +2,9 @@
 
 Hey everyone! 🏐☀
 
-This Saturday, @Mario  is hosting beach volleyball from 16:00–19:00 (3 slots of 1 hour each) at Nova Icaria or Somorrostro beaches!
+This Saturday, @Mario  is hosting beach volleyball from 16:00-19:00 (3 slots of 1 hour each) at Nova Icaria or Somorrostro beaches!
 
-📅 When: Saturday, 16:00–19:00
+📅 When: Saturday, 16:00-19:00
 📍 Where: Nova Icaria (or Somorrostro, depending on court availability)
 
 How it works:
