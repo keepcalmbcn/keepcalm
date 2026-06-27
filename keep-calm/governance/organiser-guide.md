@@ -77,13 +77,13 @@ Tell bookers to:
 1. Don't take sides publicly
 2. Speak to people privately
 3. Escalate to other organisers if serious
-4. See [Community Conduct](../rules/community-conduct.md)
+4. See [Community Conduct](../policies/community-conduct.md)
 
 **Under-18s:**
 1. Keep Calm is an adults-only community - everyone taking part must be 18 or over
 2. If you reasonably believe someone is under 18, ask them to confirm their age
 3. Turn away anyone who cannot - make no exceptions, even for accompanied minors
-4. See [Safety & Liability](../rules/safety-liability.md)
+4. See [Safety & Liability](../policies/safety-liability.md)
 
 ---
 
@@ -153,5 +153,5 @@ Share your proposal with the other organisers. If approved:
 
 - [Role Descriptions](role-descriptions.md) - Role definitions
 - [Event Rules](../rules/event-rules.md) - Participation policies
-- [Community Conduct](../rules/community-conduct.md) - Conduct and conflict resolution
+- [Community Conduct](../policies/community-conduct.md) - Conduct and conflict resolution
 - [Organisers](organisers.md) - Current organisers

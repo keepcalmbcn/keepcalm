@@ -4,9 +4,9 @@ Welcome to Keep Calm Ping Pong! To keep things fun and fair for everyone, please
 
 > **These rules add to - but don't replace - our community-wide policies. Please read these first if you haven't already:**
 > - [WhatsApp Rules](https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/whatsapp-rules.md) - group communication, unsolicited DMs, referral links, spam
-> - [Community Conduct](https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/community-conduct.md) - respect, harassment, advertising, conflict resolution
+> - [Community Conduct](https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/policies/community-conduct.md) - respect, harassment, advertising, conflict resolution
 > - [Event Rules](https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/event-rules.md) - commitment, cancellations, the strike system
-> - [Safety & Liability](https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/safety-liability.md) - participation at your own risk, the 18+ age requirement
+> - [Safety & Liability](https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/policies/safety-liability.md) - participation at your own risk, the 18+ age requirement
 >
 > **You must be 18 or over to take part. Keep Calm is an adults-only community.**
 

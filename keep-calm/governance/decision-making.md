@@ -42,7 +42,7 @@ Anyone can suggest changes. The process depends on the size of the change:
 1. Try to resolve directly between those involved
 2. If unresolved, involve the Sport Lead
 3. If still stuck, bring to the organisers as a group
-4. See [Community Conduct](../rules/community-conduct.md) for conflict resolution
+4. See [Community Conduct](../policies/community-conduct.md) for conflict resolution
 
 Once a decision is made, we move forward together. Ongoing disagreement should happen in private, not in the WhatsApp groups.
 
@@ -67,5 +67,5 @@ Sometimes things can't wait - dangerous weather, someone being aggressive at a s
 
 - [Organiser Guide](organiser-guide.md) - Organiser responsibilities
 - [Role Descriptions](role-descriptions.md) - Who does what
-- [Community Conduct](../rules/community-conduct.md) - Conflict resolution
+- [Community Conduct](../policies/community-conduct.md) - Conflict resolution
 - [Rules](../rules/rules.md) - Community rules

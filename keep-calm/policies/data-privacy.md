@@ -1,5 +1,7 @@
 # Data & Privacy
 
+> **Policy** · Version 1.0 · Last updated 2026-06-27 · Part of the [Keep Calm policies](README.md). By taking part in Keep Calm activities you accept these policies.
+
 This document explains what personal data Keep Calm collects, how we use it, and your rights. We aim to be transparent and collect only what's necessary to run the community.
 
 ---
@@ -380,5 +382,5 @@ We're open to feedback on improving our data practices.
 ## Related Documents
 
 - [Community-Conduct.md](community-conduct.md) - Photography guidelines in conduct section
-- [Rules.md](rules.md) - Community rules overview
+- [Rules.md](../rules/rules.md) - Community rules overview
 - [Safety-Liability.md](safety-liability.md) - Related to incident reporting

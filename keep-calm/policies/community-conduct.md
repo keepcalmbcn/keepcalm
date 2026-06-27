@@ -1,5 +1,7 @@
 # Community Conduct
 
+> **Policy** · Version 1.0 · Last updated 2026-06-27 · Part of the [Keep Calm policies](README.md). By taking part in Keep Calm activities you accept these policies.
+
 This document covers how we treat each other in Keep Calm. It goes beyond event logistics to address respect, inclusion, advertising, privacy, and conflict resolution.
 
 ---
@@ -211,7 +213,7 @@ Some things require immediate escalation:
 
 ## Consequences
 
-Conduct violations follow the community's [3-strike system](event-rules.md). Offenses that can trigger strikes include:
+Conduct violations follow the community's [3-strike system](../rules/event-rules.md). Offenses that can trigger strikes include:
 
 - Harassment, discrimination, or bullying
 - Repeated advertising after being warned
@@ -260,7 +262,7 @@ Rules only go so far. Culture is created by everyone, every day.
 
 ## Related Documents
 
-- [Rules.md](rules.md) - Rules overview and hub
-- [Event-Rules.md](event-rules.md) - Event participation policies
-- [WhatsApp-Rules.md](whatsapp-rules.md) - Group communication guidelines
-- [Partnerships-Reciprocity.md](partnerships-reciprocity.md) - Policy on commercial relationships
+- [Rules.md](../rules/rules.md) - Rules overview and hub
+- [Event-Rules.md](../rules/event-rules.md) - Event participation policies
+- [WhatsApp-Rules.md](../rules/whatsapp-rules.md) - Group communication guidelines
+- [Partnerships-Reciprocity.md](../rules/partnerships-reciprocity.md) - Policy on commercial relationships

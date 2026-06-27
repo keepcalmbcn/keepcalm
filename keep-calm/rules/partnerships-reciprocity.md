@@ -30,7 +30,7 @@ Leaders and organisers give their time, expertise, and energy to make Keep Calm 
 
 ### What We Don't Offer
 
-Commercial promotion of any kind - see [community-conduct.md](community-conduct.md) for the full advertising policy.
+Commercial promotion of any kind - see [community-conduct.md](../policies/community-conduct.md) for the full advertising policy.
 
 ### Setting Expectations Upfront
 

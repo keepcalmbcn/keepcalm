@@ -1,5 +1,7 @@
 # Safety & Liability
 
+> **Policy** · Version 1.0 · Last updated 2026-06-27 · Part of the [Keep Calm policies](README.md). By taking part in Keep Calm activities you accept these policies.
+
 This document outlines safety expectations and liability boundaries for Keep Calm activities. Everyone participating should understand these before joining.
 
 ---
@@ -226,7 +228,7 @@ If you injure another participant through reckless or negligent behaviour, that'
 
 ### Who Decides?
 
-Organisers make weather-related decisions. If an organiser says the activity is cancelled or continuing, respect that decision. See [Event-Rules.md](event-rules.md) for weather policies.
+Organisers make weather-related decisions. If an organiser says the activity is cancelled or continuing, respect that decision. See [Event-Rules.md](../rules/event-rules.md) for weather policies.
 
 ---
 
@@ -363,6 +365,6 @@ If someone's behaviour is creating safety risks:
 
 ## Related Documents
 
-- [Event-Rules.md](event-rules.md) - Weather policies and participation rules
+- [Event-Rules.md](../rules/event-rules.md) - Weather policies and participation rules
 - [Community-Conduct.md](community-conduct.md) - Behaviour standards
 - [Organiser-Guide.md](../governance/organiser-guide.md) - How organisers handle issues

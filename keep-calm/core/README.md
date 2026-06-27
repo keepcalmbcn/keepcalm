@@ -69,11 +69,11 @@ Core members are expected to:
 - Treat every member and guest with respect, especially newcomers
 - Be reliable: show up when they commit, give notice when they can't
 - Help resolve problems calmly rather than add to them
-- Uphold the [Community Conduct](../rules/community-conduct.md) rules and set the example
+- Uphold the [Community Conduct](../policies/community-conduct.md) rules and set the example
 
 ## Losing Core status
 
-Core status is ongoing, not permanent. Serious or repeated conduct breaches, as handled under [Community Conduct](../rules/community-conduct.md) and the strike system, can mean leaving Core. Removal from Core is an organiser decision, handled privately and with the chance to be heard, in line with [Decision Making](../governance/decision-making.md#appeals).
+Core status is ongoing, not permanent. Serious or repeated conduct breaches, as handled under [Community Conduct](../policies/community-conduct.md) and the strike system, can mean leaving Core. Removal from Core is an organiser decision, handled privately and with the chance to be heard, in line with [Decision Making](../governance/decision-making.md#appeals).
 
 This is the heart of accountability: Core is a position of trust, and the trust has to be kept.
 
@@ -115,5 +115,5 @@ Treat people well and be someone the community trusts. Core Members are held to 
 - [Core Invitation](invite.md) - The message we send to invite someone to Core
 - [Role Descriptions](../governance/role-descriptions.md) - Roles and informal contributions
 - [Decision Making](../governance/decision-making.md) - How decisions and appeals work
-- [Community Conduct](../rules/community-conduct.md) - The conduct rules Core upholds
+- [Community Conduct](../policies/community-conduct.md) - The conduct rules Core upholds
 - [Welcome to Keep Calm](../readme.md) - Community mission and values

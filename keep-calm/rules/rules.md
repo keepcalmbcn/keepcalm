@@ -2,11 +2,13 @@
 
 To maintain a positive, organized, and welcoming community, we have established clear guidelines for participation. This page is your hub for all community policies and documentation.
 
+> **Looking for our formal policies?** Safety, data, conduct, and the rest now live in the [policies folder](../policies/README.md), the set you agree to by taking part. The links below point there. Day-to-day operational rules (WhatsApp, events, language, partnerships) stay here in the rules folder.
+
 ---
 
 ## Policies & Rules
 
-### 🤝 [Community Conduct](community-conduct.md)
+### 🤝 [Community Conduct](../policies/community-conduct.md)
 How we treat each other in Keep Calm:
 - Respect and inclusion standards
 - Anti-harassment and discrimination policy
@@ -39,7 +41,7 @@ Policies for event participation:
 - Weather policies
 - Skill level honesty
 
-### ⚠️ [Safety & Liability](safety-liability.md)
+### ⚠️ [Safety & Liability](../policies/safety-liability.md)
 Understanding risk and responsibility:
 - Participate at your own risk
 - Age requirement: 18+ (adults only)
@@ -48,7 +50,7 @@ Understanding risk and responsibility:
 - Sport-specific safety considerations
 - Insurance and liability boundaries
 
-### 🔒 [Data & Privacy](data-privacy.md)
+### 🔒 [Data & Privacy](../policies/data-privacy.md)
 How we handle your information:
 - What data we collect and why
 - Photography and social media use

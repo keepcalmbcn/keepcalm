@@ -204,7 +204,7 @@ Post in the group ASAP, help find a replacement if you can, and let the organise
 Go for it! Join the WhatsApp group for that sport and vote in the next poll.
 
 ### What if I have a problem with someone?
-Talk to an organiser privately. We take community health seriously. See [Community-Conduct.md](../rules/community-conduct.md).
+Talk to an organiser privately. We take community health seriously. See [Community-Conduct.md](../policies/community-conduct.md).
 
 ### What if I want to bring a friend?
 Great! Have them join the WhatsApp group and vote in the poll. Don't just show up with extras without checking first. Anyone taking part must be 18 or over.
@@ -260,5 +260,5 @@ See you on the court! 🎾🏐🏓
 
 - [Rules.md](../rules/rules.md) - Community rules
 - [Event-Rules.md](../rules/event-rules.md) - Event participation policies
-- [Community-Conduct.md](../rules/community-conduct.md) - How we treat each other
+- [Community-Conduct.md](../policies/community-conduct.md) - How we treat each other
 - [SCHEDULE.md](schedule.md) - Weekly activity schedule

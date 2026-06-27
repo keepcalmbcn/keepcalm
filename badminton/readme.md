@@ -73,7 +73,7 @@ You are very welcome, whatever your level:
 ## Safety and Fair Play
 
 - Warm up before you play and stretch afterwards
-- Participation is voluntary and at your own risk (see [Safety & Liability](../keep-calm/rules/safety-liability.md))
+- Participation is voluntary and at your own risk (see [Safety & Liability](../keep-calm/policies/safety-liability.md))
 - All levels share the courts, so be patient and inclusive
 - Look after your belongings - keep valuables with you
 
