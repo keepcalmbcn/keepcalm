@@ -14,6 +14,7 @@ Friendly discussions, quick questions, casual chats, and anything that doesn't q
 
 Open to adults only (18+).
 
+Policies (please read): https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/policies/README.md
 Website: https://keepcalm.fit/
 Instagram: https://www.instagram.com/keepcalmbarcelona/
 Facebook: https://www.facebook.com/keepcalmbarcelona
