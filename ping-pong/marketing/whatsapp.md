@@ -18,3 +18,5 @@ Part of *Keep Calm and Carry On* - a not-for-profit English-speaking community i
 Join the group and look out for the weekly poll to pick your arrival time 👉 *keepcalm.fit*
 
 See you Thursday! 🏓
+
+📋 By taking part you agree to our policies (safety, data, conduct, 18+): https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/policies/README.md

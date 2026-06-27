@@ -37,6 +37,7 @@ That means the friendships you make here are **meaningful and long-term**, not j
 - Be respectful and supportive of others.  
 - Show up if you commit to an event (or let us know ASAP if plans change).  
 - Keep things friendly - this is about having fun and meeting people.  
+- By taking part you agree to our [Community Policies](policies/README.md) (safety, data, conduct, and the 18+ policy). Please give them a read.  
 
 ## Why We Exist
 Barcelona has many great groups and communities, but we wanted a space that brings different sports and activities **together under one roof**. By doing so, we make it easier to find players/sports/activites and create an interface between all the vibrant communities in barcelona where everyone benefits.  

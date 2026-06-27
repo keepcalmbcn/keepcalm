@@ -8,6 +8,7 @@ Part of the larger **Keep Calm and Carry On** not-for-profit community for Engli
 
 - [Group Description](description.md) - what this community is about
 - [Group Rules](rules.md) - how we keep things running smoothly
+- [Community Policies](../keep-calm/policies/README.md) - safety, data, conduct, and the 18+ policy you agree to by taking part
 - [FAQ](tuesday-session/tuesday-tennis-faq.md) - everything you need to know
 - [Venues](tuesday-session/tuesday-tennis-venues.md) - where we play and how to get there
 - [General WhatsApp Rules](../keep-calm/rules/whatsapp-rules.md) - applies to all Keep Calm groups

@@ -7,6 +7,7 @@ Part of the larger **Keep Calm and Carry On** not-for-profit community for Engli
 ## Quick Links
 
 - [Group Description](description.md) - what this group is about
+- [Community Policies](../keep-calm/policies/README.md) - safety, data, conduct, and the 18+ policy you agree to by taking part
 - [General WhatsApp Rules](../keep-calm/rules/whatsapp-rules.md) - applies to all Keep Calm groups
 - [Event Rules](../keep-calm/rules/event-rules.md) - participation and cancellation policies
 

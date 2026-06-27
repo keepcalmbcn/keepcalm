@@ -13,3 +13,5 @@ It's completely free to be part of the community and everything is volunteer-run
 👉 Find us at *keepcalm.fit* or search *Keep Calm Barcelona* on Instagram and Facebook.
 
 Come say hi! 🙌
+
+📋 By taking part you agree to our policies (safety, data, conduct, 18+): https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/policies/README.md

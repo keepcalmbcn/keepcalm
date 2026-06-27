@@ -8,6 +8,7 @@ Part of the larger **Keep Calm and Carry On** not-for-profit community for Engli
 
 - [Group Description](description.md) - what this group is about
 - [Group Rules](rules.md) - how we keep things running smoothly
+- [Community Policies](../keep-calm/policies/README.md) - safety, data, conduct, and the 18+ policy you agree to by taking part
 - [Friday Football FAQ](friday-session/friday-football-faq.md) - everything about the weekly session
 - [Friday Football Venue](friday-session/friday-football-venues.md) - where we play and how to get there
 - [General WhatsApp Rules](../keep-calm/rules/whatsapp-rules.md) - applies to all Keep Calm groups

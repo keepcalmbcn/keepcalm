@@ -8,6 +8,7 @@ Welcome to **Keep Calm and Carry On** - Barcelona's friendly, not-for-profit spo
 - **Weekly Schedule**: See [schedule.md](keep-calm/operations/schedule.md)
 - **Community Info**: [keep-calm/readme.md](keep-calm/readme.md)
 - **Rules**: [WhatsApp Rules](keep-calm/rules/whatsapp-rules.md) | [Event Rules](keep-calm/rules/event-rules.md)
+- **Policies**: [Community Policies](keep-calm/policies/README.md) - safety, data, conduct, and the 18+ policy you agree to by taking part
 
 ## Our Sports & Activities
 

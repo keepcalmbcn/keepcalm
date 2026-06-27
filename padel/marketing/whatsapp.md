@@ -18,3 +18,5 @@ It's not just padel - it's a great way to meet people and actually feel at home 
 Volunteer-run, not-for-profit, and genuinely friendly.
 
 👉 *keepcalm.fit* to find out more
+
+📋 By taking part you agree to our policies (safety, data, conduct, 18+): https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/policies/README.md

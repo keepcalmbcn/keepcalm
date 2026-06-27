@@ -15,3 +15,5 @@ Whether you run regularly or just want to get back into it, come join us. Runs a
 👉 Join the WhatsApp group at *keepcalm.fit*
 
 All are welcome 🙌
+
+📋 By taking part you agree to our policies (safety, data, conduct, 18+): https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/policies/README.md
