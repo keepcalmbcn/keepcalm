@@ -14,4 +14,4 @@ We're part of *Keep Calm and Carry On* - a not-for-profit sports community run b
 
 Drop a message if you want to know more! 🙌
 
-📋 By taking part you agree to our policies (safety, data, conduct, 18+): https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/policies/README.md
+📋 By taking part you agree to our policies (safety, data, conduct, 18+): https://keepcalm.fit/policies

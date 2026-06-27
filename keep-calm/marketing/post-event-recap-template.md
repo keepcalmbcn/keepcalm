@@ -27,7 +27,7 @@ Keep Calm is a not-for-profit community for English speakers in Barcelona. [ACTI
 • 🌐 https://keepcalm.fit/
 • 📸 https://www.instagram.com/keepcalmbarcelona/
 • 📘 https://www.facebook.com/keepcalmbarcelona
-• 📋 Our policies (safety, data, conduct, 18+): https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/policies/README.md
+• 📋 Our policies (safety, data, conduct, 18+): https://keepcalm.fit/policies
 
 Thanks again for being part of today. See you again soon! 💪
 

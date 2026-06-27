@@ -17,7 +17,7 @@ Cost: Free! We use public beach nets.
 Open to adults only (18+).
 
 Rules: https://github.com/keepcalmbcn/keepcalm/blob/main/volleyball/rules.md
-Policies (please read): https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/policies/README.md
+Policies (please read): https://keepcalm.fit/policies
 Website: https://keepcalm.fit/
 Instagram: https://www.instagram.com/keepcalmbarcelona/
 Facebook: https://www.facebook.com/keepcalmbarcelona

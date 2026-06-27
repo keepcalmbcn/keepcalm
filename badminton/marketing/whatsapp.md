@@ -21,4 +21,4 @@ Spots are limited to 24 players with an automatic waitlist, so RSVP early 👇
 
 *keepcalm.fit*
 
-📋 By taking part you agree to our policies (safety, data, conduct, 18+): https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/policies/README.md
+📋 By taking part you agree to our policies (safety, data, conduct, 18+): https://keepcalm.fit/policies
