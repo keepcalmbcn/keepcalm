@@ -44,7 +44,8 @@ This keeps the pace fast and avoids drawn-out deuce battles during 15-minute mat
 - [FAQ](faq.md) - common questions answered
 - [Organiser Guide](organiser.md) - how to run an americana, day-by-day checklist and message templates
 - [Group Description](description.md) - WhatsApp group bio
-- [Announcement Template](americana_post.md) - template for posting the event
+- [Announcement Template v2](americana_post_v2.md) - current template for posting the event (July 2026: organiser/venue thanks, use-it-or-lose-it, tapas social, react-to-confirm)
+- [Announcement Template v1](americana_post.md) - previous template, kept for reference
 - [Post-Event Message](post-event.md) - template for after the session
 - [First Americana Archive](saturday-padel-americana.md) - original October 2024 announcement, kept for reference
 
