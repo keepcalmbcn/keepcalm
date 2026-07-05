@@ -8,7 +8,7 @@ Save the Date - Keep Calm turns 1! 🎂
 
 Saturday 30 May, Somorrostro Beach (in front of Shoko/Opium)
 
-One year ago Keep Calm and Carry On was born with a simple idea - bring English speakers in Barcelona together through sport, friendship, and good times. This community has grown into something really special, and we want to celebrate that with every single one of you.
+One year ago Keep Calm was born with a simple idea - bring English speakers in Barcelona together through sport, friendship, and good times. This community has grown into something really special, and we want to celebrate that with every single one of you.
 
 On 30 May we're taking over the beach for a free community celebration. Think beach picnic, optional sports (volleyball, football, frisbee, beach padel), a big birthday cake, and good vibes with the whole Keep Calm family - padel players, volleyball crew, hikers, ping pong legends, and everyone in between.
 

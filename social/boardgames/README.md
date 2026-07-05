@@ -2,7 +2,7 @@
 
 Welcome to Keep Calm Board Games! Casual board games socials run in partnership with **[Board Games BCN](https://www.meetup.com/board-games-bcn/)** ([@boardgamesbcn](https://www.instagram.com/boardgamesbcn/)), hosted at venues around the city. No experience needed, just show up, grab a drink, and try not to flip the table when you lose at Catan.
 
-Part of the larger **Keep Calm and Carry On** not-for-profit community for English speakers in Barcelona, built on values of inclusivity, reliability, and collaboration. Everyone is welcome.
+Part of the larger **Keep Calm** not-for-profit community for English speakers in Barcelona, built on values of inclusivity, reliability, and collaboration. Everyone is welcome.
 
 ## Quick Links
 

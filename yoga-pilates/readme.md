@@ -1,8 +1,8 @@
-# Keep Calm Yoga & Pilates 🧘
+# Keep Calm Yoga & Pilates & Meditation 🧘
 
-Welcome to Keep Calm Yoga & Pilates! Relaxed yoga and pilates sessions for English speakers in Barcelona, for every level and every body.
+Welcome to Keep Calm Yoga & Pilates & Meditation! Relaxed yoga, pilates, and meditation sessions for English speakers in Barcelona, for every level and every body.
 
-Part of the larger **Keep Calm and Carry On** not-for-profit community for English speakers in Barcelona, we're built on values of inclusivity, reliability, and collaboration. Everyone is welcome, and the community belongs to all of us.
+Part of the larger **Keep Calm** not-for-profit community for English speakers in Barcelona, we're built on values of inclusivity, reliability, and collaboration. Everyone is welcome, and the community belongs to all of us.
 
 ## Quick Links
 
@@ -42,6 +42,7 @@ All experience levels practise together, and you never need to keep up with anyo
 
 - **Yoga** - from gentle, slow flows to more active sessions, depending on who is leading
 - **Pilates** - core, strength, and mobility work
+- **Meditation** - guided beach meditation sessions, often with stretching, breathing, journaling, and time to just watch the sunset together
 - **Complete beginner?** Perfect. Just let the group or the instructor know and they will look after you
 - Always listen to your body and rest whenever you need to
 
@@ -62,7 +63,7 @@ All experience levels practise together, and you never need to keep up with anyo
 
 ## Getting Started
 
-1. Join the Yoga & Pilates WhatsApp group (links at https://keepcalm.fit/)
+1. Join the Yoga & Pilates & Meditation WhatsApp group (links at https://keepcalm.fit/)
 2. Watch for session announcements
 3. Confirm your spot via the poll or message
 4. Bring a mat, water, and comfy clothes
@@ -72,13 +73,13 @@ All experience levels practise together, and you never need to keep up with anyo
 
 We are always glad of more hands and more teachers. If you would like to lead a session, suggest a venue, or help organise:
 
-- Post in the Yoga & Pilates WhatsApp group
+- Post in the Yoga & Pilates & Meditation WhatsApp group
 - Share your ideas, availability, or any instructor contacts
 - Help us grow the yoga and pilates community
 
 ## Questions?
 
-- Post in the Yoga & Pilates WhatsApp group
+- Post in the Yoga & Pilates & Meditation WhatsApp group
 - Contact an organiser via the group
 
 ---

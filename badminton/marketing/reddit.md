@@ -10,7 +10,7 @@ Suggested subreddits: r/Barcelona, r/expats_barcelona
 
 Just wanted to share this in case anyone's been looking for a casual badminton group in the city.
 
-I play with Keep Calm Badminton - it's part of a bigger not-for-profit sports community called Keep Calm and Carry On, run by volunteers for English speakers in Barcelona. We've teamed up with BCN Badminton for a weekly Friday session at La Mar Bella in Poblenou. It's doubles practice games, players rotate so everyone gets a go, and it's currently a lower-intermediate level.
+I play with Keep Calm Badminton - it's part of a bigger not-for-profit sports community called Keep Calm, run by volunteers for English speakers in Barcelona. We've teamed up with BCN Badminton for a weekly Friday session at La Mar Bella in Poblenou. It's doubles practice games, players rotate so everyone gets a go, and it's currently a lower-intermediate level.
 
 Mixed, social, no drama. It's indoor so it runs rain or shine, and it's only 5€ per person. You just need your own racket and indoor court shoes.
 

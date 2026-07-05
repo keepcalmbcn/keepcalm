@@ -1,12 +1,12 @@
-# Keep Calm Yoga & Pilates - Group Description
+# Keep Calm Yoga & Pilates & Meditation - Group Description
 
 The following is used as the WhatsApp group description.
 
 ---
 
-Keep Calm Yoga & Pilates - part of the Keep Calm and Carry On community for English speakers in Barcelona.
+Keep Calm Yoga & Pilates & Meditation - part of the Keep Calm community for English speakers in Barcelona.
 
-Yoga and pilates sessions for all levels. Whether you're a complete beginner or experienced, you're welcome.
+Yoga, pilates, and meditation sessions for all levels. Whether you're a complete beginner or experienced, you're welcome.
 
 Watch this group for session announcements including times, locations, and costs. We run both outdoor sessions (beaches, parks) and indoor studio sessions depending on the season.
 

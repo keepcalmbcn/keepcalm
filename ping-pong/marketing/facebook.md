@@ -10,7 +10,7 @@ All levels are genuinely welcome - we get complete beginners and people who play
 
 It's completely free. Public tables, no booking, no fee.
 
-This is part of Keep Calm and Carry On, a not-for-profit community for English speakers in Barcelona. We run weekly sports sessions across a range of activities - ping pong, padel, volleyball, hiking and more - and the whole thing is volunteer-run. The goal is simple: meet people, stay active, feel at home in Barcelona.
+This is part of Keep Calm, a not-for-profit community for English speakers in Barcelona. We run weekly sports sessions across a range of activities - ping pong, padel, volleyball, hiking and more - and the whole thing is volunteer-run. The goal is simple: meet people, stay active, feel at home in Barcelona.
 
 To join, head to keepcalm.fit to find the WhatsApp group link. A poll goes out midweek so you can pick your arrival time - 18:00, 18:30 or 19:00.
 

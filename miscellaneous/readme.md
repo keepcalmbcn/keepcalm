@@ -2,7 +2,7 @@
 
 Welcome to the Keep Calm miscellaneous activities page - a home for activities that don't yet have their own dedicated group, but may in the future.
 
-Part of the larger **Keep Calm and Carry On** not-for-profit community for English speakers in Barcelona, we're built on values of inclusivity, reliability, and collaboration. Everyone is welcome, and the community belongs to all of us.
+Part of the larger **Keep Calm** not-for-profit community for English speakers in Barcelona, we're built on values of inclusivity, reliability, and collaboration. Everyone is welcome, and the community belongs to all of us.
 
 ## Quick Links
 

@@ -2,7 +2,7 @@
 
 We're excited to have you join our growing padel community!
 
-Part of the larger **Keep Calm and Carry On** not-for-profit community for English speakers in Barcelona, we're built on values of inclusivity, reliability, and collaboration. Everyone is welcome, and the community belongs to all of us.
+Part of the larger **Keep Calm** not-for-profit community for English speakers in Barcelona, we're built on values of inclusivity, reliability, and collaboration. Everyone is welcome, and the community belongs to all of us.
 
 ## Quick Links
 

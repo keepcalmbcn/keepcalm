@@ -12,4 +12,4 @@ Link in bio to join. See you on the slopes. 🎿
 
 ---
 
-#Barcelona #BarcelonaExpats #ExpatsInBarcelona #BarcelonaLife #SkiBarcelona #SkiPyrenees #Pyrenees #Grandvalira #Andorra #SkiAndorra #MasellaSkiResort #LaMolina #SkiTrip #SnowboardBarcelona #KeepCalmBarcelona #EnglishInBarcelona #BarcelonaCommunity #WinterSports #SkiWeekend #BarcelonaActivities
+#SkiPyrenees #SkiAndorra #SnowboardBarcelona #BarcelonaExpats #KeepCalmBarcelona

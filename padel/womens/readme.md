@@ -1,6 +1,6 @@
 # Keep Calm Women's Padel 👸🏽
 
-Part of the **Keep Calm and Carry On** not-for-profit community for English speakers in Barcelona.
+Part of the **Keep Calm** not-for-profit community for English speakers in Barcelona.
 
 A women-only padel group for players of all levels. A relaxed, supportive space to learn, play, and improve, whether you have never held a racket or you play every week.
 
@@ -56,6 +56,8 @@ If you are brand new to padel entirely, you may also enjoy our [Absolute Beginne
 
 - [Group Description](description.md) - WhatsApp group bio
 - [FAQ](faq.md) - common questions answered
+- [Women's Growth Strategy](marketing/strategy.md) - how we welcome and grow this group
+- [Instagram Playbook](marketing/instagram-playbook.md) - using Instagram to find women for the group
 - [Padel Rules](../rules.md) - rules for all Keep Calm padel
 - [General WhatsApp Rules](../../keep-calm/rules/whatsapp-rules.md) - applies to all Keep Calm groups
 

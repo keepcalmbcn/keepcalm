@@ -4,7 +4,7 @@ The following is used as the WhatsApp group description.
 
 ---
 
-Keep Calm Climbing - part of the Keep Calm and Carry On community for English speakers in Barcelona.
+Keep Calm Climbing - part of the Keep Calm community for English speakers in Barcelona.
 
 Indoor bouldering and climbing meetups around Barcelona, with the occasional trip to the rock outside the city. We climb at gyms like Sharma Climbing BCN, Climbat La Foixarda, and others around town.
 

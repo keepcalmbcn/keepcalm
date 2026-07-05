@@ -4,7 +4,7 @@ The following is used as the WhatsApp group description.
 
 ---
 
-Keep Calm Volleyball - part of the Keep Calm and Carry On community for English speakers in Barcelona.
+Keep Calm Volleyball - part of the Keep Calm community for English speakers in Barcelona.
 
 Beach volleyball at Barcelona's beaches! We play year-round with regular Saturday sessions and ad-hoc games throughout the week. Anyone can post a game - just say where and when and see who's in.
 

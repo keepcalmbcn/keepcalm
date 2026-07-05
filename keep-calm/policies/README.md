@@ -1,6 +1,6 @@
 # Keep Calm Policies
 
-This folder holds the formal policies for Keep Calm and Carry On. They set out the terms everyone agrees to by taking part, what we collect and why, how we keep sessions safe, and how to raise a concern.
+This folder holds the formal policies for Keep Calm. They set out the terms everyone agrees to by taking part, what we collect and why, how we keep sessions safe, and how to raise a concern.
 
 These are our policies (the "what you agree to" documents). For day-to-day operational rules (WhatsApp etiquette, event sign-up and cancellation, language, partnerships) see the [rules folder](../rules/).
 

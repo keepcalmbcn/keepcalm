@@ -1,4 +1,4 @@
-# Media Ideas for Yoga & Pilates Marketing
+# Media Ideas for Yoga & Pilates & Meditation Marketing
 
 Photos and visuals that work well for promoting this activity.
 

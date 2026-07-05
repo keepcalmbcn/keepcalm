@@ -70,13 +70,17 @@ Quick reference for all our regular activities. All events are posted in their r
   - Seasonal events (Halloween, festivals, etc.)
 - **Check WhatsApp group for announcements**
 
-## Coming Soon
+### Yoga & Pilates & Meditation 🧘
+- **Frequency**: Sessions announced in the WhatsApp group as they're organised
+- **Format**: Yoga, pilates, and guided beach meditation, depending on who is leading
+- **Locations**: Outdoor (beach, parks) in warmer months, indoor studio sessions in cooler months
+- **Cost**: Free or a few euros depending on the session
+- **How it works**: Check WhatsApp group for session announcements with time, location, and cost
 
 ### Football ⚽
-Details to be announced
-
-### Yoga 🧘
-Details to be announced
+- **Frequency**: Weekly, every Friday
+- **Format**: Social 8v8, mixed teams, all levels, run in partnership with Vaya Sports
+- **Check WhatsApp group for pitch, time, and sign-up link**
 
 ---
 

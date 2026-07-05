@@ -8,7 +8,7 @@ Keep Calm Tennis is a weekly doubles group for English speakers, running every T
 
 All levels are welcome, genuinely. We currently have players from complete beginners to intermediates, and we try to match courts by ability so games feel enjoyable for everyone. No one is going to make you feel bad for not being a tennis pro.
 
-We're part of Keep Calm and Carry On, a not-for-profit sports community for English speakers in Barcelona. Everything is run by volunteers, and the whole thing is built around meeting people and having a good time - the sport is just the excuse.
+We're part of Keep Calm, a not-for-profit sports community for English speakers in Barcelona. Everything is run by volunteers, and the whole thing is built around meeting people and having a good time - the sport is just the excuse.
 
 If you want to join, the best place to start is our website at keepcalm.fit, or find us on Instagram and Facebook as @keepcalmbarcelona. You can also just reply here and we'll point you in the right direction.
 

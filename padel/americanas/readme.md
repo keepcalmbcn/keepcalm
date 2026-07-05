@@ -1,6 +1,6 @@
 # Keep Calm Americana Padel
 
-Part of the **Keep Calm and Carry On** not-for-profit community for English speakers in Barcelona.
+Part of the **Keep Calm** not-for-profit community for English speakers in Barcelona.
 
 ---
 

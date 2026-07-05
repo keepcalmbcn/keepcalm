@@ -14,7 +14,7 @@ This is the group where beginners play ad-hoc games together and, importantly, w
 
 Step 2: Join our community
 
-Keep Calm and Carry On is a not-for-profit multi-sport community in Barcelona for English speakers. Our goal is simple: bring people together through sport and activities. We run weekly padel, volleyball, ping pong, hiking, and more, all open to every level. If you're new to Barcelona, new to padel, or just looking to meet people, this is your place.
+Keep Calm is a not-for-profit multi-sport community in Barcelona for English speakers. Our goal is simple: bring people together through sport and activities. We run weekly padel, volleyball, ping pong, hiking, and more, all open to every level. If you're new to Barcelona, new to padel, or just looking to meet people, this is your place.
 
 Visit our website to join the padel group and any other groups that interest you: https://keepcalm.fit
 

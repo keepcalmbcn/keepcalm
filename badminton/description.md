@@ -4,7 +4,7 @@ The following is used as the WhatsApp group description.
 
 ---
 
-Keep Calm Badminton - part of the Keep Calm and Carry On community for English speakers in Barcelona.
+Keep Calm Badminton - part of the Keep Calm community for English speakers in Barcelona.
 
 🏸 Mixed, social badminton for all - ladies and gents welcome, currently a lower-intermediate level. Our regular game is every Friday, 16:00 to 18:30 at La Mar Bella Municipal Sports Complex (Poblenou), run in partnership with BCN Badminton.
 

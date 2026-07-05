@@ -4,7 +4,7 @@
 
 If you've been looking for a casual badminton group in Barcelona - this might be what you're after.
 
-Keep Calm Badminton is part of Keep Calm and Carry On, a not-for-profit sports community for English speakers in the city. We've teamed up with BCN Badminton to run a weekly Friday session at La Mar Bella sports complex in Poblenou, right by the beach.
+Keep Calm Badminton is part of Keep Calm, a not-for-profit sports community for English speakers in the city. We've teamed up with BCN Badminton to run a weekly Friday session at La Mar Bella sports complex in Poblenou, right by the beach.
 
 It's mixed and social - ladies and gents, currently a lower-intermediate level. Doubles practice games across four courts, with players rotating so everyone gets plenty of time on court. No league, no pressure, just friendly games and good people.
 

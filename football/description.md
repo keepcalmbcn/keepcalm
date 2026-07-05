@@ -4,7 +4,7 @@ The following is used as the WhatsApp group description.
 
 ---
 
-Keep Calm Football - part of the Keep Calm and Carry On community for English speakers in Barcelona.
+Keep Calm Football - part of the Keep Calm community for English speakers in Barcelona.
 
 ⚽ Mixed, social football (soccer) for all skill levels - ladies and gents welcome, beginners included. Our regular game is every Friday at 18:00 at Satalia (Sants-Montjuïc), 8v8, on a beautiful pitch up on Montjuïc with views over the city. Teams are mixed on the day so everyone gets a proper game.
 

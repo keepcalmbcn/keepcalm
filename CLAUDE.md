@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Overview
 
-This is a documentation and planning repository for "Keep Calm and Carry On", a not-for-profit sports community in Barcelona for English speakers. The repository contains organizational documents, planning materials, and operational guidelines for various sports activities including padel, volleyball, ping pong, tennis, badminton, hiking, and social events.
+This is a documentation and planning repository for "Keep Calm", a not-for-profit sports community in Barcelona for English speakers. The repository contains organizational documents, planning materials, and operational guidelines for various sports activities including padel, volleyball, ping pong, tennis, badminton, hiking, and social events.
 
 ## CRITICAL: Privacy Scan Before Every Git Operation
 

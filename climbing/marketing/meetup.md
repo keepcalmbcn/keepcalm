@@ -2,9 +2,11 @@
 
 ---
 
-**Indoor bouldering and climbing meetups around Barcelona**
+**English Speaking Climbing - All Levels**
 
-Join Keep Calm Climbing for a session at one of Barcelona's climbing gyms. Most sessions are indoor bouldering, with rope climbing when the venue and group suit it, plus occasional trips to the rock outside the city. We rotate between gyms like Sharma Climbing BCN and Climbat La Foixarda depending on what the group fancies.
+https://keepcalm.fit/meetup/climbing
+
+Join Keep Calm Climbing for a session at one of Barcelona's climbing gyms. Most sessions are indoor bouldering, with rope climbing when the venue and group suit it, plus occasional trips to the rock outside the city. We rotate between gyms depending on what the group fancies.
 
 **What to expect**
 
@@ -24,10 +26,20 @@ Comfortable, stretchy clothing you can move in, water, and climbing shoes if you
 
 **How to join**
 
-Sessions are posted in the climbing WhatsApp group with the gym, day, time, and entry cost. Respond to confirm so we know numbers, then turn up at the gym and look for the group. Join our climbing WhatsApp group at keepcalm.fit/meetup to get notified when the next session is announced.
+RSVP here on Meetup, then join our WhatsApp group at https://keepcalm.fit/meetup/climbing - this is where all the organisation happens, and you must be in the group before you can come to a session. Sessions are posted there with the gym, day, time, and entry cost. Respond to confirm so we know numbers, then turn up at the gym and look for the group.
 
 **About Keep Calm**
 
-Keep Calm and Carry On is a not-for-profit, volunteer-run community for English speakers in Barcelona. Adults only (18+).
+Keep Calm is a not-for-profit, volunteer-run community for English speakers in Barcelona. Adults only (18+).
+
+**Safety Notice & Data Protection & Media Notice**
+
+By joining this event, you agree that we don't take responsibility for the games themselves or any injuries. Please bring the correct equipment, play safely, and remember you're responsible for your own safety.
+
+By joining this event, you agree that your personal data will be collected, stored, and processed by Keep Calm solely for the purpose of organising and managing this event.
+
+By joining this event, you agree that photos and/or videos will likely be taken during the session and may be used by Keep Calm for promotional purposes, including on social media and our website.
+
+Please see more info here: https://keepcalm.fit/policies
 
 ---

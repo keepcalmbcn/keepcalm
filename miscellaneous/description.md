@@ -4,7 +4,7 @@ The following is used as the WhatsApp group description.
 
 ---
 
-Keep Calm General Chat - part of the Keep Calm and Carry On community for English speakers in Barcelona.
+Keep Calm General Chat - part of the Keep Calm community for English speakers in Barcelona.
 
 The main space for our community to connect, share updates, and have open conversations. Think of it as the community's living room - where everyone is welcome to join in, stay up to date, and feel part of the group.
 

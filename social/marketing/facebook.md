@@ -4,7 +4,7 @@
 
 If you're new to Barcelona or just looking to meet more people, this might be for you.
 
-Keep Calm and Carry On is a not-for-profit community for English speakers in Barcelona, and alongside the sports (padel, volleyball, hiking, and more), we also run a whole load of social events. Bowling nights, beach days, board games, dinners, day trips, markets, festivals - basically anything that gives people a good reason to get together.
+Keep Calm is a not-for-profit community for English speakers in Barcelona, and alongside the sports (padel, volleyball, hiking, and more), we also run a whole load of social events. Bowling nights, beach days, board games, dinners, day trips, markets, festivals - basically anything that gives people a good reason to get together.
 
 You don't need to be into sport to join. The social side of Keep Calm is open to everyone, and that's genuinely the whole point. A lot of people come for the activities and stay for the friends they make along the way.
 

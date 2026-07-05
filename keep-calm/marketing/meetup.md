@@ -4,7 +4,7 @@ A general group/community description for Meetup.com.
 
 ---
 
-**Keep Calm and Carry On - Barcelona's community for English speakers**
+**Keep Calm - Barcelona's community for English speakers**
 
 We are a not-for-profit community for English speakers in Barcelona who want to stay active, make friends, and feel at home in the city. In just over a year we have grown to more than 2,000 members, all brought together by sport and good company.
 

@@ -4,7 +4,7 @@ The following is used as the WhatsApp group description.
 
 ---
 
-Keep Calm Americana Padel - part of the Keep Calm and Carry On community for English speakers in Barcelona.
+Keep Calm Americana Padel - part of the Keep Calm community for English speakers in Barcelona.
 
 🎾 Americana (round-robin tournament) format. Play 15-minute matches, rotate partners, and move up or down courts based on results - levels self-regulate after a few rounds.
 

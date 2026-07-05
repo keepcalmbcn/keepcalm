@@ -11,6 +11,7 @@ Our community is run by volunteers who organise events across different sports. 
 | **Ping Pong** | Thursday session organisation, player coordination, equipment |
 | **Tennis** | Tuesday game organisation, court bookings, player assignments |
 | **Hiking** | Monthly hike planning, route selection, event coordination, safety management |
+| **Yoga & Pilates & Meditation** | Session planning, venue/instructor coordination, event announcements |
 | **Social Events** | Social event planning, venue selection, seasonal events, post-game meetups |
 
 ## Want to Help?

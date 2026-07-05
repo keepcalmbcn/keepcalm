@@ -2,7 +2,9 @@
 
 ---
 
-**Monthly hiking adventures around Catalunya - by train from Barcelona**
+**English Speaking Hiking - All Levels**
+
+https://keepcalm.fit/meetup/hiking
 
 Join Keep Calm Hiking for a full-day hike through some of Catalunya's best scenery. Routes range from coastal clifftop trails to mountain paths and forest tracks, all reachable by Rodalies train in under two hours from central Barcelona.
 
@@ -24,10 +26,20 @@ Water, hiking shoes (no trainers or sandals), layers, a rain jacket, sunscreen, 
 
 **How to join**
 
-Sign-ups are managed via Google Form, linked in the event announcement. Capacity is 25-30 people. Join our hiking WhatsApp group at keepcalm.fit/meetup to get notified when the next hike is announced.
+RSVP here on Meetup, then join our WhatsApp group at https://keepcalm.fit/meetup/hiking - this is where hikes are announced with the meeting point, time, and route, and you must be in the group before you can come along. Sign-ups for each hike are managed via a Google Form linked in the announcement. Capacity is 25-30 people.
 
 **About Keep Calm**
 
-Keep Calm and Carry On is a not-for-profit, volunteer-run community for English speakers in Barcelona. Adults only (18+).
+Keep Calm is a not-for-profit, volunteer-run community for English speakers in Barcelona. Adults only (18+).
+
+**Safety Notice & Data Protection & Media Notice**
+
+By joining this event, you agree that we don't take responsibility for the hike itself or any injuries. Please bring the correct equipment, hike safely, and remember you're responsible for your own safety.
+
+By joining this event, you agree that your personal data will be collected, stored, and processed by Keep Calm solely for the purpose of organising and managing this event.
+
+By joining this event, you agree that photos and/or videos will likely be taken during the session and may be used by Keep Calm for promotional purposes, including on social media and our website.
+
+Please see more info here: https://keepcalm.fit/policies
 
 ---

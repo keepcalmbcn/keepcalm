@@ -1,8 +1,8 @@
-# Facebook Post - Yoga & Pilates
+# Facebook Post - Yoga & Pilates & Meditation
 
 ---
 
-We're launching yoga and pilates sessions through Keep Calm and Carry On, the not-for-profit English-speaking sports community in Barcelona. Sessions will be a mix of outdoor spots - think beach and park settings - as well as indoor studios, depending on weather and what works best for the group.
+We're launching yoga and pilates sessions through Keep Calm, the not-for-profit English-speaking sports community in Barcelona. Sessions will be a mix of outdoor spots - think beach and park settings - as well as indoor studios, depending on weather and what works best for the group.
 
 This is genuinely open to all levels. If you've never rolled out a mat in your life, that's completely fine. If you've been practising for years, you're equally welcome. The focus is on wellbeing and community, not performance.
 

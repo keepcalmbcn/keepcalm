@@ -4,7 +4,7 @@
 
 **Keep Calm Ski/Snowboard Trip - Pyrenees or Andorra**
 
-Keep Calm & Ski/Snowboard On is part of Keep Calm and Carry On, a not-for-profit sports community for English speakers in Barcelona. Every winter we organise group trips to ski resorts within two to three hours of the city.
+Keep Calm & Ski/Snowboard On is part of Keep Calm, a not-for-profit sports community for English speakers in Barcelona. Every winter we organise group trips to ski resorts within two to three hours of the city.
 
 **Where we go**
 Grandvalira in Andorra (Spain's largest resort, 210km of slopes, 2.5-3 hrs), Masella and La Molina in the Pyrenees (~2 hrs), and other resorts depending on snow conditions.

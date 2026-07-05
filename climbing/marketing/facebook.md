@@ -4,7 +4,7 @@
 
 If you've been meaning to try climbing, or you already climb and just want some people to do it with, this might be for you.
 
-Keep Calm Climbing is an indoor bouldering and climbing group run by Keep Calm and Carry On, a not-for-profit community for English speakers in Barcelona. We pick a gym, post the day and time, and meet up there to climb together.
+Keep Calm Climbing is an indoor bouldering and climbing group run by Keep Calm, a not-for-profit community for English speakers in Barcelona. We pick a gym, post the day and time, and meet up there to climb together.
 
 Most sessions are bouldering, which is the easiest way in. There are no ropes, no partner needed, and no experience required. The walls are low with thick mats below, and the routes (called "problems") are colour-graded from easy to hard so you pick your own level. If you're new, someone in the group will happily show you how it all works.
 

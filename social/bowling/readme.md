@@ -2,7 +2,7 @@
 
 Welcome to Keep Calm Bowling! Casual bowling nights at **Bowling Ilusiona, Gran Vía 2**, run whenever David A gets his hands on a batch of discounted tickets.
 
-Part of the larger **Keep Calm and Carry On** not-for-profit community for English speakers in Barcelona - built on values of inclusivity, reliability, and collaboration. Everyone is welcome.
+Part of the larger **Keep Calm** not-for-profit community for English speakers in Barcelona - built on values of inclusivity, reliability, and collaboration. Everyone is welcome.
 
 ## Quick Links
 

@@ -4,7 +4,7 @@ Suggested post title: **Relaxed English-speaking language exchange in Barcelona 
 
 ---
 
-Just wanted to share this in case anyone's been looking for a way to practise their Spanish. I go to Keep Calm Languages, the language exchange side of Keep Calm and Carry On, a not-for-profit community for English speakers in Barcelona, and it's been a really easy, low-stress way to actually use the language.
+Just wanted to share this in case anyone's been looking for a way to practise their Spanish. I go to Keep Calm Languages, the language exchange side of Keep Calm, a not-for-profit community for English speakers in Barcelona, and it's been a really easy, low-stress way to actually use the language.
 
 The format is simple. We meet at a bar or cafe, pair up or form small groups, and swap languages. You spend a while speaking one language, then switch to another. No teachers, no lessons, no grades, just conversation while everyone helps each other along.
 

@@ -4,7 +4,7 @@ The following is used as the WhatsApp group description.
 
 ---
 
-Keep Calm Social - part of the Keep Calm and Carry On community for English speakers in Barcelona.
+Keep Calm Social - part of the Keep Calm community for English speakers in Barcelona.
 
 This group is for organising social events, meetups, and activities outside of sport. Think dinners, drinks, beach days, day trips, markets, festivals, and anything else that brings people together.
 

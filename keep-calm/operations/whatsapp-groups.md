@@ -67,12 +67,12 @@ WhatsApp rules: https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rule
 Volleyball rules: https://github.com/keepcalmbcn/keepcalm/blob/main/volleyball/rules.md
 ```
 
-### Keep Calm Yoga & Pilates
+### Keep Calm Yoga & Pilates & Meditation
 ```
-Yoga and pilates sessions for English speakers in Barcelona. All levels welcome - no experience needed. Watch for session announcements, sign up, and arrive on time. Bring your own mat if you have one.
+Yoga, pilates, and meditation sessions for English speakers in Barcelona. All levels welcome - no experience needed. Watch for session announcements, sign up, and arrive on time. Bring your own mat if you have one.
 
 WhatsApp rules: https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/whatsapp-rules.md
-Yoga & pilates rules: https://github.com/keepcalmbcn/keepcalm/blob/main/yoga-pilates/rules.md
+Yoga & pilates & meditation rules: https://github.com/keepcalmbcn/keepcalm/blob/main/yoga-pilates/rules.md
 ```
 
 ### Keep Calm & Ski/Snowboard On

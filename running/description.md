@@ -4,7 +4,7 @@ The following is used as the WhatsApp group description.
 
 ---
 
-Keep Calm Running - part of the Keep Calm and Carry On community for English speakers in Barcelona.
+Keep Calm Running - part of the Keep Calm community for English speakers in Barcelona.
 
 Group runs around Barcelona for all levels. Whether you're training for something or just want some company on a jog, you're welcome here.
 

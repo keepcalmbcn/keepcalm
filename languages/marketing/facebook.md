@@ -4,7 +4,7 @@
 
 If you've been living in Barcelona and meaning to actually improve your Spanish (or Catalan), this might be the nudge you need.
 
-Keep Calm Languages is a relaxed language exchange run by Keep Calm and Carry On, a not-for-profit community for English speakers in Barcelona. We meet at a bar or cafe, pair up or form small groups, and swap languages. Spend a while speaking one language, then switch to another. Everyone gets to practise what they're learning and help others with theirs.
+Keep Calm Languages is a relaxed language exchange run by Keep Calm, a not-for-profit community for English speakers in Barcelona. We meet at a bar or cafe, pair up or form small groups, and swap languages. Spend a while speaking one language, then switch to another. Everyone gets to practise what they're learning and help others with theirs.
 
 The whole thing is built around being low-pressure. There are no teachers, no lessons, and no grades. It's just conversation and good company, with people being patient and encouraging while everyone finds their words.
 

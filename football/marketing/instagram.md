@@ -12,4 +12,4 @@ Adults (18+). Find the link in bio to join the group and see what else we run.
 
 ---
 
-#Barcelona #BarcelonaExpat #ExpatsInBarcelona #BarcelonaFootball #FootballBarcelona #SoccerBarcelona #CasualFootball #EnglishSpeakers #BarcelonaLife #ExpatLife #BarcelonaActivities #BarcelonaSport #MakeNewFriends #BarcelonaCommunity #KeepCalmBarcelona #FootballForAll #SocialFootball #BarcelonaSoccer #ExpatBarcelona
+#FootballBarcelona #CasualFootball #BarcelonaExpat #BarcelonaSport #KeepCalmBarcelona

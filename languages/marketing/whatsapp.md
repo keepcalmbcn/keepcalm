@@ -12,7 +12,7 @@ A relaxed language exchange (intercambio) for English speakers in Barcelona who 
 - All levels welcome, from complete beginner to near-fluent
 - Cost: free, you just buy your own drinks 🍹
 
-Part of Keep Calm and Carry On, a not-for-profit English-speaking community in Barcelona.
+Part of Keep Calm, a not-for-profit English-speaking community in Barcelona.
 
 👉 Join the Languages WhatsApp group at *keepcalm.fit* to see the next meetup announcement!
 

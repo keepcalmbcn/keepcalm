@@ -6,7 +6,7 @@ A general post covering the whole community. Uses WhatsApp bold (*text*) formatt
 
 🏐🎾⚽ *New to Barcelona? Come and play with us!*
 
-*Keep Calm and Carry On* is a not-for-profit community for English speakers in Barcelona. Over 2,000 of us and counting, all here to stay active, meet people, and have fun.
+*Keep Calm* is a not-for-profit community for English speakers in Barcelona. Over 2,000 of us and counting, all here to stay active, meet people, and have fun.
 
 We run something almost every day:
 🎾 *Padel* - Sundays

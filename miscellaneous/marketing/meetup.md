@@ -4,7 +4,7 @@
 
 **Keep Calm Barcelona - One-Off Activity**
 
-Join us for one of our ad hoc events as part of Keep Calm and Carry On, the not-for-profit sports and social community for English speakers in Barcelona.
+Join us for one of our ad hoc events as part of Keep Calm, the not-for-profit sports and social community for English speakers in Barcelona.
 
 **What to expect**
 

@@ -2,7 +2,7 @@
 
 > **Policy** · Version 1.0 · Last updated 2026-06-27 · Part of the [Keep Calm policies](README.md).
 
-This is the short summary of what you agree to when you take part in any Keep Calm and Carry On activity, whether a sports session, a social event, or a trip. Each point links to the full policy with the detail behind it.
+This is the short summary of what you agree to when you take part in any Keep Calm activity, whether a sports session, a social event, or a trip. Each point links to the full policy with the detail behind it.
 
 By signing up for, or turning up to, a Keep Calm activity, you confirm that you have read and accept the following.
 

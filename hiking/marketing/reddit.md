@@ -4,7 +4,7 @@ Suggested post title: **Monthly English-speaking hiking group - day trips around
 
 ---
 
-Just wanted to share this in case anyone's been looking for a hiking group. I hike with Keep Calm and Carry On, a not-for-profit community for English speakers in Barcelona, and the hiking side of it has been genuinely great.
+Just wanted to share this in case anyone's been looking for a hiking group. I hike with Keep Calm, a not-for-profit community for English speakers in Barcelona, and the hiking side of it has been genuinely great.
 
 We do a full-day hike roughly once a month - usually Sundays. Routes are picked via Komoot and cover everything from the Garraf coast to mountain trails further inland. All reachable by Rodalies train, so no car needed. Typical hike is 10-20km over 4-6 hours, and there's a shared lunch tradition where everyone brings food to eat together on the trail.
 

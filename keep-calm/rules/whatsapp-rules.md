@@ -1,6 +1,6 @@
 # WhatsApp Group Rules 📱
 
-Welcome to Keep Calm and Carry On! To keep our WhatsApp groups friendly and functional for everyone, please follow these guidelines.
+Welcome to Keep Calm! To keep our WhatsApp groups friendly and functional for everyone, please follow these guidelines.
 
 ## General Etiquette
 

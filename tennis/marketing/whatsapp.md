@@ -8,7 +8,7 @@
 
 No partner needed, no pressure, just good tennis and good people. Cost is around *€8-10 per person*.
 
-We're part of *Keep Calm and Carry On* - a not-for-profit sports community run by volunteers. The vibe is inclusive and relaxed.
+We're part of *Keep Calm* - a not-for-profit sports community run by volunteers. The vibe is inclusive and relaxed.
 
 👉 Find us at *keepcalm.fit* or search *Keep Calm Barcelona* on Instagram/Facebook.
 

@@ -4,7 +4,7 @@
 
 ⛷️ *Did you know you can ski from Barcelona in 2 hours?* 🏔️
 
-Keep Calm & Ski/Snowboard On organises group trips from Barcelona to the Pyrenees and Andorra every winter. We're part of Keep Calm and Carry On - a not-for-profit community for English speakers in the city.
+Keep Calm & Ski/Snowboard On organises group trips from Barcelona to the Pyrenees and Andorra every winter. We're part of Keep Calm - a not-for-profit community for English speakers in the city.
 
 *All levels welcome* - from complete beginners to seasoned riders. Trips are self-organised, but we coordinate transport, share carpooling, and meet up on the slopes together.
 

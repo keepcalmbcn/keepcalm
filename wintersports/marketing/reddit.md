@@ -8,7 +8,7 @@
 
 I know a lot of people move to Barcelona and don't realise how close the Pyrenees are. You can leave the city on a Saturday morning and be on the slopes before lunch. It genuinely surprised me when I first did it.
 
-I'm part of a group called Keep Calm & Ski/Snowboard On - it's under the Keep Calm and Carry On umbrella, which is a not-for-profit community for English speakers in the city. Every winter we put together trips to Grandvalira in Andorra and resorts like Masella and La Molina. It's all self-organised - you sort your own transport and accommodation - but we coordinate as a group and meet up on the slopes.
+I'm part of a group called Keep Calm & Ski/Snowboard On - it's under the Keep Calm umbrella, which is a not-for-profit community for English speakers in the city. Every winter we put together trips to Grandvalira in Andorra and resorts like Masella and La Molina. It's all self-organised - you sort your own transport and accommodation - but we coordinate as a group and meet up on the slopes.
 
 All levels are welcome. I've been on trips with people who had never skied before and people who grew up on the mountain.
 

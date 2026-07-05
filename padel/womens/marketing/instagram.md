@@ -8,12 +8,12 @@ It's a relaxed, supportive space to learn, play, and improve with no pressure. L
 
 No racket? You can borrow one. Cost is just court hire, around €8-12 per person.
 
-Part of Keep Calm and Carry On - a not-for-profit English-speaking community in Barcelona, run entirely by volunteers.
+Part of Keep Calm - a not-for-profit English-speaking community in Barcelona, run entirely by volunteers.
 
 Link in bio to join the women's padel group and see what's coming up next. 👸🏽
 
 ---
 
-#barcelona #padel #padelbarcelona #womenspadel #padelfemenino #womeninsport #padellife #barcelonasport #expatbarcelona #barcelonaexpat #englishbarcelona #barcelonalife #padelgirls #padelcommunity #beginnerpadel #barcelonacommunity #padellovers #womenwhoplay #keepcalmbarcelona
+#womenspadel #padelbarcelona #womeninsport #expatbarcelona #keepcalmbarcelona
 
 ---

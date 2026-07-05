@@ -1,6 +1,6 @@
 🎾 Calling all tennis fans in Barcelona! 🎾
 
-Whether you haven't picked up a racket in years or you're on the courts every week - we'd love to have you join us for **Keep Calm Tuesday Tennis**, part of the Keep Calm and Carry On community for English speakers in Barcelona.
+Whether you haven't picked up a racket in years or you're on the courts every week - we'd love to have you join us for **Keep Calm Tuesday Tennis**, part of the Keep Calm community for English speakers in Barcelona.
 
 Every Tuesday evening we hit the clay courts at **Barcelona Pro Tennis Academy (Up Cornellà)** for 90 minutes of doubles. Good banter, fresh air, and a short scenic train ride out of the city with the group. What's not to love? 🌞
 

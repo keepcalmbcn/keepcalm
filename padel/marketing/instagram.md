@@ -14,4 +14,4 @@ Link in bio to find out more 🎾
 
 ---
 
-#padel #padelbarcelona #barcelona #barcelonaexpats #expatsbarcelona #englishbarcelona #barcelonasport #padelamateurs #padelbeginners #barcelonacommunity #expatlife #expatbarcelona #barcelonalife #sportbarcelona #keepcalmbarcelona #padellovers #barcelonasocial #meetpeoplebarcelona #englishspeakers #barcelonafitness
+#padelbarcelona #padel #padelbeginners #barcelonaexpats #keepcalmbarcelona

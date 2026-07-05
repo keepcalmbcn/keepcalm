@@ -140,11 +140,11 @@ Handles: Instagram **@keepcalmbarcelona** | Facebook **facebook.com/keepcalmbarc
 
 ---
 
-## 🧘 Yoga & Pilates
+## 🧘 Yoga & Pilates & Meditation
 
 > Breathe out - what a session. 🧘 Thank you to everyone who rolled out a mat with us today. Calm, centred and in great company. 🙌
 >
-> Want to join? Find the *Keep Calm Yoga & Pilates* WhatsApp group at https://keepcalm.fit/whatsapp/yoga-pilates (link in bio too). All levels welcome, no experience needed. 💛
+> Want to join? Find the *Keep Calm Yoga & Pilates & Meditation* WhatsApp group at https://keepcalm.fit/whatsapp/yoga-pilates (link in bio too). All levels welcome, no experience needed. 💛
 >
 > .
 > .

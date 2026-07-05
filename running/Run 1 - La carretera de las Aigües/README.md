@@ -2,7 +2,7 @@
 
 The first ever Keep Calm Running event! A relaxed Saturday morning run (or walk) along the **Carretera de les Aigües**, the flat, car-free path that traces the Collserola hills with panoramic views over the whole of Barcelona.
 
-Part of the larger **Keep Calm and Carry On** not-for-profit community for English speakers in Barcelona, built on values of inclusivity, reliability, and collaboration. Everyone is welcome, runners and walkers, all paces.
+Part of the larger **Keep Calm** not-for-profit community for English speakers in Barcelona, built on values of inclusivity, reliability, and collaboration. Everyone is welcome, runners and walkers, all paces.
 
 ## Quick Links
 

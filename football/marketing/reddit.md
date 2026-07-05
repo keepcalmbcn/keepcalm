@@ -10,7 +10,7 @@ Suggested subreddits: r/Barcelona, r/expats_barcelona
 
 Just wanted to share this in case anyone's been looking for a casual football group in the city.
 
-I play with Keep Calm Football - it's part of a bigger not-for-profit sports community called Keep Calm and Carry On, run by volunteers for English speakers in Barcelona. The football side is pretty low-key: sessions at local pitches, costs split between players, all skill levels genuinely welcome.
+I play with Keep Calm Football - it's part of a bigger not-for-profit sports community called Keep Calm, run by volunteers for English speakers in Barcelona. The football side is pretty low-key: sessions at local pitches, costs split between players, all skill levels genuinely welcome.
 
 No league, no drama, no expectation that you're any good. I've seen people turn up who clearly hadn't played in years and they had a great time. Teams get mixed so it doesn't turn into a clique thing.
 

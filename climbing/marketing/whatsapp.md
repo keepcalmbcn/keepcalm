@@ -13,7 +13,7 @@ We do indoor bouldering and climbing meetups around Barcelona, rotating between 
 - Plenty of resting and chatting between problems, drinks after some sessions
 - Cost: just the gym entry, usually around €10-16 for a day pass
 
-Part of Keep Calm and Carry On, a not-for-profit English-speaking community in Barcelona.
+Part of Keep Calm, a not-for-profit English-speaking community in Barcelona.
 
 👉 Join the climbing WhatsApp group at *keepcalm.fit* to see the next session announcement!
 

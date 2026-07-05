@@ -2,7 +2,7 @@
 
 Welcome to Keep Calm Climbing! Indoor bouldering and climbing meetups for English speakers in Barcelona, with the occasional trip to the rock outside the city.
 
-Part of the larger **Keep Calm and Carry On** not-for-profit community for English speakers in Barcelona, we're built on values of inclusivity, reliability, and collaboration. Everyone is welcome, and the community belongs to all of us.
+Part of the larger **Keep Calm** not-for-profit community for English speakers in Barcelona, we're built on values of inclusivity, reliability, and collaboration. Everyone is welcome, and the community belongs to all of us.
 
 ## Quick Links
 

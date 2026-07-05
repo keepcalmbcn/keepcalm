@@ -4,7 +4,7 @@ Suggested post title: **English-speaking climbing group - indoor bouldering meet
 
 ---
 
-Just wanted to share this in case anyone's been looking for people to climb with. I climb with Keep Calm and Carry On, a not-for-profit community for English speakers in Barcelona, and the climbing side of it has been genuinely great.
+Just wanted to share this in case anyone's been looking for people to climb with. I climb with Keep Calm, a not-for-profit community for English speakers in Barcelona, and the climbing side of it has been genuinely great.
 
 We meet up for indoor bouldering and climbing at gyms around the city - Sharma Climbing BCN, Climbat La Foixarda, and others - rotating depending on what the group fancies. Most sessions are bouldering, so there's no ropes, no partner, and no experience needed. There are occasional outdoor trips too for people with the gear and experience.
 

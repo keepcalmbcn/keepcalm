@@ -10,7 +10,7 @@ No fixed schedule, no commitment - just keep an eye out and join when something 
 
 *What it costs:* just the activity itself. Keep Calm is not-for-profit and volunteer-run.
 
-Part of *Keep Calm and Carry On* - the English-speaking sports and social community in Barcelona. All levels welcome. 18+.
+Part of *Keep Calm* - the English-speaking sports and social community in Barcelona. All levels welcome. 18+.
 
 👉 Find us at *keepcalm.fit* or search *Keep Calm Barcelona* on Instagram and Facebook.
 

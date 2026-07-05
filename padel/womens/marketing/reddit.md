@@ -4,7 +4,7 @@ Suggested post title: **Women-only English-speaking padel group in Barcelona - a
 
 ---
 
-Posting this in case any women here have been wanting to try padel but felt unsure about where to start. I play with Keep Calm and Carry On, a not-for-profit community for English speakers in Barcelona, and they recently set up a women-only padel group that's been really nice.
+Posting this in case any women here have been wanting to try padel but felt unsure about where to start. I play with Keep Calm, a not-for-profit community for English speakers in Barcelona, and they recently set up a women-only padel group that's been really nice.
 
 It's open to all levels. I started having basically never held a racket and there were always other beginners there too, so it never felt intimidating. People who play every week come along as well, so you can get proper games in if that's your thing.
 

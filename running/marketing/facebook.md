@@ -2,7 +2,7 @@
 
 ---
 
-We've just launched a running group as part of Keep Calm and Carry On, the not-for-profit sports community for English speakers in Barcelona. If you've been looking for people to run with, this is it.
+We've just launched a running group as part of Keep Calm, the not-for-profit sports community for English speakers in Barcelona. If you've been looking for people to run with, this is it.
 
 We'll be doing group runs across the city - think the seafront path, Ciutadella, Montjuic, and the Carretera de les Aigues up in the hills. Routes and meeting points get posted in the WhatsApp group ahead of each run. Anyone can suggest a route or help organise.
 

@@ -3,7 +3,7 @@
 ## About the Session
 
 ### What is Keep Calm Badminton?
-A weekly badminton session organised through the Keep Calm and Carry On community - a not-for-profit community for English speakers in Barcelona. We play every Friday afternoon at La Mar Bella Municipal Sports Complex, in partnership with **BCN Badminton**, who book the courts, run the games, and handle the RSVPs.
+A weekly badminton session organised through the Keep Calm community - a not-for-profit community for English speakers in Barcelona. We play every Friday afternoon at La Mar Bella Municipal Sports Complex, in partnership with **BCN Badminton**, who book the courts, run the games, and handle the RSVPs.
 
 ### Who is this for?
 Everyone. It's a **mixed** game - ladies and gents both welcome, all ages - currently pitched at a **lower-intermediate** level. This is social badminton, not a competition, so turning up and having fun matters far more than the score.

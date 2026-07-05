@@ -2,7 +2,7 @@
 
 Welcome to our keep calm beach volleyball community! We're an active, flexible group that plays year-round at Barcelona's beaches.
 
-Part of the larger **Keep Calm and Carry On** not-for-profit community for English speakers in Barcelona, we're built on values of inclusivity, reliability, and collaboration. Everyone is welcome, and the community belongs to all of us.
+Part of the larger **Keep Calm** not-for-profit community for English speakers in Barcelona, we're built on values of inclusivity, reliability, and collaboration. Everyone is welcome, and the community belongs to all of us.
 
 ## Quick Links
 

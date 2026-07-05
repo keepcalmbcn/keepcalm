@@ -6,7 +6,7 @@
 
 We're starting group runs around Barcelona - seafront, parks, mountain trails, you name it. All paces welcome. No pressure, no competition, just good company and great routes.
 
-Part of *Keep Calm and Carry On* - the not-for-profit English-speaking sports community in Barcelona 🇪🇸
+Part of *Keep Calm* - the not-for-profit English-speaking sports community in Barcelona 🇪🇸
 
 Whether you run regularly or just want to get back into it, come join us. Runs are free and open to all levels.
 

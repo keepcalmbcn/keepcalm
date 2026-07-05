@@ -1,11 +1,11 @@
-# Keep Calm and Carry On 🏐🎾⚽
+# Keep Calm 🏐🎾⚽
 
 Hello!
 
 You have probably been sent this page as we wanted to take a moment to explain the purpose of our community so it’s clear what we’re about. As there has been some hostile sentiments about the creation & growth of our community.
 
 ## What We Do
-- **Keep Calm and Carry On** is a **not-for-profit community** for English speakers in Barcelona.  
+- **Keep Calm** is a **not-for-profit community** for English speakers in Barcelona.  
 - We connect people through a wide variety of sports and activities - from padel to volleyball and more.  
 - Our aim is to **host weekly events** across different sports, making it easy for people to stay active and meet others.  
 

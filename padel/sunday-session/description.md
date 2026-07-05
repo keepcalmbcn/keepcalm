@@ -4,7 +4,7 @@ The following is used as the WhatsApp group description.
 
 ---
 
-Keep Calm Sunday Padel - part of the Keep Calm and Carry On community for English speakers in Barcelona.
+Keep Calm Sunday Padel - part of the Keep Calm community for English speakers in Barcelona.
 
 🗓️ Weekly padel every Sunday for all levels. Everyone who votes in our poll gets a guaranteed spot to play.
 

@@ -4,7 +4,7 @@ The following is used as the WhatsApp group description.
 
 ---
 
-Keep Calm Hiking - part of the Keep Calm and Carry On community for English speakers in Barcelona.
+Keep Calm Hiking - part of the Keep Calm community for English speakers in Barcelona.
 
 Monthly hikes around Catalonia, usually on Sundays. Routes selected from Komoot, ranging from coastal trails to mountain paths. Full day trips with a shared lunch tradition - everyone brings food to share!
 

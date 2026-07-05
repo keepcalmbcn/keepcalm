@@ -132,7 +132,7 @@ Every post should include:
 ## Multi-Channel Support (Instagram-Adjacent)
 
 ### 1. Google My Business Profile (30 min setup, passive growth)
-- Create profile for "Keep Calm and Carry On - Barcelona Sports Community"
+- Create profile for "Keep Calm - Barcelona Sports Community"
 - Appears in Google Maps when people search "sports groups Barcelona"
 - Members can leave reviews
 - Post weekly updates (auto-share from Instagram)
@@ -298,5 +298,5 @@ Every post should include:
 ---
 
 *Created: 2025-11-13*
-*For: Keep Calm and Carry On Barcelona Sports Community*
+*For: Keep Calm Barcelona Sports Community*
 *Target: English speakers aged 20-40 in Barcelona*

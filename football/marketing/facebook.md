@@ -4,7 +4,7 @@
 
 If you've been looking for a casual football group in Barcelona - this might be what you're after.
 
-Keep Calm Football is part of Keep Calm and Carry On, a not-for-profit sports community for English speakers in the city. We organise casual sessions at local pitches around Barcelona, a mix of kickabouts and more organised matches depending on numbers and the day.
+Keep Calm Football is part of Keep Calm, a not-for-profit sports community for English speakers in the city. We organise casual sessions at local pitches around Barcelona, a mix of kickabouts and more organised matches depending on numbers and the day.
 
 There's no league, no pressure, and no expectation that you were ever any good at football. All skill levels genuinely play together and teams get mixed up so everyone gets a game. If you last played seriously at school and just want to run around and have fun, you'll fit right in.
 

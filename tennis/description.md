@@ -4,7 +4,7 @@ The following is used as the WhatsApp group description.
 
 ---
 
-Keep Calm Tennis - part of the Keep Calm and Carry On community for English speakers in Barcelona.
+Keep Calm Tennis - part of the Keep Calm community for English speakers in Barcelona.
 
 🗓️ Tennis every Tuesday evening - 90 minute sessions sometime between 19:00 and 22:00 (exact slot confirmed at matchups). Everyone who signs up gets a spot to play.
 

@@ -2,7 +2,7 @@
 
 ---
 
-One of the best things about Keep Calm and Carry On is that it doesn't really stop at the regular sports.
+One of the best things about Keep Calm is that it doesn't really stop at the regular sports.
 
 Alongside the weekly padel, volleyball, hiking, and everything else, we also do one-off activities based on what the community wants to try. Golf, climbing, cycling, boxing, padel surf - things that might not have enough people for a regular group yet, but enough for a really good day out. When someone floats an idea and enough people are interested, we just go and do it.
 

@@ -1,6 +1,6 @@
 🎂 *KEEP CALM TURNS ONE!* 🎂
 
-One year ago, Keep Calm and Carry On was born with a simple idea - bring English speakers in Barcelona together through sport, friendship, and good times.
+One year ago, Keep Calm was born with a simple idea - bring English speakers in Barcelona together through sport, friendship, and good times.
 
 What started as a WhatsApp group has grown into something really special. Padel players, volleyball crews, hikers, ping pong legends, runners, and everyone in between - all part of one big community. That is worth celebrating.
 

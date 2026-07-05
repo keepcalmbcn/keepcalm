@@ -3,7 +3,7 @@
 ## About the Group
 
 ### What is Keep Calm Tuesday Tennis?
-A weekly tennis session organised through the Keep Calm and Carry On community - a not-for-profit community for English speakers in Barcelona. We play every Tuesday evening, book courts via Playtomic, and keep things friendly, social, and inclusive.
+A weekly tennis session organised through the Keep Calm community - a not-for-profit community for English speakers in Barcelona. We play every Tuesday evening, book courts via Playtomic, and keep things friendly, social, and inclusive.
 
 ### Who is this for?
 Everyone! The group has a mix of people returning to tennis after years away, padel players trying tennis, and those who've never played properly. You don't need to be good - just willing to give it a go.

@@ -4,7 +4,7 @@
 
 One of the best things about living in Barcelona that not enough people talk about: you can be on a ski slope in about two hours. The Pyrenees are right there.
 
-Keep Calm & Ski/Snowboard On is a group that does exactly that. We're part of Keep Calm and Carry On, a not-for-profit sports community for English speakers in Barcelona, and every winter we organise group trips to the Pyrenees and Andorra - places like Grandvalira, Masella, and La Molina.
+Keep Calm & Ski/Snowboard On is a group that does exactly that. We're part of Keep Calm, a not-for-profit sports community for English speakers in Barcelona, and every winter we organise group trips to the Pyrenees and Andorra - places like Grandvalira, Masella, and La Molina.
 
 The way it works is pretty relaxed. Someone in the group proposes a trip, others jump in, and we coordinate from there. You sort your own transport and accommodation (we help with carpooling and recommendations), and we meet up on the slopes. There's no package deal and no profit involved - just a bunch of people who want to ski or snowboard together.
 

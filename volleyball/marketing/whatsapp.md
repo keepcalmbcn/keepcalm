@@ -12,7 +12,7 @@ We're a friendly group of English speakers playing beach volleyball at Barcelona
 
 Teams rotate so everyone gets plenty of game time. Great sport, great setting, great people.
 
-Part of *Keep Calm and Carry On* - a not-for-profit sports community for English speakers in Barcelona 🇬🇧
+Part of *Keep Calm* - a not-for-profit sports community for English speakers in Barcelona 🇬🇧
 
 👉 Find us at *keepcalm.fit* to join the WhatsApp group and get involved!
 

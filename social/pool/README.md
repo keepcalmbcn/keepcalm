@@ -2,7 +2,7 @@
 
 Welcome to Keep Calm Pool! Casual pool nights in Barcelona, organised by Noelia. The first one is a trial run at **Billar 8 Pool** - if it goes well, it could become a regular fixture.
 
-Part of the larger **Keep Calm and Carry On** not-for-profit community for English speakers in Barcelona - built on values of inclusivity, reliability, and collaboration. Everyone is welcome.
+Part of the larger **Keep Calm** not-for-profit community for English speakers in Barcelona - built on values of inclusivity, reliability, and collaboration. Everyone is welcome.
 
 ## Quick Links
 

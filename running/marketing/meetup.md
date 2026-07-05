@@ -2,9 +2,11 @@
 
 ---
 
-**Keep Calm Running - Group Run Around Barcelona**
+**English Speaking Running - All Levels**
 
-Join us for a group run as part of Keep Calm and Carry On, the not-for-profit sports community for English speakers in Barcelona.
+https://keepcalm.fit/meetup/running
+
+Join us for a group run as part of Keep Calm, the not-for-profit sports community for English speakers in Barcelona.
 
 **What to expect**
 
@@ -18,8 +20,24 @@ All levels welcome. We don't run at one fixed pace - faster runners circle back 
 
 Free. Keep Calm is a not-for-profit community run entirely by volunteers.
 
+**What to bring**
+
+Water, comfortable running shoes, and your phone with emergency contacts accessible.
+
 **How to join**
 
-Sign up on Meetup and join our WhatsApp group via keepcalm.fit/meetup - that's where run announcements, routes, and updates are shared. You'll need to be 18 or over to take part.
+RSVP here on Meetup, then join our WhatsApp group at https://keepcalm.fit/meetup/running - this is where run announcements, meeting points, routes, and distances are shared, and you must be in the group before you can come to a run.
 
-Bring water, wear comfortable shoes, and we'll see you out there. 🏃
+**About Keep Calm**
+
+Keep Calm is a not-for-profit, volunteer-run community for English speakers in Barcelona. Adults only (18+).
+
+**Safety Notice & Data Protection & Media Notice**
+
+By joining this event, you agree that we don't take responsibility for the games themselves or any injuries. Please bring the correct equipment, play safely, and remember you're responsible for your own safety.
+
+By joining this event, you agree that your personal data will be collected, stored, and processed by Keep Calm solely for the purpose of organising and managing this event.
+
+By joining this event, you agree that photos and/or videos will likely be taken during the session and may be used by Keep Calm for promotional purposes, including on social media and our website.
+
+Please see more info here: https://keepcalm.fit/policies

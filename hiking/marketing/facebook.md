@@ -4,7 +4,7 @@
 
 If you've been meaning to actually get out and explore Catalunya properly, this might be the nudge you need.
 
-Keep Calm Hiking is a monthly hiking group run by Keep Calm and Carry On, a not-for-profit community for English speakers in Barcelona. We pick a route - coastal trails, mountain paths, forest tracks, medieval villages - and head out there together by train on a Sunday.
+Keep Calm Hiking is a monthly hiking group run by Keep Calm, a not-for-profit community for English speakers in Barcelona. We pick a route - coastal trails, mountain paths, forest tracks, medieval villages - and head out there together by train on a Sunday.
 
 The hikes are proper full-day trips: typically 10-20km with 300-800m of elevation, taking around 4-6 hours. Routes vary but they're all within an hour or two of Barcelona by Rodalies, so there's no car needed.
 

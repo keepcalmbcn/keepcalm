@@ -4,7 +4,7 @@ The following is used as the WhatsApp group description.
 
 ---
 
-Keep Calm Ping Pong (Table Tennis) - part of the Keep Calm and Carry On community for English speakers in Barcelona.
+Keep Calm Ping Pong (Table Tennis) - part of the Keep Calm community for English speakers in Barcelona.
 
 We play every Thursday from 18:00 at the outdoor tables in Sants. All levels welcome, equipment provided. Just turn up and play!
 

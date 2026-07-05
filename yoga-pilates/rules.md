@@ -1,6 +1,6 @@
-# Keep Calm Yoga & Pilates - Group Rules
+# Keep Calm Yoga & Pilates & Meditation - Group Rules
 
-Welcome to Keep Calm Yoga & Pilates! To keep things enjoyable for everyone, please follow these guidelines.
+Welcome to Keep Calm Yoga & Pilates & Meditation! To keep things enjoyable for everyone, please follow these guidelines.
 
 > **These rules add to - but don't replace - our community-wide policies. Please read these first if you haven't already:**
 > - [WhatsApp Rules](https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/whatsapp-rules.md) - group communication, unsolicited DMs, referral links, spam

@@ -4,7 +4,7 @@ The following is used as the WhatsApp group description.
 
 ---
 
-Keep Calm Women's Padel - part of the Keep Calm and Carry On community for English speakers in Barcelona.
+Keep Calm Women's Padel - part of the Keep Calm community for English speakers in Barcelona.
 
 👸🏽 A women-only padel group for players of all levels. A relaxed, supportive space to learn, play, and improve without any pressure, whether you have never picked up a racket or you play every week.
 

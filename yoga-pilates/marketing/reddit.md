@@ -4,7 +4,7 @@
 
 ---
 
-Just wanted to share this in case it's useful for anyone - Keep Calm and Carry On, the not-for-profit English-speaking sports community here in Barcelona, is starting yoga and pilates sessions.
+Just wanted to share this in case it's useful for anyone - Keep Calm, the not-for-profit English-speaking sports community here in Barcelona, is starting yoga and pilates sessions.
 
 I've been going to their other activities (they do padel, hiking, volleyball and more) and the vibe is genuinely great - friendly people, no cliques, total beginners always welcome. Now they're adding yoga and pilates, with sessions planned at outdoor spots like beaches and parks as well as indoor studios.
 

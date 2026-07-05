@@ -12,4 +12,4 @@ Find all the details and group links via the link in bio.
 
 ---
 
-#BarcelonaExpat #ExpatsInBarcelona #BarcelonaLife #EnglishInBarcelona #BarcelonaCommunity #ExpatLife #MoveToBarcelona #BarcelonaFriends #NewInBarcelona #ExpatBarcelona #BarcelonaEvents #KeepCalmBarcelona #BarcelonaSocial #ExpatCommunity #LifeInSpain #BarcelonaLiving #MakeNewFriends #ExpatSpain #BarcelonaActivities #EnglishSpeakers
+#BarcelonaSocial #NewInBarcelona #MakeNewFriends #BarcelonaExpat #KeepCalmBarcelona

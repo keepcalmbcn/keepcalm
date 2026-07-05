@@ -4,7 +4,7 @@ For sharing in Barcelona expat groups. Plain paragraphs, no headers.
 
 ---
 
-Just moved to Barcelona and looking to meet people? Come and join Keep Calm and Carry On.
+Just moved to Barcelona and looking to meet people? Come and join Keep Calm.
 
 We are a not-for-profit community for English speakers in Barcelona, built around sport and social connection. In just over a year we have grown to more than 2,000 members, and there is something on almost every day of the week.
 

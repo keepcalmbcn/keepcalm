@@ -4,7 +4,7 @@ The following is used as the WhatsApp group description.
 
 ---
 
-Keep Calm Languages - part of the Keep Calm and Carry On community for English speakers in Barcelona.
+Keep Calm Languages - part of the Keep Calm community for English speakers in Barcelona.
 
 A relaxed language exchange (intercambio) for people who want to practise Spanish, Catalan, English, and other languages over a drink and good company. Living in Barcelona is the perfect excuse to finally improve your Spanish, and the best way to do it is by actually talking.
 

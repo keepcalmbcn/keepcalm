@@ -4,7 +4,7 @@ The following is used as the WhatsApp group description.
 
 ---
 
-Keep Calm & Ski/Snowboard On - part of the Keep Calm and Carry On community for English speakers in Barcelona.
+Keep Calm & Ski/Snowboard On - part of the Keep Calm community for English speakers in Barcelona.
 
 Ski and snowboard trips from Barcelona to the Pyrenees and Andorra during winter season. We coordinate group trips, share carpooling, and meet up on the slopes.
 

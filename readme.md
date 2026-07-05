@@ -1,6 +1,6 @@
-# Keep Calm and Carry On 🏐🎾⚽
+# Keep Calm 🏐🎾⚽
 
-Welcome to **Keep Calm and Carry On** - Barcelona's friendly, not-for-profit sports community for English speakers!
+Welcome to **Keep Calm** - Barcelona's friendly, not-for-profit sports community for English speakers!
 
 ## Quick Links
 
@@ -22,6 +22,12 @@ Our most active community! Weekly Sunday games with a fair poll system to ensure
 Beach volleyball sessions organized by our members throughout the week and weekend.
 - **When**: Ad-hoc (check WhatsApp group)
 - **Where**: Public beach nets (Nova Icaria, Somorrostro, etc.)
+- **Cost**: Free
+
+### 🏀 [Basketball](basketball/)
+Pick-up basketball at public courts near Sants, organised by our members.
+- **When**: Weekly game on Wednesdays ~19:00, plus ad-hoc games (check WhatsApp group)
+- **Where**: Public courts (Parc de l'Espanya Industrial, near Sants)
 - **Cost**: Free
 
 ### 🏓 [Ping Pong](ping-pong/)
@@ -86,4 +92,4 @@ Check out the README for each sport, or ask in the relevant WhatsApp group!
 
 ---
 
-Thanks for being part of Keep Calm and Carry On! 🎉
+Thanks for being part of Keep Calm! 🎉

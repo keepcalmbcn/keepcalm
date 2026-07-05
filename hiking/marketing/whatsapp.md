@@ -12,7 +12,7 @@ We do monthly hikes around Catalunya - coastal paths, mountain trails, forest ro
 - Friendly, mixed group - all fitness levels welcome
 - Cost: just the train fare (usually €6-14 return) 🚆
 
-Part of Keep Calm and Carry On, a not-for-profit English-speaking community in Barcelona.
+Part of Keep Calm, a not-for-profit English-speaking community in Barcelona.
 
 👉 Join the hiking WhatsApp group at *keepcalm.fit* to see the next hike announcement!
 

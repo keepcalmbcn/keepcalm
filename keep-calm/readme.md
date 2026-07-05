@@ -1,8 +1,8 @@
-# Welcome to Keep Calm and Carry On 🏐🎾⚽
+# Welcome to Keep Calm 🏐🎾⚽
 
 Hi there, and welcome!
 
-We’re excited to have you join **Keep Calm and Carry On**, a community for English speakers in Barcelona who want to stay active, meet new people, and have fun through sports.  
+We’re excited to have you join **Keep Calm**, a community for English speakers in Barcelona who want to stay active, meet new people, and have fun through sports.  
 
 ## What We're About
 - We are a **not-for-profit community** built around sports and social connection.

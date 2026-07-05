@@ -3,7 +3,7 @@
 ## About the Session
 
 ### What is Keep Calm Friday Football?
-A weekly football (soccer) session organised through the Keep Calm and Carry On community - a not-for-profit community for English speakers in Barcelona. We play every Friday evening at Satalia, in partnership with **Vaya Sports**, who book the pitch, provide an on-site organiser, and supply bibs and balls.
+A weekly football (soccer) session organised through the Keep Calm community - a not-for-profit community for English speakers in Barcelona. We play every Friday evening at Satalia, in partnership with **Vaya Sports**, who book the pitch, provide an on-site organiser, and supply bibs and balls.
 
 ### Who is this for?
 Everyone. It's a **mixed, all levels** game - ladies and gents both welcome, a mix of regular players and people getting back into football. This is social football, not a league, so the result matters far less than turning up and having a good game.

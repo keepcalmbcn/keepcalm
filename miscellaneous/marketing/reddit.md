@@ -8,7 +8,7 @@ Suggested subreddits: r/Barcelona, r/expats_barcelona
 
 ---
 
-I've been part of Keep Calm and Carry On for a while now - it's a not-for-profit sports community for English speakers in Barcelona. Most people know it for the regular stuff like padel and volleyball, but one of the things I like most is that they also do one-off activities when enough people are interested.
+I've been part of Keep Calm for a while now - it's a not-for-profit sports community for English speakers in Barcelona. Most people know it for the regular stuff like padel and volleyball, but one of the things I like most is that they also do one-off activities when enough people are interested.
 
 Golf, climbing, boxing, cycling, padel surf - whatever someone suggests and gets traction on. It means the schedule is always a bit unpredictable in a good way, and you end up trying things you wouldn't have organised yourself.
 

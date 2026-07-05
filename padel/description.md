@@ -4,7 +4,7 @@ The following is used as the WhatsApp community description.
 
 ---
 
-Keep Calm Padel Barcelona - part of the Keep Calm and Carry On community for English speakers in Barcelona.
+Keep Calm Padel Barcelona - part of the Keep Calm community for English speakers in Barcelona.
 
 We organise weekly padel sessions (Sunday, Saturday, Weekday) for all levels, from complete beginners to advanced players. Everyone who votes in our poll gets a guaranteed spot to play.
 

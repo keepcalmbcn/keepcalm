@@ -14,7 +14,7 @@ A women-only padel group for players of all levels. A relaxed, supportive space 
 
 Lots of women told us they wanted a friendly women-only place to start playing, so we set one up. It runs *alongside* all our mixed padel sessions, not instead of them.
 
-Part of Keep Calm and Carry On, a not-for-profit English-speaking community in Barcelona.
+Part of Keep Calm, a not-for-profit English-speaking community in Barcelona.
 
 👉 Join the women's padel WhatsApp group at *keepcalm.fit* to see the next session!
 
