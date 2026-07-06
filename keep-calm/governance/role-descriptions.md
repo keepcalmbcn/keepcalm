@@ -66,7 +66,7 @@ Books and manages one court within a larger padel/tennis session.
 
 ## Event Organiser
 
-Plans and runs special events - seasonal parties, trips, cross-sport socials.
+Plans and runs special events - seasonal parties, trips, cross-sport socials. See the [step-by-step playbook](how-to-host-an-event.md) for exactly what to post, where, and when.
 
 **What you do:**
 - Propose and plan the event

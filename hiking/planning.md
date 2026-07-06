@@ -12,6 +12,11 @@ Don't plan a hike alone. Get a small group of 3-5 people involved early to share
 - Assign roles: route lead, logistics, communications, first aider if possible
 - Use a private WhatsApp group or thread to coordinate between organisers
 
+**No pre-arranged co-organiser?** The sign-up form (step 6) asks attendees
+directly if they're willing to lead navigation on the day. This lets a hike
+run without the main organiser physically attending, as long as at least
+one confirmed attendee is happy to take on the on-day lead role.
+
 ---
 
 ## 2. Pick a Date
@@ -66,8 +71,17 @@ Once date, route, and logistics are confirmed:
 **Google Form**
 - Set up a sign-up form to collect names and contact info
 - Ask for: name, WhatsApp number, fitness/experience level if relevant
+- Ask if anyone is willing to co-lead on the day, i.e. navigate the route
+  (either because they know it, or by following the GPX file). Suggested
+  wording: *"Would you be happy to help co-lead the hike on the day, e.g.
+  navigate the route from a GPX file? Not a big commitment, just knowing
+  where we're going."*
 - Set a capacity limit (typically 25-30 people)
 - Share the form link in the main hiking WhatsApp group and on social media
+
+**If nobody volunteers to co-lead:** decide on a fallback before
+announcing sign-ups close, e.g. ask a known Core member directly, or plan
+to attend yourself as a backup. Don't assume a volunteer will turn up.
 
 **Event Info Doc**
 - Create a hike-specific event-info.md with: route overview, meeting point, train times, what to bring, timings, disclaimers

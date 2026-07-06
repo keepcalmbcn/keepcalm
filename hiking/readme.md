@@ -87,7 +87,9 @@ Varies by hike - typically at a central Barcelona location:
 - **Light rain with improving forecast**: Hike continues
 - **Dangerous conditions**: Hike cancelled
 - Check WhatsApp group for updates
-- The organiser makes the final call on safety
+- The organiser makes the go/no-go weather call in advance; whoever is
+  leading on the day (organiser or volunteer co-lead) makes real-time
+  safety calls once the hike is underway
 
 ## Skill/Fitness Requirements
 
@@ -105,7 +107,7 @@ Varies by hike - typically at a central Barcelona location:
 
 ## Organizer
 
-The hiking organiser coordinates all events: selecting routes, posting announcements, managing logistics, and leading the group on hike day.
+The hiking organiser coordinates all events: selecting routes, posting announcements, and managing logistics. Leading the group on hike day may be done by the organiser directly, or by a volunteer co-lead identified through the sign-up form who is happy to navigate the route (either because they know it, or by following a GPX file).
 
 ## Getting Started
 

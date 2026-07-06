@@ -1,9 +1,9 @@
-🎱 POOL NIGHT - SATURDAY 23rd MAY, 17:00 to 20:00 🎱
+🎱 POOL NIGHT - [DAY, DATE], [START TIME] to [END TIME] 🎱
 
-Hi @all - we're trying something new! Noelia is organising a Pool night at *Billar 8 Pool*. 
+Hi @all - [ORGANISER] is organising a Pool night at *[VENUE]*.
 
-📍 Billar 8 Pool - near Plaça d'Espanya (metro L1 red / L3 green)
-🕔 Drop in any time between 17:00 and 20:00 - no fixed start
+📍 [VENUE] - [NEIGHBOURHOOD] ([TRANSPORT DETAILS])
+🕔 Drop in any time between [START TIME] and [END TIME] - no fixed start
 💶 Pay as you go - table time and drinks at the venue
 💚 Casual pool, all levels welcome - total beginners included!
 🍻 Drinks and hanging out while tables free up
@@ -12,6 +12,6 @@ Hi @all - we're trying something new! Noelia is organising a Pool night at *Bill
 
 Full event info: https://github.com/keepcalmbcn/keepcalm/blob/main/social/pool/event.md
 
-Big thanks to @Noelia for organising this one 🙌
+Big thanks to @[ORGANISER] for organising this one 🙌
 
 Let's rack 'em up! 🔥

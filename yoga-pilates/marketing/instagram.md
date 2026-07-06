@@ -2,13 +2,13 @@
 
 ---
 
-Yoga and pilates in Barcelona - outdoors on the beach, in the parks, and in studios too. 🧘🌊
+Yoga, pilates, and meditation for English speakers in Barcelona - all levels welcome. 🧘🌊
 
-We're Keep Calm, a not-for-profit English-speaking community that organises sport and social activities across Barcelona. And now we're adding yoga and pilates to the mix.
+Keep Calm Yoga & Pilates & Meditation is part of our not-for-profit sports community. Sessions run outdoors on the beach and in parks, plus indoor studios when the weather turns. No performance, no pressure, just movement, breath, and a good atmosphere.
 
-All levels welcome. No experience needed. Just bring yourself (and a mat if you have one).
+Sessions are posted in a WhatsApp group - watch for the announcement, confirm your spot, and bring a mat if you have one.
 
-Sessions coming soon - join the community via the link in bio to stay in the loop. 🌿
+Adults (18+). Find the link in bio to join the group and see what else we run. 🌿
 
 ---
 
