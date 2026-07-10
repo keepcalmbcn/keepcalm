@@ -20,3 +20,11 @@ Join the WhatsApp group and wait for the next session announcement 👇
 *keepcalm.fit*
 
 📋 By taking part you agree to our policies (safety, data, conduct, 18+): https://keepcalm.fit/policies
+
+---
+
+## Post-event recap note
+
+Football works differently to most activities: players don't usually take their own photos during the session. The organiser lines everyone up for a group photo at the end and posts it directly with the recap.
+
+So when using the base [post-event recap template](../../keep-calm/marketing/post-event-recap-template.md) for football, drop the "got any photos or videos, tag us" line, it doesn't apply here since the organiser's own photo is already attached to the post.
