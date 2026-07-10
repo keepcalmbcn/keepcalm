@@ -43,7 +43,7 @@ The repository is organized by sport/activity type, with each having its own dir
 - `padel/readme.md`: Specific information about the Sunday padel community and poll system
 
 ### Operational Files
-- `TODO.md` (repo root): The single consolidated task list for the whole project. Don't create new per-sport `todo.md` files, add to the root one instead.
+- Task tracking lives in the private `keepcalm-journal` repo (`KEEP CALM.md`), not in this repo. Don't create per-sport `todo.md` files or a root `TODO.md` here.
 - `padel/sunday-padel-*.md`: Various operational documents covering courts, polls, problems, rain policies, etc.
 - `padel/scratch/`: Planning notes and meeting records
 
@@ -61,7 +61,7 @@ This is a documentation-only repository with no code compilation, testing, or li
 When making changes:
 - Maintain the existing directory structure organized by sport/activity
 - Keep readme.md files as entry points for each section
-- Track outstanding work in the root `TODO.md`, not in per-sport todo.md files
+- Track outstanding work in the private `keepcalm-journal` repo's `KEEP CALM.md`, not in this repo
 - Place planning notes and scratch work in appropriate `scratch/` subdirectories
 - Follow the existing tone and style which is community-focused and inclusive
 
@@ -80,7 +80,7 @@ If you find existing em dashes in the repo while working on something else, repl
 
 Since this is a documentation repository, common operations involve:
 - Updating operational procedures based on community feedback
-- Maintaining the root `TODO.md` for ongoing organizational tasks
+- Maintaining task tracking in the private `keepcalm-journal` repo for ongoing organizational tasks
 - Adding new venue information or policy updates
 - Creating planning documents for events or policy changes
 
