@@ -1,18 +1,23 @@
-# Keep Calm "Cool" Meeting - 2 Hour Agenda
+# Keep Calm Core Meeting - 2 Hour Agenda
 
-A relaxed get-together that does two things at once: helps people genuinely
-connect (one-to-one and small-group), and gives everyone a real say in where
-Keep Calm goes next so the community feels like theirs.
+A monthly get-together for the community's most engaged members. It does two
+things at once: helps people genuinely connect (one-to-one and small-group),
+and gives them a real say in where Keep Calm goes next so the community
+feels like theirs.
 
 **Total time:** 2 hours (120 min)
-**Who:** ~10-20 people in the room. The 4 Core members host and facilitate;
-everyone else (including plus ones) takes part.
+**Who:** Members active for 6+ months who show up regularly in the chat -
+invited as recognition, not open sign-up. ~10-20 people in the room. The 4
+Core organisers host and facilitate; everyone else (including plus ones)
+takes part.
+**Cadence:** Monthly. This is the first edition, so say so - it's the start
+of an ongoing thing, not a one-off.
 **Vibe:** Casual, warm, low-pressure. Drinks/snacks if possible. No slides-heavy
 lecturing. The organisers facilitate, they don't present at people.
 
-**Handy maths:** 4 Core members = one facilitator per small group. With 10-20
-people you'll have ~4 groups of 3-5, so each Core member naturally takes a
-table, keeps the conversation flowing, and captures the notes.
+**Handy maths:** 4 Core organisers = one facilitator per small group. With
+10-20 people you'll have ~4 groups of 3-5, so each Core organiser naturally
+takes a table, keeps the conversation flowing, and captures the notes.
 
 ---
 
@@ -34,9 +39,13 @@ table, keeps the conversation flowing, and captures the notes.
 
 ### 0:00 - 0:15 - Arrivals & warm welcome (Social)
 - Let people trickle in, grab a drink, settle.
-- One organiser does a 2-minute genuine welcome: thanks for coming, what tonight
-  is *for* ("we want to hang out properly, and we want your honest input on where
-  this goes - this is your community").
+- One organiser does a 2-minute genuine welcome: thanks for coming, why this
+  group specifically was invited ("you've been around 6+ months and you're the
+  people actually showing up in the chat - this is a small thank you and a
+  chance to shape things properly"), and what tonight is *for* ("we want to get
+  to know you properly, and we want your honest input on where this goes -
+  this is your community").
+- Name that this is the first one and it'll happen monthly from here.
 - Set the tone: relaxed, no wrong answers, phones down where possible.
 
 ### 0:15 - 0:30 - Icebreaker round (Social, 1-to-few)
@@ -80,6 +89,8 @@ Pick one, keep it light:
 ### 1:50 - 2:00 - Wrap, next steps & casual hang (Social)
 - Organiser recaps the top themes that emerged and commits to *something*
   concrete: "we'll take these top 3 away and report back."
+- Confirm the next one is happening (roughly a month out) and that this group
+  will get first word on it.
 - Gentle nudge on the ownership path: anyone who wants to help make an idea
   happen, come find us - this is how Keep Calm grows.
 - Thank everyone. Then the formal bit ends and people are free to stay and hang.
@@ -96,3 +107,8 @@ Pick one, keep it light:
   invested rather than just "consulted".
 - **Mix the groups** deliberately so people meet someone new, not just sit with
   friends.
+- **Notice who lights up.** This is a room of your most engaged people - if
+  someone shows real energy for an idea or a helping role, that's worth a
+  follow-up chat, not just a note on a page.
+- **Keep the invite list live.** Update it each month as new members cross the
+  6-month/active-in-chat bar, so the group keeps growing with the community.

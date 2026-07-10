@@ -327,6 +327,7 @@ If we become aware of unauthorised data access:
 - **Core Team**: Community-wide data
 - **Bookers**: Names of players on their court
 - **Session Hosts**: Attendance for their session
+- **Event Organisers**: Attendance for the event they're running
 
 ### Organiser Responsibilities
 
