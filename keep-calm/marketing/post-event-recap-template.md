@@ -4,12 +4,11 @@ A reusable thank-you / recap message to send in the WhatsApp group after any Kee
 
 **Keep it to one short, personal-sounding paragraph, not a long multi-section post.** A short message from a person reads better than a broadcast template with a stack of emoji headers, save the structure (FEEDBACK/WHAT'S NEXT/ABOUT KEEP CALM as separate sections) for things that actually need it, like a first-time launch post. The photo call-to-action is always a friendly invitation, never a requirement. Only add a feedback form link if you actually have one for this specific event, don't include it as a placeholder.
 
+**No policies footer here.** The "by taking part you agree to our policies" / photo-consent footer belongs on event announcements and sign-up posts, where it's informed consent ahead of showing up, not on a recap sent after the event already happened. Leave it off.
+
 ---
 
 Hey everyone! What a [SESSION / GAME / NIGHT / DAY] at [EVENT NAME] today 🙌 [Optional: thank you to ORGANISER / HELPERS / PARTNER for whatever they did]. Got any photos or videos? Tag *@keepcalmbarcelona* and use *#keepcalmbarcelona*, we'd love to repost. [NEXT SESSION DETAILS / SIGN-UP LINK]. See you then! 💪
-
-🛡️ By taking part you agree to our policies (safety, data, conduct and 18+): keepcalm.fit/policies
-📸 Photos/videos may be taken and shared by Keep Calm. Tell an organiser if you would prefer not to appear.
 
 ---
 
