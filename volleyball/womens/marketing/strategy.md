@@ -36,6 +36,8 @@ If a post does not visibly answer one of these, rewrite it.
 3. **Facebook groups** - Barcelona expat / women in Barcelona / English-speakers groups. Follow each group's self-promo rules.
 4. **Meetup.com** - listed event, free to attend, captures people actively searching for things to do.
 5. **Reddit** - r/Barcelona, r/expats_barcelona. Keep it personal and honest, not an advert (see reddit.md).
+6. **Luma** - another events listing some members already use to find things to do.
+7. **Volleyworld app** - a volleyball-specific app some members use to find pickup games; worth listing sessions there too.
 
 > Note: when cross-posting to **external** communities that are not ours, keep it neutral and avoid heavy Keep Calm branding where the host group asks for it - respect their rules.
 
