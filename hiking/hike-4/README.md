@@ -12,7 +12,6 @@ A coastal hill walk along the GR-92 from Garraf up to the Ermita de la Trinitat 
 - [event-info.md](event-info.md) - full event details (route, trains, what to bring, timings)
 - [whatsapp-post.md](whatsapp-post.md) - the announcement to post in the hiking channel
 - [faq.md](faq.md) - common questions and answers
-- [TODO](TODO) - organiser checklist for the run-up
 
 ## Shared references (reused from Hike 3)
 
