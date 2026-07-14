@@ -8,6 +8,7 @@ Part of the larger **Keep Calm** not-for-profit community for English speakers i
 
 - [Group Description](description.md) - what this community is about
 - [Group Rules](rules.md) - how we keep things running smoothly
+- [Organiser One-Pager](organiser-one-pager.md) - what running padel actually involves
 - [Community Policies](../keep-calm/policies/README.md) - safety, data, conduct, and the 18+ policy you agree to by taking part
 - [General WhatsApp Rules](../keep-calm/rules/whatsapp-rules.md) - applies to all Keep Calm groups
 - [Event Rules](../keep-calm/rules/event-rules.md) - participation and cancellation policies

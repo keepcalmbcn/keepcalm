@@ -152,6 +152,8 @@ Share your proposal with the other organisers. If approved:
 ## Related Documents
 
 - [Role Descriptions](role-descriptions.md) - Role definitions
+- [Who Does What (RACI)](raci.md) - Responsibility map, including what is automated
+- Per-sport organiser one-pagers - `<sport>/organiser-one-pager.md`, the one-page version of this guide for each sport
 - [Event Rules](../rules/event-rules.md) - Participation policies
 - [Community Conduct](../policies/community-conduct.md) - Conduct and conflict resolution
 - [Organisers](organisers.md) - Current organisers

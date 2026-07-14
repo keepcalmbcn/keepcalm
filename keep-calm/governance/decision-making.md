@@ -67,5 +67,6 @@ Sometimes things can't wait - dangerous weather, someone being aggressive at a s
 
 - [Organiser Guide](organiser-guide.md) - Organiser responsibilities
 - [Role Descriptions](role-descriptions.md) - Who does what
+- [Who Does What (RACI)](raci.md) - The responsibility matrix behind this page
 - [Community Conduct](../policies/community-conduct.md) - Conflict resolution
 - [Rules](../rules/rules.md) - Community rules
