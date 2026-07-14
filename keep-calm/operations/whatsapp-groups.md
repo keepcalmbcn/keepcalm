@@ -67,6 +67,14 @@ WhatsApp rules: https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rule
 Volleyball rules: https://github.com/keepcalmbcn/keepcalm/blob/main/volleyball/rules.md
 ```
 
+### Keep Calm Watersports
+```
+Ad-hoc water-based experiences for English speakers in Barcelona - stand-up paddleboarding to start. Events run whenever an organiser arranges a venue or rate, so spots are often limited. Watch for announcements and sign up quickly.
+
+WhatsApp rules: https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/whatsapp-rules.md
+Watersports rules: https://github.com/keepcalmbcn/keepcalm/blob/main/watersports/rules.md
+```
+
 ### Keep Calm Yoga & Pilates & Meditation
 ```
 Yoga, pilates, and meditation sessions for English speakers in Barcelona. All levels welcome - no experience needed. Watch for session announcements, sign up, and arrive on time. Bring your own mat if you have one.
