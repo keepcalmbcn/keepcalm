@@ -105,6 +105,8 @@ There's no formal progression - if you attend regularly, help out, and show inte
 
 - [Organiser Guide](organiser-guide.md) - How to run a sport
 - [Who Does What (RACI)](raci.md) - Responsibility map across all roles
+- [Organiser Onboarding](organiser-onboarding.md) - Expectations pack and messages for new organisers
+- [Admin Onboarding](admin-onboarding.md) - Expectations pack and messages for new admins
 - [Moderator One-Pager](moderator-one-pager.md) - WhatsApp group moderation
 - [Community Admin One-Pager](community-admin-one-pager.md) - Paperwork, forms, appeals
 - [Content Editor One-Pager](content-editor-one-pager.md) - Instagram, blog, website copy

@@ -153,6 +153,7 @@ Share your proposal with the other organisers. If approved:
 
 - [Role Descriptions](role-descriptions.md) - Role definitions
 - [Who Does What (RACI)](raci.md) - Responsibility map, including what is automated
+- [Organiser Onboarding](organiser-onboarding.md) - The expectations pack for bringing a new organiser on board
 - Per-sport organiser one-pagers - `<sport>/organiser-one-pager.md`, the one-page version of this guide for each sport
 - [Event Rules](../rules/event-rules.md) - Participation policies
 - [Community Conduct](../policies/community-conduct.md) - Conduct and conflict resolution

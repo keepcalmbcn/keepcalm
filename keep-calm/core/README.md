@@ -113,6 +113,7 @@ Treat people well and be someone the community trusts. Core Members are held to 
 ## Related documents
 
 - [Core Invitation](invite.md) - The message we send to invite someone to Core
+- [Core Expectations](expectations.md) - The one-pager we send alongside the invitation
 - [Role Descriptions](../governance/role-descriptions.md) - Roles and informal contributions
 - [Decision Making](../governance/decision-making.md) - How decisions and appeals work
 - [Community Conduct](../policies/community-conduct.md) - The conduct rules Core upholds

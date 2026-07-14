@@ -19,7 +19,7 @@ Conduct is the one to be firm on. Core members represent Keep Calm and are held 
 
 1. Replace `[first name]` with the member's name.
 2. Copy the message text from the code block below (it uses WhatsApp `*bold*` formatting).
-3. Send it as a direct message, not in a group.
+3. Send it as a direct message, not in a group, along with the [Core Expectations one-pager](expectations.md) so the standard is clear upfront.
 4. When they say yes, add them to the Keep Calm Core group.
 
 ## Invitation message
