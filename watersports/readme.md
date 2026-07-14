@@ -22,7 +22,7 @@ See the current event below for whatever's happening next.
 
 ## Current Event
 
-**[Sunset Stand-Up Paddleboarding](sunset-paddle/event.md)** - Saturday 18th July 2026, 19:00, at Paddle Surf Brasil BCN, 25 spots, 15 euros per person.
+**[Sunset Stand-Up Paddleboarding](sunset-paddle/event.md)** - Saturday 18th July 2026, 19:00, at Paddle Surf Brasil BCN, 20 spots, 15 euros per person.
 
 ## Past Events
 

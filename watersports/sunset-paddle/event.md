@@ -8,7 +8,7 @@
 | 📍 Venue | [Paddle Surf Brasil BCN](https://paddlesurfbrasilbcn.netlify.app/) - meet in front of the venue |
 | 🕖 Time | **19:00** meet in front of the venue, **19:30** out on the water |
 | 💶 Cost | 15 euros per person (Keep Calm group rate - standard price is 25 euros, a 10 euro discount) |
-| 🎟️ Spots | 25 spots, first come first served once payment is confirmed |
+| 🎟️ Spots | 20 spots, first come first served once payment is confirmed |
 | 🏄 Format | Guided sunset stand-up paddleboarding experience, all abilities welcome |
 | 🍻 Alongside | Drinks/hangout after for anyone who fancies it - TBC on the day |
 
@@ -16,10 +16,10 @@
 
 ## 🎟️ How to Get a Spot
 
-1. **Mark yourself as going in the WhatsApp event** - this is required so we have a headcount
-2. **Watch the Watersports group for the payment link** - it goes up alongside the announcement
-3. **Pay your 15 euros through that link** - this is what actually guarantees your spot, not the RSVP alone
-4. **First come, first served** - once 25 people have paid, the list is closed and further interest goes on a waiting list in case of drop-outs
+1. **Copy the numbered sign-up message** posted in the group and add your name to the next free line
+2. **Pay your 15 euros** through the payment link in that message (write your full name as the payment reference so it can be matched up)
+3. **Put a ✅ next to your name** once you've paid - this is what actually guarantees your spot, adding your name alone does not
+4. **First come, first served** - once 20 names are ticked off as paid, the list is closed and further interest goes on a waiting list in case of drop-outs
 
 ---
 

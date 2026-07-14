@@ -8,7 +8,7 @@ Post this now, ahead of tomorrow's full announcement, to get people into the new
 
 Hi @all! We're launching a brand new **Keep Calm Watersports** group, and the first event drops **tomorrow**.
 
-First up: a **sunset stand-up paddleboarding session** this **Saturday 18th July**, at a reduced group rate of just **15 euros** per person. Only **25 spots** available, so they'll go fast once the sign-up goes live.
+First up: a **sunset stand-up paddleboarding session** this **Saturday 18th July**, at a reduced group rate of just **15 euros** per person. Only **20 spots** available, so they'll go fast once the sign-up goes live.
 
 If you want a shot at a spot, **join the Watersports group now** so you see it the moment it's posted:
 👉 https://keepcalm.fit/whatsapp/water-sports

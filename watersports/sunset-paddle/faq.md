@@ -10,11 +10,11 @@
 **15 euros per person** - a reduced group rate Mitali arranged (the standard rate is 25 euros, so it's a 10 euro discount per person).
 
 ## How many spots are there?
-**25 spots**, first come first served once payment is confirmed. If it fills up, ask to go on the waiting list in case of drop-outs.
+**20 spots**, first come first served once payment is confirmed. If it fills up, ask to go on the waiting list in case of drop-outs.
 
 ## How do I get a spot?
 1. **Mark yourself as going in the WhatsApp event** so we have a headcount.
-2. **Use the payment link** posted in the Watersports group alongside the announcement, and send your 15 euros. Paying is what actually secures your spot, an RSVP alone doesn't guarantee a place since only 25 spots exist.
+2. **Copy the numbered sign-up message**, add your name to the next free line, and pay through the link in that message. Put a ✅ next to your name once you've paid, since that's what actually secures your spot, an RSVP alone doesn't guarantee a place since only 20 spots exist.
 
 ## Do I need paddleboarding experience?
 No. This is a guided, beginner-friendly experience, and all abilities are welcome.

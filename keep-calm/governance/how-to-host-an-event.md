@@ -117,6 +117,53 @@ simplest for that specific case, but keep two things consistent:
   for whoever's behind on paying. Close or leave the group once everyone's
   settled up.
 
+### Template: in-chat numbered sign-up sheet
+
+For a small, capacity-limited, paid event where a full Google Form feels
+like overkill, posting the sign-up as a single message with a numbered
+list works well: everyone can see exactly how many spots are left and
+who still needs to pay, without a separate form or spreadsheet.
+
+```
+🌅 KEEP CALM [EVENT NAME] 🌅
+
+Hi @all! [ORGANISER] has arranged [one-line description of the event and venue].
+
+📍 [VENUE]
+📅 [DATE]
+🕖 [MEET-UP TIME] meet-up & registration, [START TIME] [activity starts]
+💶 [PRICE] per person (normal rate is [STANDARD PRICE])
+🎟️ [NUMBER] spots only - first come, first served once paid
+🏄 All abilities welcome, no experience needed - it's a guided session
+🍻 Drinks/hangout after for anyone who fancies it
+
+👉 HOW TO JOIN: Copy this whole message, add your name and then put a ✅ next to your name once paid!
+💳 PAY HERE: [PAYMENT LINK] (write your FULL NAME as the payment reference)
+⚠️ It's first come, first served
+
+1. [Your name]
+2. ...
+[continue up to your capacity limit]
+```
+
+**How it works in practice:**
+- Whoever wants a spot copies the whole message and reposts it with their
+  name added to the next free line
+- Once they've paid, they (or the organiser) add a ✅ next to their name
+- The organiser can see live, in one glance, exactly how many confirmed
+  and paid spots are left, no separate tracking needed
+- Once every line is filled and ticked, the event is full, later copies
+  of the message with a new name added past the limit don't count. Ask
+  latecomers to comment their interest instead so you have a waiting list
+  in case of drop-outs
+
+**When to use this instead of a Google Form:** small capacity (roughly
+under 25-30), a single simple price, and a payment link that supports a
+free-text reference (so you can match payments to names). For anything
+bigger, or that needs more info collected (dietary requirements, T-shirt
+size, emergency contact), use a form instead, see
+[hiking/planning.md](../../hiking/planning.md) step 6 for that template.
+
 This is about your mechanics as organiser - for the participant-facing
 rules (what someone owes if they drop out, refund terms, etc.) see
 [Payments, Refunds & Cancellation](../policies/payments-refunds-cancellation.md).
