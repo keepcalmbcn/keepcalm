@@ -1,3 +1,7 @@
 padel/scratch/*
 tennis/scratch/*
 .claude/
+
+# Per-repo Claude TODO — local only, may reference private/personal details.
+# This repo is PUBLIC — TODO.md must never be tracked here.
+TODO.md
