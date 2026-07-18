@@ -18,7 +18,8 @@ Games run throughout the week as members propose them, with regular Saturday ses
 ## Yours to do
 
 - **Confirm games**: turn poll votes into a concrete plan - beach, net, meeting time
-- **Bring the kit**: net and balls, and coordinate who covers it when you can't
+- **Claim a net early**: get to a public net post before it's taken and get the Keep Calm net rigged (or arrange someone who can)
+- **Bring the kit, and know where it lives**: net and balls, coordinate who covers it when you can't; current holders are tracked in the organiser WhatsApp group, so check there if you're unsure, and flag early if anything's damaged or missing
 - **Run the session**: mix teams, rotate players in, keep it beginner-friendly per the [group rules](rules.md)
 - **Answer questions** in the group: locations, format, what to bring
 - **Welcome newcomers**: introduce them, get them into a rotation quickly
