@@ -30,7 +30,7 @@ RSVP here on Meetup, then join our WhatsApp group at https://keepcalm.fit/meetup
 
 **About Keep Calm**
 
-Keep Calm is a not-for-profit, volunteer-run community for English speakers in Barcelona. Adults only (18+).
+Keep Calm is a not-for-profit, volunteer-run community for English speakers in Barcelona. Adults only (18+). Follow us on Instagram at instagram.com/keepcalmbarcelona and like us on Facebook at facebook.com/keepcalmbarcelona to stay up to date with everything we do.
 
 **Safety Notice & Data Protection & Media Notice**
 

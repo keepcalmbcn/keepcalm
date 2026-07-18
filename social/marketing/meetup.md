@@ -12,6 +12,8 @@ Keep Calm is a not-for-profit community for English speakers in Barcelona. We've
 
 *Cost:* Free to join the community. Individual events may have their own costs (e.g. bowling, entry fees) which will be listed on the event.
 
-*How to join:* RSVP here and check the event details. For regular updates and more events, find our WhatsApp groups and full schedule at keepcalm.fit/meetup.
+*How to join:* RSVP here and check the event details. For regular updates and more events, join our WhatsApp group at https://keepcalm.fit/meetup/social.
+
+Follow us on Instagram at instagram.com/keepcalmbarcelona and like us on Facebook at facebook.com/keepcalmbarcelona to stay up to date with everything we do.
 
 Everyone is welcome. See you there!

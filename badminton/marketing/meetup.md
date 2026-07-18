@@ -32,7 +32,7 @@ Limited to 24 players. There's an automatic waitlist - if it's full, RSVP anyway
 
 RSVP here on Meetup, then join our WhatsApp group at https://keepcalm.fit/meetup/badminton - this is where all the organisation happens, and you must be in the group before you can come to the event. Day, time, and venue are shared there, so read the pinned info or ask the group if you're not sure.
 
-Adults only (18+).
+Adults only (18+). Follow us on Instagram at instagram.com/keepcalmbarcelona and like us on Facebook at facebook.com/keepcalmbarcelona to stay up to date with everything we do.
 
 **Safety Notice & Data Protection & Media Notice**
 

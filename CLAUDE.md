@@ -43,7 +43,7 @@ The repository is organized by sport/activity type, with each having its own dir
 - `padel/readme.md`: Specific information about the Sunday padel community and poll system
 
 ### Operational Files
-- Task tracking lives in the private `keepcalm-journal` repo (`KEEP CALM.md`), not in this repo. Don't create per-sport `todo.md` files or a root `TODO.md` here.
+- Cross-project task tracking lives in the private `keepcalm-journal` repo (`KEEP CALM.md`). This repo also has its own `TODO.md` at the root (gitignored, never committed — this repo is PUBLIC) for local outstanding work; Claude reads it at session start. Don't create per-sport `todo.md` files.
 - `padel/sunday-padel-*.md`: Various operational documents covering courts, polls, problems, rain policies, etc.
 - `padel/scratch/`: Planning notes and meeting records
 

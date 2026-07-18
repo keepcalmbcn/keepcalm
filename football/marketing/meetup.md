@@ -59,7 +59,7 @@ Paste this into the main description box.
 > RSVP here on Meetup, then join our WhatsApp group at https://keepcalm.fit/meetup/football - this is where the weekly Vaya sign-up link, pitch confirmation, day, time, and venue are shared, and you must be in the group before you can come to a session. Spots are limited by pitch size, so confirm early and only if you can commit.
 >
 > **About Keep Calm**
-> Keep Calm is a not-for-profit community for English speakers in Barcelona, with more than 2,000 members and something on almost every day of the week - padel, tennis, ping pong, beach volleyball, badminton, hiking, running and social events. Everything is run by volunteers and nothing is for profit.
+> Keep Calm is a not-for-profit community for English speakers in Barcelona, with more than 2,000 members and something on almost every day of the week - padel, tennis, ping pong, beach volleyball, badminton, hiking, running and social events. Everything is run by volunteers and nothing is for profit. Follow us on Instagram at instagram.com/keepcalmbarcelona and like us on Facebook at facebook.com/keepcalmbarcelona to stay up to date with everything we do.
 >
 > **Safety Notice & Data Protection & Media Notice**
 >

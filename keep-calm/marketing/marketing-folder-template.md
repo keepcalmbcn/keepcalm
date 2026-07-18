@@ -61,6 +61,7 @@ Before the join line makes sense, the reader needs enough to decide. Every platf
 7. **How to join** - the join line with the correct link from the table above
 8. **18+** - all Keep Calm events and groups are adults only, state it
 9. **About Keep Calm** - not-for-profit, volunteer-run, for English speakers in Barcelona
+10. **Follow us** - a line pointing to our Instagram (instagram.com/keepcalmbarcelona) and Facebook (facebook.com/keepcalmbarcelona), so traffic from every event also grows our social following, not just that one WhatsApp group
 
 See also `event-post-checklist.md` for the per-event version of this list.
 
@@ -111,7 +112,9 @@ announced.
 **About Keep Calm**
 
 Keep Calm is a not-for-profit, volunteer-run community for
-English speakers in Barcelona. Adults only (18+).
+English speakers in Barcelona. Adults only (18+). Follow us on Instagram at
+instagram.com/keepcalmbarcelona and like us on Facebook at
+facebook.com/keepcalmbarcelona to stay up to date with everything we do.
 
 ---
 ```
@@ -146,7 +149,8 @@ keepcalm.fit/luma/<activity> - that is where sessions are announced and
 coordinated.
 
 Keep Calm is a not-for-profit, volunteer-run community for
-English speakers in Barcelona.
+English speakers in Barcelona. Follow us on Instagram at
+instagram.com/keepcalmbarcelona and Facebook at facebook.com/keepcalmbarcelona.
 
 ---
 ```
@@ -182,7 +186,9 @@ for session announcements and updates.
 **About Keep Calm**
 
 Keep Calm is a not-for-profit, volunteer-run community for
-English speakers in Barcelona. Adults only (18+).
+English speakers in Barcelona. Adults only (18+). Follow us on Instagram at
+instagram.com/keepcalmbarcelona and like us on Facebook at
+facebook.com/keepcalmbarcelona.
 
 ## Settings
 

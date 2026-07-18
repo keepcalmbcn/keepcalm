@@ -31,4 +31,4 @@ Bring a friend if it helps you feel at home. Join our women's volleyball WhatsAp
 
 **About Keep Calm**
 
-Keep Calm is a not-for-profit, volunteer-run community for English speakers in Barcelona. Adults only (18+).
+Keep Calm is a not-for-profit, volunteer-run community for English speakers in Barcelona. Adults only (18+). Follow us on Instagram at instagram.com/keepcalmbarcelona and like us on Facebook at facebook.com/keepcalmbarcelona to stay up to date with everything we do.

@@ -33,7 +33,7 @@ RSVP here on Meetup, then join our WhatsApp group at https://keepcalm.fit/meetup
 
 Part of Keep Calm, a not-for-profit English-speaking sports community in Barcelona.
 
-Adults only (18+).
+Adults only (18+). Follow us on Instagram at instagram.com/keepcalmbarcelona and like us on Facebook at facebook.com/keepcalmbarcelona to stay up to date with everything we do.
 
 **Safety Notice & Data Protection & Media Notice**
 

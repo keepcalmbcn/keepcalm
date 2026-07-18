@@ -20,3 +20,5 @@ Lift pass: 50-80 euros per day. Equipment rental: 30-40 euros per day. Transport
 
 **How to join**
 Join the Keep Calm Ski/Snowboard WhatsApp group via keepcalm.fit/meetup - that's where trips are proposed and coordinated. Open to adults 18+ only.
+
+Follow us on Instagram at instagram.com/keepcalmbarcelona and like us on Facebook at facebook.com/keepcalmbarcelona to stay up to date with everything we do.
