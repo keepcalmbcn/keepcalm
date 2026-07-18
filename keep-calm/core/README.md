@@ -12,6 +12,8 @@ Core is an invite-only group for the people at the heart of the community. It is
 
 In a community with hundreds of members and new faces every week, it can be hard to get past a quick hello. Core is a calmer, smaller space for the people who are genuinely invested in each other and in the community.
 
+The design is deliberately low-drama: no gatekeeping to get in once you've earned it, but real accountability once you're there - see [Staying Core](#staying-core-the-ongoing-activity-bar) and [Losing Core status](#losing-core-status-conduct) below.
+
 ## What Core is not
 
 - It is not about status or being "better" than anyone.
@@ -23,6 +25,8 @@ In a community with hundreds of members and new faces every week, it can be hard
 ## How you become Core
 
 Core is earned over time, then confirmed by the organiser team. Four things describe a Core member. They are a guide for a judgement, not a rigid scorecard, but all four should genuinely be true.
+
+Organisers and admins: see the [fast-track](#organiser--admin-fast-track) below - the role itself already proves most of this.
 
 ### 1. Time ⏳
 An active member for **6+ months**. Core members are familiar faces, not newcomers, and not just here for a season.
@@ -54,6 +58,17 @@ The normal starting point is an existing Core member or organiser vouching for s
 
 If someone clearly fits but no one has put their name forward, anyone can raise them with the organisers.
 
+## Organiser & admin fast-track
+
+Taking on an organiser or admin role already demonstrates most of the four pillars above: it's Contribution by definition, and running a sport most weeks usually satisfies Participation too. Active organisers and admins can be confirmed for Core sooner than the general path:
+
+- **Time:** 3+ months in an organiser or admin role, rather than 6+ months as a general member ⚙️ CONFIRM
+- **Participation:** no separate event count needed - running your sessions counts ⚙️ CONFIRM
+- **Contribution:** satisfied by the role itself
+- **Conduct:** the same bar as everyone else - the fast-track shortens the wait, not the standard
+
+This still isn't automatic - the organiser team confirms it, same as any Core invitation - but it recognises that someone showing up every week to run a sport has already proven what Core looks for. See [Organiser Onboarding](../governance/organiser-onboarding.md) and [Admin Onboarding](../governance/admin-onboarding.md) for how this is presented when someone takes on the role.
+
 ## Founding cohort
 
 The first Core members are invited directly by the organisers to seed the group. Once that founding cohort exists, the criteria and endorsement process above apply for everyone after them.
@@ -71,7 +86,21 @@ Core members are expected to:
 - Help resolve problems calmly rather than add to them
 - Uphold the [Community Conduct](../policies/community-conduct.md) rules and set the example
 
-## Losing Core status
+## Staying Core: the ongoing activity bar
+
+Core doesn't expire on its own, but it also isn't a badge you keep forever without showing up. There's one ongoing, low bar on top of the conduct standard above:
+
+- **Meet up in person at least once every 6 months** ⚙️ CONFIRM. Any Keep Calm activity, any sport or social category, counts - this is the same Participation pillar you joined on, just checked on an ongoing basis instead of once.
+
+That's it. No quotas beyond this, no rota, no duties - see [Core Expectations](expectations.md) for the full "bare minimum."
+
+**How it's monitored:** Community Admin periodically checks the Core roster against event attendance registers (the same records already collected per [How to Host an Event](../governance/how-to-host-an-event.md#8-after-the-event) for community-wide activity tracking). If someone's coming up on 6 months with nothing recorded, they get a friendly, private heads-up around month 4-5, not a public callout - plenty of time to make it to something. See the [Community Admin One-Pager](../governance/community-admin-one-pager.md) for how this fits their role.
+
+**If nothing follows:** Core status quietly lapses. No drama, no announcement, no group post. It isn't a ban - turn up to something and let an organiser know you'd like back in, and if you're still a good fit, getting reinstated doesn't require going through the full original four-pillar process again.
+
+## Losing Core status (conduct)
+
+This is a different, separate thing from the activity bar above - conduct is never "quiet."
 
 Core status is ongoing, not permanent. Serious or repeated conduct breaches, as handled under [Community Conduct](../policies/community-conduct.md) and the strike system, can mean leaving Core. Removal from Core is an organiser decision, handled privately and with the chance to be heard, in line with [Decision Making](../governance/decision-making.md#appeals).
 
@@ -105,6 +134,8 @@ Treat people well and be someone the community trusts. Core Members are held to 
 
 ━━━━━━━━━━━━━━━━━━
 
+_Once you're in, the only ongoing ask is meeting up in person at least once every 6 months - any activity counts. No quotas, no duties, no rota._
+
 📌 _Core is by invitation and confirmed by the organiser team. If that sounds like you, odds are we already know it._
 ```
 
@@ -114,6 +145,8 @@ Treat people well and be someone the community trusts. Core Members are held to 
 
 - [Core Invitation](invite.md) - The message we send to invite someone to Core
 - [Core Expectations](expectations.md) - The one-pager we send alongside the invitation
+- [Organiser Onboarding](../governance/organiser-onboarding.md) - Where the organiser fast-track is presented as a benefit
+- [Admin Onboarding](../governance/admin-onboarding.md) - Where the admin fast-track is presented as a benefit
 - [Role Descriptions](../governance/role-descriptions.md) - Roles and informal contributions
 - [Decision Making](../governance/decision-making.md) - How decisions and appeals work
 - [Community Conduct](../policies/community-conduct.md) - The conduct rules Core upholds

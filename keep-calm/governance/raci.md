@@ -29,6 +29,7 @@ This matrix describes where we are going, not only where we are today. Rows mark
 | Welcome new members in the groups | | | | R | | | |
 | Welcome newcomers at sessions | | R | | | | | |
 | Inactivity reminders and rotation | I | | | | A* | | R |
+| Core activity checks (6-month bar) | I | | | | A* R* | | |
 | Strikes 1 and 2 | I | R | | C | | | |
 | Removals (strike 3) | R | C | | C | I | | |
 | Appeals | C | | | | R* | | |
@@ -37,7 +38,7 @@ This matrix describes where we are going, not only where we are today. Rows mark
 | Blog posts and website copy review | A | | | | | R* | |
 | WhatsApp group descriptions | I | C | | C | | R* | |
 | Group spotlight and monthly announcements | I | | | | | A* | R |
-| **Governance** | | | | | | | |
+| **Governance** (see [Keep Calm Governance](governance-group.md) - "Community Lead" R below means routed through that group, not decided solo) | | | | | | | |
 | Community-wide rules changes | R | C | | C | C | | |
 | External partnerships | R | C | | | | | |
 | Community finances | R | | | | C | | |

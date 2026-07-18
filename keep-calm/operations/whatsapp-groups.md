@@ -229,12 +229,13 @@ Keep it constructive and keep it kind. 🙏
 ```
 🏛️ Keep Calm Governance 🏛️
 
-The internal group for the bigger-picture side of Keep Calm.
+The internal group for the bigger-picture side of Keep Calm - where community-wide decisions get made by the people actually doing the work, not by title.
 
-This is where we discuss how the community is run, the future Keep Calm association, community-wide policy, and the decisions that shape our direction.
+This is where we discuss how the community is run, the future Keep Calm association, community-wide policy, and the decisions that shape our direction. The goal: a community that keeps its volunteer-hearted, inclusive feel while outlasting any one person, founders included.
 
-Thoughtful input welcome. 🧭
+Disagree with ideas, not people. Come to build, not just to react. 🧭
 
 📋 WhatsApp rules: https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/rules/whatsapp-rules.md
 📜 Decision-making: https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/governance/decision-making.md
+🏛️ Who's in Governance: https://github.com/keepcalmbcn/keepcalm/blob/main/keep-calm/governance/governance-group.md
 ```

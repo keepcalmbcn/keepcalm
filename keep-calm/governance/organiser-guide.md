@@ -6,12 +6,14 @@ The playbook for running a sport in Keep Calm. Whether you're taking over or sta
 
 ## The Commitment
 
-- **Time**: 1-3 hours per week depending on the sport
-- **Consistency**: Your sport needs you (or a backup) every week
-- **Communication**: Responsive on WhatsApp, especially around event days
-- **Duration**: Aim for at least 3-6 months to give the role continuity
+Everyone organising is a volunteer doing this in their free time - the numbers below are a rough guide, not a target to hit.
 
-You get recognition, input on how your sport runs, and the satisfaction of making it happen. You don't get payment or exemption from community rules. See [Partnerships & Reciprocity](../rules/partnerships-reciprocity.md) for more.
+- **Time**: usually 1-3 hours per week depending on the sport
+- **Consistency**: ideally your sport is covered most weeks, between you and your fellow organisers, or a backup
+- **Communication**: responsive on WhatsApp when you can be, especially around event days
+- **Teamwork**: work well with your fellow organisers and admins, and respect their decisions, even the ones you'd have called differently
+
+You get recognition, input on how your sport runs, and the satisfaction of making it happen - plus a genuinely nice way to meet great people in Barcelona. You don't get payment or exemption from community rules. See [Partnerships & Reciprocity](../rules/partnerships-reciprocity.md) for more.
 
 ---
 

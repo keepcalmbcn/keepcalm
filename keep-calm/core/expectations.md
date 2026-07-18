@@ -17,11 +17,11 @@ The compact expectations-and-benefits summary to send **alongside the [Core invi
 - **Keep treating people well.** Core members set the tone, especially with newcomers. The [Community Conduct](../policies/community-conduct.md) rules apply to you at the highest standard, because you represent Keep Calm.
 - **Stay reliable.** Show up when you commit, give notice when you can't - the same [Event Rules](../rules/event-rules.md) as everyone, held a little more visibly.
 - **Help calm things, not stir them.** When something goes wrong in a group or at a session, Core is part of the solution.
-- **Stay part of the community.** Core is for active members. Life happens and quiet phases are fine - vanishing for good just means Core stops being the right fit.
+- **Meet up in person at least once every 6 months** ⚙️ CONFIRM. Any Keep Calm activity, any sport or social category, counts - it's the same bar you joined on, just ongoing.
 
 **The bare minimum to keep Core status**
 
-Be the person we invited: active now and then, reliable when committed, and trusted by the people around you. There are no quotas, no duties, and no rota - Core is not a job. The only real way to lose it is serious or repeated conduct issues, and even then it's handled privately, by the organisers, with the chance to be heard ([Decision Making](../governance/decision-making.md#appeals)).
+Be the person we invited: active now and then (in person, at least once every 6 months ⚙️ CONFIRM), reliable when committed, and trusted by the people around you. There are no quotas beyond that, no duties, and no rota - Core is not a job. If six months passes with nothing, you'll get a friendly private heads-up first, not a surprise removal - see [Staying Core](README.md#staying-core-the-ongoing-activity-bar) for exactly how that works. The only way to lose Core over conduct rather than activity is serious or repeated issues, and even then it's handled privately, by the organisers, with the chance to be heard ([Decision Making](../governance/decision-making.md#appeals)).
 
 **What you get**
 
@@ -49,8 +49,9 @@ Core comes with a standard, and we'd rather be upfront about it than surprise yo
 💛 Keep treating people well - Core members set the example, especially with newcomers
 📅 Stay reliable - show up when you commit, give notice when you can't
 🤝 Be part of the calm - help settle things, not stir them
+🤗 Meet up in person at least once every 6 months - any activity counts
 
-That's genuinely it. No duties, no quotas, no rota. Core isn't a job - it's recognition, and the only way to lose it is to stop being the person we invited.
+That's genuinely it. No duties beyond that, no quotas, no rota. Core isn't a job - it's recognition, and the only way to lose it is to stop being the person we invited (and even then, you'd get a friendly heads-up first, not a surprise).
 
 The full one-pager is attached with what you get out of it too (spoiler: first access to limited events, a say in where Keep Calm goes, and the group that won't buzz your phone 200 times before breakfast 😅).
 ```

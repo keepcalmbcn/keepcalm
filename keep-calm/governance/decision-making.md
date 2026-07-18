@@ -14,14 +14,14 @@ How decisions get made in Keep Calm. We keep it simple - the people doing the wo
 
 **For bigger changes** (new venue, adding fees, dropping a sport): discuss with other organisers first.
 
-### Organisers decide together for the community
+### Governance decides together for the community
 - New sports or activities
 - Community-wide policies and rules
 - Removing members (strike 3)
 - External partnerships
 - Anything that affects the whole community
 
-For significant decisions, organisers discuss and aim for consensus. If there's no consensus, majority wins. Once decided, everyone supports the decision.
+These go to the [Keep Calm Governance](governance-group.md) group specifically, not the general Organisers group - it's smaller and more selective for exactly that reason. For significant decisions, Governance discusses and aims for consensus. If there's no consensus, majority wins. Once decided, everyone supports the decision.
 
 ---
 
@@ -33,7 +33,7 @@ Anyone can suggest changes. The process depends on the size of the change:
 
 **Medium** (affects multiple sports or is a new policy): Write it up, share with organisers, discuss for a week or two, then decide.
 
-**Large** (fundamental to how the community works): Written proposal, community feedback, organisers decide.
+**Large** (fundamental to how the community works): Written proposal, community feedback, Governance decides.
 
 ---
 
@@ -65,6 +65,7 @@ Sometimes things can't wait - dangerous weather, someone being aggressive at a s
 
 ## Related Documents
 
+- [Keep Calm Governance](governance-group.md) - who's in Governance, the standard, and how you join
 - [Organiser Guide](organiser-guide.md) - Organiser responsibilities
 - [Role Descriptions](role-descriptions.md) - Who does what
 - [Who Does What (RACI)](raci.md) - The responsibility matrix behind this page

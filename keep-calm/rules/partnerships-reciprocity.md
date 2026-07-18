@@ -27,6 +27,7 @@ Leaders and organisers give their time, expertise, and energy to make Keep Calm 
 | Consistency | Community status and relationships |
 | Ideas | Input on community direction |
 | Reliability | First access to popular/limited events |
+| Sustained contribution | Fast-track to [Keep Calm Core](../core/README.md#organiser--admin-fast-track) |
 
 ### What We Don't Offer
 
@@ -156,6 +157,7 @@ Since we don't offer commercial promotion, we should be generous with what we do
 - Input on community decisions
 - Early access to limited events
 - Invitation to organiser meetups/socials
+- A fast-track to [Keep Calm Core](../core/README.md#organiser--admin-fast-track)
 
 ### Platform to Lead
 - Opportunities to run beginner sessions

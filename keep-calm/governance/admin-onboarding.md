@@ -12,24 +12,29 @@ Send the one-pager with the invitation. Someone who accepts has seen and accepte
 
 ### Becoming a Keep Calm Admin
 
-**The role in one sentence:** you hold a position of trust - admin rights exist to keep the groups safe, friendly, and usable, and every member should be able to rely on you being fair.
+**The role in one sentence:** you hold a bit of trust from the community - admin rights exist to keep the groups safe, friendly, and usable, and people should be able to rely on you being fair.
 
-**What we expect of you**
+**Before anything else: you're a volunteer**
 
-- **Act on what you see.** Spam, rule breaches, and especially reports of unsolicited DMs get a response, not a shrug. Reports of harassment are the one thing we never let slide ([WhatsApp Rules](../rules/whatsapp-rules.md)).
-- **Be responsive.** You don't need to be online all day, but flagged issues should get picked up within a day or so.
-- **Fairness over friendship.** Rules apply identically to friends, regulars, and strangers. If you're too close to a situation, hand it to another admin.
-- **Discretion.** Member issues get handled privately, never in the group. What you learn as an admin (contact details, disputes, appeals) stays confidential.
-- **Use the access only for the community.** Admin rights and member data are never for personal or commercial use - this is covered by our [Data & Privacy](../policies/data-privacy.md) policy and it is the fastest way to lose the role.
-- **Hold yourself to the highest conduct standard.** Admins set the example ([Community Conduct](../policies/community-conduct.md)).
+Admins, like organisers and everyone else who helps Keep Calm happen, are volunteers giving up their own free time because they want to. Nothing below is an official rulebook - it's guardrails so we're roughly on the same page, not a checklist you're being marked against. We're all doing this to grow the community together and meet great people in Barcelona along the way.
 
-**The bare minimum to keep the role**
+**What we're hoping for**
 
-Stay reachable, pick up reports within a day or so, act fairly on breaches, keep member matters private. If you're travelling or busy, say so - cover is easy to arrange, silence isn't. The only quick way out of the role is misusing the access or ignoring reports.
+- **A response, not a shrug, when something comes up.** Spam, rule breaches, and especially reports of unsolicited DMs deserve a look. Reports of harassment are the one thing we take seriously without exception ([WhatsApp Rules](../rules/whatsapp-rules.md)).
+- **Reachable when you can be.** No need to be online all day - flagged issues getting picked up within a day or so is plenty.
+- **Fairness over friendship.** Rules apply the same to friends, regulars, and strangers. If you're too close to a situation, it's totally fine to hand it to another admin.
+- **A bit of discretion.** Member issues are best handled privately rather than in the group. What you learn as an admin stays between admins.
+- **Keep the access community-only.** Admin rights and member data are for the community, not personal or commercial use - covered by our [Data & Privacy](../policies/data-privacy.md) policy.
+- **A little extra care with conduct**, since admins naturally set the example ([Community Conduct](../policies/community-conduct.md)).
+
+**The bare minimum, if we're honest**
+
+Stay reachable-ish, pick up reports within a day or so, act fairly, keep member matters private. If you're travelling or busy, just say so - cover is easy to arrange, going quiet isn't great. Misusing the access or ignoring reports is really the only thing that doesn't work here.
 
 **What you get**
 
 - The trust of the community, and recognition for holding it
+- A fast-track to [Keep Calm Core](../core/README.md#organiser--admin-fast-track): the role itself already proves most of what Core looks for
 - Real input on rules, policy, and where Keep Calm goes next
 - First access to popular and limited events
 - Invitations to organiser and admin meetups and socials
@@ -92,3 +97,4 @@ Ask anything here anytime - nobody handles a tricky situation alone, and a secon
 - [Who Does What (RACI)](raci.md) - responsibilities across all roles
 - [Organiser Onboarding](organiser-onboarding.md) - the same pack for organisers
 - [Core Expectations](../core/expectations.md) - the same pack for Core
+- [Keep Calm Core](../core/README.md#organiser--admin-fast-track) - the admin fast-track referenced above

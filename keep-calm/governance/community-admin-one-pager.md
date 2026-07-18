@@ -9,6 +9,7 @@ Mostly asynchronous, driven by requests rather than a weekly cycle:
 - **When asked**: process permission requests, form tweaks, and paperwork within a few days
 - **When an appeal lands**: pick it up promptly - people appealing a strike are anxious, speed is kindness
 - **Periodically**: check the association paperwork calendar (renewals, filings) so nothing lapses
+- **Periodically**: cross-check the Core roster against attendance records for the 6-month activity bar (see [Staying Core](../core/README.md#staying-core-the-ongoing-activity-bar))
 
 ## Handled automatically (you do nothing)
 
@@ -21,6 +22,7 @@ Mostly asynchronous, driven by requests rather than a weekly cycle:
 - **Association paperwork**: registrations, renewals, and filings (the working documents live in our private admin space, not this public repo)
 - **Forms and permissions**: field requests for new sign-up forms or changes, define what's needed, and pass the technical build to the Community Lead
 - **Membership queries**: inactivity, rejoining, and "why was I removed" questions
+- **Core activity checks**: cross-reference the Core roster against attendance records, send a friendly private heads-up around month 4-5 if someone's coming up on 6 months with nothing recorded, and quietly lapse anyone who doesn't follow up - see [Staying Core](../core/README.md#staying-core-the-ongoing-activity-bar)
 - **Records**: keep decisions and appeals outcomes written down where organisers can find them
 
 ## You decide without asking anyone

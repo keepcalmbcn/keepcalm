@@ -30,20 +30,13 @@ Our competitive advantage isn't any single activity-it's the unified, welcoming 
 
 For Keep Calm to outlast any individual and grow beyond its founders, three things must align:
 
-### 1. Distributed Leadership
+### 1. Distributed Leadership ✅ largely built
 
-Move from *named individuals* to *defined roles*. Instead of one person owning a sport, it becomes:
+Move from *named individuals* to *defined roles*. This is no longer just an aspiration - the roles are documented and named: **Sport Lead**, **Booker**, **Event Organiser** (see [Role Descriptions](../governance/role-descriptions.md)), plus **Moderator**, **Community Admin**, **Content Editor**, and **Community Lead** at the community-wide level (see the [RACI matrix](../governance/raci.md) for exactly who owns what). Role Descriptions and RACI are the current source of truth for this - don't re-list roles here, they'll drift out of sync.
 
-| Role | Responsibility |
-|------|----------------|
-| **Sport Lead** | Owns the weekly rhythm, polls, venues, and strategy |
-| **Session Host** | Runs the actual day (can rotate between members) |
-| **Beginner Ambassador** | Welcomes and mentors newcomers |
-| **Booker** | Handles payments and logistics |
+When roles are transferable, the community survives people moving, burning out, or stepping back. Every one of those roles now has a stepping-down/handover process (see [Organiser Guide](../governance/organiser-guide.md#stepping-down)).
 
-When roles are transferable, the community survives people moving, burning out, or stepping back.
-
-### 2. Self-Generating Participation
+### 2. Self-Generating Participation ✅ built, via Core
 
 The best communities grow from within. We need a clear path for engaged members to step up:
 
@@ -51,67 +44,31 @@ The best communities grow from within. We need a clear path for engaged members 
 Newcomer → Regular → Volunteer → Organizer → Lead
 ```
 
-- Someone who plays 5+ times should be invited to help
-- Someone who helps 3+ times should be invited to organize
-- Make this explicit and celebrate it publicly
+This pipeline is now formalised as [Keep Calm Core](../core/README.md): Time, Participation, Contribution, and Conduct are the explicit, documented triggers, with a fast-track for anyone who takes on an organiser or admin role. It's made visible via the invitation and welcome messages in `organiser-onboarding.md`, `admin-onboarding.md`, and `core/invite.md` - not left to chance.
 
-### 3. Minimal Viable Infrastructure
+### 3. Minimal Viable Infrastructure - partially built
 
-The community must be able to survive losing any single person. This means:
+The community must be able to survive losing any single person. Status:
 
-- Member data lives somewhere permanent
-- Polls and sessions can be created by anyone with the role
-- New organizers can be onboarded with documented playbooks
-- Critical accounts and access are shared appropriately
+- ✅ **New organisers can be onboarded with documented playbooks** - `organiser-onboarding.md`, `admin-onboarding.md`, and per-sport `organiser-one-pager.md` files. Currently built for football, hiking, padel, ping-pong, running, tennis, and volleyball - badminton, basketball, climbing, languages, social, wintersports, and yoga-pilates still need one.
+- ✅ **Polls and sessions can be created by anyone with the role** - most scheduled posting now runs on automation (see the RACI matrix's Automation column), not one person's hands.
+- ⏳ **Member data lives somewhere permanent** - not yet. [Data & Privacy](../policies/data-privacy.md) is explicit that attendance/member records are still partly on organisers' personal devices; centralised storage is called out there as a "working toward," not a "have."
+- ⏳ **Critical accounts and access are shared appropriately** - not tracked in this repo; worth a private-repo check-in rather than a public doc.
 
 ---
 
 ## Organizational Structure
 
-```
-                    ┌─────────────────┐
-                    │   Keep Calm     │
-                    │   Core Team     │
-                    │   (3-5 people)  │
-                    └────────┬────────┘
-                             │
-        ┌────────────────────┼────────────────────┐
-        │                    │                    │
-   ┌────┴────┐         ┌─────┴─────┐        ┌─────┴─────┐
-   │ Sports  │         │ Community │        │   Ops     │
-   │  Leads  │         │  & Social │        │   Team    │
-   └────┬────┘         └─────┬─────┘        └─────┬─────┘
-        │                    │                    │
-   ┌────┴────┐         ┌─────┴─────┐        ┌─────┴─────┐
-   │ Padel   │         │ Events    │        │ Comms     │
-   │ Volley  │         │ Welcomers │        │ Tech      │
-   │ Tennis  │         │ Photos    │        │ Finance   │
-   │ Ping P  │         │           │        │           │
-   │ Hiking  │         │           │        │           │
-   │ Football│         │           │        │           │
-   │ Yoga    │         │           │        │           │
-   └─────────┘         └───────────┘        └───────────┘
-```
+> **Naming note:** this section originally used "Core Team" for the small strategic-decisions group. That's now called **[Keep Calm Governance](../governance/governance-group.md)** - don't confuse it with **[Keep Calm Core](../core/README.md)**, which is the separate, much larger tier for engaged members generally. The rename happened because "Core" needed to mean the wider, welcoming group; the small decision-making body needed a different name.
 
-### Core Team (3-5 people)
-- Strategic decisions and cross-sport coordination
-- Community health and conflict resolution
-- Meets monthly to review and plan
+The actual structure is now documented where it's maintained day-to-day, rather than redrawn here (a diagram in a vision doc always drifts out of sync with reality faster than the docs it should be pointing to):
 
-### Sports Leads
-- Own their sport end-to-end
-- Empowered to make decisions for their sport
-- Report monthly on participation and issues
+- **[Keep Calm Governance](../governance/governance-group.md)** makes community-wide decisions - new sports, policy, partnerships, removals. Invite-only, drawn from Organisers/Admins and established Core members. See [Decision Making](../governance/decision-making.md) for exactly what goes here versus what a Sport Lead decides alone.
+- **Sport Leads** own their sport end-to-end - see the per-sport `organiser-one-pager.md` files and [Role Descriptions](../governance/role-descriptions.md).
+- **Community Admin, Moderator, and Content Editor** cover the community-wide functions that used to be lumped together as "Community & Social" and "Ops" - paperwork/appeals, group moderation, and comms/social respectively. See their one-pagers and the [RACI matrix](../governance/raci.md) for the current, authoritative breakdown of who owns what.
+- **Keep Calm Core** is the wider pool all of the above draws from - see [Keep Calm Core](../core/README.md).
 
-### Community & Social
-- Onboarding and welcoming new members
-- Events, photography, and member engagement
-- The "glue" that connects people across sports
-
-### Ops Team
-- Website and social media
-- Member data and systems
-- Finances (if/when we formalize as asociación)
+This is a real structural change from the original three-team sketch (Sports / Community & Social / Ops) below it - the roles that emerged in practice didn't map cleanly onto three teams, so the RACI matrix replaced the org chart as the source of truth.
 
 ---
 
@@ -145,51 +102,54 @@ This only works if we actively cultivate organizers from our regular members. En
 
 ## Roadmap
 
+Status as of 2026-07-18 - see the note at the end of each phase for what's changed since this roadmap was written.
+
 ### Phase 1: Foundation (Now - 3 months)
 
 **Structure & Roles**
-- [ ] Define 3-4 roles per sport and document responsibilities
-- [ ] Identify 2-3 members per sport who could step into roles
+- [x] Define 3-4 roles per sport and document responsibilities - see [Role Descriptions](../governance/role-descriptions.md)
+- [ ] Identify 2-3 members per sport who could step into roles (ongoing, not something a doc can mark done)
 - [ ] Create "Volunteer Interest" form to capture willing helpers
-- [ ] Create organizer playbooks for each sport (Padel is 80% done)
+- [ ] Create organizer playbooks for each sport - done for football, hiking, padel, ping-pong, running, tennis, volleyball; still needed for badminton, basketball, climbing, languages, social, wintersports, yoga-pilates
 
 **Community**
-- [ ] Establish monthly cross-sport social
-- [ ] Build simple member database (name, email, sports, skill level)
-- [ ] Systematize the newcomer journey
+- [ ] Establish monthly cross-sport social (ongoing/operational, not doc-trackable)
+- [ ] Build simple member database (name, email, sports, skill level) - still not centralised, see [Data & Privacy](../policies/data-privacy.md)
+- [x] Systematize the newcomer journey - organiser/admin/Core/Governance invitation and welcome messages are now all documented and consistent
 
 ### Phase 2: Growth (3-6 months)
 
 **Formalization**
-- [ ] Register as asociación sin ánimo de lucro
-- [ ] Establish GDPR and photography consent processes
+- [ ] Register as asociación sin ánimo de lucro - tracked in the private `keepcalm-journal` repo, not this public one
+- [x] Establish GDPR and photography consent processes - [Data & Privacy](../policies/data-privacy.md), [Photography & Media Consent](../policies/photography-media-consent.md), [Website Privacy & Cookies](../policies/website-privacy-cookies.md)
 - [ ] Set up proper insurance/liability coverage
 
 **Expansion**
-- [ ] Launch Football 
-- [ ] Launch Yoga (need venue and/or instructor)
+- [x] Launch Football
+- [x] Launch Yoga
 - [ ] Add second Padel venue (east Barcelona / Poblenou)
+- The community has grown well beyond this list since it was written - badminton, basketball, climbing, wintersports, languages, and social are all active too
 
 **Systems**
-- [ ] Improve website with proper event information
+- [x] Improve website with proper event information - keepcalm.fit is live
 - [ ] Set up email list for community announcements
-- [ ] Create onboarding sequence for new members
+- [x] Create onboarding sequence for new members - see Phase 1 note above
 
 ### Phase 3: Sustainability (6-12 months)
 
 **Infrastructure**
 - [ ] Build or adopt proper member management system
 - [ ] Reduce WhatsApp dependency for critical functions
-- [ ] Automate routine tasks (polls, reminders, follow-ups)
+- [x] Automate routine tasks (polls, reminders, follow-ups) - most scheduled posting now runs on automation, see the RACI matrix's Automation column
 
 **Leadership**
-- [ ] Develop organizer training/onboarding program
-- [ ] Establish formal handover process for roles
-- [ ] Create succession planning for core team
+- [x] Develop organizer training/onboarding program - `organiser-onboarding.md`, `admin-onboarding.md`
+- [x] Establish formal handover process for roles - the Stepping Down checklist in [Organiser Guide](../governance/organiser-guide.md#stepping-down)
+- [x] Create succession planning for core team - this is what [Keep Calm Governance](../governance/governance-group.md) now is; see the naming note above
 
 **Partnerships**
 - [ ] Formal venue partnerships with preferred rates
-- [ ] Collaboration agreements with complementary communities
+- [x] Collaboration agreements with complementary communities - the framework is now documented in [Partnerships & Reciprocity](../rules/partnerships-reciprocity.md); specific agreements are still case-by-case
 - [ ] Relationship with Barcelona International Welcome Desk
 
 ---
@@ -239,10 +199,12 @@ Structure enables sustainability, but culture is what makes people stay.
 - "That's how we've always done it" blocking improvement
 - Any individual becoming a single point of failure
 
+This is the same balance [Keep Calm Core](../core/README.md) is built around: no gatekeeping to get in once you've earned it, but real accountability once you're there.
+
 ---
 
 ## Living Document
 
-This vision should evolve as the community grows. Review quarterly with the core team and update based on what we learn.
+This vision should evolve as the community grows. Review quarterly with Governance and update based on what we learn.
 
-Last updated: January 2026
+Last updated: 2026-07-18 - reconciled against the now-built governance layer (Core, Governance, RACI, organiser/admin onboarding). Previous update: January 2026.

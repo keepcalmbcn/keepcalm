@@ -1,6 +1,8 @@
 # Volleyball Organiser - One-Pager
 
-**The role in one sentence:** you make beach volleyball happen - the daily poll posts itself, you bring the net, set the meeting point, and keep the games friendly and mixed.
+**The role in one sentence:** you help beach volleyball happen - the daily poll posts itself, you bring the net, set the meeting point, and keep the games friendly and mixed.
+
+*You're a volunteer, same as everyone else who helps Keep Calm run - this page is guardrails so we're roughly on the same page, not a checklist you're marked against. We're all doing this to grow the community together and meet great people along the way.*
 
 ## Weekly rhythm
 
@@ -24,7 +26,6 @@ Games run throughout the week as members propose them, with regular Saturday ses
 - **Answer questions** in the group: locations, format, what to bring
 - **Welcome newcomers**: introduce them, get them into a rotation quickly
 - **Day-of calls**: weather and wind, moving beaches if nets are taken
-- **Apply strikes** only for real patterns (volleyball is drop-in, so be generous)
 
 ## You decide without asking anyone
 
