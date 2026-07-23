@@ -15,6 +15,7 @@ Welcome to Keep Calm Volleyball! To keep things fun and fair for everyone, pleas
 - If you say you're coming, make the effort to show up
 - If your plans change, let the group know so others can take your spot
 - For organised sessions with limited spots, dropping out last minute lets people down
+- **When a session is oversubscribed**, priority goes first to existing community members (already in the group before the day of the event, not people who join on the day), then to those who voted in the daily poll. There's still no spot reservation, but not voting affects how well the session can be organised.
 
 ## 2. Equipment
 

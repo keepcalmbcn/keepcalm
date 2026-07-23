@@ -30,7 +30,6 @@ Hikes are roughly monthly, usually Sundays that don't clash with major padel eve
 - Route, date, capacity, meeting point, and train plan
 - Go/no-go weather calls and on-trail safety decisions
 - Strikes 1 and 2, and waiting-list management
-- Spending up to a hike's normal per-person cost (train fare territory) to solve a problem ⚙️ CONFIRM
 
 ## Decide together with other organisers
 

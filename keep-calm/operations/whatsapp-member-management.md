@@ -13,10 +13,9 @@ This document outlines our approach to managing WhatsApp group membership to kee
 
 ### Activity Requirement
 
-We ask for minimal engagement - **at least once a month**. This can be:
-- Reacting to announcements or messages
-- Contributing to conversations
-- Participating in polls or events
+We ask for minimal engagement, split into two levels:
+- **In chat: at least once a month** - reacting to announcements or messages, contributing to conversations, voting in polls
+- **In person: at least once every 3 months** - actually attending an activity or session
 
 ### Timing & Scale
 
@@ -41,13 +40,12 @@ Hey everyone! 👋
 
 *Quick reminder:* We regularly remove inactive members to make space for new folks who want to join our community and be involved in our various sports/activities.
 
-To stay in the group, please just stay active! This can be as simple as:
+To stay in the group, please just stay active! Two easy ways:
 
-👍 Reacting to announcements or messages
-💬 Contributing to conversations
-📣 Participating in polls or events
+👍 In chat *at least once a month* - reacting to announcements, contributing to conversations, voting in polls
+🎾 In person *at least once every 3 months* - actually coming along to a session or activity
 
-We only ask for activity *at least once a month* - that's it!
+That's it!
 
 Thanks for being part of this community! 🤗🥰
 

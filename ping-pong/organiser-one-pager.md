@@ -31,7 +31,6 @@ Sessions run Thursday evenings at the Sants outdoor tables:
 - Timing tweaks within the usual evening window
 - The rain call
 - Strikes 1 and 2 for genuine repeat offenders
-- Spending up to a normal session's cost, e.g. replacement balls or a spare racket (the session itself is free) ⚙️ CONFIRM
 
 ## Decide together with other organisers
 

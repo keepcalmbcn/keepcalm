@@ -32,7 +32,9 @@ Organisers and admins: see the [fast-track](#organiser--admin-fast-track) below 
 An active member for **6+ months**. Core members are familiar faces, not newcomers, and not just here for a season.
 
 ### 2. Participation 🎾
-Has joined at least **5 Keep Calm events** across any sport or social category. Core is cross-community, so breadth counts as much as frequency.
+Has joined at least **5 Keep Calm events**, genuinely spread across the community rather than all in one sport. Core is cross-community, so breadth counts as much as frequency: a few socials, or trying a different sport or two, counts toward this the same as your home sport does.
+
+Being brilliant at running one sport is real Contribution (see below), but it is not on its own Participation. Someone who is superb at organising a single sport but never shows up anywhere else in the community hasn't yet demonstrated what Core is about - see [What Core is](#what-core-is).
 
 ### 3. Contribution 🙌
 Has given back in a real way. That can be organising or co-organising an event, but it does not have to be. Consistent informal help counts just as much:
@@ -46,7 +48,7 @@ Has given back in a real way. That can be organising or co-organising an event, 
 A title is not required. Reliable help is. See [Informal Contributions](../governance/role-descriptions.md#informal-contributions).
 
 ### 4. Conduct 💛
-Treats people well and is someone the community trusts. Respected by other members, and with no unresolved conduct issues or active strikes. This is the bar that matters most, and it is the one that keeps applying after someone joins (see [The Core standard](#the-core-standard)).
+Treats people well and is someone the community trusts. Respected by other members, and with no unresolved conduct issues or active strikes. This is about more than avoiding strikes: Core members represent Keep Calm, so this also means a mature, welcoming tone day to day. Someone whose humour leans edgy, laddish, or exclusionary in group chats isn't yet setting the tone Core is meant to set, even if nothing rises to a formal conduct issue. This is the bar that matters most, and it is the one that keeps applying after someone joins (see [The Core standard](#the-core-standard)).
 
 ---
 
@@ -62,8 +64,8 @@ If someone clearly fits but no one has put their name forward, anyone can raise 
 
 Taking on an organiser or admin role already demonstrates most of the four pillars above: it's Contribution by definition, and running a sport most weeks usually satisfies Participation too. Active organisers and admins can be confirmed for Core sooner than the general path:
 
-- **Time:** 3+ months in an organiser or admin role, rather than 6+ months as a general member ⚙️ CONFIRM
-- **Participation:** no separate event count needed - running your sessions counts ⚙️ CONFIRM
+- **Time:** 3+ months in an organiser or admin role, rather than 6+ months as a general member
+- **Participation:** no separate event count needed - running your sessions counts
 - **Contribution:** satisfied by the role itself
 - **Conduct:** the same bar as everyone else - the fast-track shortens the wait, not the standard
 
@@ -84,13 +86,14 @@ Core members are expected to:
 - Treat every member and guest with respect, especially newcomers
 - Be reliable: show up when they commit, give notice when they can't
 - Help resolve problems calmly rather than add to them
+- Keep group-chat tone mature and welcoming - edgy, laddish, or exclusionary "banter" isn't the example Core is meant to set, even said in jest
 - Uphold the [Community Conduct](../policies/community-conduct.md) rules and set the example
 
 ## Staying Core: the ongoing activity bar
 
 Core doesn't expire on its own, but it also isn't a badge you keep forever without showing up. There's one ongoing, low bar on top of the conduct standard above:
 
-- **Meet up in person at least once every 6 months** ⚙️ CONFIRM. Any Keep Calm activity, any sport or social category, counts - this is the same Participation pillar you joined on, just checked on an ongoing basis instead of once.
+- **Meet up in person at least once every 6 months**. Any Keep Calm activity, any sport or social category, counts - this is the same Participation pillar you joined on, just checked on an ongoing basis instead of once.
 
 That's it. No quotas beyond this, no rota, no duties - see [Core Expectations](expectations.md) for the full "bare minimum."
 
@@ -124,13 +127,13 @@ Core Members are the backbone of Keep Calm - the people who show up, contribute,
 Be an active member for *6+ months*. Core Members are familiar faces, not newcomers.
 
 *02 - Participation* 🎾
-Join at least *5 Keep Calm events* across any sport or social category.
+Join at least *5 Keep Calm events*, genuinely spread across the community - not just your one sport.
 
 *03 - Contribution* 🙌
 Give back in a real way - organise or co-organise an event, or be one of the people who reliably helps out (welcoming newcomers, setup, kit, photos). No title needed.
 
 *04 - Conduct* 💛
-Treat people well and be someone the community trusts. Core Members are held to a higher bar, because they represent Keep Calm.
+Treat people well and be someone the community trusts, with a mature, welcoming tone. Core Members are held to a higher bar, because they represent Keep Calm.
 
 ━━━━━━━━━━━━━━━━━━
 

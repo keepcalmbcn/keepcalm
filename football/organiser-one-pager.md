@@ -34,7 +34,6 @@ Games are Friday 18:00 at Satalia, in partnership with Vaya Sports:
 - Team mixing and on-the-day format tweaks with the Vaya organiser
 - Strikes 1 and 2, and chasing replacements
 - Weather calls in coordination with Vaya
-- Spending up to a session's normal per-player cost to solve a problem ⚙️ CONFIRM
 
 ## Decide together with other organisers
 

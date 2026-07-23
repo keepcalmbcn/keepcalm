@@ -33,7 +33,6 @@ Games run throughout the week as members propose them, with regular Saturday ses
 - Team mixing and rotations
 - Strikes 1 and 2 for genuine repeat offenders
 - Weather calls (cancelled only if conditions are dangerous or unplayable)
-- Spending up to a normal session's cost, e.g. a replacement ball; occasional indoor sessions at the usual small per-player venue fee ⚙️ CONFIRM
 
 ## Decide together with other organisers
 

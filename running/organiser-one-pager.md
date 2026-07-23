@@ -30,7 +30,6 @@ Runs are Wednesday evenings:
 - Pace-group handling and regroup points on the day
 - Weather and safety calls (runs are free to move or shorten)
 - Strikes 1 and 2 for genuine repeat patterns (rare - runs are drop-in)
-- Spending up to a normal session's cost (runs are free, so this is essentially nothing) ⚙️ CONFIRM
 
 ## Decide together with other organisers
 

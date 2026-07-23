@@ -9,7 +9,7 @@
 Sessions run Tuesday evenings. Your real touchpoints:
 
 - **Wednesday morning**: review and sign off the matchups draft when it reaches you
-- **During the week**: post the confirmed court assignments (players get tagged), confirm bookers
+- **Within 24 hours of the matchups draft being generated in the Keep Calm Organisers group**: check court availability, then post the confirmed court assignments (players get tagged) and confirm bookers
 - **Tuesday evening**: be reachable around session time for day-of issues
 
 ## Handled automatically (you do nothing)
@@ -21,7 +21,7 @@ Sessions run Tuesday evenings. Your real touchpoints:
 
 ## Yours to do
 
-- **Review the matchups**: levels balanced, every court has a booker, no known conflicts, then post the confirmed court assignments to the group (players get tagged)
+- **Review, check courts, and post**: levels balanced, every court has a booker, no known conflicts, then sign off. Within 24 hours of the matchups draft being generated, check court availability and post the confirmed court assignments to the group (players get tagged)
 - **Answer questions** in the group, as they come up: levels, Playtomic, the Plaça Espanya meet-up, venues
 - **Be the friendly face if you're there**: meet people at the venue (the bar/restaurant near the courts is an easy landmark), help newcomers find their court - there's a map near the entrance but it's still easy to get lost
 - **Coordinate tennis balls and spare rackets**: make sure someone's bringing balls (not padel balls!) and that newcomers without a racket can borrow one
@@ -36,7 +36,6 @@ Sessions run Tuesday evenings. Your real touchpoints:
 - Strikes 1 and 2, and replacements for dropouts
 - Timing tweaks within the usual 19:00-22:00 window
 - Weather calls (same principle as padel: games on unless the venue cancels or the whole court agrees)
-- Spending up to a session's normal per-player cost (about 10 euros) to solve a problem ⚙️ CONFIRM
 
 ## Decide together with other organisers
 

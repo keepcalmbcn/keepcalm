@@ -37,6 +37,17 @@ Every sport follows a similar rhythm:
 
 ---
 
+## Recording Attendance
+
+If you run an event (a regular session or a one-off), record roughly who came and report it back so it can be added to the community's activity record.
+
+- A headcount is the minimum, names if you have them handy - the sign-up poll/form responses usually cover this
+- Post it in the **Keep Calm Organisers** group afterwards so Community Admin can log it
+- Doesn't need to be formal: "12 people, mostly regulars, plus Maria and Tom trying it for the first time" is enough
+- This is what backs up [Core's ongoing activity bar](../core/README.md#staying-core-the-ongoing-activity-bar) and governance eligibility - without it, nobody can actually be credited for showing up
+
+---
+
 ## Organising Games
 
 For sports that need team formation (padel, tennis, volleyball):

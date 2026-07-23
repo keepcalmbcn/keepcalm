@@ -26,8 +26,8 @@ That only works if the room where those decisions happen is one where people act
 
 Invite-only, and deliberately smaller than Core. Two paths in, both still by invitation:
 
-- **Organisers and Admins in good standing.** Taking on the role already proves real investment - 3+ months in the role is enough to be considered ⚙️ CONFIRM.
-- **Established Core members.** 6+ months in Core, with a track record of constructive, respectful contribution - not just attendance ⚙️ CONFIRM.
+- **Organisers and Admins in good standing.** Taking on the role already proves real investment - 3+ months in the role is enough to be considered.
+- **Established Core members.** 6+ months in Core, with a track record of constructive, respectful contribution - not just attendance.
 
 Meeting the bar above gets someone considered, not automatically in. Conduct is what actually decides it - see the standard below.
 

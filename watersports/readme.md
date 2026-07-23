@@ -34,6 +34,8 @@ See the current event below for whatever's happening next.
 
 Anyone can organise a watersports event - there's no fixed organiser or fixed activity. See [How to Host a Keep Calm Event](../keep-calm/governance/how-to-host-an-event.md) for the full playbook.
 
+**Note for future events:** use a Google Form for sign-ups, rather than the in-chat numbered sign-up sheet used for the first event, so participants explicitly agree to the liability waiver and data/GDPR notice as part of signing up. See [hiking/planning.md](../hiking/planning.md) step 6 for a form template.
+
 ---
 
 See you on the water! 🏄🌅

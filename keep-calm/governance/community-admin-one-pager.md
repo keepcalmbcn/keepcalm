@@ -23,12 +23,12 @@ Mostly asynchronous, driven by requests rather than a weekly cycle:
 - **Forms and permissions**: field requests for new sign-up forms or changes, define what's needed, and pass the technical build to the Community Lead
 - **Membership queries**: inactivity, rejoining, and "why was I removed" questions
 - **Core activity checks**: cross-reference the Core roster against attendance records, send a friendly private heads-up around month 4-5 if someone's coming up on 6 months with nothing recorded, and quietly lapse anyone who doesn't follow up - see [Staying Core](../core/README.md#staying-core-the-ongoing-activity-bar)
+- **Logging attendance**: organisers and admins post a rough headcount/who-came in the Keep Calm Organisers group after events they run (see [Recording Attendance](organiser-guide.md#recording-attendance)) - keep those written down somewhere you can actually cross-check against later, that's what makes the Core activity checks above possible
 - **Records**: keep decisions and appeals outcomes written down where organisers can find them
 
 ## You decide without asking anyone
 
 - Appeal logistics: who hears it, timelines, how the outcome is communicated
-- Routine paperwork and renewals at their normal cost ⚙️ CONFIRM
 - Answering membership-status queries per existing policy
 
 ## Decide together with other organisers

@@ -116,3 +116,11 @@ The Sunday padel sessions run on a poll-based system managed by organisers. The 
 - Don't just drop out and disappear - actively try to find a replacement and keep your court informed
 - A late dropout that's handled well (communication, effort to find cover) is very different from one that isn't
 - Repeated poor handling of cancellations will count against you when spots are allocated
+
+**Reliability - see your commitment through**
+- When you vote in the poll, you're committing to show up on time and play the full 90 minutes, not just part of it
+- **Dropping out after signing up, without a genuine reason** (not just other plans that came up) leaves your court short and scrambling for a replacement
+- **Arriving late** without letting your court know holds up the game for the other 3 people
+- **Leaving partway through** because of plans made in advance (not a genuine emergency) ends the game early for everyone else, after they've paid and shown up expecting a full match
+- If you already know you can't make the start, stay for the full 90 minutes, or need to drop, don't sign up for that slot in the first place
+- Any of these results in a strike. Two strikes, or a single serious case, will mean removal from the group

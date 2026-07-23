@@ -7,7 +7,7 @@
 Sessions run Sundays. Your real touchpoints:
 
 - **Sunday night**: review and sign off the game card for next Sunday when it reaches you
-- **During the week**: post the confirmed court assignments and answer questions as they come up
+- **Within 24 hours of the game card being generated in the Keep Calm Organisers group**: check court availability, then post the games in the Sunday Padel group; answer questions as they come up
 - **Sunday**: be reachable around session time for day-of issues
 
 ## Handled automatically (you do nothing)
@@ -19,7 +19,7 @@ Sessions run Sundays. Your real touchpoints:
 
 ## Yours to do
 
-- **Review the game card**: check levels look right, no known conflicts, every court has a booker, then sign off
+- **Review, check courts, and post**: check levels look right, no known conflicts, every court has a booker, then sign off. Within 24 hours of the game card being generated, check court availability and share the games in the Sunday Padel group
 - **Answer questions** in the group: levels, venues, how the system works
 - **Day-of calls**: weather (per the [rain process](padel-rain.md)), no-shows, finding replacements
 - **Welcome newcomers**: point them at the [readme](readme.md), help them pick a level, check in after their first session
@@ -31,7 +31,6 @@ Sessions run Sundays. Your real touchpoints:
 - Booker assignments
 - Strikes 1 and 2, and replacements for dropouts
 - Weather calls, following the [rain process](padel-rain.md)
-- Spending up to a session's normal per-player cost (about 8 euros) to solve a problem, e.g. covering a gap on a court ⚙️ CONFIRM
 
 ## Decide together with other organisers
 

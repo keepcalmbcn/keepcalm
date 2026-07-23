@@ -18,6 +18,7 @@ Part of the larger **Keep Calm** not-for-profit community for English speakers i
 - If you want to come, respond to confirm so we know numbers
 - Turn up at the gym at the stated time and look for the group
 - Most sessions are bouldering, which needs no ropes, no partner, and no experience
+- There's a loose weekly rhythm: smaller weekday-morning sessions tend to happen at Sharma BCN, while Saturday mornings usually bring a bigger group together at Sharma Gavà with more of a rope-climbing focus (bouldering to warm up). Exact days and gyms still get confirmed session by session, so watch the group.
 
 ## What to Expect
 
@@ -31,11 +32,13 @@ Part of the larger **Keep Calm** not-for-profit community for English speakers i
 
 Barcelona has a great spread of climbing gyms. Sessions rotate between venues depending on what the group fancies. Common spots include:
 
-- **Sharma Climbing BCN** (Gavà / Poblenou) - large modern bouldering and rope walls
+- **Sharma Gavà** - the bigger of the two Sharma locations, with both bouldering and rope walls. A bit of a trek from the city centre, but it's the group's regular spot for rope-focused Saturday sessions. Gear can be rented on site.
+- **Sharma BCN** (Poblenou) - smaller and more central, popular for quick weekday morning sessions
 - **Climbat La Foixarda** (Montjuïc) - bouldering and rope climbing in a former municipal site
+- **Monobloc**, **Bloc District Marina**, and **Indoor Wall** - other gyms the group uses from time to time (Indoor Wall has run around €12 entry on weekday evenings)
 - **Other city gyms** - announced per session
 
-Occasional outdoor trips head to crags around Catalonia (for example Montserrat or the Garraf) for those with the experience and gear. Outdoor sessions are always clearly marked and need more preparation.
+Occasional outdoor trips head to crags around Catalonia (for example Montserrat, the Garraf, Vallirana, or Sant Martí de Centelles) for those with the experience and gear. Outdoor sessions are always clearly marked and need more preparation.
 
 ## Cost
 
