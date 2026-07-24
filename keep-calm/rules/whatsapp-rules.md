@@ -146,4 +146,4 @@ If you're unsure about anything:
 
 **Remember**: These groups exist to bring people together through sports and fun. Let's keep them positive, organized, and welcoming for everyone!
 
-**See also**: [Event Rules](event-rules.md) for participation policies.
+**See also**: [Event Rules](event-rules.md) for participation policies, and [Organising in the Open](organising-in-the-open.md) if you're planning something for a niche within a bigger group.

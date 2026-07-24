@@ -65,6 +65,12 @@ How we handle relationships and expectations:
 - Commercial vs non-commercial boundaries
 - Handling reciprocity expectations
 
+### 🚉 [Organising in the Open](organising-in-the-open.md)
+Why activities need to be planned in the Keep Calm group, not a private one:
+- The problem with niches splintering off into private groups
+- The simple rule: plan in the open, take logistics private
+- What happens if a group keeps organising outside Keep Calm
+
 ---
 
 ## Governance
