@@ -8,6 +8,7 @@ Part of the larger **Keep Calm** not-for-profit community for English speakers i
 
 - [Group Description](description.md) - what this group is about
 - [Group Rules](rules.md) - how we keep things running smoothly
+- [Andorra Trip Guide](andorra-guide.md) - what to know before a Grandvalira trip: transport, passes, rental, packing checklist
 - [Community Policies](../keep-calm/policies/README.md) - safety, data, conduct, and the 18+ policy you agree to by taking part
 - [General WhatsApp Rules](../keep-calm/rules/whatsapp-rules.md) - applies to all Keep Calm groups
 

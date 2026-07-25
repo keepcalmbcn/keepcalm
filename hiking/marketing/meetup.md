@@ -6,14 +6,14 @@
 
 https://keepcalm.fit/meetup/hiking
 
-Join Keep Calm Hiking for a full-day hike through some of Catalunya's best scenery. Routes range from coastal clifftop trails to mountain paths and forest tracks, all reachable by Rodalies train in under two hours from central Barcelona.
+This listing isn't one specific hike, it's how you join Keep Calm Hiking. We hike roughly once a month through some of Catalunya's best scenery, from coastal clifftop trails to mountain paths and forest tracks, all reachable by Rodalies train in under two hours from central Barcelona. RSVPing here gets you into our WhatsApp group, which is where each actual hike, with its date, route, and meeting point, gets announced.
 
-**What to expect**
+**What a typical hike looks like**
 
 - Distance: 10-20km depending on the route
 - Elevation gain: 300-800m
 - Duration: 4-6 hours walking, plus travel
-- Difficulty: Intermediate - routes are described in detail so you can judge for yourself
+- Difficulty: Intermediate - each hike's actual route is described in detail in the group announcement so you can judge for yourself
 - Shared lunch: everyone brings food to share (one of the highlights!)
 
 **Cost**
@@ -26,7 +26,7 @@ Water, hiking shoes (no trainers or sandals), layers, a rain jacket, sunscreen, 
 
 **How to join**
 
-RSVP here on Meetup, then join our WhatsApp group at https://keepcalm.fit/meetup/hiking - this is where hikes are announced with the meeting point, time, and route, and you must be in the group before you can come along. Sign-ups for each hike are managed via a Google Form linked in the announcement. Capacity is 25-30 people.
+RSVP here on Meetup, then join our WhatsApp group at https://keepcalm.fit/meetup/hiking. That group, not this listing, is where each actual hike gets announced with its date, meeting point, and route, and you must be in the group before you can come along. Sign-ups for each hike are then managed via a Google Form linked in that announcement. Capacity is 25-30 people per hike.
 
 **About Keep Calm**
 
