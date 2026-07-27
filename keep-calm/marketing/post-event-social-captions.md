@@ -157,7 +157,7 @@ Handles: Instagram **@keepcalmbarcelona** | Facebook **facebook.com/keepcalmbarc
 
 > Fresh tracks and good times! ⛷️🏂 Thank you to everyone who came on the trip - the mountain was ours and the crew was unreal. 🙌
 >
-> Want to join the next one? Find the *Keep Calm & Ski/Snowboard On* WhatsApp group at https://keepcalm.fit/whatsapp/wintersports (link in bio too) for trip dates and sign-ups. 💛
+> Want to join the next one? Find the *Keep Calm & Ski/Snowboard On* WhatsApp group at https://keepcalm.fit/whatsapp/skiing-snowboarding (link in bio too) for trip dates and sign-ups. 💛
 >
 > .
 > .
