@@ -47,7 +47,7 @@ This keeps the pace fast and avoids drawn-out deuce battles during 15-minute mat
 - [Announcement Template v2](americana_post_v2.md) - current template for posting the event (July 2026: organiser/venue thanks, use-it-or-lose-it, tapas social, react-to-confirm)
 - [Announcement Template v1](americana_post.md) - previous template, kept for reference
 - [Post-Event Message](post-event.md) - template for after the session
-- [First Americana Archive](saturday-padel-americana.md) - original October 2024 announcement, kept for reference
+- [First Americana Archive](saturday-padel-americana.md) - original October 2025 announcement, kept for reference
 
 ---
 

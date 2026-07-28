@@ -1,6 +1,6 @@
-# Archive: First Keep Calm Americana - October 2024
+# Archive: First Keep Calm Americana - October 2025
 
-This was the original announcement post for Keep Calm's first ever Americana, held at Aurial in October 2024. Kept here for reference.
+This was the original announcement post for Keep Calm's first ever Americana, held at Aurial in October 2025. Kept here for reference.
 
 For the current announcement template, see `americana_post.md`.
 For the organiser guide, see `organiser.md`.

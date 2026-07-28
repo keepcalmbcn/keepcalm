@@ -7,6 +7,7 @@ Welcome to **Keep Calm** - Barcelona's friendly, not-for-profit sports community
 - **Website**: https://keepcalm.fit/
 - **Weekly Schedule**: See [schedule.md](keep-calm/operations/schedule.md)
 - **Community Info**: [keep-calm/readme.md](keep-calm/readme.md)
+- **Our Story**: [How Keep Calm started](keep-calm/our-story.md)
 - **Rules**: [WhatsApp Rules](keep-calm/rules/whatsapp-rules.md) | [Event Rules](keep-calm/rules/event-rules.md)
 - **Policies**: [Community Policies](keep-calm/policies/README.md) - safety, data, conduct, and the 18+ policy you agree to by taking part
 
