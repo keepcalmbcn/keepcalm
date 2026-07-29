@@ -1,6 +1,6 @@
 # External Groups Post - Keep Calm Women's Football
 
-For posting into non-Keep-Calm groups (Barcelona expat/women's Facebook or WhatsApp groups). Kept low-key on the Keep Calm name itself, since other groups' admins often remove posts that promote a different community - the landing page link still identifies it as a Keep Calm group once someone clicks through, this just avoids leading with it in text. Check each host group's own self-promo rules before posting (see `padel/womens/marketing/strategy.md`).
+For posting into non-Keep-Calm groups (Barcelona expat/women's Facebook or WhatsApp groups). Kept low-key on the Keep Calm name itself, since other groups' admins often remove posts that promote a different community - the keepcalm.fit link still identifies it as a Keep Calm group once someone clicks through, this just avoids leading with it in text. Check each host group's own self-promo rules before posting (see `padel/womens/marketing/strategy.md`).
 
 ---
 
@@ -10,7 +10,7 @@ If you've been wanting to play football (or soccer, whatever you call it where y
 
 All levels welcome, nothing competitive, just good people getting a game together. Schedule and format are still being figured out, so joining now means you'll actually have a say in it.
 
-More info and how to join: keepcalm.fit/womens-football-barcelona
+👉 Join at keepcalm.fit/whatsapp/womans-football
 
 Adults only (18+).
 

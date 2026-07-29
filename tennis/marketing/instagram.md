@@ -8,7 +8,7 @@ Keep Calm Tennis is our weekly doubles group for English speakers in Barcelona -
 
 Part of Keep Calm - a not-for-profit sports community run by volunteers. The sport gets you out of the house. The people keep you coming back.
 
-Want in? Link in bio.
+Want in? Link in bio, or join directly at keepcalm.fit/whatsapp/tennis
 
 ---
 

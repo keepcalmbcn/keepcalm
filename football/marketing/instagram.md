@@ -8,7 +8,7 @@ Keep Calm Football is part of our not-for-profit sports community. No league, no
 
 Sessions are posted in a WhatsApp group - confirm your spot, show up, play. Costs are split equally between players.
 
-Adults (18+). Find the link in bio to join the group and see what else we run.
+Adults (18+). Find the link in bio, or join directly at keepcalm.fit/whatsapp/football.
 
 ---
 

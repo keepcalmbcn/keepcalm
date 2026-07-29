@@ -12,7 +12,7 @@ And it's free - we play on the public nets. Just bring water, sunscreen, and goo
 
 Part of Keep Calm - a not-for-profit English-speaking community in Barcelona, run entirely by volunteers.
 
-Link in bio to join the women's volleyball group and see what's coming up next. ☀️
+Link in bio, or join directly at keepcalm.fit/whatsapp/womans-volley, to see what's coming up next. ☀️
 
 ---
 

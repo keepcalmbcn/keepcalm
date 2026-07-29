@@ -8,7 +8,7 @@ Keep Calm & Ski/Snowboard On is part of our not-for-profit community for English
 
 It's self-organised, social, and genuinely fun. Join the group, find your people, and make the most of having world-class skiing basically on your doorstep.
 
-Link in bio to join. See you on the slopes. 🎿
+Link in bio, or join directly at keepcalm.fit/whatsapp/skiing-snowboarding. See you on the slopes. 🎿
 
 ---
 

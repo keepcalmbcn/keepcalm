@@ -1,6 +1,6 @@
 # Instagram Caption - Padel
 
-No URLs in the caption - direct people to link in bio.
+Keep "link in bio" but always also write out the actual keepcalm.fit/whatsapp/padel link in the caption text (superseded 2026-07-28 - Facebook cross-posts render URLs as clickable, Instagram doesn't, and either way people can type it in by hand).
 
 ---
 
@@ -10,7 +10,7 @@ Every week we run sessions for all levels across Barcelona - beginner, improver,
 
 Not-for-profit, volunteer-run, and genuinely open to everyone. If you're looking for a way to be active and actually meet people in Barcelona, this is a good place to start.
 
-Link in bio to find out more 🎾
+Link in bio, or join directly at keepcalm.fit/whatsapp/padel 🎾
 
 ---
 

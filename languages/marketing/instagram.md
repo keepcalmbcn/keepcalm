@@ -8,7 +8,7 @@ Here's how it works: we meet at a bar or cafe, pair up, swap languages, and swit
 
 Part of Keep Calm - a not-for-profit English-speaking community in Barcelona, run entirely by volunteers.
 
-Link in bio to join the Languages group and see the next meetup. 🗣️
+Link in bio, or join directly at keepcalm.fit/whatsapp/languages, to see the next meetup. 🗣️
 
 ---
 

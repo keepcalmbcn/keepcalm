@@ -10,7 +10,7 @@ No club fees, no pressure, no minimum pace. Just show up, run as far as feels go
 
 Part of the Keep Calm community - free, volunteer-run, and open to everyone.
 
-First run coming up on the Carretera de les Aigues. Details in the link in bio 👆
+First run coming up on the Carretera de les Aigues. Link in bio, or join directly at keepcalm.fit/whatsapp/running 👆
 
 ---
 

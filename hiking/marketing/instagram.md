@@ -8,7 +8,7 @@ Keep Calm Hiking goes out once a month on a Sunday. Full day trip, shared lunch 
 
 Part of Keep Calm - a not-for-profit English-speaking community in Barcelona, run entirely by volunteers.
 
-Link in bio to join the hiking group and see what's coming up next. 🥾
+Link in bio, or join directly at keepcalm.fit/whatsapp/hiking, to see what's coming up next. 🥾
 
 ---
 

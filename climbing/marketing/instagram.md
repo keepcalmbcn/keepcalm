@@ -8,7 +8,7 @@ Keep Calm Climbing meets up at gyms like Sharma Climbing BCN and Climbat La Foix
 
 Part of Keep Calm - a not-for-profit English-speaking community in Barcelona, run entirely by volunteers.
 
-Link in bio to join the climbing group and see what's coming up next. 🧗
+Link in bio, or join directly at keepcalm.fit/whatsapp/climbing, to see what's coming up next. 🧗
 
 ---
 

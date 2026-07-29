@@ -8,7 +8,7 @@ We're a friendly group of English speakers playing year-round on the Barcelona b
 
 Part of Keep Calm - a not-for-profit sports community built around meeting people and having fun in Barcelona. Because the sport is just the excuse.
 
-Want in? Link in bio to join the WhatsApp group.
+Want in? Link in bio, or join directly at keepcalm.fit/whatsapp/volleyball.
 
 ---
 

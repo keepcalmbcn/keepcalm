@@ -8,7 +8,7 @@ Keep Calm Social is where we do everything outside of sport - bowling nights, be
 
 It's free, volunteer-run, and has been bringing English speakers together in Barcelona for years. New to the city or just looking to expand your circle? Come along 🙌
 
-Find all the details and group links via the link in bio.
+Find all the details via the link in bio, or join directly at keepcalm.fit/whatsapp/social.
 
 ---
 

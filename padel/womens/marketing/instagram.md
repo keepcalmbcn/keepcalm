@@ -10,7 +10,7 @@ No racket? You can borrow one. Cost is just court hire, around €8-12 per perso
 
 Part of Keep Calm - a not-for-profit English-speaking community in Barcelona, run entirely by volunteers.
 
-Link in bio to join the women's padel group and see what's coming up next. 👸🏽
+Link in bio, or join directly at keepcalm.fit/whatsapp/womans-padel, to see what's coming up next. 👸🏽
 
 ---
 

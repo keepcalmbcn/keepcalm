@@ -8,7 +8,7 @@ Keep Calm Barcelona runs one-off activities alongside our regular sports: golf, 
 
 Part of Keep Calm - a not-for-profit sports and social community for English speakers in Barcelona. All levels welcome, everything volunteer-run.
 
-Got an idea for something we should do? We're listening. Details and upcoming events in the link in bio 👆
+Got an idea for something we should do? We're listening. Link in bio, or join directly at keepcalm.fit/whatsapp/miscellaneous 👆
 
 ---
 

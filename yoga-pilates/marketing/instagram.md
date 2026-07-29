@@ -8,7 +8,7 @@ Keep Calm Yoga & Pilates & Meditation is part of our not-for-profit sports commu
 
 Sessions are posted in a WhatsApp group - watch for the announcement, confirm your spot, and bring a mat if you have one.
 
-Adults (18+). Find the link in bio to join the group and see what else we run. 🌿
+Adults (18+). Find the link in bio, or join directly at keepcalm.fit/whatsapp/yoga. 🌿
 
 ---
 

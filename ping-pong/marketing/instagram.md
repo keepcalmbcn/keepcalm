@@ -8,7 +8,7 @@ We're part of Keep Calm, a not-for-profit sports community for English speakers 
 
 Never played before? Perfect time to start. Play every week? Come join us.
 
-Link in bio to find the WhatsApp group and get in on the weekly poll.
+Link in bio, or join directly at keepcalm.fit/whatsapp/ping-pong, to get in on the weekly poll.
 
 ---
 
