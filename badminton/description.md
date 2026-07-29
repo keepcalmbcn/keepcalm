@@ -6,17 +6,16 @@ The following is used as the WhatsApp group description.
 
 Keep Calm Badminton - part of the Keep Calm community for English speakers in Barcelona.
 
-🏸 Mixed, social badminton for all - ladies and gents welcome, currently a lower-intermediate level. Our regular game is every Friday, 16:00 to 18:30 at La Mar Bella Municipal Sports Complex (Poblenou), run in partnership with BCN Badminton.
+🏸 Mixed, social badminton for all - ladies and gents welcome, currently a lower-intermediate level. We run two weekly sessions, Friday evening and a weekend morning, normally at La Mar Bella Municipal Sports Complex (Poblenou), organised directly by Mel.
 
-Doubles practice games across 4 courts, 24 players, 2.5 hours of play. This is social badminton, not a competition - turning up and having fun matters more than the score.
+Doubles practice games, players rotating so everyone gets plenty of court time. This is social badminton, not a competition - turning up and having fun matters more than the score.
 
-We've partnered with BCN Badminton (host Mel), who book the courts, run the session, and handle the RSVPs. You RSVP and pay through Meetup - just 5€ per person. Bring the exact cash (no change available), or pay by Bizum or transfer.
+Mel posts a poll in the group, books 1-3 courts based on interest, then shares the cost (typically €5-6 per person) and a Bizum number - your spot is secured once you pay. You can also pay by Revolut on request.
 
-Spots are limited to 24 players with an automatic Meetup waitlist, so RSVP early and only if you can make it. Bring your own racket and indoor court shoes.
+Bring your own racket and indoor court shoes.
 
 Open to adults only (18+).
 
-RSVP on Meetup: https://www.meetup.com/barcelona-badminton/
 Rules: https://github.com/keepcalmbcn/keepcalm/blob/main/badminton/rules.md
 Policies (please read): https://keepcalm.fit/policies
 Website: https://keepcalm.fit/

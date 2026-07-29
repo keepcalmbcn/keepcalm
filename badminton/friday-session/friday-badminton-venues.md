@@ -1,6 +1,9 @@
 # Friday Badminton - Venue
 
-Our regular Friday session is run in partnership with **BCN Badminton**, who book the courts, run the session, and handle the RSVPs through Meetup. Below is the venue we play at.
+Our regular Friday session is organised directly by **Mel** - see the
+[Organisation doc](friday-badminton-organisation.md) for the full process
+(WhatsApp poll, court booking, Bizum payment). Below is the venue we normally
+play at.
 
 ---
 
@@ -10,16 +13,16 @@ This is our home base for Friday Badminton.
 
 - **Venue**: La Mar Bella Municipal Sports Complex (Complex Esportiu Municipal Mar Bella), Poblenou
 - **Address**: Av. del Litoral, 86-96, Barcelona - [Google Maps](https://maps.google.com/?q=Av.+del+Litoral+86-96+Barcelona)
-- **Day and time**: Friday, **16:00 to 18:30** (2.5 hours)
-- **Courts**: 4 courts in the main building - typically **Courts 9 & 10 and 6 & 7** (booked as 2 x 1-hour slots)
-- **Format**: Doubles practice games, 24 players
-- **Run by**: BCN Badminton (host: Mel)
-- **RSVP**: Through Meetup - [BCN Badminton on Meetup](https://www.meetup.com/barcelona-badminton/)
-- **Cost**: 5€ per person (covers court hire and shuttlecocks), paid to the host on the day (exact cash, Bizum, or transfer)
+- **Day and time**: Friday evening, typically in the **16:00-18:30** window, though the exact time varies week to week depending on court availability - check the group for that week's confirmed time
+- **Courts**: 1-3 courts depending on headcount, in the main building - court numbers vary week to week
+- **Format**: Doubles practice games, player count varies with the number of courts booked
+- **Run by**: Mel, directly for Keep Calm
+- **Sign-up**: Vote in the WhatsApp poll, then pay by Bizum once courts are confirmed - see [Organisation](friday-badminton-organisation.md)
+- **Cost**: Typically €5-6 per person (covers court hire and shuttlecocks), varies with how many courts are booked - paid to Mel by Bizum (or Revolut on request)
 
 ### Finding the courts
 
-The badminton courts are in the **main building**. Signage can be a little confusing and the courts are sometimes split between buildings, so check the Meetup event for the exact court numbers on the day (e.g. Courts 9 & 10 and 6 & 7), and look for the group if you're unsure.
+The badminton courts are in the **main building**. Signage can be a little confusing and the courts are sometimes split between buildings, so check the group for the exact court numbers on the day.
 
 ### Getting there
 
@@ -36,6 +39,10 @@ Poblenou and the Bogatell / Mar Bella beachfront are full of bars and chiringuit
 
 ---
 
-## Why BCN Badminton?
+## Temporary Note (August 2026)
 
-Running the Friday session through BCN Badminton means we get reliably booked courts, an experienced host who organises the games and equipment, and a simple Meetup RSVP and waitlist, without a Keep Calm volunteer having to chase court bookings every week. We point the community to the session, and BCN Badminton handles the logistics on the day.
+**La Mar Bella is closed for August.** Sessions have temporarily moved to
+**Vall d'Hebron (Egora Olympics)** while it's closed - check the group for
+that week's confirmed venue rather than assuming La Mar Bella until it
+reopens. See the [weekend session doc](../weekend-session/weekend-badminton-organisation.md)
+for more on this closure, since it affects both sessions the same way.

@@ -10,24 +10,23 @@ Welcome to Keep Calm Badminton! To keep things fun and fair for everyone, please
 >
 > **You must be 18 or over to take part. Keep Calm is an adults-only community.**
 
-## 1. RSVP and Commitment
+## 1. Voting and Commitment
 
-- Only RSVP **yes** on Meetup if you genuinely plan to play
-- Spots are limited to 24 players, so an RSVP holds a place that someone else can't take
-- The session has an automatic **waitlist** - if you can't make it, change your RSVP as soon as possible so a waitlisted player moves up
+- Only vote **yes** in the weekly poll if you genuinely plan to play - Mel books courts based on the headcount
+- A spot is only secured once you've **paid** - voting in the poll alone doesn't hold your place
+- If a session fills up, let the organiser know if you'd still like to be considered in case another court gets added
 
 ## 2. Cancellations
 
-- If you RSVP yes and then change your RSVP **within 24 hours** of the event, it counts as a **no-show** unless someone takes your spot
-- People often cancel late assuming others want the spot - don't. Cancel as early as you can, including those on the waitlist
+- If you've paid and then can't make it, tell the organiser **as soon as possible** so your spot can be offered to someone else
+- People often cancel late assuming others want the spot - don't. Cancel as early as you can
 - Repeated late cancellations or no-shows affect the whole group and may cost you your place (see the strike system in the Event Rules)
 
 ## 3. Payment
 
-- The session costs **5€ per person**, which covers the court hire and shuttlecocks, paid to the host on the day
-- Bring the **exact amount** in cash, as the host won't have change
-- You can also pay by **Bizum or bank transfer** - ask the host for details
-- Pay promptly so the host isn't left chasing
+- Cost varies depending on how many courts get booked - typically **€5-6 per person**, covering the court hire and shuttlecocks
+- Pay the organiser by **Bizum** (or Revolut on request) once courts are confirmed for the week
+- Pay promptly so the organiser isn't left chasing
 
 ## 4. Level
 

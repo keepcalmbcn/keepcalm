@@ -1,5 +1,12 @@
 # Luma Event Description - Keep Calm Badminton
 
+**Not currently applicable (corrected 2026-07-29).** Badminton has no external
+RSVP platform - both sessions are organised directly by Mel via a WhatsApp
+poll and Bizum payment (see `../friday-session/friday-badminton-organisation.md`
+and `../weekend-session/weekend-badminton-organisation.md`). This template
+describes an old process (partnership with "BCN Badminton") that's no longer
+accurate. Kept for reference only - don't use as-is.
+
 ---
 
 **English Speaking Badminton - All Levels**

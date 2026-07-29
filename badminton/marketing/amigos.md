@@ -12,8 +12,8 @@ Keep Calm EN Badminton
 
 ## Description (300 character limit)
 
-Social badminton with Keep Calm, a not-for-profit community for English speakers in Barcelona, run in partnership with BCN Badminton. Friendly doubles, rotating players across courts, lower-intermediate level. Join our WhatsApp group for court, cost, and sign-up details. 18+.
-(276 characters)
+Social badminton with Keep Calm, a not-for-profit community for English speakers in Barcelona. Friendly doubles, rotating players across courts, lower-intermediate level. Join our WhatsApp group for court, cost, and sign-up details. 18+.
+(237 characters)
 
 ---
 

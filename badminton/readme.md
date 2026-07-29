@@ -11,29 +11,38 @@ Part of the larger **Keep Calm** not-for-profit community for English speakers i
 - [Community Policies](../keep-calm/policies/README.md) - safety, data, conduct, and the 18+ policy you agree to by taking part
 - [Friday Badminton FAQ](friday-session/friday-badminton-faq.md) - everything about the weekly session
 - [Friday Badminton Venue](friday-session/friday-badminton-venues.md) - where we play and how to get there
+- [Weekend Badminton](weekend-session/weekend-badminton-organisation.md) - our second regular session, organised directly by Keep Calm
+- [Other Venues & Gear](other-venues-and-gear.md) - other places to play, and where to buy or rent a racket
 - [General WhatsApp Rules](../keep-calm/rules/whatsapp-rules.md) - applies to all Keep Calm groups
 - [Event Rules](../keep-calm/rules/event-rules.md) - participation and cancellation policies
 
-## Our Regular Session: Friday Badminton at La Mar Bella
+## Our Two Regular Sessions
 
-Our weekly game runs **every Friday, 16:00 to 18:30** at **La Mar Bella Municipal Sports Complex** (Poblenou), in partnership with **BCN Badminton**:
+We run **two weekly sessions**, both organised directly by Keep Calm
+(organiser: **Mel**) - normally at **La Mar Bella Municipal Sports Complex**
+(Poblenou):
 
-- **Mixed, all welcome** - ladies and gents, currently a **lower-intermediate** level. Social and friendly, not a competition
-- **Doubles practice games** across 4 courts, 24 players, 2.5 hours of play
-- We've **partnered with BCN Badminton** (host Mel), who book the courts, run the session, and handle the RSVPs
-- You **RSVP and pay through Meetup** - the price is just **5€ per person**
-- A great Poblenou location near the beach, easy to reach on the tram
-- Bring your own racket, indoor court shoes, and water
+- **Friday evening**, typically in the 16:00-18:30 window (exact time varies
+  week to week) - see the [FAQ](friday-session/friday-badminton-faq.md) and
+  [Venue](friday-session/friday-badminton-venues.md) pages
+- **Weekend morning**, normally Saturday - see
+  [Weekend Badminton](weekend-session/weekend-badminton-organisation.md)
 
-Full details, including travel directions and the RSVP system, are in the [Friday Badminton FAQ](friday-session/friday-badminton-faq.md) and [Venue](friday-session/friday-badminton-venues.md) pages.
+Both are **mixed, all welcome** - ladies and gents, currently a
+**lower-intermediate** level. Social and friendly, not a competition.
+
+Both venues/times are currently **temporary while La Mar Bella is closed for
+August 2026** - check the group for that week's confirmed venue and time.
 
 ## How It Works
 
-- The session is posted on Meetup with the time, courts, and price
-- RSVP **yes** on Meetup to claim a spot - places are limited to 24 players
-- If the session is full, the Meetup **waitlist** will move you up automatically if someone drops out
-- Turn up on time with your racket and indoor shoes
-- Pay the host on the day (cash, Bizum, or transfer)
+- Mel posts a **poll in the WhatsApp group** asking who's free for the
+  coming session
+- Based on the headcount, she books **1-3 courts** at the venue
+- Once courts are booked, she shares the **cost per person** (typically
+  €5-6, depending on how many courts are needed) and a **Bizum** number
+  (Revolut on request) - your spot is only secured once you've **paid**
+- Turn up for the confirmed time with your racket and indoor shoes
 
 ## What to Expect
 
@@ -45,15 +54,13 @@ Full details, including travel directions and the RSVP system, are in the [Frida
 ## Format
 
 - **Doubles practice games** (2v2), rotating players so everyone gets plenty of court time
-- **4 courts** booked for the group, **24 players** total
-- **2.5 hours** of play
+- **1-3 courts**, depending on how many people sign up that week
 - Currently pitched at a **lower-intermediate** level
 
 ## Cost
 
-- **5€ per person**, which covers the court hire and shuttlecocks, paid to the host on the day
-- Bring the **exact amount** in cash, as the host won't have change
-- You can also pay by **Bizum or bank transfer**
+- Varies by number of courts/players - typically **€5-6 per person**, covering the court hire and shuttlecocks
+- Paid to Mel by **Bizum** (or Revolut on request) once courts are confirmed for the week
 - No Keep Calm membership fee - everything is volunteer-run and not-for-profit
 
 ## What to Bring
@@ -67,7 +74,7 @@ Full details, including travel directions and the RSVP system, are in the [Frida
 
 You are very welcome, whatever your level:
 
-- RSVP on Meetup and just turn up - someone will get you into a game
+- Join the WhatsApp group, vote in the weekly poll, and pay once courts are confirmed
 - Let people know if you're new or rusty and the games will be kept friendly
 - The main thing is showing up and having a good time
 
@@ -81,9 +88,9 @@ You are very welcome, whatever your level:
 ## Getting Started
 
 1. Join the Badminton WhatsApp group (links at https://keepcalm.fit/)
-2. Find the Friday session on [Meetup](https://www.meetup.com/barcelona-badminton/)
-3. RSVP **yes** to claim your spot
-4. Bring your racket, indoor shoes, water, and the exact cash
+2. Vote in the weekly poll for whichever session you want to join
+3. Pay by Bizum once Mel confirms courts, to secure your spot
+4. Bring your racket, indoor shoes, and water
 5. Show up on time and play!
 
 ## Questions?
