@@ -35,6 +35,18 @@ The repository is organized by sport/activity type, with each having its own dir
   - `growth/`: Vision, marketing, surveys, outreach, communities
 - **ping-pong/**, **tennis/**, **volleyball/**, **badminton/**, **hiking/**, **social/**: Individual sport directories with their own documentation
 
+## Gotcha: this repo's folder names don't always match the website's slug
+
+When linking to a WhatsApp short link (`keepcalm.fit/whatsapp/<slug>`) or a
+website activity page for a sport, don't assume this repo's folder name is
+the slug - check `keepcalm-website/app/activities/data.ts`'s `slug:` field
+for that sport first. Two known mismatches (as of 2026-07-29):
+`wintersports/` in this repo → slug `skiing-snowboarding`; `yoga-pilates/` →
+slug `yoga`. Guessing the folder name as the slug produced a real dead link
+(`keepcalm.fit/whatsapp/wintersports` 404'd in a live marketing template)
+before this was caught - always verify against `data.ts` rather than
+inferring.
+
 ## Key Files and Their Purpose
 
 ### Organization Documents
