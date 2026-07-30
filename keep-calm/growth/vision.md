@@ -50,7 +50,7 @@ This pipeline is now formalised as [Keep Calm Core](../core/README.md): Time, Pa
 
 The community must be able to survive losing any single person. Status:
 
-- ✅ **New organisers can be onboarded with documented playbooks** - `organiser-onboarding.md`, `admin-onboarding.md`, and per-sport `organiser-one-pager.md` files. Currently built for football, hiking, padel, ping-pong, running, tennis, and volleyball - badminton, basketball, climbing, languages, social, wintersports, and yoga-pilates still need one.
+- ✅ **New organisers can be onboarded with documented playbooks** - `organiser-onboarding.md`, `admin-onboarding.md`, and per-sport `organiser-one-pager.md` files. Currently built for football, hiking, padel, ping-pong, running, social, tennis, volleyball, and yoga-pilates - badminton, basketball, climbing, languages, and wintersports still run fully ad-hoc with no designated organiser role.
 - ✅ **Polls and sessions can be created by anyone with the role** - most scheduled posting now runs on automation (see the RACI matrix's Automation column), not one person's hands.
 - ⏳ **Member data lives somewhere permanent** - not yet. [Data & Privacy](../policies/data-privacy.md) is explicit that attendance/member records are still partly on organisers' personal devices; centralised storage is called out there as a "working toward," not a "have."
 - ⏳ **Critical accounts and access are shared appropriately** - not tracked in this repo; worth a private-repo check-in rather than a public doc.
