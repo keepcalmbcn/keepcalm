@@ -1,10 +1,18 @@
 # Friday Badminton Organisation
 
-**Corrected 2026-07-29:** this session is organised **directly by Mel**, the
-same manual process as the [weekend session](../weekend-session/weekend-badminton-organisation.md) -
-there is no partnership with an external community, and no Meetup RSVP. Earlier
-versions of this doc described a partnership with "BCN Badminton" via Meetup;
-that was inaccurate and has been removed.
+**Corrected 2026-07-29, refined 2026-08-02:** this session is organised
+**directly by Mel**, the same manual process as the
+[weekend session](../weekend-session/weekend-badminton-organisation.md).
+Earlier versions of this doc described an ongoing partnership with "BCN
+Badminton" via Meetup as the current process, which was inaccurate - but the
+partnership itself was real and historical: **June 2026 sessions genuinely
+ran through BCN Badminton's Meetup**. Since then it's been organised
+directly, with no external partner community and no Meetup RSVP requirement.
+Since **21 July 2026**, Mel has also been listing sessions as events on
+**Keep Calm's own Meetup page** (meetup.com/keep-calm-barcelona) for
+visibility, but this is a cross-post, not a booking system - payment still
+runs entirely through Bizum and Mel's manual confirmed list, the same as
+before.
 
 ---
 
@@ -49,21 +57,24 @@ that was inaccurate and has been removed.
 
 | | |
 |---|---|
-| **Day / time** | Normally **Friday evening**, typically in the 16:00-18:30 window, but the exact time varies week to week depending on court availability (some weeks have run as late as 18:00-20:00) - check the group for that week's confirmed time |
-| **Venue** | Normally **La Mar Bella Municipal Sports Complex** |
-| **Courts** | 1-3 courts, depending on headcount |
-| **Cost** | Varies by number of courts/players - typically €5-6 per person |
+| **Day / time** | **Friday evening** - exact time confirmed weekly when courts are booked. Ran 16:00-18:30 through June; since July it's consistently been later, typically **18:00-20:00** (confirmed 24 Jul, 31 Jul, and 7 Aug) |
+| **Venue** | Normally **La Mar Bella Municipal Sports Complex**; Vall d'Hebron (Egora Olympics) while Mar Bella is closed for August - see the temporary note below |
+| **Courts** | 1-3 courts at La Mar Bella, depending on headcount; capped at **2 courts (max 12 players)** at Vall d'Hebron |
+| **Cost** | Varies by venue and number of courts/players - **€5.50 per person at La Mar Bella**, **€6 per person at Vall d'Hebron** |
 | **Run by** | Keep Calm directly - organised by **Mel** |
 | **Payment** | Bizum (or Revolut on request) to the organiser - spot is only secured once paid |
 | **Bring** | Own racket, indoor court shoes, water |
 
-## Current Temporary Note (August, dated 2026-07-27)
+## Current Temporary Note (August, dated 2026-07-27, updated 2026-08-02)
 
 **La Mar Bella is closed for August.** Sessions have temporarily moved to
-**Vall d'Hebron (Egora Olympics)** while it's closed. Treat venue/time as
-provisional until Mar Bella reopens - check the group for that week's
-confirmed day, time, and venue rather than assuming the normal pattern
-applies during the closure. See the
+**Vall d'Hebron (Egora Olympics)**, Pg. de la Vall d'Hebron 166, while it's
+closed. That venue caps out at **2 courts (max 12 players)**, smaller than
+La Mar Bella's usual 1-3, and sessions run **Friday 18:00-20:00 and/or
+Sunday 09:00-11:00** depending on what's available that week. Treat
+venue/time as provisional until Mar Bella reopens - check the group for
+that week's confirmed day, time, and venue rather than assuming the normal
+pattern applies during the closure. See the
 [weekend session doc](../weekend-session/weekend-badminton-organisation.md)
 for more on this closure, since it affects both sessions the same way.
 

@@ -22,9 +22,10 @@ We run **two weekly sessions**, both organised directly by Keep Calm
 (organiser: **Mel**) - normally at **La Mar Bella Municipal Sports Complex**
 (Poblenou):
 
-- **Friday evening**, typically in the 16:00-18:30 window (exact time varies
-  week to week) - see the [FAQ](friday-session/friday-badminton-faq.md) and
-  [Venue](friday-session/friday-badminton-venues.md) pages
+- **Friday evening** - exact time confirmed weekly when courts are booked.
+  Ran 16:00-18:30 through June; since July it's consistently been later,
+  typically 18:00-20:00 - see the [FAQ](friday-session/friday-badminton-faq.md)
+  and [Venue](friday-session/friday-badminton-venues.md) pages
 - **Weekend morning**, normally Saturday - see
   [Weekend Badminton](weekend-session/weekend-badminton-organisation.md)
 
@@ -32,16 +33,19 @@ Both are **mixed, all welcome** - ladies and gents, currently a
 **lower-intermediate** level. Social and friendly, not a competition.
 
 Both venues/times are currently **temporary while La Mar Bella is closed for
-August 2026** - check the group for that week's confirmed venue and time.
+August 2026**: sessions have moved to Vall d'Hebron (Egora Olympics), capped
+at 2 courts/12 players, running Friday 18:00-20:00 and/or Sunday 09:00-11:00 -
+check the group for that week's confirmed venue and time.
 
 ## How It Works
 
 - Mel posts a **poll in the WhatsApp group** asking who's free for the
   coming session
 - Based on the headcount, she books **1-3 courts** at the venue
-- Once courts are booked, she shares the **cost per person** (typically
-  €5-6, depending on how many courts are needed) and a **Bizum** number
-  (Revolut on request) - your spot is only secured once you've **paid**
+- Once courts are booked, she shares the **cost per person** (varies by
+  venue - €5.50 at La Mar Bella, €6 at Vall d'Hebron - and how many courts
+  are needed) and a **Bizum** number (Revolut on request) - your spot is
+  only secured once you've **paid**
 - Turn up for the confirmed time with your racket and indoor shoes
 
 ## What to Expect
@@ -59,9 +63,10 @@ August 2026** - check the group for that week's confirmed venue and time.
 
 ## Cost
 
-- Varies by number of courts/players - typically **€5-6 per person**, covering the court hire and shuttlecocks
+- Varies by venue and number of courts/players - **€5.50 per person at La Mar Bella**, **€6 per person at Vall d'Hebron**, covering the court hire and shuttlecocks
 - Paid to Mel by **Bizum** (or Revolut on request) once courts are confirmed for the week
 - No Keep Calm membership fee - everything is volunteer-run and not-for-profit
+- Late cancellations (within 24 hours of the session) aren't reimbursed unless a replacement player is found
 
 ## What to Bring
 

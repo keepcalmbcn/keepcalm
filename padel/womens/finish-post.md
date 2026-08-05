@@ -1,38 +1,29 @@
-👑 A massive thank you to @⁨all⁩ the ladies who came and took part in our first ever Women's Americana today! 👑
+# Post-Event Thank You + Winners
 
-What a morning. We hope you had as much fun as we did. We've been wanting to do this for ages and today it finally happened. Every one of you who turned up and gave it your all is the reason it worked, so thank you! 💜
+Post right after the event or that same night.
 
-Huge congrats to our Pádel Queens of the day 🙌🏼👏🏼 those crowns were well earned! 👑🎾
+Standardized template as of Edition #2 (31 July 2026, Pàdel Delfos). The previous edition-#1 version is archived at [`finish-post-v1.md`](finish-post-v1.md).
 
-🙏 Thank you to the team who made it happen
-This didn't organise itself! Big thanks to @⁨Ava Maui⁩ , @⁨Anita⁩ and @⁨Malek.R⁩ for all the work behind the scenes: the venue, the sign-ups, the balls, the crowns/prizes and getting the whole morning to run.
+---
 
-🙋🏼‍♀️ Want to help with the next one?
-The more hands we have, the bigger and better these get. If you'd like to help plan future events, just message any of us. We'd love to have you involved.
+💜🎾 THANK YOU, LADIES! 🎾💜
 
-💜 A little note
-This was our very first event, so thanks for be patient with us (and your padel partners). We learned loads today and hope you did too and we  strongly believe the next Americana will be bigger and run smoother. This is just the start!
+A huge THANK YOU to every single one of you for joining our [ORDINAL] Keep Calm Women's Americana! 🫶
 
-📝 We'd love your feedback
-You're the reason these events get better. Tell us what you loved, what we can improve, and any ideas you've got. It really does make a difference and helps us build the next one around what you actually want. Takes 2 minutes 🙏
-👉🏼 https://keepcalm.fit/feedback
+It was such a special evening, with an incredible level of padel, fantastic energy on court, and even better vibes off it. Seeing so many women playing, laughing, encouraging each other and making new friends is exactly why we organise these events. 💜
 
-🎾 Keep playing together!
-The best part of today was the new connections, so don't let it stop here. Swap numbers, sort games and book courts with the girls you met. And there's loads more Keep Calm to get stuck into, so come join our Sunday Evening Pádel and the other groups too. The more you play, the better we all get!
-👉🏼 https://keepcalm.fit/sunday-padel
+🏆 A huge congratulations to our champions, [WINNER 1 NAME] and [WINNER 2 NAME] 👏👑 You both delivered an outstanding performance throughout the tournament and truly earned your place at the top. It was a pleasure watching you play, very well deserved! 🎾🔥
 
-📸 Photos & videos from today are up!
-Have a look here 👉🏼 https://photos.app.goo.gl/WiuPpX2ZuVpsgm2aA
-Hope you enjoy them! 💕
+A very special congratulations to all our Absolute Beginners! 👏 You showed amazing enthusiasm, confidence and great potential. We hope this is just the beginning of your padel journey, and we can't wait to see you back on court soon! 💜
 
-📲 Share the love & help us grow
-Posting your photos? Tag us @keepcalmbarcelona and use #KeepCalmWomen so more girls can find us!
-https://www.instagram.com/keepcalmbarcelona/
-Know someone who'd love this? Send them to our Women's Pádel page 👉🏼 http://keepcalm.fit/womans-padel
+We'd also like to say a huge thank you to [ORGANISING TEAM NAMES] for all your help, support and positive energy throughout the evening. You were all incredible, and this event wouldn't have been the same without you. 💜🙌
 
-We're already planning what's next and there's exciting news coming very soon, so keep an eye on the group! 👀
+We'd love to keep seeing you all around, so don't disappear! 😊 Join our Sunday padel sessions, keep chatting in the group, and continue meeting new people through the community.
 
-Until next time, which won't be long! 💜🎾
+📸 Tomorrow we'll be sharing all the photos from the event, so keep an eye on the group!
 
-Thanks everyone,
-Keep Calm Women Padel Organisers 👑
+👑 And... our next Ladies Americana already has a date! Start warming up because we'll be announcing all the details very soon! 🔥🎾
+
+Thank you all for making Keep Calm such a welcoming, supportive and fun community.
+
+See you on court very soon! 💜🎾👑

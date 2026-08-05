@@ -1,3 +1,7 @@
+**Archived: Edition #1 announcement (Saturday 13 June 2026, Uno Pádel Teixonera).** Superseded by the standardized template as of Edition #2 (31 July 2026) - see [`announcement.md`](announcement.md). Kept for reference only, not for reuse as-is (old venue, price, and forms.gle + Bizum sign-up flow).
+
+---
+
 🎾☀️ Women's Padel Morning & Social ☀️🎾 KEEP CALM
 
 We are happy to confirm that the event will take place at Uno Teixonera 💛

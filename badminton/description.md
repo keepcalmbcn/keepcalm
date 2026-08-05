@@ -10,9 +10,11 @@ Keep Calm Badminton - part of the Keep Calm community for English speakers in Ba
 
 Doubles practice games, players rotating so everyone gets plenty of court time. This is social badminton, not a competition - turning up and having fun matters more than the score.
 
-Mel posts a poll in the group, books 1-3 courts based on interest, then shares the cost (typically €5-6 per person) and a Bizum number - your spot is secured once you pay. You can also pay by Revolut on request.
+Mel posts a poll in the group, books 1-3 courts based on interest, then shares the cost (varies by venue - typically €5.50-6 per person) and a Bizum number - your spot is secured once you pay. You can also pay by Revolut on request.
 
 Bring your own racket and indoor court shoes.
+
+Late cancellations (within 24 hours of the session) aren't reimbursed unless a replacement player is found to take your spot.
 
 Open to adults only (18+).
 

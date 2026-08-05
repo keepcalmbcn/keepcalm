@@ -47,17 +47,18 @@ WhatsApp poll, Mel booking courts based on headcount, and payment by Bizum.
 | | |
 |---|---|
 | **Day / time** | Normally **Saturday morning** (roughly 9-11am or 10am-12pm depending on booking) - occasionally shifts to Sunday morning if the usual slot isn't available that week |
-| **Venue** | Normally **La Mar Bella Municipal Sports Complex** (same complex as Friday) |
-| **Courts** | 1-2 courts, depending on headcount |
-| **Cost** | Varies by number of courts/players - typically €5-6 per person |
+| **Venue** | Normally **La Mar Bella Municipal Sports Complex** (same complex as Friday); Vall d'Hebron (Egora Olympics) while Mar Bella is closed for August - see the temporary note below |
+| **Courts** | 1-2 courts at La Mar Bella, depending on headcount; capped at **2 courts (max 12 players)** at Vall d'Hebron |
+| **Cost** | Varies by venue and number of courts/players - **€5.50 per person at La Mar Bella**, **€6 per person at Vall d'Hebron** |
 | **Run by** | Keep Calm directly - organised by **Mel** (same as the Friday session) |
 | **Payment** | Bizum (or Revolut on request) to the organiser - spot is only secured once paid |
 | **Bring** | Own racket, indoor court shoes, water |
 
-## Current Temporary Note (August, dated 2026-07-27)
+## Current Temporary Note (August, dated 2026-07-27, updated 2026-08-02)
 
 **La Mar Bella is closed for August.** Sessions have temporarily moved to **Vall
-d'Hebron (Egora Olympics)** while it's closed. Because weekend slots there aren't
+d'Hebron (Egora Olympics)**, Pg. de la Vall d'Hebron 166, while it's closed. That
+venue caps out at **2 courts (max 12 players)**. Because weekend slots there aren't
 always available, the day has shifted around week to week (e.g. one week moved
 from Saturday to **Sunday morning, 9-11am**, since Vall d'Hebron already had a
 regular Saturday-morning booking from another group). Treat the day/venue as

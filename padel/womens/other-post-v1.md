@@ -1,3 +1,7 @@
+**Archived: Edition #1 mid-week reminder (June 2026, Uno Pádel Teixonera).** This was an ad-hoc "spots filling up" nudge; its intent (urgency + a link explaining the Americana format for newcomers) is now folded into [`last-spots-post.md`](last-spots-post.md), the standardized template as of Edition #2 (31 July 2026). Kept for reference only, not for reuse as-is (old venue, price, and forms.gle + Bizum sign-up flow).
+
+---
+
 🚨 REMINDER GIRLS!!
 
 Spots are filling up fast - half the places are already booked, and we don't want you to miss out! 🙋‍♀️

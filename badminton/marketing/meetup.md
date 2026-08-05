@@ -1,12 +1,21 @@
 # Meetup.com Event Description - Keep Calm Badminton
 
-**Not currently applicable (corrected 2026-07-29).** Badminton has no external
-RSVP platform - both sessions are organised directly by Mel via a WhatsApp
-poll and Bizum payment (see `../friday-session/friday-badminton-organisation.md`
-and `../weekend-session/weekend-badminton-organisation.md`). This template
-describes an old process (partnership with "BCN Badminton", RSVP via Meetup)
-that's no longer accurate. Kept for reference only, in case Keep Calm ever
-does list badminton on Meetup again - don't use as-is.
+**Not currently applicable as an RSVP platform (corrected 2026-07-29, refined
+2026-08-02).** Both sessions are organised directly by Mel via a WhatsApp poll
+and Bizum payment (see `../friday-session/friday-badminton-organisation.md`
+and `../weekend-session/weekend-badminton-organisation.md`) - there's no
+Meetup RSVP or spots/waitlist system as described below. This template
+describes an old process (an ongoing partnership with "BCN Badminton", with
+RSVP handled via Meetup) that was genuinely how June 2026 sessions ran, but
+is historical, not current.
+
+**Nuance since 21 July 2026:** Mel has started listing sessions as events on
+**Keep Calm's own Meetup page** (meetup.com/keep-calm-barcelona) for extra
+visibility - so Meetup isn't entirely inapplicable anymore. But it's a
+cross-post only: there's no RSVP-to-confirm flow, no waitlist, and no
+external partner. Confirmation and payment still run entirely through the
+WhatsApp poll, Mel's manual list, and Bizum. Don't use the RSVP/waitlist/cost
+details below as-is; they describe the old BCN Badminton process.
 
 ---
 
