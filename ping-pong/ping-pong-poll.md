@@ -1,3 +1,14 @@
+# Keep Calm Ping Pong - Weekly Poll Template
+
+Reference template for the Friday info message + poll. The live send logic (exact
+wording, options, racket-supply question) lives in
+`keepcalm-pingpong/tools/cron-pingpong-poll.sh` - treat that script as the source of
+truth. The time options below shift a little through the year with daylight hours and
+have drifted out of sync with this file before (fixed 2026-08-07) - check the script
+before trusting them.
+
+---
+
 🏓 Thursday Evening Pong 🏓
 
 Happy weekend everyone - As always, next Thursday we’ll be playing table tennis / ping pong!
@@ -17,6 +28,6 @@ If you have any questions, please don’t hesitate to reach out.
 Thursday Ping Pong @ Sants
 
 🏓 Ponging @ 18:00
-🏓 Ponging @ 18:30
 🏓 Ponging @ 19:00
+🏓 Ponging @ 20:00
 

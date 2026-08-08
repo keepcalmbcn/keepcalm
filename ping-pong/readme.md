@@ -23,8 +23,9 @@ Part of the larger **Keep Calm** not-for-profit community for English speakers i
 ## How It Works
 
 ### Before Thursday
-- **Poll posted**: Usually Tuesday/Wednesday
-- **Vote for your arrival time**: 18:00, 18:30, or 19:00
+- **Poll posted**: Every Friday, for the following week's session
+- **Reminder**: A follow-up nudge goes out the Tuesday before, pointing back at the pinned poll
+- **Vote for your arrival time**: currently 18:00, 19:00, or 20:00 - these can shift a little through the year with daylight hours, so always check the pinned poll for the live options rather than this list
   - This helps avoid people waiting around
   - Helps organizers know how many to expect
 
@@ -81,7 +82,7 @@ The organiser coordinates the Thursday sessions and keeps things running smoothl
 
 ### If You're New
 1. Join the Ping Pong WhatsApp group (links at https://keepcalm.fit/)
-2. Watch for the weekly poll (usually posted Tuesday/Wednesday)
+2. Watch for the weekly poll (posted every Friday)
 3. Vote for your arrival time
 4. Show up on Thursday and look for the group
 5. Introduce yourself - everyone is friendly!

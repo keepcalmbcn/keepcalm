@@ -40,6 +40,10 @@ Sessions happen somehow (you, a fellow organiser, or cover), people get answered
 - A platform to lead: beginner sessions, new formats, your ideas tried for real
 - What we can't offer: money or commercial promotion - Keep Calm is strictly non-commercial, and that applies to organisers too (see [Partnerships & Reciprocity](../rules/partnerships-reciprocity.md))
 
+**Since Keep Calm registered as an association**
+
+This role is also formally defined in the association's statutes under this same name, "Organiser" (Article 22b) - tied to your working group's day-to-day operation and requesting funds through the association's spending-approval process. You don't need to be a formal member of the association to hold this role. Nothing changes day-to-day - this is just formal recognition that lines up your community role with how the association is legally structured.
+
 **If it stops working**
 
 Stepping back is always okay and never held against anyone - most organisers eventually do, and a good handover is all we ask. Removal from the role only happens for sustained unreliability or conduct issues, is decided by the organisers together, and always with the chance to be heard ([Decision Making](decision-making.md)).
