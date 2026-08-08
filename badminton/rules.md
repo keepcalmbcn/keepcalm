@@ -10,10 +10,11 @@ Welcome to Keep Calm Badminton! To keep things fun and fair for everyone, please
 >
 > **You must be 18 or over to take part. Keep Calm is an adults-only community.**
 
-## 1. Voting and Commitment
+## 1. Signing Up and Commitment
 
-- Only vote **yes** in the weekly poll if you genuinely plan to play - Mel books courts based on the headcount
-- A spot is only secured once you've **paid** - voting in the poll alone doesn't hold your place
+- Only sign up via the form at [keepcalm.fit/friday-badminton](https://keepcalm.fit/friday-badminton) if you genuinely plan to play - Mel books courts based on who's signed up
+- A spot is only secured once you've **paid** - signing up alone doesn't hold your place
+- Sign-ups are first come, first served, though Mel has final say on the roster
 - If a session fills up, let the organiser know if you'd still like to be considered in case another court gets added
 
 ## 2. Cancellations
@@ -22,11 +23,14 @@ Welcome to Keep Calm Badminton! To keep things fun and fair for everyone, please
 - People often cancel late assuming others want the spot - don't. Cancel as early as you can
 - Repeated late cancellations or no-shows affect the whole group and may cost you your place (see the strike system in the Event Rules)
 
+Separately, arriving considerably late, leaving early, or not showing up at all gets noted by the organiser as a **priority flag** for future sessions. This is a lighter, badminton-specific record, not the strike system above - it doesn't remove or reorder anyone automatically, it's just something the organiser takes into account, and it clears once resolved.
+
 ## 3. Payment
 
-- Cost varies depending on how many courts get booked - typically **€5-6 per person**, covering the court hire and shuttlecocks
-- Pay the organiser by **Bizum** (or Revolut on request) once courts are confirmed for the week
-- Pay promptly so the organiser isn't left chasing
+- Cost varies by venue and how many courts get booked, covering the court hire and shuttlecocks
+- **New players** pay in advance by **Bizum** (or Revolut on request) as soon as the roster's confirmed, not on the day
+- **Regulars** who've played with us **3 or more times** can pay cash on the day instead
+- Either way, pay promptly so the organiser isn't left chasing
 
 ## 4. Level
 

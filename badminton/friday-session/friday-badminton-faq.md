@@ -3,7 +3,10 @@
 ## About the Session
 
 ### What is Keep Calm Badminton?
-A weekly badminton session organised through the Keep Calm community - a not-for-profit community for English speakers in Barcelona. We play every Friday evening, normally at La Mar Bella Municipal Sports Complex, organised directly by **Mel**: a WhatsApp poll, courts booked based on headcount, and payment by Bizum.
+A weekly badminton session organised through the Keep Calm community - a not-for-profit community for English speakers in Barcelona. We play every Friday evening, normally at La Mar Bella Municipal Sports Complex, organised directly by **Mel**: sign up via a Google Form, courts booked based on who's signed up, and payment by Bizum or cash on the day depending on how long you've been playing with us.
+
+### Are there other sessions in the works?
+Nothing confirmed yet, but we're exploring some level-specific additions - a weekday session for beginners/improvers, and a more social Sunday one. No day, venue, or organiser is settled for either, so there's nothing to sign up for yet - keep an eye on the WhatsApp group for when (if) that changes.
 
 ### Who is this for?
 Everyone. It's a **mixed** game - ladies and gents both welcome, all ages - currently pitched at a **lower-intermediate** level. This is social badminton, not a competition, so turning up and having fun matters far more than the score.
@@ -12,7 +15,7 @@ Everyone. It's a **mixed** game - ladies and gents both welcome, all ages - curr
 The Friday session is aimed at a **lower-intermediate** level, so it suits people who know the basics and can hold a rally. Genuine beginners are still welcome to come along, but be honest about your level when you RSVP so the games stay enjoyable for everyone. If you're brand new, mention it in the group and we'll point you to the right session.
 
 ### Who organises the Friday session?
-**Mel** organises it directly for Keep Calm - she posts a WhatsApp poll to gauge interest, books courts based on the headcount, and collects payment by Bizum once courts are confirmed. (Earlier, in June 2026, Friday sessions ran through a partnership with BCN Badminton's Meetup group; that partnership has since ended. Since 21 July, sessions are also cross-listed as events on Keep Calm's own Meetup page, but that's just for visibility - payment and confirmation still happen entirely through Mel, Bizum, and the WhatsApp group.)
+**Mel** organises it directly for Keep Calm - she opens a Google Form to gauge interest, books courts based on who's signed up, and collects payment (Bizum for new players, cash on the day for regulars) once the roster's confirmed. (Earlier, in June 2026, Friday sessions ran through a partnership with BCN Badminton's Meetup group; that partnership has since ended. Since 21 July, sessions are also cross-listed as events on Keep Calm's own Meetup page, but that's just for visibility - payment and confirmation still happen entirely through Mel, Bizum, and the WhatsApp group.)
 
 ---
 
@@ -25,10 +28,10 @@ The Friday session is aimed at a **lower-intermediate** level, so it suits peopl
 **Doubles practice games** (2v2), rotating so everyone gets plenty of court time and games with different partners. The number of courts depends on how many people sign up that week - 1-3 at La Mar Bella, capped at 2 (max 12 players) at Vall d'Hebron.
 
 ### How much does it cost and how do I pay?
-Cost varies by venue and how many courts get booked - **€5.50 per person at La Mar Bella**, **€6 per person at Vall d'Hebron** - covering the court hire and shuttlecocks. Mel shares the exact amount and a **Bizum** number (Revolut on request) once courts are confirmed for the week - your spot is only secured once you've paid.
+Cost varies by venue and how many courts get booked - **€5.50 per person at La Mar Bella**, **€6 per person at Vall d'Hebron** - covering the court hire and shuttlecocks. If you're new, Mel shares the exact amount and a **Bizum** number (Revolut on request) once the roster's confirmed - pay in advance, your spot is only secured once you've paid. If you've played with us **3 or more times before**, you can pay cash on the day instead.
 
 ### How many spots are there?
-It depends on how many courts Mel books that week, based on interest in the WhatsApp poll - there's no fixed cap like a venue-run booking system would have.
+It depends on how many courts Mel books that week, based on how many people sign up via the form - there's no fixed cap like a venue-run booking system would have.
 
 ---
 
@@ -36,12 +39,12 @@ It depends on how many courts Mel books that week, based on interest in the What
 
 ### How do I join?
 1. Join the Keep Calm Badminton WhatsApp group
-2. Vote in the weekly poll when it goes out, so Mel knows to count you in
-3. Once courts are confirmed, pay Mel by Bizum (or Revolut) to secure your spot
+2. Sign up via the Google Form at [keepcalm.fit/friday-badminton](https://keepcalm.fit/friday-badminton) - it's open for about a week before each session, first come first served, though Mel has final say on the roster
+3. Once the roster's confirmed, pay Mel by Bizum (or Revolut) if you're new, or bring cash on the day if you've played with us 3+ times before
 4. Bring your racket, indoor court shoes, water, and turn up for the confirmed time
 
-### What if I want to come but the poll's already gone out?
-Just message the group - Mel books based on numbers, so let her know as early as you can in case there's still room to add another court.
+### What if I want to come but the form's already closed?
+Just message the group - Mel books based on who's signed up, so let her know as early as you can in case there's still room to add another court.
 
 ### What if I can't make it after paying?
 Let Mel know **as soon as possible** so she can offer your spot to someone else - don't leave it until the last minute.
@@ -54,10 +57,17 @@ Let Mel know **as soon as possible** so she can offer your spot to someone else 
 - **Your own racket** (ask in the group if you need to borrow one)
 - **Indoor court shoes** with non-marking soles
 - **Water** to stay hydrated
-- Payment by **Bizum** (or Revolut) if you haven't already paid Mel for your spot
+- A **towel and padlock** if you plan to shower after
+- Payment: **Bizum** (or Revolut) if you're new and haven't already paid, or cash if you're a regular paying on the day
 
 ### Do I need my own racket?
-Bring your own if you have one. If you need to borrow one, ask in the group beforehand - members sometimes have a spare. La Mar Bella's own reception also rents rackets for **€2 each** - a confirmed, handy backup if you turn up without one - see [Other Venues & Gear](../other-venues-and-gear.md).
+Bring your own if you have one. If you need to borrow one, ask in the group beforehand - members sometimes have a spare. Some venues (currently Vall d'Hebron) also rent rackets at reception for a couple of euros - a handy backup if you turn up without one - see [Other Venues & Gear](../other-venues-and-gear.md). If you play with feather shuttles, bring your own tube occasionally, or mention it in the group in advance.
+
+### Are there showers?
+Venues have changing rooms and showers, so bring a towel and a padlock if you want to use them.
+
+### Is there anything after the session?
+Post-session food or drinks are informal and everyone's welcome, whether you played that day or not. If you're joining, a heads-up in the group beforehand helps with numbers.
 
 ### What if I need to cancel?
 Late cancellations - within 24 hours of the session - aren't reimbursed unless a replacement player is found to take your spot. This is stated in the WhatsApp group description, so check it before you commit to paying.
