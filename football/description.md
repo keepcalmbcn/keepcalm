@@ -19,6 +19,6 @@ Open to adults only (18+).
 New? Read our FAQ: https://github.com/keepcalmbcn/keepcalm/blob/main/football/friday-session/friday-football-faq.md
 Rules: https://github.com/keepcalmbcn/keepcalm/blob/main/football/rules.md
 Policies (please read): https://keepcalm.fit/policies
-Website: https://keepcalm.fit/
+Website: https://keepcalm.fit/go/whatsapp/social/description
 Instagram: https://www.instagram.com/keepcalmbarcelona/
 Facebook: https://www.facebook.com/keepcalmbarcelona

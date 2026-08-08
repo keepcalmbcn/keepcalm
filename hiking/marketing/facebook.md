@@ -16,6 +16,6 @@ The group is friendly and mixed - some people are experienced hikers, others are
 
 We're a volunteer-run community with no commercial interest - just people who want to explore this part of Spain with good company.
 
-Head to keepcalm.fit to find the hiking WhatsApp group and see what's coming up next. Open to adults (18+).
+Head to keepcalm.fit/go/facebook/social/post to find the hiking WhatsApp group and see what's coming up next. Open to adults (18+).
 
 ---

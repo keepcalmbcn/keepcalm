@@ -14,7 +14,7 @@ We do monthly hikes around Catalunya - coastal paths, mountain trails, forest ro
 
 Part of Keep Calm, a not-for-profit English-speaking community in Barcelona.
 
-👉 Join the hiking WhatsApp group at *keepcalm.fit* to see the next hike announcement!
+👉 Join the hiking WhatsApp group at *keepcalm.fit/go/whatsapp/social/post* to see the next hike announcement!
 
 18+ only.
 

@@ -18,7 +18,7 @@ Nix
 Reku
 Any questions? Drop them in the Whatsapp group and someone will get back to you.
 
-Join the hiking WhatsApp group: https://keepcalm.fit
+Join the hiking WhatsApp group: https://keepcalm.fit/go/email/email/post
 
 ------------------------------------------------------------
 ON THE DAY
@@ -60,13 +60,13 @@ The forecast isn't looking perfect right now, but we're staying positive! We'll 
 
 All updates will come through the hiking WhatsApp group - if you haven't joined yet, please do so now. If we need to postpone, we'll announce it there.
 
-Join the hiking WhatsApp group: https://keepcalm.fit
+Join the hiking WhatsApp group: https://keepcalm.fit/go/email/email/post
 ------------------------------------------------------------
 
 Looking forward to a great day on the coast with you all!
 
 Daniel | Keep Calm Barcelona
-Website: https://keepcalm.fit
+Website: https://keepcalm.fit/go/email/email/post
 Instagram: https://www.instagram.com/keepcalmbarcelona/
 Facebook: https://www.facebook.com/keepcalmbarcelona
 

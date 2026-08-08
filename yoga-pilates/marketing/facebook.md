@@ -8,9 +8,9 @@ This is genuinely open to all levels. If you've never rolled out a mat in your l
 
 Keep Calm is volunteer-run and not-for-profit. We organise activities across loads of sports - padel, volleyball, hiking, tennis and more - all with the same idea: meet people, stay active, enjoy Barcelona.
 
-To get involved with yoga and pilates, join the WhatsApp group via keepcalm.fit and watch for session announcements. Sessions will include details on time, location, and any cost involved.
+To get involved with yoga and pilates, join the WhatsApp group via keepcalm.fit/go/facebook/social/post and watch for session announcements. Sessions will include details on time, location, and any cost involved.
 
 If you're new to the city or just looking for a friendly way to get moving with other English speakers, come and join us.
 
-Website: keepcalm.fit
+Website: keepcalm.fit/go/facebook/social/post
 Instagram: @keepcalmbarcelona

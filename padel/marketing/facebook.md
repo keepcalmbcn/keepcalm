@@ -14,4 +14,4 @@ After the games most Sundays there's a casual post-game meetup at a local bar - 
 
 It's a genuinely welcoming group. People come on their own, at all skill levels, from all over the world. A lot of members have said it's one of the best things they found when they moved to Barcelona.
 
-If you're curious, head to keepcalm.fit or search for Keep Calm Barcelona on Instagram and Facebook. Happy to answer questions in the comments too 👇
+If you're curious, head to keepcalm.fit/go/facebook/social/post or search for Keep Calm Barcelona on Instagram and Facebook. Happy to answer questions in the comments too 👇

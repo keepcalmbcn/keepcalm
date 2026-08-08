@@ -8,7 +8,7 @@ Keep Calm Ping Pong (Table Tennis) - part of the Keep Calm community for English
 
 We play every Thursday from 18:00 at the outdoor tables in Sants. All levels welcome, equipment provided. Just turn up and play!
 
-A poll goes out midweek so we know who's coming and when. Vote for your arrival time (18:00, 18:30, or 19:00).
+A poll goes out every Friday for the following week. Vote for your arrival time (18:00, 19:00, or 20:00 - always check the pinned poll for the exact current options, as these can shift a little through the year).
 
 Cost: Free! Public outdoor tables.
 
@@ -18,6 +18,6 @@ Open to adults only (18+).
 
 Rules: https://github.com/keepcalmbcn/keepcalm/blob/main/ping-pong/rules.md
 Policies (please read): https://keepcalm.fit/policies
-Website: https://keepcalm.fit/
+Website: https://keepcalm.fit/go/whatsapp/social/description
 Instagram: https://www.instagram.com/keepcalmbarcelona/
 Facebook: https://www.facebook.com/keepcalmbarcelona

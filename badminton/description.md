@@ -20,6 +20,6 @@ Open to adults only (18+).
 
 Rules: https://github.com/keepcalmbcn/keepcalm/blob/main/badminton/rules.md
 Policies (please read): https://keepcalm.fit/policies
-Website: https://keepcalm.fit/
+Website: https://keepcalm.fit/go/whatsapp/social/description
 Instagram: https://www.instagram.com/keepcalmbarcelona/
 Facebook: https://www.facebook.com/keepcalmbarcelona

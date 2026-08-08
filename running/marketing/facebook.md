@@ -12,4 +12,4 @@ Keep Calm is volunteer-run and not-for-profit, so there's nothing to pay. Runnin
 
 Our first run is along La Carretera de les Aigues on Saturday 23rd May at 8am, meeting at Penitents metro.
 
-If you're interested, head to keepcalm.fit to join the WhatsApp group and keep an eye out for upcoming runs. Would love to see some new faces! 🏃
+If you're interested, head to keepcalm.fit/go/facebook/social/post to join the WhatsApp group and keep an eye out for upcoming runs. Would love to see some new faces! 🏃

@@ -38,7 +38,7 @@ We do our best to balance player levels and expectations.
 Some days will be better than others - thanks for staying positive 🙏
 
 🔗 CONNECT WITH US
-🌐 Website: https://keepcalm.fit/
+🌐 Website: https://keepcalm.fit/go/whatsapp/social/post
 📘 Facebook: https://www.facebook.com/keepcalmbarcelona
 📸 Instagram: https://www.instagram.com/keepcalmbarcelona/
 📄 Docs: https://github.com/BigSwingingDan/Keep-calm-and-carry-on/blob/main/Padel/README.md

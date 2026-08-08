@@ -16,4 +16,4 @@ And it's free - we use the public beach nets. There's no membership fee, the who
 
 Nervous about turning up alone? Don't be - there's always a clear meeting point and a named organiser, everyone is there to make friends, and you're welcome to bring a friend along.
 
-Head to keepcalm.fit to find the women's volleyball WhatsApp group and see what's coming up next. Open to adults (18+).
+Head to keepcalm.fit/go/facebook/social/post to find the women's volleyball WhatsApp group and see what's coming up next. Open to adults (18+).

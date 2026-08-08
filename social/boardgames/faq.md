@@ -59,4 +59,4 @@ The night is hosted by **Andre** and the **[Board Games BCN](https://www.meetup.
 The plan is to run one roughly **every couple of months**. Watch the **Social WhatsApp group** for announcements.
 
 ## How do I join the Social WhatsApp group?
-Links are available at [keepcalm.fit](https://keepcalm.fit/).
+Links are available at [keepcalm.fit/go/whatsapp/social/post](https://keepcalm.fit/go/whatsapp/social/post).

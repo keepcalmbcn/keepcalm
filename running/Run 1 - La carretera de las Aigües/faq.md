@@ -60,4 +60,4 @@ Let someone know in the **Running WhatsApp group** so we're not waiting around. 
 That's the plan! This is **Run 1** and the start of Keep Calm Running as a regular thing. Watch the **Running WhatsApp group** for future announcements.
 
 ## How do I join the Running WhatsApp group?
-Links are available at [keepcalm.fit](https://keepcalm.fit/).
+Links are available at [keepcalm.fit/go/whatsapp/social/post](https://keepcalm.fit/go/whatsapp/social/post).

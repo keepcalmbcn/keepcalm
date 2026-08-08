@@ -24,7 +24,7 @@ Every football recap post (WhatsApp and Instagram, after a Friday session) shoul
 - On Instagram specifically, tag them: **@vaya.sports**.
 - On Instagram, include both links rather than just "link in bio":
   - WhatsApp group: `https://keepcalm.fit/whatsapp/football`
-  - Activities page: `https://keepcalm.fit/activities/football`
+  - Activities page: `https://keepcalm.fit/go/instagram/social/bio/activities/football`
 
 This applies to recap posts only (after a session already happened), not the
 pre-event announcement copy above.

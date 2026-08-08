@@ -17,6 +17,6 @@ Typically *€5-6 per person*, depending on courts booked - pay by Bizum once Me
 
 Join the WhatsApp group and vote in the weekly poll to be counted in 👇
 
-*keepcalm.fit*
+*keepcalm.fit/go/whatsapp/social/post*
 
 📋 By taking part you agree to our policies (safety, data, conduct, 18+): https://keepcalm.fit/policies

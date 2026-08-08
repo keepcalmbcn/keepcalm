@@ -15,7 +15,7 @@ Part of *Keep Calm*, Barcelona's free English-speaking sports community.
 
 Join the WhatsApp group and watch for session announcements 👇
 
-🌐 keepcalm.fit
+🌐 keepcalm.fit/go/whatsapp/social/post
 
 📸 @keepcalmbarcelona
 

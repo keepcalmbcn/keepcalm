@@ -10,7 +10,7 @@ No partner needed, no pressure, just good tennis and good people. Cost is around
 
 We're part of *Keep Calm* - a not-for-profit sports community run by volunteers. The vibe is inclusive and relaxed.
 
-👉 Find us at *keepcalm.fit* or search *Keep Calm Barcelona* on Instagram/Facebook.
+👉 Find us at *keepcalm.fit/go/whatsapp/social/post* or search *Keep Calm Barcelona* on Instagram/Facebook.
 
 Drop a message if you want to know more! 🙌
 

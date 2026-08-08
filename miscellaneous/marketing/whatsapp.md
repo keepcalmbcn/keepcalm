@@ -12,7 +12,7 @@ No fixed schedule, no commitment - just keep an eye out and join when something 
 
 Part of *Keep Calm* - the English-speaking sports and social community in Barcelona. All levels welcome. 18+.
 
-👉 Find us at *keepcalm.fit* or search *Keep Calm Barcelona* on Instagram and Facebook.
+👉 Find us at *keepcalm.fit/go/whatsapp/social/post* or search *Keep Calm Barcelona* on Instagram and Facebook.
 
 ---
 

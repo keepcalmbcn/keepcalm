@@ -18,7 +18,7 @@ We run something almost every day:
 
 All levels welcome. Most things are free or just a few euros. No membership, no pressure - just turn up.
 
-👉 Join the groups for your sports at https://keepcalm.fit/
+👉 Join the groups for your sports at https://keepcalm.fit/go/whatsapp/social/post
 📸 https://www.instagram.com/keepcalmbarcelona/
 
 See you out there!

@@ -62,6 +62,6 @@ By joining this event, you agree that your personal data will be collected, stor
 🔗 KEEP UP TO DATE
 The latest event info is always available at: https://github.com/keepcalmbcn/keepcalm/tree/main/hiking
 
-🌍 Website: https://keepcalm.fit
+🌍 Website: https://keepcalm.fit/go/whatsapp/social/post
 📸 Instagram: https://www.instagram.com/keepcalmbarcelona/
 📘 Facebook: https://www.facebook.com/keepcalmbarcelona

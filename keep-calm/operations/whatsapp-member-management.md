@@ -49,7 +49,7 @@ That's it!
 
 Thanks for being part of this community! 🤗🥰
 
-🌐 Website: https://keepcalm.fit/
+🌐 Website: https://keepcalm.fit/go/whatsapp/social/member-reminder
 📘 Facebook: https://www.facebook.com/keepcalmbarcelona
 📸 Instagram: https://www.instagram.com/keepcalmbarcelona/
 

@@ -31,7 +31,7 @@ Keep an eye out for the Leaders/organisers and feel free to ask them any questio
 
 Any questions? Drop them in the hiking group and someone will get back to you.
 
-Join the hiking WhatsApp group: https://keepcalm.fit
+Join the hiking WhatsApp group: https://keepcalm.fit/go/email/email/post
 
 ------------------------------------------------------------
 ON THE DAY
@@ -88,14 +88,14 @@ The forecast is looking great - sunny, warm, and clear skies, perfect hiking wea
 
 All updates will come through the hiking WhatsApp group - if you haven't joined yet, please do so now.
 
-Join the hiking WhatsApp group: https://keepcalm.fit
+Join the hiking WhatsApp group: https://keepcalm.fit/go/email/email/post
 
 ------------------------------------------------------------
 
 With sunshine on the way and around 120 of us hitting the trail, this is going to be a brilliant day. See you on the coast!
 
 Daniel | Keep Calm Barcelona
-Website: https://keepcalm.fit
+Website: https://keepcalm.fit/go/email/email/post
 Instagram: https://www.instagram.com/keepcalmbarcelona/
 Facebook: https://www.facebook.com/keepcalmbarcelona
 

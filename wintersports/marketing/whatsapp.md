@@ -14,6 +14,6 @@ Resorts we visit:
 
 Join the WhatsApp group and be ready for next season! 🎿
 
-👉 keepcalm.fit
+👉 keepcalm.fit/go/whatsapp/social/post
 
 📋 By taking part you agree to our policies (safety, data, conduct, 18+): https://keepcalm.fit/policies

@@ -15,7 +15,7 @@ We do indoor bouldering and climbing meetups around Barcelona, rotating between 
 
 Part of Keep Calm, a not-for-profit English-speaking community in Barcelona.
 
-👉 Join the climbing WhatsApp group at *keepcalm.fit* to see the next session announcement!
+👉 Join the climbing WhatsApp group at *keepcalm.fit/go/whatsapp/social/post* to see the next session announcement!
 
 18+ only.
 

@@ -12,6 +12,6 @@ It's completely free. Public tables, no booking, no fee.
 
 This is part of Keep Calm, a not-for-profit community for English speakers in Barcelona. We run weekly sports sessions across a range of activities - ping pong, padel, volleyball, hiking and more - and the whole thing is volunteer-run. The goal is simple: meet people, stay active, feel at home in Barcelona.
 
-To join, head to keepcalm.fit to find the WhatsApp group link. A poll goes out midweek so you can pick your arrival time - 18:00, 18:30 or 19:00.
+To join, head to keepcalm.fit/go/facebook/social/post to find the WhatsApp group link. A poll goes out every Friday so you can pick your arrival time - currently 18:00, 19:00 or 20:00, check the pinned poll for the exact current options.
 
 Hope to see you at the tables! 🏓

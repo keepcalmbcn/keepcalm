@@ -14,6 +14,6 @@ Teams rotate so everyone gets plenty of game time. Great sport, great setting, g
 
 Part of *Keep Calm* - a not-for-profit sports community for English speakers in Barcelona 🇬🇧
 
-👉 Find us at *keepcalm.fit* to join the WhatsApp group and get involved!
+👉 Find us at *keepcalm.fit/go/whatsapp/social/post* to join the WhatsApp group and get involved!
 
 📋 By taking part you agree to our policies (safety, data, conduct, 18+): https://keepcalm.fit/policies

@@ -14,7 +14,7 @@ A relaxed language exchange (intercambio) for English speakers in Barcelona who 
 
 Part of Keep Calm, a not-for-profit English-speaking community in Barcelona.
 
-👉 Join the Languages WhatsApp group at *keepcalm.fit* to see the next meetup announcement!
+👉 Join the Languages WhatsApp group at *keepcalm.fit/go/whatsapp/social/post* to see the next meetup announcement!
 
 18+ only.
 

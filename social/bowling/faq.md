@@ -48,4 +48,4 @@ No problem - there's nothing to cancel since tickets aren't pre-booked. Just don
 David A has said he'll post again whenever he can get another batch of discounted tickets. Watch the **Social WhatsApp group** for announcements.
 
 ## How do I join the Social WhatsApp group?
-Links are available at [keepcalm.fit](https://keepcalm.fit/).
+Links are available at [keepcalm.fit/go/whatsapp/social/post](https://keepcalm.fit/go/whatsapp/social/post).

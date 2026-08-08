@@ -12,4 +12,4 @@ Sessions are posted in a WhatsApp group with the time, location, and cost. Costs
 
 The community is volunteer-run and not-for-profit. It's also part of a wider Keep Calm network that runs padel, volleyball, hiking, ping pong, and other sports - so if football isn't your only thing, there's plenty more to explore.
 
-Adults only (18+). Find the join link and more info at keepcalm.fit - or drop a comment below if you have questions. See you on the pitch! ⚽
+Adults only (18+). Find the join link and more info at keepcalm.fit/go/facebook/social/post - or drop a comment below if you have questions. See you on the pitch! ⚽

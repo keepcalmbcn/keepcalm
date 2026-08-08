@@ -29,7 +29,7 @@ Keep Calm is a not-for-profit community for English speakers in Barcelona. Padel
 🏐 Volleyball • 🏓 Ping Pong • 🎾 Tennis • 🏸 Badminton • 🥾 Hiking • 🎉 Social Events
 
 🔗 Find us here:
-• 🌐 https://keepcalm.fit/
+• 🌐 https://keepcalm.fit/go/whatsapp/social/post
 • 📸 https://www.instagram.com/keepcalmbarcelona/
 • 📘 https://www.facebook.com/keepcalmbarcelona
 

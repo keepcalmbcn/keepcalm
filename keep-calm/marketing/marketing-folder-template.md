@@ -36,11 +36,15 @@ Which link to use depends on where the reader is coming from:
 | Luma | `keepcalm.fit/luma/<sport>` | Per-sport landing, mirrors the Meetup setup |
 | Eventbrite | `keepcalm.fit/eventbrite/<sport>` | Per-sport landing, mirrors the Meetup setup |
 | Instagram | `https://keepcalm.fit/whatsapp/<activity>` plus "link in bio" | Direct link to the group |
-| Facebook | `keepcalm.fit` or `https://keepcalm.fit/whatsapp/<activity>` | Either route works |
-| Reddit | `keepcalm.fit` (mention once, casually) | Hard links read as spam on Reddit |
-| WhatsApp (our groups) | `keepcalm.fit` + policies footer | Members already trust the brand |
+| Facebook | `https://keepcalm.fit/whatsapp/<activity>`, or `https://keepcalm.fit/go/facebook/social/post` if the post is about the whole community rather than one sport | Tagged either way - never the bare homepage |
+| Reddit | `keepcalm.fit` (mention once, casually) - **do not tag this one** | Hard, tracked-looking links read as spam on Reddit; the casual mention is deliberate |
+| WhatsApp (our groups) | `https://keepcalm.fit/whatsapp/<activity>` for one sport, `https://keepcalm.fit/go/whatsapp/social/post` for an all-sports post, + policies footer | Members already trust the brand, but the link still gets forwarded on, so it's still worth tagging |
+| Anything else pointing at the homepage (docs, emails, one-off mentions) | `https://keepcalm.fit/go/<source>/<medium>/<campaign>` | General-purpose UTM redirect, e.g. `keepcalm.fit/go/instagram/social/bio` |
+| Anything pointing at a specific page other than the homepage (e.g. `/activities`) | `https://keepcalm.fit/go/<source>/<medium>/<campaign>/<path>` | Same UTM redirect, with the target path tagged on the end, e.g. `keepcalm.fit/go/instagram/social/bio/activities` for the Instagram bio link to the activities list |
 
 Note: the `keepcalm.fit/luma/<sport>` and `keepcalm.fit/eventbrite/<sport>` routes must exist on the website before copy using them goes live. Check a link resolves before publishing.
+
+**Never write a bare `https://keepcalm.fit/` link with no tag or path** (outside the Reddit exception above) - GA4 buckets it as "Direct" traffic, especially when opened through an app's in-app browser (Instagram/Facebook strip the Referer header), and there's no way to tell afterwards where the click actually came from. `/go/<source>/<medium>/<campaign>` lands on the homepage; add a trailing `/<path>` segment to land on any other page instead (confirmed live 2026-08-07, nested paths work too). See `CLAUDE.md`'s "Tag every outward keepcalm.fit link for GA4 attribution" for the full rule and the reasoning.
 
 Rules that apply to every join path:
 
@@ -201,7 +205,7 @@ facebook.com/keepcalmbarcelona.
 
 ### facebook.md
 
-A narrative post for Facebook pages and groups. Longer-form and conversational: what the group does, why it is easy to start, the social side, cost, then the join line ("Head to keepcalm.fit to find the <activity> WhatsApp group") and "Open to adults (18+)".
+A narrative post for Facebook pages and groups. Longer-form and conversational: what the group does, why it is easy to start, the social side, cost, then the join line ("Head to keepcalm.fit/whatsapp/<activity> to find the <activity> WhatsApp group") and "Open to adults (18+)".
 
 ### instagram.md
 

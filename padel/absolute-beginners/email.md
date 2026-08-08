@@ -20,7 +20,7 @@ Once you're in, you can join future Keep Calm sessions, book courts on your own,
 
 Step 3: Join our community  (Optional)
 
-Keep Calm, we're a not-for-profit multi sport community in Barcelona for English speakers. Our goal is simple - bring people together through sport and activities. We run weekly padel, volleyball, ping pong, hiking, and more, all open to every level. If you're new to Barcelona, new to padel, or just looking to meet people, this is your place.​ If you wish to join please visit our website and join your desired groups. https://keepcalm.fit
+Keep Calm, we're a not-for-profit multi sport community in Barcelona for English speakers. Our goal is simple - bring people together through sport and activities. We run weekly padel, volleyball, ping pong, hiking, and more, all open to every level. If you're new to Barcelona, new to padel, or just looking to meet people, this is your place.​ If you wish to join please visit our website and join your desired groups. https://keepcalm.fit/go/email/email/post
 
 padel1.jpg​
 ​padel2.jpg
@@ -31,6 +31,6 @@ Look forward to meeting you soon!
 
 Daniel
 
-🌐 Website: https://keepcalm.fit/
+🌐 Website: https://keepcalm.fit/go/email/email/post
 📸 Instagram: https://www.instagram.com/keepcalmbarcelona/
 📘 Facebook: https://www.facebook.com/keepcalmbarcelona

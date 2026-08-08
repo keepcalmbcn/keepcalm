@@ -1,6 +1,6 @@
 # FAQ - Coastal Hike & Beach (Vilanova to Sitges)
 
-Quick answers to the questions we've been asked most. Anything not covered here? Drop a message in the hiking WhatsApp group: https://keepcalm.fit
+Quick answers to the questions we've been asked most. Anything not covered here? Drop a message in the hiking WhatsApp group: https://keepcalm.fit/go/whatsapp/social/post
 
 ---
 

@@ -16,4 +16,4 @@ Everything is run by volunteers and nothing is for profit. Most activities are f
 
 If moving to a new city has felt a bit lonely, this is exactly what we are here for. Come and find your people.
 
-Join the WhatsApp groups for your sports at https://keepcalm.fit/ or follow us on Instagram @keepcalmbarcelona. See you out there!
+Join the WhatsApp groups for your sports at https://keepcalm.fit/go/facebook/social/post or follow us on Instagram @keepcalmbarcelona. See you out there!

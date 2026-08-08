@@ -15,7 +15,7 @@ Whether you were a player or a volunteer, please take 2 minutes to fill out our 
 • Connect with the people you played with today - they're at the same level as you and great partners to practice with or join our sessions together!
 
 🎾 *WANT TO KEEP PLAYING?*
-Now that you've got a taste for padel, why not join our regular sessions? Sign up to the community at 👉 https://keepcalm.fit and look for padel!
+Now that you've got a taste for padel, why not join our regular sessions? Sign up to the community at 👉 https://keepcalm.fit/go/whatsapp/social/post and look for padel!
 
 👉 *Sign up to next Sunday's padel session here:* https://keepcalm.fit/sunday-padel
 
@@ -38,7 +38,7 @@ Padel is just one of our activities! We also run:
 🏐 Volleyball • 🏓 Ping Pong • 🎾 Tennis • 🏸 Badminton • 🥾 Hiking • 🎉 Social Events
 
 🔗 *Join our main community to discover all activities:*
-• 🌐 Website: https://keepcalm.fit/
+• 🌐 Website: https://keepcalm.fit/go/whatsapp/social/post
 • 📸 Instagram: https://www.instagram.com/keepcalmbarcelona/
 • 📘 Facebook: https://www.facebook.com/keepcalmbarcelona
 

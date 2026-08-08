@@ -19,8 +19,8 @@ No need to be great - most of our regulars are improvers just getting back into 
 
 Come for the tennis, stay for the community. 🙌
 
-👉 **Want to join?** Head to https://keepcalm.fit/activities/tennis to get added to the WhatsApp group!
+👉 **Want to join?** Head to https://keepcalm.fit/go/facebook/social/post/activities/tennis to get added to the WhatsApp group!
 
-🌐 Website: https://keepcalm.fit/
+🌐 Website: https://keepcalm.fit/go/facebook/social/post
 📸 Instagram: https://www.instagram.com/keepcalmbarcelona/
 👍 Facebook: https://www.facebook.com/keepcalmbarcelona

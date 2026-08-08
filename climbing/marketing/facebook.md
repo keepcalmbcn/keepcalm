@@ -18,6 +18,6 @@ The group is friendly and mixed - some people are experienced climbers, others h
 
 We're a volunteer-run community with no commercial interest, just people who want to climb with good company.
 
-Head to keepcalm.fit to find the climbing WhatsApp group and see what's coming up next. Open to adults (18+).
+Head to keepcalm.fit/go/facebook/social/post to find the climbing WhatsApp group and see what's coming up next. Open to adults (18+).
 
 ---

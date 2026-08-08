@@ -27,6 +27,6 @@ We’re truly grateful to have you here. Let’s build something great together.
 Cheers,
 The Keep Calm Team ✌️
 
-🌐 https://keepcalm.fit
+🌐 https://keepcalm.fit/go/whatsapp/social/survey
 📘 https://facebook.com/keepcalmbarcelona
 📸 https://instagram.com/keepcalmbarcelona

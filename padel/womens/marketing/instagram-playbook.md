@@ -16,7 +16,7 @@ The honest priority order: Reels for reach > Collab posts with women's/club acco
   - Local: `#barcelona #barcelonaexpat #womenofbarcelona #expatwomenbarcelona`
   - Sport: `#padelfemenino #womenspadel #padelbarcelona #padelgirls`
   - Intent: `#beginnerpadel #meetpeoplebarcelona #barcelonacommunity`
-- **Bio + link.** Bio should name "English-speaking sports community, women's padel & volleyball" with keepcalm.fit obvious. People who discover a Reel check the bio next.
+- **Bio + link.** Bio should name "English-speaking sports community, women's padel & volleyball" with keepcalm.fit/go/instagram/social/bio obvious. People who discover a Reel check the bio next.
 
 ## 2. Go and find them (outbound) - highest yield, most skipped
 

@@ -47,6 +47,46 @@ slug `yoga`. Guessing the folder name as the slug produced a real dead link
 before this was caught - always verify against `data.ts` rather than
 inferring.
 
+## Tag every outward keepcalm.fit link for GA4 attribution
+
+A bare `https://keepcalm.fit/...` link posted anywhere outward (WhatsApp,
+Instagram, Facebook, Meetup, Luma, emails, or any doc meant to be
+copy-pasted externally) gets silently miscategorized as "Direct" traffic in
+GA4 once someone opens it - especially through an app's in-app browser
+(Instagram and Facebook strip the Referer header). The website already has
+redirect infrastructure to fix this (no website changes needed - just use
+the tagged form when writing a link in this repo):
+
+- **Joining a specific WhatsApp group:** `https://keepcalm.fit/whatsapp/<slug>`
+  (check `keepcalm-website/app/activities/data.ts`'s `slug:` field first -
+  see the folder-name-vs-slug gotcha above)
+- **Meetup:** `https://keepcalm.fit/meetup` or `/meetup/<activity>`
+- **Luma / Eventbrite:** `https://keepcalm.fit/luma/<sport>` /
+  `/eventbrite/<sport>` (confirm the route is live before publishing)
+- **Any other mention of the homepage in general** (not one specific group -
+  e.g. "check out our website"): `https://keepcalm.fit/go/<source>/<medium>/<campaign>`,
+  e.g. `https://keepcalm.fit/go/facebook/social/post`.
+- **Tagging a link to a specific page** (not the homepage - e.g. `/activities`):
+  add the page's path as a trailing segment -
+  `https://keepcalm.fit/go/<source>/<medium>/<campaign>/<path>` redirects to
+  `/<path>` with the same UTM tags (added 2026-08-07; confirmed live on
+  the site, nested paths work too, e.g. `/go/instagram/social/bio/activities/padel`
+  → `/activities/padel`). The bare `/go/<source>/<medium>/<campaign>` form
+  (no trailing path) still lands on the homepage, unchanged. Example:
+  Instagram bio pointing at the activities list is
+  `https://keepcalm.fit/go/instagram/social/bio/activities`.
+
+**Exception: Reddit.** Keep Reddit mentions as bare `keepcalm.fit` text, not
+a `/go/` link. Reddit's culture already treats hard/tracked links as spam
+(see `keep-calm/marketing/marketing-folder-template.md`'s join-path table),
+and a visibly tagged URL undermines the deliberately casual, personal voice
+those posts use.
+
+The full per-platform join-link table lives in
+`keep-calm/marketing/marketing-folder-template.md` ("The join path") - that
+is the detailed reference every sport's marketing folder is built from; this
+section is the quick reminder. Update both if the convention changes.
+
 ## Key Files and Their Purpose
 
 ### Organization Documents

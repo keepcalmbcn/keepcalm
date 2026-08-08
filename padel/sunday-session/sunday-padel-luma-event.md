@@ -85,7 +85,7 @@ The poll opens on Saturday and closes Monday/Tuesday evening. We'll confirm your
 
 We're a not-for-profit sports and social community for English speakers in Barcelona. Beyond padel, we organize volleyball, ping pong, tennis, badminton, hiking, and social events!
 
-Website: https://keepcalm.fit/
+Website: https://keepcalm.fit/go/luma/referral/event-info
 Instagram: https://www.instagram.com/keepcalmbarcelona/
 Full Info: https://github.com/BigSwingingDan/Keep-calm-and-carry-on/blob/main/Padel/README.md
 

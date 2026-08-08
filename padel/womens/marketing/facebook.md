@@ -14,6 +14,6 @@ You don't need your own gear to start. If you don't have a racket, just say so i
 
 Cost is just court hire, typically around €8-12 per person depending on the club. There's no membership fee, the whole community is volunteer-run and not-for-profit.
 
-Head to keepcalm.fit to find the women's padel WhatsApp group and see what's coming up next. Open to adults (18+).
+Head to keepcalm.fit/go/facebook/social/post to find the women's padel WhatsApp group and see what's coming up next. Open to adults (18+).
 
 ---

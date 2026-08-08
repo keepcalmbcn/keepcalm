@@ -26,6 +26,6 @@ Open to adults only (18+).
 
 FAQ: https://github.com/keepcalmbcn/keepcalm/blob/main/padel/sunday-session/sunday-padel-faq.md
 Rules: https://github.com/keepcalmbcn/keepcalm/blob/main/padel/rules.md
-Website: https://keepcalm.fit/
+Website: https://keepcalm.fit/go/whatsapp/social/description
 Instagram: https://www.instagram.com/keepcalmbarcelona/
 Facebook: https://www.facebook.com/keepcalmbarcelona

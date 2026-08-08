@@ -12,6 +12,6 @@ Keep Calm is a not-for-profit community for English speakers in Barcelona, run e
 
 If you want to stay in the loop for one-off events and announcements, the best place to be is the Keep Calm General Chat on WhatsApp - that's where new activity ideas get posted and where you can suggest something yourself if you have an idea.
 
-Head to keepcalm.fit to join, or search Keep Calm Barcelona on Instagram or Facebook to say hello. Hope to see you at something soon!
+Head to keepcalm.fit/go/facebook/social/post to join, or search Keep Calm Barcelona on Instagram or Facebook to say hello. Hope to see you at something soon!
 
 ---

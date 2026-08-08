@@ -44,7 +44,7 @@ Some days will be better than others - thanks for staying positive 🙏
 Bring your own racket if you have one. Coordinate tennis balls in the chat (not padel balls!).
 
 🔗 CONNECT WITH US
-🌐 Website: https://keepcalm.fit/
+🌐 Website: https://keepcalm.fit/go/whatsapp/social/post
 📘 Facebook: https://www.facebook.com/keepcalmbarcelona
 📸 Instagram: https://www.instagram.com/keepcalmbarcelona/
 📄 FAQ: https://github.com/keepcalmbcn/keepcalm/blob/main/tennis/tuesday-session/tuesday-tennis-faq.md

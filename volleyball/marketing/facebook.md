@@ -12,4 +12,4 @@ We also play ad-hoc games during the week when people are up for it. Someone pos
 
 It's a great way to stay active, enjoy the Barcelona sunshine, and meet people from all over the world who are living here. No sign-up fees, no membership - just show up.
 
-Head to keepcalm.fit to find the link to our volleyball WhatsApp group. See you on the beach! 🏐☀️
+Head to keepcalm.fit/go/facebook/social/post to find the link to our volleyball WhatsApp group. See you on the beach! 🏐☀️

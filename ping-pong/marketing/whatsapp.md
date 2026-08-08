@@ -15,7 +15,7 @@ Part of *Keep Calm* - a not-for-profit English-speaking community in Barcelona.
 💰 Free
 🎉 All levels welcome
 
-Join the group and look out for the weekly poll to pick your arrival time 👉 *keepcalm.fit*
+Join the group and look out for the weekly poll to pick your arrival time 👉 *keepcalm.fit/go/whatsapp/social/post*
 
 See you Thursday! 🏓
 

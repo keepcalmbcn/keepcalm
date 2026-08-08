@@ -16,6 +16,6 @@ A quick note: the wider Keep Calm community runs in English so everyone can take
 
 We're a volunteer-run community with no commercial interest, just people who want to learn and meet others in good company.
 
-Head to keepcalm.fit to find the Languages WhatsApp group and see what's coming up next. Open to adults (18+).
+Head to keepcalm.fit/go/facebook/social/post to find the Languages WhatsApp group and see what's coming up next. Open to adults (18+).
 
 ---

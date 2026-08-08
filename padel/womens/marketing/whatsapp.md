@@ -16,7 +16,7 @@ Lots of women told us they wanted a friendly women-only place to start playing, 
 
 Part of Keep Calm, a not-for-profit English-speaking community in Barcelona.
 
-👉 Join the women's padel WhatsApp group at *keepcalm.fit* to see the next session!
+👉 Join the women's padel WhatsApp group at *keepcalm.fit/go/whatsapp/social/post* to see the next session!
 
 18+ only.
 

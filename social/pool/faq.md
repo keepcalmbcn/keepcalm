@@ -42,4 +42,4 @@ It varies - whoever picks it up each time chooses the venue and runs the night. 
 Yes - pool is a regular Keep Calm fixture, with the venue changing depending on who's organising. Watch the **Social WhatsApp group** for announcements.
 
 ## How do I join the Social WhatsApp group?
-Links are available at [keepcalm.fit](https://keepcalm.fit/).
+Links are available at [keepcalm.fit/go/whatsapp/social/post](https://keepcalm.fit/go/whatsapp/social/post).

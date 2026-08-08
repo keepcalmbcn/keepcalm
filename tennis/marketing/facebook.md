@@ -10,6 +10,6 @@ All levels are welcome, genuinely. We currently have players from complete begin
 
 We're part of Keep Calm, a not-for-profit sports community for English speakers in Barcelona. Everything is run by volunteers, and the whole thing is built around meeting people and having a good time - the sport is just the excuse.
 
-If you want to join, the best place to start is our website at keepcalm.fit, or find us on Instagram and Facebook as @keepcalmbarcelona. You can also just reply here and we'll point you in the right direction.
+If you want to join, the best place to start is our website at keepcalm.fit/go/facebook/social/post, or find us on Instagram and Facebook as @keepcalmbarcelona. You can also just reply here and we'll point you in the right direction.
 
 See you on court! 🎾

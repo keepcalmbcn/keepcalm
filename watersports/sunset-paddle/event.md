@@ -59,6 +59,6 @@ The latest event info is always available at: https://github.com/keepcalmbcn/kee
 
 | | |
 |---|---|
-| 🌍 Website | https://keepcalm.fit |
+| 🌍 Website | https://keepcalm.fit/go/whatsapp/social/post |
 | 📸 Instagram | https://www.instagram.com/keepcalmbarcelona/ |
 | 📘 Facebook | https://www.facebook.com/keepcalmbarcelona |

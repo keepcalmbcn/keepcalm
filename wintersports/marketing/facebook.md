@@ -10,4 +10,4 @@ The way it works is pretty relaxed. Someone in the group proposes a trip, others
 
 All levels are genuinely welcome. We've had complete beginners on their first day ever and people who ski every chance they get, all on the same trip. It's a social thing as much as a ski thing.
 
-If you're in Barcelona and you've been thinking about getting into skiing or snowboarding, or you already love it and just want people to go with, come find us. Join the WhatsApp group at keepcalm.fit and we'll see you on the slopes this winter. ⛷️🏔️
+If you're in Barcelona and you've been thinking about getting into skiing or snowboarding, or you already love it and just want people to go with, come find us. Join the WhatsApp group at keepcalm.fit/go/facebook/social/post and we'll see you on the slopes this winter. ⛷️🏔️

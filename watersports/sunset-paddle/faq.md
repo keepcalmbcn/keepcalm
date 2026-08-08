@@ -59,4 +59,4 @@ Keep Calm is 18+ for all events, no exceptions, regardless of any lower age allo
 This is the first one. If there's demand, more paddleboarding sessions or other water activities may follow, watch the **Watersports WhatsApp group** for announcements.
 
 ## How do I join the Watersports WhatsApp group?
-Links are available at [keepcalm.fit](https://keepcalm.fit/).
+Links are available at [keepcalm.fit/go/whatsapp/social/post](https://keepcalm.fit/go/whatsapp/social/post).

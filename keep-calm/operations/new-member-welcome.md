@@ -25,7 +25,7 @@ We're a not-for-profit community that organises weekly sports and social activit
 
 ### Step 1: Join a WhatsApp Group
 
-You've probably already done this! If not, find the sport you're interested in at [keepcalm.fit](https://keepcalm.fit) and join the WhatsApp group.
+You've probably already done this! If not, find the sport you're interested in at [keepcalm.fit/go/whatsapp/social/welcome](https://keepcalm.fit/go/whatsapp/social/welcome) and join the WhatsApp group.
 
 ### Step 2: Watch for the Poll
 
@@ -213,7 +213,7 @@ Great! Have them join the WhatsApp group and vote in the poll. Don't just show u
 
 ## Key Links
 
-- **Website**: [keepcalm.fit](https://keepcalm.fit)
+- **Website**: [keepcalm.fit/go/whatsapp/social/welcome](https://keepcalm.fit/go/whatsapp/social/welcome)
 - **Weekly Schedule**: [SCHEDULE.md](schedule.md)
 - **Rules**: [Rules.md](../rules/rules.md)
 - **Current Organisers**: [Organisers.md](../governance/organisers.md)

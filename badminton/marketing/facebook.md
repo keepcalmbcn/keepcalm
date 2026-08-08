@@ -12,4 +12,4 @@ The courts are indoor, so we play rain or shine. Typically €5-6 per person dep
 
 The community is volunteer-run and not-for-profit. It's also part of a wider Keep Calm network that runs football, padel, volleyball, hiking, ping pong, and other sports - so if badminton isn't your only thing, there's plenty more to explore.
 
-Adults only (18+). Find the join link and more info at keepcalm.fit - or drop a comment below if you have questions. See you on court! 🏸
+Adults only (18+). Find the join link and more info at keepcalm.fit/go/facebook/social/post - or drop a comment below if you have questions. See you on court! 🏸

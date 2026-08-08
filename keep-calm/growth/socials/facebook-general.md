@@ -2,7 +2,7 @@ English speaking sports & activities in Barcelona for all abilities 😎
 
 Hey - just moved to Barcelona? Or been here a while but still feel like you haven’t found your people?
 
-https://keepcalm.fit/ is a not-for-profit sports community for English speakers in Barcelona - no fees, no memberships, no one making money. Just a group of people who wanted an easy way to stay active and actually make real friends in the city.
+https://keepcalm.fit/go/facebook/social/post is a not-for-profit sports community for English speakers in Barcelona - no fees, no memberships, no one making money. Just a group of people who wanted an easy way to stay active and actually make real friends in the city.
 
 What’s on each week (all social, all levels welcome):
 
@@ -32,6 +32,6 @@ The real goal is helping people find their circle here - whether that’s someon
 If that sounds like something you need - come try one event this week. No pressure.
 
 👉 Join here;
-🌐 https://keepcalm.fit/
+🌐 https://keepcalm.fit/go/facebook/social/post
 📘 https://www.facebook.com/keepcalmbarcelona
 📸 https://www.instagram.com/keepcalmbarcelona/

@@ -10,6 +10,6 @@ You don't need to be into sport to join. The social side of Keep Calm is open to
 
 Everything is organised by volunteers, there's no membership fee, and it's been running for years because people actually enjoy it. The community is a mix of long-term expats, recent arrivals, and people who've been in Barcelona for decades - all welcome.
 
-If you want to get involved, head to keepcalm.fit to find the WhatsApp groups and see what's coming up. Or search Keep Calm Barcelona on Instagram or Facebook and say hello.
+If you want to get involved, head to keepcalm.fit/go/facebook/social/post to find the WhatsApp groups and see what's coming up. Or search Keep Calm Barcelona on Instagram or Facebook and say hello.
 
 Hope to see you at something soon!

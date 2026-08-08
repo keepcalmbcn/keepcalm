@@ -12,7 +12,7 @@ Whether you run regularly or just want to get back into it, come join us. Runs a
 
 📍 First run: *La Carretera de les Aigues* - Saturday 23rd May, 8:00am, Penitents metro
 
-👉 Join the WhatsApp group at *keepcalm.fit*
+👉 Join the WhatsApp group at *keepcalm.fit/go/whatsapp/social/post*
 
 All are welcome 🙌
 
