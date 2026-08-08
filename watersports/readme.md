@@ -22,13 +22,17 @@ See the current event below for whatever's happening next.
 
 ## Current Event
 
-**[Sunset Stand-Up Paddleboarding](sunset-paddle/event.md)** - Saturday 18th July 2026, 19:00, at Paddle Surf Brasil BCN, 20 spots, 15 euros per person.
+**[Sunset Stand-Up Paddleboarding #2](sunset-paddle-2/whatsapp-post.md)** - Sunday 9th August 2026, meet 19:30, at Paddle Surf Brasil BCN, 25 spots, 15 euros per person, organised by Ekin. Sign-up and payment via the announcement in the WhatsApp group.
 
 ## Past Events
 
 | Date | Activity | Venue | Organiser |
 |---|---|---|---|
-| [none yet - check back after 18th July] | | | |
+| 18 July 2026 | [Sunset stand-up paddleboarding](sunset-paddle/event.md) ([recap](sunset-paddle/recap.md)) | Paddle Surf Brasil BCN | Mitali |
+
+## Regular and Member-Led Activity
+
+Beyond the headline events, the group self-organises smaller outings - recent examples include a kayak day trip, a sailing afternoon from El Masnou, sunrise SUP meetups, and scuba/snorkelling day trips to the Costa Brava. Logistics for a specific outing move to a small temporary group, but everything is proposed and announced in the main Watersports group first - see [Organising in the Open](../keep-calm/rules/organising-in-the-open.md).
 
 ## Organiser
 
