@@ -43,6 +43,12 @@ Regular Tuesday evening tennis games at local courts.
 - **Where**: Up Pádel & Tennis Cornellà
 - **Cost**: €8 per person approx
 
+### 🏃 [Running](running/)
+Group runs around Barcelona at every pace, with a coffee after for anyone who fancies it.
+- **When**: Every Wednesday 18:00
+- **Where**: Varies (posted with each run)
+- **Cost**: Free
+
 ### 🥾 [Hiking](hiking/)
 Monthly hiking trips around Catalonia.
 - **When**: Monthly (usually Sundays)
