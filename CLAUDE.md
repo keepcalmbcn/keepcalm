@@ -23,6 +23,17 @@ This is a documentation and planning repository for "Keep Calm", a not-for-profi
 - If you are ever unsure whether something is private, treat it as private and ask the user before committing.
 - This applies to all content you write or edit too: never introduce private data into the repository.
 
+**Also: this working tree is shared across many Claude sessions**, not just
+this repo's own. Several fleet sessions (`kcbadminton`, `kcpingpong`,
+`kcwatersports`, `kchike`, `kcwinter`, and others) edit files directly in
+this checkout when their own docs live here. Before `git add -A` or any
+broad add, check that every modified file in `git status` is actually part
+of the work you did - `git diff <file>` on anything unfamiliar before
+staging it. Confirmed for real 2026-08-08: a routine "commit everything"
+request would have swept in an unrelated ping-pong poll-time fix another
+session made mid-edit, if `git status` hadn't been checked file-by-file
+first.
+
 ## Repository Structure
 
 The repository is organized by sport/activity type, with each having its own directory:

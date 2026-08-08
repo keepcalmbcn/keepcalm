@@ -31,6 +31,7 @@ Separately, arriving considerably late, leaving early, or not showing up at all 
 - **New players** pay in advance by **Bizum** (or Revolut on request) as soon as the roster's confirmed, not on the day
 - **Regulars** who've played with us **3 or more times** can pay cash on the day instead
 - Either way, pay promptly so the organiser isn't left chasing
+- When paying by Bizum, use the reference **Badminton DD/MM Firstname L** (session date + your name as it appears on that week's card) - e.g. `Badminton 14/08 Chris T` - so it's clear which session and player the payment is for
 
 ## 4. Level
 

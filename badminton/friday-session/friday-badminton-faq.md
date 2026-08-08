@@ -30,6 +30,8 @@ The Friday session is aimed at a **lower-intermediate** level, so it suits peopl
 ### How much does it cost and how do I pay?
 Cost varies by venue and how many courts get booked - **€5.50 per person at La Mar Bella**, **€6 per person at Vall d'Hebron** - covering the court hire and shuttlecocks. If you're new, Mel shares the exact amount and a **Bizum** number (Revolut on request) once the roster's confirmed - pay in advance, your spot is only secured once you've paid. If you've played with us **3 or more times before**, you can pay cash on the day instead.
 
+When paying by Bizum, use the reference **Badminton DD/MM Firstname L** (the session date plus your name as it appears on that week's card) - e.g. `Badminton 14/08 Chris T` - so whoever's collecting can match it to the right session and player.
+
 ### How many spots are there?
 It depends on how many courts Mel books that week, based on how many people sign up via the form - there's no fixed cap like a venue-run booking system would have.
 
